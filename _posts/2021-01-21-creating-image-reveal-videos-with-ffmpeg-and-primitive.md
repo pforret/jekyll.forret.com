@@ -18,8 +18,6 @@ tags:
   - primitive
   - video
 ---
-## @squaredforwork
-
 One of the projects I started during the lockdown is [@**squaredforwork**](https://www.instagram.com/squaredforwork/) which is now named &#8220;**Guess the movie?**&#8221; . It is based on years of experimenting with image manipulation and information reduction. Basically: how much visual information do you need to recognise a (familiar) image? I mostly worked with movie posters, since those are often universally recognisable images. Some examples of earlier tests might give you an idea (working with large square pixels here: [Pixel Movie Quiz](https://blog.forret.com/2020/05/07/making-the-pixel-movie-quiz/)):<figure class="wp-block-gallery columns-4 is-cropped">
 
 <ul class="blocks-gallery-grid">

@@ -21,15 +21,15 @@
 title: Peter Forret
 email: peter@forret.com
 description: because eloquence is ... like ... whatever
-baseurl: "https://blog2.forret.com/"
-url: "https://blog2.forret.com/"
+baseurl: "/"
+url: "/"
 twitter_username: pforret
 github_username:  pforret
 
 highlighter:      rouge
 permalink:        pretty
 
-paginate:         5
+paginate:         10
 
 author:
   name:           'Peter Forret'

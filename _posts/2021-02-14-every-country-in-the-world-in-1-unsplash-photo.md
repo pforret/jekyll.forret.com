@@ -240,6 +240,6 @@ It would be hard to choose a representative picture for a country like the USA, 
   </div>
 </div>
 
-
+## Conclusion
 
 I enjoyed this experiment and will be doing more in the future. In the meantime, if you want to easily work with photos (your own or those from Unsplash) on the command-line, check out [splashmark](https://github.com/pforret/splashmark) on Github!

@@ -10,16 +10,13 @@ spay_email:
   - ""
 image: /wp-content/uploads/2020/10/splashmark.jpg
 categories:
-  - scripting
-tags:
   - bash
+tags:
   - github
   - imagemagick
   - shell
   - unsplash
 ---
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="512" src="https://blog.forret.com/wp-content/uploads/2020/10/splashmark-1024x512.jpg" alt="" class="wp-image-2353" srcset="https://blog.forret.com/wp-content/uploads/2020/10/splashmark-1024x512.jpg 1024w, https://blog.forret.com/wp-content/uploads/2020/10/splashmark-300x150.jpg 300w, https://blog.forret.com/wp-content/uploads/2020/10/splashmark-768x384.jpg 768w, https://blog.forret.com/wp-content/uploads/2020/10/splashmark.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Photo: Alex Perez on Unsplash.com</figcaption></figure> 
-
 See this photo above here? It was created with one, albeit rather long, command line:
 
 <pre class="wp-block-code"><code>splashmark -w 1280 -c 640 \
