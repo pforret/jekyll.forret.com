@@ -18,6 +18,9 @@ tags:
   - unsplash
   - remix
 ---
+
+<img alt="splashmark" src="/wp-content/uploads/2020/10/splashmark.jpg" />
+
 See this photo above here? It was created with one, albeit rather long, command line:
 
 ```
@@ -28,12 +31,27 @@ splashmark -w 1280 -c 640 -i github.com/pforret/splashmark -j 50 \
 
 The **[splashmark](https://github.com/pforret/splashmark) script** searches for &#8220;splash&#8221; on Unsplash.com, downloads the first photo found, resizes it to 1280 pixels width, crops it to 640 pixels height, uses a &#8216;dark&#8217; and a &#8216;grain&#8217; filter, adds a big title in the middle and photo URL and Unsplash attribution in the corners, using the Google font Fira. It takes about 10 seconds,
 
-Another example?<figure class="wp-block-gallery columns-3 is-cropped">
-<img src="/wp-content/uploads/2020/10/bashew-1024x512.jpg" data-full-url="/wp-content/uploads/2020/10/bashew.jpg" data-link="https://blog.forret.com/2020/10/07/new-script-splashmark-easy-unsplash-image-markup-on-the-command-line/photo-shaun-low-on-unsplash-com/" class="wp-image-2357" srcset="https://blog.forret.com/wp-content/uploads/2020/10/bashew-1024x512.jpg 1024w, https://blog.forret.com/wp-content/uploads/2020/10/bashew-300x150.jpg 300w, https://blog.forret.com/wp-content/uploads/2020/10/bashew-768x384.jpg 768w, https://blog.forret.com/wp-content/uploads/2020/10/bashew.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="blocks-gallery-item__caption">Photo: Shaun Low on Unsplash.com
-<img src="/wp-content/uploads/2020/10/paris.jpg" data-full-url="/wp-content/uploads/2020/10/paris.jpg" data-link="https://blog.forret.com/2020/10/07/new-script-splashmark-easy-unsplash-image-markup-on-the-command-line/photo-cyril-mazarin-on-unsplash-com/" class="wp-image-2356" srcset="https://blog.forret.com/wp-content/uploads/2020/10/paris.jpg 800w, https://blog.forret.com/wp-content/uploads/2020/10/paris-300x90.jpg 300w, https://blog.forret.com/wp-content/uploads/2020/10/paris-768x230.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="blocks-gallery-item__caption">Photo: cyril mazarin on Unsplash.com
-<img src="/wp-content/uploads/2020/10/cocktail.jpg"  data-full-url="/wp-content/uploads/2020/10/cocktail.jpg" data-link="https://blog.forret.com/2020/10/07/new-script-splashmark-easy-unsplash-image-markup-on-the-command-line/photo-kobby-mendez-on-unsplash-com/" class="wp-image-2355" srcset="https://blog.forret.com/wp-content/uploads/2020/10/cocktail.jpg 720w, https://blog.forret.com/wp-content/uploads/2020/10/cocktail-300x167.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption class="blocks-gallery-item__caption">Photo: Kobby Mendez on Unsplash.com
-<img src="/wp-content/uploads/2020/10/steak.gif" data-full-url="/wp-content/uploads/2020/10/steak.gif" data-link="https://blog.forret.com/2020/10/07/new-script-splashmark-easy-unsplash-image-markup-on-the-command-line/steak/" class="wp-image-2354" />
-<img src="/wp-content/uploads/2020/07/setver-1024x512.jpg" data-full-url="/wp-content/uploads/2020/07/setver.jpg" data-link="https://blog.forret.com/2020/07/31/package-version-management-with-semver-sh/photo-markus-winkler-on-unsplash-com/" class="wp-image-2359" srcset="https://blog.forret.com/wp-content/uploads/2020/07/setver-1024x512.jpg 1024w, https://blog.forret.com/wp-content/uploads/2020/07/setver-300x150.jpg 300w, https://blog.forret.com/wp-content/uploads/2020/07/setver-768x384.jpg 768w, https://blog.forret.com/wp-content/uploads/2020/07/setver.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="blocks-gallery-item__caption">Photo: Markus Winkler on Unsplash.com
+Another example?
+
+<img src="/wp-content/uploads/2020/10/bashew-1024x512.jpg" />
+
+Photo: Shaun Low on Unsplash.com
+
+<img src="/wp-content/uploads/2020/10/paris.jpg"  />
+
+Photo: cyril mazarin on Unsplash.com
+
+<img src="/wp-content/uploads/2020/10/cocktail.jpg" />
+
+Photo: Kobby Mendez on Unsplash.com
+
+<img src="/wp-content/uploads/2020/10/steak.gif"  />
+
+Photo: Chad Montano on Unsplash.com
+
+<img src="/wp-content/uploads/2020/07/setver-1024x512.jpg" />
+
+Photo: Markus Winkler on Unsplash.com
 
 I developed splashmark because I needed a different picture for each page of a site I was building, 
 and I found myself doing too many steps for each photo. 
