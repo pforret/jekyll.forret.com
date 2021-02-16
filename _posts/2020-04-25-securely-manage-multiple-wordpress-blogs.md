@@ -23,7 +23,7 @@ First of all, you absolutely need a WP Site Manager application like [InfiniteWP
 
 Put your Site Manager on a separate `[subdomain].[yourdomain.com]`&#8216;. Then install the client plugin on **each of your WP blogs** and add them to your repository of managed blogs. Add them **all**, because one forgotten &#8216;_it was just for testing_&#8216; WordPress blog can be the weakest link that allows a hacker to infect all your other blogs on that server.<figure class="wp-block-image size-large">
 
-<img  width="1024" height="615" src="https://blog.forret.com/wp-content/uploads/2020/04/iwp3_overview-1024x615.png" alt="InfiniteWP dashboard interface" class="wp-image-2166" srcset="https://blog.forret.com/wp-content/uploads/2020/04/iwp3_overview-1024x615.png 1024w, https://blog.forret.com/wp-content/uploads/2020/04/iwp3_overview-300x180.png 300w, https://blog.forret.com/wp-content/uploads/2020/04/iwp3_overview-768x462.png 768w, https://blog.forret.com/wp-content/uploads/2020/04/iwp3_overview.png 1421w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption>InfiniteWP Dashboard Interface</figcaption>  
+<img  width="1024" height="615" src="https://blog.forret.com/wp-content/uploads/2020/04/iwp3_overview-1024x615.png" alt="InfiniteWP dashboard interface" class="wp-image-2166" srcset="https://blog.forret.com/wp-content/uploads/2020/04/iwp3_overview-1024x615.png 1024w, https://blog.forret.com/wp-content/uploads/2020/04/iwp3_overview-300x180.png 300w, https://blog.forret.com/wp-content/uploads/2020/04/iwp3_overview-768x462.png 768w, https://blog.forret.com/wp-content/uploads/2020/04/iwp3_overview.png 1421w" sizes="(max-width: 1024px) 100vw, 1024px" />  InfiniteWP Dashboard Interface</figcaption>  
 
 ## Indispensable WP security plugins
 

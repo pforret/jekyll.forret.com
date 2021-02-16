@@ -25,7 +25,7 @@ België gaat door zijn tweede lockdown voor het ogenblik. Alle cafés en restaur
 
 Uit solidariteit, en omdat we allemaal willen dat de horeca er nog is na de lockdown, is het een goed idee voor iedereen om regelmatig (1 keer per week bijvoorbeeld) eten te bestellen bij een professional, takeaway of delivery, en door die bourgondische daad ook de lokale horeca een stuk te helpen. _Maar waar zijn al die restaurants die toch nog eten kunnen maken voor bij u thuis?_ Wel, daar heb ik nu een antwoord op!<figure class="wp-block-image size-large">
 
-[<img  width="900" height="450" src="https://blog.forret.com/wp-content/uploads/2020/10/social.jpg" alt="" class="wp-image-2374" srcset="https://blog.forret.com/wp-content/uploads/2020/10/social.jpg 900w, https://blog.forret.com/wp-content/uploads/2020/10/social-300x150.jpg 300w, https://blog.forret.com/wp-content/uploads/2020/10/social-768x384.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />](https://horeca.unlockdown.be/)<figcaption>Photo: Stefan Vladimirov on Unsplash.com</figcaption>  
+[<img  width="900" height="450" src="https://blog.forret.com/wp-content/uploads/2020/10/social.jpg" alt="" class="wp-image-2374" srcset="https://blog.forret.com/wp-content/uploads/2020/10/social.jpg 900w, https://blog.forret.com/wp-content/uploads/2020/10/social-300x150.jpg 300w, https://blog.forret.com/wp-content/uploads/2020/10/social-768x384.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />](https://horeca.unlockdown.be/) Photo: Stefan Vladimirov on Unsplash.com</figcaption>  
 
 ## [horeca.unlockdown.be](https://horeca.unlockdown.be/)
 

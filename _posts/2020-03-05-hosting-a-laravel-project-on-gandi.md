@@ -52,7 +52,7 @@ _<img  width="1008" height="301" class="wp-image-2119" style="width: 500px;" src
   * edit the .env file to use the correct database, set the app to &#8216;prod&#8217; etc
   * open app.example.com in your browser<figure class="wp-block-image size-full">
 
-<img  width="950" height="735" src="https://blog.forret.com/wp-content/uploads/2020/03/LaravelDefault.png" alt="" class="wp-image-2118" srcset="https://blog.forret.com/wp-content/uploads/2020/03/LaravelDefault.png 950w, https://blog.forret.com/wp-content/uploads/2020/03/LaravelDefault-300x232.png 300w, https://blog.forret.com/wp-content/uploads/2020/03/LaravelDefault-768x594.png 768w" sizes="(max-width: 950px) 100vw, 950px" /> <figcaption>Tada!</figcaption>  
+<img  width="950" height="735" src="https://blog.forret.com/wp-content/uploads/2020/03/LaravelDefault.png" alt="" class="wp-image-2118" srcset="https://blog.forret.com/wp-content/uploads/2020/03/LaravelDefault.png 950w, https://blog.forret.com/wp-content/uploads/2020/03/LaravelDefault-300x232.png 300w, https://blog.forret.com/wp-content/uploads/2020/03/LaravelDefault-768x594.png 768w" sizes="(max-width: 950px) 100vw, 950px" />  Tada!</figcaption>  
 
 ### Deploy with git &#8211; bash script
 

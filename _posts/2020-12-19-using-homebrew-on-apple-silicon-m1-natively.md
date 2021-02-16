@@ -20,7 +20,7 @@ tags:
 ---
 After reading all the raving reviews online about the new Apple M1-based Mac computers, and after losing too much time with my overheating MacBook Pro 2013 that&#8217;s on its last legs, I caved and bought a Mac Mini M1. <figure class="wp-block-image size-large">
 
-[<img  width="1000" height="500" src="https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini.jpg" alt="" class="wp-image-2397" srcset="https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini.jpg 1000w, https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini-300x150.jpg 300w, https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini-768x384.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" />](https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini.jpg)<figcaption>Apple MAC MINI 2020</figcaption>  
+[<img  width="1000" height="500" src="https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini.jpg" alt="" class="wp-image-2397" srcset="https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini.jpg 1000w, https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini-300x150.jpg 300w, https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini-768x384.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" />](https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini.jpg) Apple MAC MINI 2020</figcaption>  
 
 ## &#x2611;&#xfe0f; Apple 30&#8243; Cinema display (2013)
 

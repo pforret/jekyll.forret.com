@@ -34,12 +34,12 @@ First the basics: a [QR code](https://en.wikipedia.org/wiki/QR_code) is a 2-dime
 
 What I have developed is: an animated series of different QR-encoded URLs, changing slow enough that a simple QR reader (like your smartphone camera) will recognise them most of the time but fast enough that you can&#8217;t really be sure which one you&#8217;re going to get when you click the URL. Hence: **QR Roulette**!<figure class="wp-block-image size-large">
 
-<img  width="800" height="800" src="https://blog.forret.com/wp-content/uploads/2020/05/YT.f14a54.animated.gif" alt="" class="wp-image-2212" /> <figcaption>QR Roulette &#8211; all Youtube videos!</figcaption>  
+<img  width="800" height="800" src="https://blog.forret.com/wp-content/uploads/2020/05/YT.f14a54.animated.gif" alt="" class="wp-image-2212" />  QR Roulette &#8211; all Youtube videos!</figcaption>  
 
 In the above example, all the URLs are Youtube URLs. An iPhone needs up to a second to &#8216;find&#8217; a QR code and the different codes are changing at 2x/second, So there is no telling which one you will get.
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-medium"><img  width="259" height="300" src="https://blog.forret.com/wp-content/uploads/2020/05/IMG_6126-259x300.jpg" alt="" class="wp-image-2214" srcset="https://blog.forret.com/wp-content/uploads/2020/05/IMG_6126-259x300.jpg 259w, https://blog.forret.com/wp-content/uploads/2020/05/IMG_6126-883x1024.jpg 883w, https://blog.forret.com/wp-content/uploads/2020/05/IMG_6126-768x890.jpg 768w, https://blog.forret.com/wp-content/uploads/2020/05/IMG_6126.jpg 1125w" sizes="(max-width: 259px) 100vw, 259px" /><figcaption>A QR code being recognized</figcaption> 
+  <figure class="aligncenter size-medium"><img  width="259" height="300" src="https://blog.forret.com/wp-content/uploads/2020/05/IMG_6126-259x300.jpg" alt="" class="wp-image-2214" srcset="https://blog.forret.com/wp-content/uploads/2020/05/IMG_6126-259x300.jpg 259w, https://blog.forret.com/wp-content/uploads/2020/05/IMG_6126-883x1024.jpg 883w, https://blog.forret.com/wp-content/uploads/2020/05/IMG_6126-768x890.jpg 768w, https://blog.forret.com/wp-content/uploads/2020/05/IMG_6126.jpg 1125w" sizes="(max-width: 259px) 100vw, 259px" /> A QR code being recognized</figcaption> 
 </div>
 
 ### Toolchain
