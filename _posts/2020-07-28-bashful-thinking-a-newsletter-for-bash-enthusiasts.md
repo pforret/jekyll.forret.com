@@ -21,7 +21,7 @@ I&#8217;ve decided to start a new email newsletter about my favourite tech topic
 
 [**https://www.getrevue.co/profile/bashful**](https://www.getrevue.co/profile/bashful)<figure class="wp-block-image size-large">
 
-<img  width="614" height="379" src="https://blog.forret.com/wp-content/uploads/2020/07/image.png" alt="" class="wp-image-2327" srcset="https://blog.forret.com/wp-content/uploads/2020/07/image.png 614w, https://blog.forret.com/wp-content/uploads/2020/07/image-300x185.png 300w" sizes="(max-width: 614px) 100vw, 614px" />  Newsletter header</figcaption>  
+<img  width="614" height="379" src="https://blog.forret.com/wp-content/uploads/2020/07/image.png" alt="" class="wp-image-2327" srcset="https://blog.forret.com/wp-content/uploads/2020/07/image.png 614w, https://blog.forret.com/wp-content/uploads/2020/07/image-300x185.png 300w" sizes="(max-width: 614px) 100vw, 614px" />  Newsletter header   
 
 Whether you&#8217;re of the level
 

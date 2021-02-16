@@ -20,7 +20,7 @@ tags:
 ---
 After reading all the raving reviews online about the new Apple M1-based Mac computers, and after losing too much time with my overheating MacBook Pro 2013 that&#8217;s on its last legs, I caved and bought a Mac Mini M1. <figure class="wp-block-image size-large">
 
-[<img  width="1000" height="500" src="https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini.jpg" alt="" class="wp-image-2397" srcset="https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini.jpg 1000w, https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini-300x150.jpg 300w, https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini-768x384.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" />](https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini.jpg) Apple MAC MINI 2020</figcaption>  
+[<img  width="1000" height="500" src="https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini.jpg" alt="" class="wp-image-2397" srcset="https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini.jpg 1000w, https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini-300x150.jpg 300w, https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini-768x384.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" />](https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini.jpg) Apple MAC MINI 2020   
 
 ## &#x2611;&#xfe0f; Apple 30&#8243; Cinema display (2013)
 
@@ -36,7 +36,8 @@ For that, I needed to get the [Homebrew package manager](https://brew.sh/) runni
 
 Running it is as easy as:
 
-<pre  ><code>$ &lt;strong>.&lt;/strong>/m1_homebrew install
+```
+$ &lt;strong>.&lt;/strong>/m1_homebrew install
 Program: m1_homebrew.sh 1.3.0
 &#x2714;  MacOS version = 11.1
 &#x2714;  Script running in arm64 mode
@@ -52,23 +53,29 @@ Create folder share/zsh/site-functions
 Create folder Caskroom
 &#x2714;  All files moved to /opt/homebrew                           
 HOMEBREW_VERSION: 2.7.0-24-g53ef74f
-Script finished after 84 seconds</code></pre>
+Script finished after 84 seconds
+```
 
 ## &#x1f91e; brew install &#8211;build-from-source
 
 After installation, running `brew install` will give you warnings and will often not be able to install the packages, because there are no pre-built casks for Apple Silicon yet.
 
-<pre  ><code>Warning: You are running macOS on a arm64 CPU architecture.
+```
+Warning: You are running macOS on a arm64 CPU architecture.
 We do not provide support for this (yet).
 Reinstall Homebrew under Rosetta 2 until we support it.
 You will encounter build failures with some formulae.
-Please create pull requests instead of asking for help on Homebrew's GitHub, Twitter or any other official channels. You are responsible for resolving any issues you experience while you are running this unsupported configuration.</code></pre>
+Please create pull requests instead of asking for help on Homebrew's GitHub, Twitter or any other official channels. 
+You are responsible for resolving any issues you experience while you are running this unsupported configuration.
+```
 
 Still, you can tell brew to install from source code, and compile on your machine by using `brew install --build-from-source` (or shorter: `brew install -s`). For small packages like `awk`, this will do the job. For large packages with lots of dependencies like `ffmpeg`, brew will stop for lack of _bottles_.
 
-<pre  ><code>Error: &#91;some package]: no bottle available!
+```
+Error: &#91;some package]: no bottle available!
 You can try to install from source with e.g.
-brew install --build-from-source &#91;some package]</code></pre>
+brew install --build-from-source &#91;some package]
+```
 
 ## &#x2611;&#xfe0f; native imagemagick
 

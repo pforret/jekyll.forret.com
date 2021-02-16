@@ -21,7 +21,7 @@ I am doing some really cool research lately concerning video conversion and one 
 
 First of all: we&#8217;re talking about two different imaging technologies: the &#8216;real&#8217; thermographic cameras measure only infra-red (not visible) light, are very precise, expensive and are created by companies like [FLIR](http://www.flir.com/). They make the cameras that you might have seen in [CSI](http://www.youtube.com/watch?v=o0eU-jR-POg). <figure class="wp-block-image size-large">
 
-<img  width="500" height="377" src="http://blog.forret.com/wp-content/uploads/2013/11/example_flir1.jpg" alt="" class="wp-image-1342" srcset="https://blog.forret.com/wp-content/uploads/2013/11/example_flir1.jpg 500w, https://blog.forret.com/wp-content/uploads/2013/11/example_flir1-300x226.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />  Example of a &#8216;real&#8217; thermographic image</figcaption>  
+<img  width="500" height="377" src="http://blog.forret.com/wp-content/uploads/2013/11/example_flir1.jpg" alt="" class="wp-image-1342" srcset="https://blog.forret.com/wp-content/uploads/2013/11/example_flir1.jpg 500w, https://blog.forret.com/wp-content/uploads/2013/11/example_flir1-300x226.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />  Example of a &#8216;real&#8217; thermographic image   
 
 On the other hand, you have the cheaper webcam/IP-cam devices that have &#8216;night-vision&#8217;. This means that, in addition to all visible light, the cameras are also sensitive to a part of the IR spectrum, and with some additional IR-lighting, one is capable of seeing in very dark places. They produce B/W images or colour, but then sometimes they show green grass as a bit purple/pink. 
 
@@ -36,7 +36,7 @@ I find some inspiration from a guy who did something similar with ImageMagick. T
 
 I use the &#8216;curves&#8217; filter and try first with really strong contrast colours:<figure class="wp-block-image size-large is-resized">
 
-<img  src="http://blog.forret.com/wp-content/uploads/2013/11/thermo1_0061.png" alt="" class="wp-image-1344" width="480" height="360" srcset="https://blog.forret.com/wp-content/uploads/2013/11/thermo1_0061.png 480w, https://blog.forret.com/wp-content/uploads/2013/11/thermo1_0061-300x225.png 300w" sizes="(max-width: 480px) 100vw, 480px" />  Trial 1: strong color contrast</figcaption>  
+<img  src="http://blog.forret.com/wp-content/uploads/2013/11/thermo1_0061.png" alt="" class="wp-image-1344" width="480" height="360" srcset="https://blog.forret.com/wp-content/uploads/2013/11/thermo1_0061.png 480w, https://blog.forret.com/wp-content/uploads/2013/11/thermo1_0061-300x225.png 300w" sizes="(max-width: 480px) 100vw, 480px" />  Trial 1: strong color contrast   
 
 **SECOND TRY**  
 The color scheme is kind of OK,&nbsp;but we lose a lot of detail (the cats become hard to distinguish). So then I try a more gradual approach: <figure class="wp-block-image size-large">

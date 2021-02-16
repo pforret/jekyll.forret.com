@@ -25,13 +25,13 @@ When I started working with my Mac Mini M1, I felt it was faster, but I couldn&#
 
 For my first benchmark, I take a large photo from Unsplash ([Landscape by David Marcu](https://unsplash.com/photos/o0RZkkL072U), 4288&#215;2848) and prepare a low-res, B/W version of it, and then use `ffmpeg` to create a cross-fade MP4 from the low res to the hi-res photo, a 5 seconds movie at 10 fps. That is 50 frames of 12 megapixels. This takes a Mac Mini M1 about 75 seconds.<figure class="wp-block-image size-large">
 
-[<img  width="600" height="400" src="https://blog.forret.com/wp-content/uploads/2021/01/xfade.gif" alt="" class="wp-image-2411" />](https://blog.forret.com/wp-content/uploads/2021/01/xfade.gif) low-res GIF of the actual MP4 that is rendered through ffmpeg</figcaption>  
+[<img  width="600" height="400" src="https://blog.forret.com/wp-content/uploads/2021/01/xfade.gif" alt="" class="wp-image-2411" />](https://blog.forret.com/wp-content/uploads/2021/01/xfade.gif) low-res GIF of the actual MP4 that is rendered through ffmpeg   
 
 ## Benchmark 2: primitive
 
 [fogleman/primitive](https://github.com/fogleman/primitive/) is a cool Go package that reduces a picture to N primitive shapes. I use it often (e.g. [instagram](https://www.instagram.com/squaredforwork/)[.com/squaredforwork](https://www.instagram.com/squaredforwork)) because I like to experiment with how much information your brain needs to recognize familiar images. It also is very CPU intensive, certainly when you create a GIF movie where a shape is added every frame. It takes the Mac Mini M1 almost 100 seconds to generate the GIF sequence.<figure class="wp-block-image size-large">
 
-[<img  width="600" height="400" src="https://blog.forret.com/wp-content/uploads/2021/01/primlow.gif" alt="" class="wp-image-2412" />](https://blog.forret.com/wp-content/uploads/2021/01/primlow.gif) low-res GIF of the actual sequence that is rendered through primitive</figcaption>  
+[<img  width="600" height="400" src="https://blog.forret.com/wp-content/uploads/2021/01/primlow.gif" alt="" class="wp-image-2412" />](https://blog.forret.com/wp-content/uploads/2021/01/primlow.gif) low-res GIF of the actual sequence that is rendered through primitive   
 
 ## Running the benchmarks
 
