@@ -1,12 +1,10 @@
 ---
-id: 2126
 title: github.com/pforret
-date: 2020-04-06T20:01:18+02:00
 author: Peter
 layout: page
-guid: https://blog.forret.com/?page_id=2126
 ---
-<figure class="wp-block-image size-large">![](https://github-readme-stats.vercel.app/api?username=pforret&show_icons=1&count_private=true&hide_border=1)</figure> 
+
+![](https://github-readme-stats.vercel.app/api?username=pforret&show_icons=1&count_private=true&hide_border=1)
 
 Some of my more popular projects on [Github](https://github.com/pforret)
 
@@ -18,4 +16,3 @@ Some of my more popular projects on [Github](https://github.com/pforret)
   * [**crontask**](https://github.com/pforret/crontask): script for using in cron/scheduled tasks with healthchecks.io and zapier.com integration (bash)
   * [**winadmin**](https://github.com/pforret/WinAdmin): a collection of Windows tools for sysadmins, e.g. to clean up folders &#8211; _WaRmZip_, calculate throughput &#8211; _waTimer, &#8230;_ (cscript)
 
-[siblings]

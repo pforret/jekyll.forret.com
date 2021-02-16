@@ -7,8 +7,9 @@ layout: post
 guid: http://blog.forret.com/2006/12/five-things-you-probably-dont-know-about-me/
 permalink: /2006/12/17/five-things-you-probably-dont-know-about-me/
 categories:
-  - Uncategorized
+  - personal
 ---
+
 [<img loading="lazy" style="float: right" src="http://static.flickr.com/136/320351299_0055363df6_m.jpg" width="160" height="240" alt="Tom &#038; Andrea" />](http://www.flickr.com/photos/pforret/320351299/ "Photo Sharing")At the awesome LeWeb3 party at Paris Bodega, I took some pictures of [Tom](http://www.tomrafteryit.net/) while he was dancing (not that hard, as he practically didn&#8217;t stand still the whole night). At some point he was showing off some steps with a [lovely girl](http://andreaweckerlecopywriting.typepad.com/new_millennium_pr/2006/12/the_five_things.html), I put a [picture of them](http://www.flickr.com/photos/pforret/320351299/) on Flickr and now she tagged me with a meme. Ouch!  
 So [Andrea](http://andreaweckerlecopywriting.typepad.com/new_millennium_pr/2006/12/the_five_things.html), (via [Susan](http://getgood.typepad.com/getgood_strategic_marketi/2006/12/five_things_you.html), [Mary](http://www.maryschmidt.com/2006/12/12/five-ten-things-you-dont-know/) and so on), here I go: _Five things you probably don&#8217;t know about me_.
 

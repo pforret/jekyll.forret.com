@@ -1,10 +1,7 @@
 ---
-id: 340
 title: Curriculum Vitae
-date: 2006-06-05T14:30:34+02:00
 author: Peter
 layout: page
-guid: http://blog.forret.com/about/curriculum-vitae/
 ---
 ### Objectives
 

@@ -17,7 +17,7 @@ tags:
   - research
   - script
   - shell
-  - splashmark
+  - splashmark 
   - unsplash
 ---
 I wanted to demonstrate the power of my <a href="https://blog.forret.com/2020/10/07/new-script-splashmark-easy-unsplash-image-markup-on-the-command-line/" data-type="post" data-id="2352"><strong>splashmark</strong></a> image markup script and did the following experiment:
