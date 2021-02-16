@@ -1,0 +1,21 @@
+---
+id: 127
+title: 'LovePangs &#8211; Pain-Rage-Resent-Over'
+date: 2005-02-13T10:58:00+01:00
+author: Peter
+layout: post
+guid: http://peter.smoothouse.com/2005/02/13/lovepangs-pain-rage-resent-over/
+permalink: /2005/02/13/lovepangs-pain-rage-resent-over/
+categories:
+  - Society
+---
+![](http://www.lovepangs.com/gfx/level_pain.gif)![](http://www.lovepangs.com/gfx/level_rage.gif)![](http://www.lovepangs.com/gfx/level_resent.gif)![](http://www.lovepangs.com/gfx/level_over.gif)  
+Anyone knows what a &#8220;Love Pain Congress&#8221; is? Neither did I, so I yesterday I went to [LovePangs](http://www.lovepangs.com) in Ghent.
+
+When you get in, you are screened by the &#8220;Pain Commission&#8221; to see in what stage of the process you are: [Pain, Rage, Resent or Over](http://www.lovepangs.com/nl/gent_congress_painlevels.html). I got the black &#8216;OVER&#8217; badge, because actually, yes, I&#8217;m over it. You also get 20 Pain Euro that you can use later in the event. The most important part of the Congress are the one-on-one conversations you can have with [&#8216;pain experts&#8217;](http://www.lovepangs.com/nl/gent_congress_tablesociety_details.html). These are an mix of 25 well-known (Jos Geysels, Pascale Platel) and lesser known people that you can have a 30-minutes conversation with on some aspect of love, pain, regret, guilt, &#8230; you name it. These experts also belong to one of the 4 groups mentioned above, and you can only book a time slot with a person of your colour. If you want to, you can however use your pain euros to [sell your badge and buy one of another colour at the &#8220;Pain Stockmarket&#8221;](http://www.lovepangs.com/nl/gent_congress_painstocks.html) (in some cases, you get paid for this, in other cases you need to pay: supply and demand and all that jazz). There was also some [karaoke theatre](http://www.lovepangs.com/nl/gent_congress_karaoke.html) going on, but I never got to that.
+
+<img height="150" src="http://www.pixagogo.com/S5vpfnjbBPdPm9boN2yRU!NK8RGPaaruJ7wO7EieM9qCAeXRPCoflkKJv!Przy40Y9cdZF2VNyVgjJSPgDuiQ4p5K8XNUIS3IXn4ehJRvlZk7AJkRrfJRcykL2yDnHi9NJHg4wTRtPK64nQULoNmWZlQ__/mieke_debruyne.jpg" alt="Mieke Debruyne" /> So how did it go for me: I got in and booked a &#8216;black&#8217; date with [Mieke Debruyne, journalist](http://www.standaard.be/Archief/columns/index.asp?dosID=256) (on &#8220;missed opportunities&#8221; &#8211; how prophetic this would be) and another &#8216;black&#8217; one with Mieke Deley &#8211; dancer (on &#8220;guilt&#8221; &#8211; no picture, sorry). At 21h30 I got asked to fill in a vacant spot, but that turned out to be double booked. At 22h00 I was supposed to have my conversation with Mieke Deley, but since our table was double booked, we waited for 15 minutes and then just started talking while sitting on the ground in a corner. The conversation was great fun, we lost track of time and since no one told us our time slot was over, I only got to Mieke Debruyne 20 minutes late, at which point she was already talking to some one else. The organisation was rather clueless (yes, using Excel sheets can be something of a black art). When I asked to maybe book Ms Debruyne at a later time, the lady in question seemed to have disappeared. But since talking to Mieke-the-dancer was so much fun anyway, we told every one of the Love Pain hostesses who interrupted us &#8211; and there were quite some &#8211; that we just started our session, which gave us a load of free drinks, half a dozen of different locations and about 2 hours of off-and-on sparkling and very open conversation. 
+
+End conclusion: there&#8217;s still some work in the details, but the idea is brilliant. The general mood amongst visitors is something between openheartedness, amusement and genuine interest in what&#8217;s going on in the minds and hearts of the other person. That goes for most of the conversations I had that night, not only the 1 &#8216;pain expertise&#8217; that I managed to arrange.
+
+If there is a new edition in 2006, I&#8217;ll be there! Oh, and if Mieke Debruyne would be so kind to drop me a line so we can finally have that session, I&#8217;d be so grateful.
