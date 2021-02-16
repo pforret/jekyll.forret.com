@@ -1,6 +1,5 @@
 ---
-title: github.com/pforret
-author: Peter
+title: Github
 layout: page
 ---
 
