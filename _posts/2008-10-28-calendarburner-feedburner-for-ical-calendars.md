@@ -16,7 +16,7 @@ tags:
   - feedburner
   - ical
 ---
-<img loading="lazy" class="alignright" style="float: right;" src="http://www.bgtango.com/wp-content/uploads/2008/10/tango-calendar-300x171.png" alt="" width="300" height="171" /> I am currently using my experience with [milonga.be](http://www.milonga.be) to build a similar site for [Tango in Bulgaria](http://www.bgtango.com). One of the major components of the site is the [tango calendar](http://www.bgtango.com/en/calendar/). In this case I have chosen not to use a special iCal visualisation tool (more on that later in a series posts on Tango2.0), but just the standard [Google Calendar](http://www.google.com/calendar/) IFRAME-based widget.
+<img  class="alignright" style="float: right;" src="http://www.bgtango.com/wp-content/uploads/2008/10/tango-calendar-300x171.png" alt="" width="300" height="171" /> I am currently using my experience with [milonga.be](http://www.milonga.be) to build a similar site for [Tango in Bulgaria](http://www.bgtango.com). One of the major components of the site is the [tango calendar](http://www.bgtango.com/en/calendar/). In this case I have chosen not to use a special iCal visualisation tool (more on that later in a series posts on Tango2.0), but just the standard [Google Calendar](http://www.google.com/calendar/) IFRAME-based widget.
 
 It&#8217;s not a bad widget, but it&#8217;s too limited. You can only display &#8220;Day/Week/Month/Agenda&#8221; style, the colors and fonts are fixed and it does funny stuff for events that continue after 12:00AM (which tango events regularly do, believe me).
 

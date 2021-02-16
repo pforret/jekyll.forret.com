@@ -29,7 +29,7 @@ To check some of those things, I needed to read and interpret the RSS feed by ha
   * #3: feed items have audio enclosure (but not all, as you see in the image below. The reason is that two enclosures are wrongly specified as `text/html` instead of `audio/mpeg`.)
   * #4: the audio enclosure (MP3 file) exists and can be reached
 
-[<img loading="lazy" border="0" width="470" src="http://static.flickr.com/37/77187539_e2195dfd9c.jpg" alt="podcast feed validator" height="500" />](http://www.flickr.com/photos/pforret/77187539/ "Photo Sharing")  
+[<img  border="0" width="470" src="http://static.flickr.com/37/77187539_e2195dfd9c.jpg" alt="podcast feed validator" height="500" />](http://www.flickr.com/photos/pforret/77187539/ "Photo Sharing")  
 So the enhancements for this feed would be: make sure all enclosures have the right type, and provide iTunes meta data. Better still: use [Feedburner](http://www.feedburner.com) to get that and more: subscriber statistics and lots of feed tools.
 
 Try it out for yourself:  

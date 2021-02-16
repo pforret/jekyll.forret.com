@@ -20,7 +20,7 @@ tags:
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
 <div class="wp-block-embed__wrapper">
-</div></figure> 
+</div>  
 
 I know, there are so many &#8216;funny&#8217; videos you just have to share with your friends. So you send them an email. But for god&#8217;s sake, not with a 5MB movie in attachment! For all you know, he/she might not even be able to play that MOV/WMV/XVid movie anyway. **Don&#8217;t send a movie, send a link!**
 

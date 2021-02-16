@@ -13,7 +13,7 @@ categories:
 
 I just spent 2 days at the [LesBlogs conference in Paris](http://lesblogs.typepad.com), organised by [Loïc Lemeur](http://www.loiclemeur.com)/[SixApart](http://www.sixapart.com/) Europe. A gathering of geeks, entrepreneurs, venture capitalists and web architects, focused on &#8220;Blogs 2.0&#8221;. Days filled with speeches, panels, chats, networking lunch, dinner and drinks, sometimes dull, sometimes highly amusing and generally quite interesting.  
 Why not throw everything into a meme-map (Web 2.0 style):  
-[<img loading="lazy" src="http://static.flickr.com/18/71190604_869bff0e45.jpg" border="0" width="500" height="416" alt="LesBlogs Paris Meme-Map" />](http://www.flickr.com/photos/pforret/71190604/ "LesBlogs Paris Mememap")
+[<img  src="http://static.flickr.com/18/71190604_869bff0e45.jpg" border="0" width="500" height="416" alt="LesBlogs Paris Meme-Map" />](http://www.flickr.com/photos/pforret/71190604/ "LesBlogs Paris Mememap")
 
 ### What I liked
 

@@ -16,7 +16,7 @@ Let&#8217;s see what this would buy you in the (Belgian) [Apple store](http://ww
 
 ### Pimped-out MacBook Pro
 
-[<img loading="lazy" style="float: right" src="http://farm2.static.flickr.com/1125/576089159_99f4710644_m.jpg" width="240" height="150" alt="MacBook Pro" />](http://www.flickr.com/photos/pforret/576089159/ "Photo Sharing") 
+[<img  style="float: right" src="http://farm2.static.flickr.com/1125/576089159_99f4710644_m.jpg" width="240" height="150" alt="MacBook Pro" />](http://www.flickr.com/photos/pforret/576089159/ "Photo Sharing") 
 
 > 2,4-GHz Intel Core 2 Duo  
 > 4 GB 667 DDR2 SDRAM  
@@ -34,7 +34,7 @@ Let&#8217;s now compare that to a fully expanded Dell Precision portable worksta
 
 ### Pimped-out Dell Precision M90
 
-[<img loading="lazy" style="float: right" src="http://farm2.static.flickr.com/1271/575898270_b886af335d_m.jpg" width="240" height="190" alt="precision_m90" />](http://www.flickr.com/photos/pforret/575898270/ "Photo Sharing") 
+[<img  style="float: right" src="http://farm2.static.flickr.com/1271/575898270_b886af335d_m.jpg" width="240" height="190" alt="precision_m90" />](http://www.flickr.com/photos/pforret/575898270/ "Photo Sharing") 
 
 > Intel® Core™2 Duo T7600 (2,33 GHz 4 MB L2-cache 667 MHz FSB)  
 > 4 GB 667 MHz DDR2 SDRAM  
@@ -52,7 +52,7 @@ Which will set you back &#8230; 3280 euro. Or wait, try this:
 
 ### Pimped-out Dell Inspiron XPS M1710
 
-[<img loading="lazy" style="float: right" src="http://farm2.static.flickr.com/1002/575898406_89f1d9ccb1_m.jpg" width="240" height="240" alt="dell_xps_1710" />](http://www.flickr.com/photos/pforret/575898406/ "Photo Sharing") 
+[<img  style="float: right" src="http://farm2.static.flickr.com/1002/575898406_89f1d9ccb1_m.jpg" width="240" height="240" alt="dell_xps_1710" />](http://www.flickr.com/photos/pforret/575898406/ "Photo Sharing") 
 
 > Intel® Core™2 Duo T7600 Processor (2,33 GHz, 667 MHz, 4 MB L2-cache)  
 > Windows Vista™ Home Premium  

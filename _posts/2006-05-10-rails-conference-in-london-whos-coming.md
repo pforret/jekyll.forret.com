@@ -10,7 +10,7 @@ categories:
   - Web2.0
   - webdev
 ---
-[<img loading="lazy" src="http://static.flickr.com/56/144128155_c8c1e84cd7.jpg" width="500" height="170" alt="RailsConf Europe" />](http://www.flickr.com/photos/pforret/144128155/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/56/144128155_c8c1e84cd7.jpg" width="500" height="170" alt="RailsConf Europe" />](http://www.flickr.com/photos/pforret/144128155/ "Photo Sharing")  
 Who wants to join in for the [September Rails Conference in London](http://europe.railsconf.org/)? Let&#8217;s set up a nice Belgian delegation!
 
 We can get a group discount:

@@ -16,7 +16,7 @@ Get ready for a lot of acronyms in this post: &#8220;How to create a good XML-ba
 > [MRTG](http://oss.oetiker.ch/mrtg/) (Multi Router Traffic Grapher) is a tool to monitor the traffic load on network-links. It is widely used around the world to generate web pages containing images that provide a live visual representation of this traffic. MRTG is mainly a Swiss open-source product written by [Tobias Oetiker](http://tobi.oetiker.ch/) from ETH Zurich with [some help from others](http://oss.oetiker.ch/mrtg/cast/index.en.html). 
 
 When used in its basic form (without [RRDTOOL](http://oss.oetiker.ch/rrdtool/)), it generates output like the following:  
-[<img loading="lazy" src="http://farm1.static.flickr.com/103/271195136_0b76056076.jpg" width="500" height="230" alt="Flickr: #photos per hour" />](http://www.flickr.com/photos/pforret/271195136/ "Photo Sharing")
+[<img  src="http://farm1.static.flickr.com/103/271195136_0b76056076.jpg" width="500" height="230" alt="Flickr: #photos per hour" />](http://www.flickr.com/photos/pforret/271195136/ "Photo Sharing")
 
 #### MRTG &#8220;API&#8221;
 

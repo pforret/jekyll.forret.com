@@ -21,7 +21,7 @@ tags:
   - USB
 ---
 _UPDATE: also read my post about testing the [Netgear ReadyNAS](http://blog.forret.com/2008/04/netgear-readynas-nas-done-right/) (it doesn&#8217;t suck)_  
-[<img loading="lazy" style="float: right; margin: 5px" src="http://static.flickr.com/76/186292024_d2a830f4c7_m.jpg" alt="Storage porn" width="240" height="180" />](http://www.flickr.com/photos/pforret/186292024/ "Photo Sharing")
+[<img  style="float: right; margin: 5px" src="http://static.flickr.com/76/186292024_d2a830f4c7_m.jpg" alt="Storage porn" width="240" height="180" />](http://www.flickr.com/photos/pforret/186292024/ "Photo Sharing")
 
 In my continuing quest for more and better storage, I have taken the following path:
 
@@ -34,11 +34,11 @@ In my continuing quest for more and better storage, I have taken the following p
 
 ### Netgear/Zetera
 
-[<img loading="lazy" style="float: right" src="http://static.flickr.com/44/146967665_03c2c8ea19_m.jpg" alt="Netgear Zetera, 2 x 300GB" width="180" height="240" />](http://www.flickr.com/photos/pforret/146967665/ "Photo Sharing")  
+[<img  style="float: right" src="http://static.flickr.com/44/146967665_03c2c8ea19_m.jpg" alt="Netgear Zetera, 2 x 300GB" width="180" height="240" />](http://www.flickr.com/photos/pforret/146967665/ "Photo Sharing")  
 I bought the Netgear/Zetera device after positive reviews on sites like [infoworld.com](http://www.infoworld.com/article/05/08/01/31FEinnovator3_1.html). The Zetera software converts network-attached drives into virtual SCSI drives that can be mirrored (RAID-1) or spanned (not striped). In theory, one could put, say, 4 devices in a network with 2 x 500GB each and have a 4TB spanned T: drive.
 
 So, I buy it with 2 x 300GB drives, pop them into the toaster, start it up, and create 2 virtual drives: 1 mirrored 200GB drive &#8220;MIRROR&#8221; for my music (backup of my CDs and a lot of podcasts) and the rest into a 180GB spanned volume &#8220;MOVIES&#8221;. First surprise: the Zetera software requires a (Windows only) driver on each computer that will access the data. I run 2 Windows machines, so that&#8217;s not really an issue, but if you&#8217;re on MacOSX, you would need 1 Windows station to manage the Netgear data and expose as a regular SMB volume: meaning double network traffic for each write/read operation. This is what my Netgear GUI shows: 10 new IP addresses.  
-[<img loading="lazy" src="http://static.flickr.com/53/147855506_94cacda94f.jpg" alt="Netgear IP addresses" width="500" height="203" />](http://www.flickr.com/photos/pforret/147855506/ "Photo Sharing")
+[<img  src="http://static.flickr.com/53/147855506_94cacda94f.jpg" alt="Netgear IP addresses" width="500" height="203" />](http://www.flickr.com/photos/pforret/147855506/ "Photo Sharing")
 
 I then start copying my music and movies over to the new drive. Copying 200GB of data at [45GB/h max (or some 30GB/h realisticly)](http://web.forret.com/tools/bandwidth.asp?speed=100&unit=Mbps&title=Fast+Ethernet+%5BLAN%5D): it took a while, but at least my data is safe. Or so I thought. Every time you start the GUI, a popup appears with &#8220;Do you want to look for upgrades?&#8221;. At some point I&#8217;m thinking, &#8220;Hey, why not&#8221; So I upgrade the drivers on my desktop, and my laptop. Bad idea. To my amazement, I only have one drive anymore: &#8220;MOVIES&#8221;. The MIRROR drive has disappeared. I rerun the utility to attach all drives: &#8220;No drives available to attach&#8221;. This is where I get worried.
 
@@ -49,7 +49,7 @@ I then start copying my music and movies over to the new drive. Copying 200GB of
 <span style="margin-top: 0px"><a href="http://www.dailymotion.com/video/345799">Netgear SC101- drive lost</a><br /> Video sent by <a href="http://www.dailymotion.com/pforret">pforret</a><br /> </span>
 
 On the former Netgear forum, this is a known error, which sometimes can be fixed by erasing something in the registry, re-attaching the drives, fixing the drive letter and a fair amount of praying. Why do I say &#8220;former Netgear forum&#8221;:  
-[<img loading="lazy" src="http://static.flickr.com/45/186326227_c4fbe85fae.jpg" alt="Netgear forum: so long and thanks for all the fish" width="500" height="301" />](http://www.flickr.com/photos/pforret/186326227/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/45/186326227_c4fbe85fae.jpg" alt="Netgear forum: so long and thanks for all the fish" width="500" height="301" />](http://www.flickr.com/photos/pforret/186326227/ "Photo Sharing")  
 &#8220;As a result of the popularity&#8221;&#8230; Yeah, right.
 
 To cite the Google cache before it disappears:

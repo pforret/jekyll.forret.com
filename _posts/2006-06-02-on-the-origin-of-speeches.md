@@ -10,7 +10,7 @@ categories:
   - barcamp
   - Brussel
 ---
-[<img loading="lazy" src="http://static.flickr.com/73/158612516_be31289a20.jpg" style="float: right" width="302" height="500" alt="barcamp-speeches" />](http://www.flickr.com/photos/pforret/158612516/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/73/158612516_be31289a20.jpg" style="float: right" width="302" height="500" alt="barcamp-speeches" />](http://www.flickr.com/photos/pforret/158612516/ "Photo Sharing")  
 If you were wondering why I posted so little this week: I was collecting presentations, sorting through pictures ([Flickr](http://www.flickr.com/photos/tags/barcampbrussels/) and [Lifeblogger](http://lifeblogger.typepad.com/barcamp/2006/05/history_and_fut.html)) and movies ([Google video](http://www.blogologie.be/2006/05/accessibility_d.html) and [Dailymotion](http://www.dailymotion.com/pforret/barcampbrussels)) and posting the reviews of the [Barcamp](http://barcamp.forret.com) topics. The collection is still not complete (let&#8217;s say that I&#8217;m at 70%), but I&#8217;m still waiting on [feedback from some](http://barcamp.forret.com/blog/2006/06/02/overview-of-speeches/) of the speakers/podcasters.
 
 Here they are:  

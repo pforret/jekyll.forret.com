@@ -9,7 +9,7 @@ permalink: /2006/03/16/1969-was-an-inspiring-year/
 categories:
   - music
 ---
-[<img loading="lazy" src="http://static.flickr.com/43/113254808_fd4db24ebc_m.jpg" width="178" height="240" alt="69 Année Heroique" style="float: right" />](http://www.flickr.com/photos/pforret/113254808/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/43/113254808_fd4db24ebc_m.jpg" width="178" height="240" alt="69 Année Heroique" style="float: right" />](http://www.flickr.com/photos/pforret/113254808/ "Photo Sharing")  
 Russell Lichter writes the [Monthly Mix Challenge](http://russlichter.com/mix/mixblogger.html) blog: interesting monthly lists of songs on particular themes: e.g. titles [with the word &#8216;hate&#8217; in them](http://russlichter.com/mix/2006/03/mix-13-hate-songs.html) or [female drummers](http://russlichter.com/mix/2005/03/mix-1-female-drummers.html) (that I [mentioned earlier](/2005/04/26/my-favourite-drummers/)). 
 
 At the end of last year he listed songs with a title that contains a year (number). And it appears my birth year was most inspiring:

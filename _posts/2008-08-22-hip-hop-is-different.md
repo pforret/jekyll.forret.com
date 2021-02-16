@@ -13,7 +13,7 @@ tags:
   - statistics
   - visualisation
 ---
-[<img loading="lazy" src="http://farm4.static.flickr.com/3223/2787660324_8bf9d88c8e.jpg" alt="Hiphop: A.S.S." width="500" height="462" />](http://www.flickr.com/photos/pforret/2787660324/ "Hiphop: A.S.S. by PeterForret, on Flickr")
+[<img  src="http://farm4.static.flickr.com/3223/2787660324_8bf9d88c8e.jpg" alt="Hiphop: A.S.S." width="500" height="462" />](http://www.flickr.com/photos/pforret/2787660324/ "Hiphop: A.S.S. by PeterForret, on Flickr")
 
 <p style="TEXT-ALIGN: center">
   <a href="http://www.fleshmap.com">Fleshmap</a> via <a href="http://infosthetics.com/archives/2008/08/fleshmap_crowdsourcing_sex.html">Infosthetics</a>

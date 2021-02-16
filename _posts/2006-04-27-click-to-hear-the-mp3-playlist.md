@@ -39,7 +39,7 @@ These are all tools to play either individual MP3 files or playlists (e.g. podca
 [Webjay](http://www.webjay.org/playthispage) (now Yahoo!)
 :   free
 :   can work with feeds or MP3 files, can also generate a playlist from an HTML page
-:   [<img loading="lazy" width="240" src="http://static.flickr.com/52/135830153_23286969d2_m.jpg" alt="webjay" height="213" />](http://www.flickr.com/photos/pforret/135830153/ "Photo Sharing")
+:   [<img  width="240" src="http://static.flickr.com/52/135830153_23286969d2_m.jpg" alt="webjay" height="213" />](http://www.flickr.com/photos/pforret/135830153/ "Photo Sharing")
 
 [Webjay Wizard](http://www.smoothouse.org/smoothouse/webjay.asp)
 :   This tool of mine can also be used to create the HTML code for Windows Mediaplayer, RealPlayer or Quicktime embedded players
@@ -54,7 +54,7 @@ This means that at the very least you need FTP access to drop files on specific 
 :   License: This is an open-source (SourceForge) project by Fabricio Zuardi. It is free for non-commercial use.
 :   Method: you reference a Flash file and give it the URL of the playlist. The Flash file is embedded with the usual [object] and tags.
 :   Format: it uses the standard [XSPF (XML Shareable Playlist Format)](http://www.xspf.org/). Webjay can convert any HTML file/feed to XSPF! Check the [Webjay wizard](http://www.smoothouse.org/smoothouse/webjay.asp) to generate the right HTML code for your page!
-:   [<img loading="lazy" width="240" src="http://static.flickr.com/53/135832408_1f9edf15c1_m.jpg" alt="musicplayer" height="172" />](http://www.flickr.com/photos/pforret/135832408/ "Photo Sharing")
+:   [<img  width="240" src="http://static.flickr.com/53/135832408_1f9edf15c1_m.jpg" alt="musicplayer" height="172" />](http://www.flickr.com/photos/pforret/135832408/ "Photo Sharing")
 
 [SoundBlox](http://soundblox.blogspot.com/)
 :   License: This is an Apache-style open source project by Laszlo Systems, based on the Laszlo open-source RAD framework. It is free for non-commercial use.
@@ -64,7 +64,7 @@ This means that at the very least you need FTP access to drop files on specific 
 [Flash MP3 Player](http://www.jeroenwijering.com/?item=Flash_MP3_Player)
 :   License: Creative commons, free for non-commercial use
 :   Format: RSS files, XSPF files 
-:   [<img loading="lazy" width="240" src="http://static.flickr.com/50/135831115_22692e77b4_m.jpg" alt="flashmp3" height="160" />](http://www.flickr.com/photos/pforret/135831115/ "Photo Sharing")
+:   [<img  width="240" src="http://static.flickr.com/50/135831115_22692e77b4_m.jpg" alt="flashmp3" height="160" />](http://www.flickr.com/photos/pforret/135831115/ "Photo Sharing")
 
 [GurusNetwork](http://www.gurusnetwork.com/work/steve/mp3player_demo5/)
 :   License: not explicitly stated. I presume it’s free to use.

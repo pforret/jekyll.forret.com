@@ -10,7 +10,7 @@ categories:
   - Brussel
 ---
 Because [Ine asked me nicely](http://www.monuments.nu/2007/07/new_meme_my_city_your_city.html):  
-[<img loading="lazy" style="float: right" src="http://farm1.static.flickr.com/77/220230213_8d46345eb9_m.jpg" width="160" height="240" alt="Apple Martini" />](http://www.flickr.com/photos/pforret/220230213/ "Photo Sharing")
+[<img  style="float: right" src="http://farm1.static.flickr.com/77/220230213_8d46345eb9_m.jpg" width="160" height="240" alt="Apple Martini" />](http://www.flickr.com/photos/pforret/220230213/ "Photo Sharing")
 
   * My favorite &#8216;grab-a-bite&#8217;: De Markten, certainly when it&#8217;s sunny and you can sit outside
   * My favourite shop: [Mr Ego](http://www.mr-ego.be/) for clothes, [Passaporta](http://www.passaporta.be/) for books &#8211; for CDs I would want a shop like the Virgin store in Paris: scan any CD&#8217;s barcode and you can listen to it on any headphone set in the shop &#8211; since there is no shop like that in Brussels: I shop Amazon

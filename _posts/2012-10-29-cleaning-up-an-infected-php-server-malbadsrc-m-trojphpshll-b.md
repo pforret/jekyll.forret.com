@@ -19,7 +19,7 @@ tags:
 ---
 I recently discovered that a number of sites of mine were considered unsafe by Google, Firefox, Yandex &#8230; The reason was they had detected malware being served to visitors of the site. I checked a bit further and I discovered it was the Mal/Badsrc-M &#8211; [Troj/PHPShll-B](http://nakedsecurity.sophos.com/2011/09/19/malware-wordpress-installations/) trojan. In each of my (WordPress and other) PHP files, the first line had been changed to:<figure class="wp-block-image size-large is-resized">
 
-<img loading="lazy" src="https://blog.forret.com/wp-content/uploads/2020/06/image.png" alt="" class="wp-image-2274" width="523" height="23" srcset="https://blog.forret.com/wp-content/uploads/2020/06/image.png 523w, https://blog.forret.com/wp-content/uploads/2020/06/image-300x13.png 300w" sizes="(max-width: 523px) 100vw, 523px" /> </figure> 
+<img  src="https://blog.forret.com/wp-content/uploads/2020/06/image.png" alt="" class="wp-image-2274" width="523" height="23" srcset="https://blog.forret.com/wp-content/uploads/2020/06/image.png 523w, https://blog.forret.com/wp-content/uploads/2020/06/image-300x13.png 300w" sizes="(max-width: 523px) 100vw, 523px" />   
 
 The file is easy to clean up: you remove the **eval** statement and that&#8217;s it. Only, on this server several hundreds of PHP files (WordPress, MediaWiki, &#8230;) were affected. So I made a script to go through all of them and clean up. It uses the fact that
 

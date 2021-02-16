@@ -32,6 +32,6 @@ So this means concretely:
 
 After going through like 50 different tools, I found only one that was simple enough and did what I wanted: [Statping by Hunterlong](https://github.com/hunterlong/statping).<figure class="wp-block-image">
 
-![](https://img.cjx.io/statupsiterun.gif) </figure> 
+![](https://img.cjx.io/statupsiterun.gif)   
 
 It even has a mobile app, Slack notifications and can be set up in minutes thanks to [its Docker image](https://hub.docker.com/r/hunterlong/statping).

@@ -20,7 +20,7 @@ tags:
   - tablet
   - USB
 ---
-<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="300" src="http://blog.forret.com/wp-content/uploads/2018/11/fig-21-11-2018_13-21-40.jpg" alt="" class="wp-image-1839" srcset="https://blog.forret.com/wp-content/uploads/2018/11/fig-21-11-2018_13-21-40.jpg 600w, https://blog.forret.com/wp-content/uploads/2018/11/fig-21-11-2018_13-21-40-300x150.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></figure> 
+<figure class="wp-block-image size-large"><img  width="600" height="300" src="http://blog.forret.com/wp-content/uploads/2018/11/fig-21-11-2018_13-21-40.jpg" alt="" class="wp-image-1839" srcset="https://blog.forret.com/wp-content/uploads/2018/11/fig-21-11-2018_13-21-40.jpg 600w, https://blog.forret.com/wp-content/uploads/2018/11/fig-21-11-2018_13-21-40-300x150.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />  
 
 _Let me describe an idea I had for the intelligent cloud-connected mobile device charger that keeps all my mobile battery devices charged optimally._
 
@@ -38,7 +38,7 @@ On top of that, it comes with an accompanying app on the mobile device. The app 
 
 The aggregation of all this data allows for global statistics. With 2 months after the release of the new iPhone XYZ, there are statistics available, not just the generic optimistic battery performance indicators (&#8220;up to 20 hours&#8221;). But &#8216;real statistics&#8217;, a bit like the [Backblaze hard disk stats](https://www.backblaze.com/blog/tag/hard-drive-stats/), but for batteries.
 
-[<img loading="lazy" class="alignnone size-full wp-image-1841" src="http://blog.forret.com/wp-content/uploads/2018/11/iphone_battery.jpg" alt="" width="978" height="605" srcset="https://blog.forret.com/wp-content/uploads/2018/11/iphone_battery.jpg 978w, https://blog.forret.com/wp-content/uploads/2018/11/iphone_battery-300x186.jpg 300w, https://blog.forret.com/wp-content/uploads/2018/11/iphone_battery-768x475.jpg 768w, https://blog.forret.com/wp-content/uploads/2018/11/iphone_battery-945x585.jpg 945w, https://blog.forret.com/wp-content/uploads/2018/11/iphone_battery-600x371.jpg 600w" sizes="(max-width: 978px) 100vw, 978px" />](http://blog.forret.com/wp-content/uploads/2018/11/iphone_battery.jpg)
+[<img  class="alignnone size-full wp-image-1841" src="http://blog.forret.com/wp-content/uploads/2018/11/iphone_battery.jpg" alt="" width="978" height="605" srcset="https://blog.forret.com/wp-content/uploads/2018/11/iphone_battery.jpg 978w, https://blog.forret.com/wp-content/uploads/2018/11/iphone_battery-300x186.jpg 300w, https://blog.forret.com/wp-content/uploads/2018/11/iphone_battery-768x475.jpg 768w, https://blog.forret.com/wp-content/uploads/2018/11/iphone_battery-945x585.jpg 945w, https://blog.forret.com/wp-content/uploads/2018/11/iphone_battery-600x371.jpg 600w" sizes="(max-width: 978px) 100vw, 978px" />](http://blog.forret.com/wp-content/uploads/2018/11/iphone_battery.jpg)
 
 > &#8220;The battery claims that vendor X makes are not realistic. Battery performance of the new XYZ phone drops dramatically after about 500 charges&#8221;
 

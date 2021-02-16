@@ -16,11 +16,11 @@ Amusing idea from [Paul](http://www.pixagogo.com/paulcarpentier): upload your ow
 <table border="0">
   <tr>
     <td>
-      <a href="http://www.pixagogo.com/7249135829"><img loading="lazy" height="218" width="168" border="0" src="http://www.pixagogo.com/S5wR-n6vxosKwZXXVWxLF4suUdUMm5e3Ubj6E00KW90wVve!EXWrtYNGHR!mosMlrLbaga9!1OttFPxaTgKJG493I0XhR8uRBGj-MZp6htgNIqtKYUqmjWX8IF1rNfchqT783XkBfS79E_/Asaba_hotel_Shizuoka_Japan_in_kimono.jpg" border="0" /><br /> Dude in kimono, Japan</a>
+      <a href="http://www.pixagogo.com/7249135829"><img  height="218" width="168" border="0" src="http://www.pixagogo.com/S5wR-n6vxosKwZXXVWxLF4suUdUMm5e3Ubj6E00KW90wVve!EXWrtYNGHR!mosMlrLbaga9!1OttFPxaTgKJG493I0XhR8uRBGj-MZp6htgNIqtKYUqmjWX8IF1rNfchqT783XkBfS79E_/Asaba_hotel_Shizuoka_Japan_in_kimono.jpg" border="0" /><br /> Dude in kimono, Japan</a>
     </td>
     
     <td>
-      <a href="http://www.pixagogo.com/7249135829"><img loading="lazy" height="218" width="168" border="0" src="http://www.pixagogo.com/S51S18yJ7cy7d8tvhUpEvD2O43oE0JSgxjLtLAfalPreWxF5MWAGUKuGIKImPkPDtCr-LziMfnhWCXULh0uJ!5WGu5s-YY9e0!QHIoww7wn6QQqVHwcHPWHg__/Haasrode,_Belgium.jpg" /><br /> Two nerds, Belgium</a>
+      <a href="http://www.pixagogo.com/7249135829"><img  height="218" width="168" border="0" src="http://www.pixagogo.com/S51S18yJ7cy7d8tvhUpEvD2O43oE0JSgxjLtLAfalPreWxF5MWAGUKuGIKImPkPDtCr-LziMfnhWCXULh0uJ!5WGu5s-YY9e0!QHIoww7wn6QQqVHwcHPWHg__/Haasrode,_Belgium.jpg" /><br /> Two nerds, Belgium</a>
     </td>
   </tr>
 </table>

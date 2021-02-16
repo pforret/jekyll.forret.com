@@ -9,7 +9,7 @@ permalink: /2006/05/14/bouncing-email/
 categories:
   - internet
 ---
-[<img loading="lazy" src="http://static.flickr.com/50/146354021_1c0f548dfe_m.jpg" style="float: right" width="171" height="240" alt="You've got mail" />](http://www.flickr.com/photos/pforret/146354021/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/50/146354021_1c0f548dfe_m.jpg" style="float: right" width="171" height="240" alt="You've got mail" />](http://www.flickr.com/photos/pforret/146354021/ "Photo Sharing")  
 If you have sent me an email in the last two days, you will likely have gotten a bounce like &#8220;`Undelivered Mail Returned to Sender`&#8220;. Please resend your message because your mail server is indeed right: my email addresses @forret.com were unavailable this Friday and Saturday.
 
 The reason: I was too late for the renewal of my domain smoothouse.org so it expired, my Coditel broadband connection was down so I didn&#8217;t notice that my mails stopped coming in until Saturday. I did some emergency DNS adjustments, changed those, and then still did some other stuff, and so this is the situation 24 hours later:

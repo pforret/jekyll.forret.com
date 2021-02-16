@@ -29,7 +29,7 @@ When I look at some providers of flexible office space in Brussels:
   * [Alliance](http://www.abcn.com/center_detail.php?mode=loc&CID=2746), [NCI](http://www.nci.be/uk/louisetower.htm), &#8230;: no pricing on the site &#8211; but they look really expensive
 
 These places are generally offering too much (e.g. a private office) for a price that is too high. Let&#8217;s see how they do it in New York:  
-[<img loading="lazy" src="http://static.flickr.com/50/112823774_13a3333344_o.jpg" alt="Paragraph - workspace for writers" width="369" height="290" />](http://www.flickr.com/photos/pforret/112823774/ "Photo Sharing")
+[<img  src="http://static.flickr.com/50/112823774_13a3333344_o.jpg" alt="Paragraph - workspace for writers" width="369" height="290" />](http://www.flickr.com/photos/pforret/112823774/ "Photo Sharing")
 
 > [Paragraph](http://www.paragraphny.com/) (&#8220;providing an affordable and tranquil working environment for writers of all genres&#8221;) occupies a 2,500 square foot loft space near Union Square, divided into a writing room and a lounge area. The writing room has 38 partitioned desks, while the lounge area contains a kitchenette, a large round table and smaller café tables. There&#8217;s a refrigerator and cabinets to store members&#8217; food and beverages, as well as a microwave, toaster oven and coffee maker. The space has a laser printer and wifi throughout, and is open 24 hours a day, 7 days a week, 365 days a year.  
 > from [spingwise.com](http://www.springwise.com/lifestyle_leisure/being_spaces_for_writers_and_p/)

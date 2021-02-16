@@ -24,23 +24,23 @@ In the next images, I simulated this upsizing operation: I took an normal-resolu
 ### [Nearest neighbour](http://en.wikipedia.org/wiki/Nearest_neighbor_interpolation) (simple)
 
 A pixel becomes a square 2&#215;2 block of the same colour, then a 4&#215;4, &#8230; Main advantage of this system: no calculation is necessary, so it is blazing fast. This is actually the way your browser upsizes images.  
-[<img loading="lazy" src="http://static.flickr.com/90/221084709_17f1c2c86c.jpg" alt="Resize effect: no interpolation" width="500" height="300" />](http://www.flickr.com/photos/pforret/221084709/ "Photo Sharing")
+[<img  src="http://static.flickr.com/90/221084709_17f1c2c86c.jpg" alt="Resize effect: no interpolation" width="500" height="300" />](http://www.flickr.com/photos/pforret/221084709/ "Photo Sharing")
 
 ### [Hermite filter](http://en.wikipedia.org/wiki/Hermite_interpolation)
 
 This is slightly better than the naive method. For mathematical details, check the [Hermite Interpolating Polynomial](http://mathworld.wolfram.com/HermitesInterpolatingPolynomial.html).  
-[<img loading="lazy" src="http://static.flickr.com/92/221084711_4e3b9adbb8.jpg" alt="Resize effect: Hermite filter" width="500" height="300" />](http://www.flickr.com/photos/pforret/221084711/ "Photo Sharing")
+[<img  src="http://static.flickr.com/92/221084711_4e3b9adbb8.jpg" alt="Resize effect: Hermite filter" width="500" height="300" />](http://www.flickr.com/photos/pforret/221084711/ "Photo Sharing")
 
 ### [Triangle/tent filter](http://en.wikipedia.org/wiki/Bilinear_interpolation)
 
 > Bilinear interpolation considers the closest 2&#215;2 neighborhood of known pixel values surrounding the unknown pixel. It then takes a weighted average of these 4 pixels to arrive at its final interpolated value. This results in much smoother looking images than nearest neighbor. (from [cambridgeincolour.com](http://cambridgeincolour.com/tutorials/image-interpolation.htm))
 
-[<img loading="lazy" src="http://static.flickr.com/91/221093556_4a9b07197c.jpg" alt="Resize effect: Triangle filter" width="500" height="300" />](http://www.flickr.com/photos/pforret/221093556/ "Photo Sharing")
+[<img  src="http://static.flickr.com/91/221093556_4a9b07197c.jpg" alt="Resize effect: Triangle filter" width="500" height="300" />](http://www.flickr.com/photos/pforret/221093556/ "Photo Sharing")
 
 ### [B-spline filter](http://en.wikipedia.org/wiki/B-spline)
 
 Math background on [sepwww.stanford.edu](http://sepwww.stanford.edu/public/docs/sep105/sergey2/paper_html/node5.html).  
-[<img loading="lazy" src="http://static.flickr.com/74/221089355_7ace4954a5.jpg" alt="Resize effect: B-spline filter" width="500" height="300" />](http://www.flickr.com/photos/pforret/221089355/ "Photo Sharing")
+[<img  src="http://static.flickr.com/74/221089355_7ace4954a5.jpg" alt="Resize effect: B-spline filter" width="500" height="300" />](http://www.flickr.com/photos/pforret/221089355/ "Photo Sharing")
 
 ### [Lanczos filter](http://en.wikipedia.org/wiki/Lanczos_resampling)
 
@@ -48,7 +48,7 @@ Lanczos is the most complex, and slowest method, which should give the best resu
 
 > Finally, the popular freeware IrfanView (Version 3.92) offers a Lanczos resizing option which uses too few sample points and therefore can produce an unwanted shadow pattern in some images. (from [enlargingsplugins](http://www.thepluginsite.com/knowhow/enlargingplugins/index.htm))
 
-[<img loading="lazy" src="http://static.flickr.com/97/221084713_e33c3b7bb6.jpg" alt="Resize effect: Lanczos filter" width="500" height="300" />](http://www.flickr.com/photos/pforret/221084713/ "Photo Sharing")
+[<img  src="http://static.flickr.com/97/221084713_e33c3b7bb6.jpg" alt="Resize effect: Lanczos filter" width="500" height="300" />](http://www.flickr.com/photos/pforret/221084713/ "Photo Sharing")
 
 So here&#8217;s my roundup of some interpolation algorithms for making images bigger. Keep in mind that larger resolutions cause larger files. An image good enough for A0 printing (14000 x 10000 pixels) could amount to a 800MB TIFF file.
 

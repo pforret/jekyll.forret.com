@@ -31,7 +31,7 @@ http://tools.forret.com/basicsoul/ (no longer works)
 
 that allows me to search for artists, titles and labels. Per found occurrence it allows me to view the full playlist (reformatted from the original page) and if the podcast MP3 is still online, to listen to it (with a SMIL playlist, a M3U playlist or a Flash based MP3 player). I enjoy using it, to see when a track was first played, what other tracks that artist made etc &#8230;
 
-[<img loading="lazy" src="http://farm4.static.flickr.com/3044/2448308591_19511fec26.jpg" alt="Basic Soul Radio podcast Search" width="500" height="284" />](http://www.flickr.com/photos/pforret/2448308591/ "Basic Soul Radio podcast Search by PeterForret, on Flickr")  
+[<img  src="http://farm4.static.flickr.com/3044/2448308591_19511fec26.jpg" alt="Basic Soul Radio podcast Search" width="500" height="284" />](http://www.flickr.com/photos/pforret/2448308591/ "Basic Soul Radio podcast Search by PeterForret, on Flickr")  
 Check it out!
 
 PS: Every podcast episode starts with: &#8220;_Today is the shadow of tomorrow. Today is the present future o_<span class="hide"><em>f yesterday. Yesterday is the shadow of today. The darkness of the past is yesterday. And the light of the past is yesterday</em>&#8220;, a piece of lyric from &#8220;Shadows of Tomorrow&#8221; &#8211; Madvillain & Quasimoto.<br /> </span>

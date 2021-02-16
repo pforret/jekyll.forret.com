@@ -31,4 +31,4 @@ In that constant struggle between protection of intellectual property and freedo
 Background: There&#8217;s [an installation](http://nkhstudio.com/pages/popup_amen.html) about the Amen Break and there&#8217;s even [a documentary movie](http://www.youtube.com/watch?v=5SaFTm2bcac). Don&#8217;t think you&#8217;ve heard it? Listen here:<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
 
 <div class="wp-block-embed__wrapper">
-</div></figure>
+</div> 

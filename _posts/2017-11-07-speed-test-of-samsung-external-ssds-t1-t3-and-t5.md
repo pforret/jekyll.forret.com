@@ -26,14 +26,14 @@ I just bought my 4th external USB3 SSD for my MacBookPro. I obviously don&#8217;
 
 We will compare all the disks with the performance of the internal SSD disk, which has a SATA-III connection (not the slower USB 3 connection): 560 MB/s write &#8211; 720 MB/s read speed.
 
-[<img loading="lazy" class="alignnone wp-image-1598 " src="//blog.forret.com/wp-content/uploads/2017/11/SSD_Internal.png" alt="" width="484" height="500" srcset="https://blog.forret.com/wp-content/uploads/2017/11/SSD_Internal.png 732w, https://blog.forret.com/wp-content/uploads/2017/11/SSD_Internal-290x300.png 290w, https://blog.forret.com/wp-content/uploads/2017/11/SSD_Internal-600x620.png 600w" sizes="(max-width: 484px) 100vw, 484px" />](//blog.forret.com/wp-content/uploads/2017/11/SSD_Internal.png)
+[<img  class="alignnone wp-image-1598 " src="//blog.forret.com/wp-content/uploads/2017/11/SSD_Internal.png" alt="" width="484" height="500" srcset="https://blog.forret.com/wp-content/uploads/2017/11/SSD_Internal.png 732w, https://blog.forret.com/wp-content/uploads/2017/11/SSD_Internal-290x300.png 290w, https://blog.forret.com/wp-content/uploads/2017/11/SSD_Internal-600x620.png 600w" sizes="(max-width: 484px) 100vw, 484px" />](//blog.forret.com/wp-content/uploads/2017/11/SSD_Internal.png)
 
 ### EXTERNAL SAMSUNG SSD: T1/T3/T5
 
 <table>
   <tr>
     <td>
-      <a href="//blog.forret.com/wp-content/uploads/2017/11/SSD_T1.png"><img loading="lazy" class="alignnone wp-image-1595 size-medium" src="//blog.forret.com/wp-content/uploads/2017/11/SSD_T1-289x300.png" alt="" width="289" height="300" srcset="https://blog.forret.com/wp-content/uploads/2017/11/SSD_T1-289x300.png 289w, https://blog.forret.com/wp-content/uploads/2017/11/SSD_T1-600x623.png 600w, https://blog.forret.com/wp-content/uploads/2017/11/SSD_T1.png 683w" sizes="(max-width: 289px) 100vw, 289px" /></a>
+      <a href="//blog.forret.com/wp-content/uploads/2017/11/SSD_T1.png"><img  class="alignnone wp-image-1595 size-medium" src="//blog.forret.com/wp-content/uploads/2017/11/SSD_T1-289x300.png" alt="" width="289" height="300" srcset="https://blog.forret.com/wp-content/uploads/2017/11/SSD_T1-289x300.png 289w, https://blog.forret.com/wp-content/uploads/2017/11/SSD_T1-600x623.png 600w, https://blog.forret.com/wp-content/uploads/2017/11/SSD_T1.png 683w" sizes="(max-width: 289px) 100vw, 289px" /></a>
     </td>
     
     <td>
@@ -43,7 +43,7 @@ We will compare all the disks with the performance of the internal SSD disk, whi
   
   <tr>
     <td>
-       <img loading="lazy" class="alignnone wp-image-1596 size-medium" src="//blog.forret.com/wp-content/uploads/2017/11/SSD_T3-289x300.png" alt="" width="289" height="300" srcset="https://blog.forret.com/wp-content/uploads/2017/11/SSD_T3-289x300.png 289w, https://blog.forret.com/wp-content/uploads/2017/11/SSD_T3-600x623.png 600w, https://blog.forret.com/wp-content/uploads/2017/11/SSD_T3.png 681w" sizes="(max-width: 289px) 100vw, 289px" />
+       <img  class="alignnone wp-image-1596 size-medium" src="//blog.forret.com/wp-content/uploads/2017/11/SSD_T3-289x300.png" alt="" width="289" height="300" srcset="https://blog.forret.com/wp-content/uploads/2017/11/SSD_T3-289x300.png 289w, https://blog.forret.com/wp-content/uploads/2017/11/SSD_T3-600x623.png 600w, https://blog.forret.com/wp-content/uploads/2017/11/SSD_T3.png 681w" sizes="(max-width: 289px) 100vw, 289px" />
     </td>
     
     <td>
@@ -53,7 +53,7 @@ We will compare all the disks with the performance of the internal SSD disk, whi
   
   <tr>
     <td>
-      <a href="//blog.forret.com/wp-content/uploads/2017/11/SSD_FAST.png"><img loading="lazy" class="alignnone size-medium wp-image-1594" src="//blog.forret.com/wp-content/uploads/2017/11/SSD_FAST-290x300.png" alt="" width="290" height="300" srcset="https://blog.forret.com/wp-content/uploads/2017/11/SSD_FAST-290x300.png 290w, https://blog.forret.com/wp-content/uploads/2017/11/SSD_FAST-600x621.png 600w, https://blog.forret.com/wp-content/uploads/2017/11/SSD_FAST.png 686w" sizes="(max-width: 290px) 100vw, 290px" /></a>
+      <a href="//blog.forret.com/wp-content/uploads/2017/11/SSD_FAST.png"><img  class="alignnone size-medium wp-image-1594" src="//blog.forret.com/wp-content/uploads/2017/11/SSD_FAST-290x300.png" alt="" width="290" height="300" srcset="https://blog.forret.com/wp-content/uploads/2017/11/SSD_FAST-290x300.png 290w, https://blog.forret.com/wp-content/uploads/2017/11/SSD_FAST-600x621.png 600w, https://blog.forret.com/wp-content/uploads/2017/11/SSD_FAST.png 686w" sizes="(max-width: 290px) 100vw, 290px" /></a>
     </td>
     
     <td>
@@ -65,7 +65,7 @@ We will compare all the disks with the performance of the internal SSD disk, whi
 ### EXTERNAL HD: Lacie Porsche 1TB 2.5&#8243; &#8216;classic&#8217; hard drive
 
 Just to get a feel of just how much better that is than the old &#8216;rotating magnetic&#8217; disks: the speed of a brand new 2.5&#8243; 1TB Lacie Porsche disk: 130 MB/s read and write speed. That is 1/3 of the speed of the Samsung T5 SSD, at about 1/4 of the cost (1TB: 100 euro vs 420 euro &#8211; Nov 2017).  
-[<img loading="lazy" class="alignnone size-medium wp-image-1593" src="//blog.forret.com/wp-content/uploads/2017/11/HD_SLOW-289x300.png" alt="" width="289" height="300" srcset="https://blog.forret.com/wp-content/uploads/2017/11/HD_SLOW-289x300.png 289w, https://blog.forret.com/wp-content/uploads/2017/11/HD_SLOW-600x623.png 600w, https://blog.forret.com/wp-content/uploads/2017/11/HD_SLOW.png 684w" sizes="(max-width: 289px) 100vw, 289px" />](//blog.forret.com/wp-content/uploads/2017/11/HD_SLOW.png)
+[<img  class="alignnone size-medium wp-image-1593" src="//blog.forret.com/wp-content/uploads/2017/11/HD_SLOW-289x300.png" alt="" width="289" height="300" srcset="https://blog.forret.com/wp-content/uploads/2017/11/HD_SLOW-289x300.png 289w, https://blog.forret.com/wp-content/uploads/2017/11/HD_SLOW-600x623.png 600w, https://blog.forret.com/wp-content/uploads/2017/11/HD_SLOW.png 684w" sizes="(max-width: 289px) 100vw, 289px" />](//blog.forret.com/wp-content/uploads/2017/11/HD_SLOW.png)
 
 ## ALL IN ONE TABLE
 

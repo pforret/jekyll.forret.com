@@ -10,7 +10,7 @@ categories:
   - Belgium
   - TV
 ---
-[<img loading="lazy" src="http://static.flickr.com/42/118813933_7ba2916959_m.jpg" width="240" height="188" alt="De Pfaffs: Jean-Marie en Carmen" />](http://www.flickr.com/photos/pforret/118813933/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/42/118813933_7ba2916959_m.jpg" width="240" height="188" alt="De Pfaffs: Jean-Marie en Carmen" />](http://www.flickr.com/photos/pforret/118813933/ "Photo Sharing")  
 Yesterday, while waiting for the [Parelvissers](http://www.parelvissers.be) to start on [één](http://www.een.be/televisie1_master/programmas/e_pare_programma/index.shtml), my zapping pattern made me stumble upon 
 
   * [Big Brother](http://bb.belbone.be/home.php): some &#8216;grown-ups&#8217; were fishing rubber ducks out of a pool with forced enthusiasm

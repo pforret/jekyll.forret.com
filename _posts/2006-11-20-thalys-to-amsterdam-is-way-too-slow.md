@@ -16,6 +16,6 @@ I actually had to go to the [Hilversum Mediapark](http://www.mediapark.nl/), the
 
   
 I wondered if it was just an idea or if the Thalys to Amsterdam is really that slow. It actually is:  
-[<img loading="lazy" src="http://static.flickr.com/118/300412109_100b4d70ab_o.gif" width="468" height="222" alt="High speed train" />](http://www.flickr.com/photos/pforret/300412109/ "Photo Sharing")
+[<img  src="http://static.flickr.com/118/300412109_100b4d70ab_o.gif" width="468" height="222" alt="High speed train" />](http://www.flickr.com/photos/pforret/300412109/ "Photo Sharing")
 
 While the Thalys to Paris reaches an average speed of 214 km/h, a speed we can safely say is improbable to do by car, travelling to Amsterdam does not even go above 80km/h. You&#8217;re even faster in London (366km), under the Channel and everything, than in Asterdam (210km). I will not be using that train again until they finally get it up to a decent speed in [2007](http://www.thalys.com/be/nl/over-thalys/onderneming/vooruitzichten): 1h30 from Amsterdam instead of 2h39. About bloody time.

@@ -16,7 +16,7 @@ tags:
 ---
 ### Saturday 20 May
 
-[<img loading="lazy" width="500" src="http://static.flickr.com/45/139767078_ec3b5727c6.jpg" alt="Barcamp Brussels logo" height="143" />](http://www.flickr.com/photos/pforret/139767078/ "Photo Sharing")
+[<img  width="500" src="http://static.flickr.com/45/139767078_ec3b5727c6.jpg" alt="Barcamp Brussels logo" height="143" />](http://www.flickr.com/photos/pforret/139767078/ "Photo Sharing")
 
 Like M.A.R.R.S. said: &#8220;_Countdown is progressive_&#8220;. Ten days from now we&#8217;ll be frantically preparing the International Press Center for [Barcamp Brussels](http://wiki.forret.com/index.php?title=BarcampBrussels). This is the progress report:
 

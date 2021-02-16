@@ -19,7 +19,7 @@ categories:
 It&#8217;s been a while since I was really pleasantly surprised by a new Belgian group ([Moiano comes to mind](http://blog.forret.com/blog/2004/08/moiano-teaches-soulschool.html)) but it just happened again. I was humming along to the little pearl &#8220;Troubles and Fights&#8221; by [Lalalover](http://www.lalalover.com) &#8211; _&#8220;Wow, who&#8217;s that?&#8221;_ &#8211; and then I find out it&#8217;s a Belgian group started by Tom Kestens &#8211; former multi-instrumentalist with [das pop](http://www.daspop.be/).
 
 Check out the song performed live on &#8220;[De Laatste Show](http://www.delaatsteshow.be)&#8221; &#8211; the supporting singer is Belgium&#8217;s best soul voice [Stef Caers](http://www.guido.be/desktopmodules/articledetail.aspx?mid=414&itemid=1507&tabid=68&pageid=0), of [Moiano](http://www.moiano.com/) and [Krewcial](http://www.krewcial.com/) fame.  
-[<img loading="lazy" height="144" alt="WMV movie on www.delaatsteshow.be" src="http://static.flickr.com/48/105982379_64c86b9e12_m.jpg" width="240" />  
+[<img  height="144" alt="WMV movie on www.delaatsteshow.be" src="http://static.flickr.com/48/105982379_64c86b9e12_m.jpg" width="240" />  
 (8MB &#8211; WMV file)](http://www.delaatsteshow.be/video/files/341/breed.wmv "WMV movie on www.delaatsteshow.be")  
 <!--more-->
 

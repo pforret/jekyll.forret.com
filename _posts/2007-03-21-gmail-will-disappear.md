@@ -11,7 +11,7 @@ categories:
 ---
 _UPDATE: it appears that I got the new &#8220;Google Mail&#8221; logo because for some reasons Google maps my IP address to Germany, and so I got the German branding. I still think it would make sense for them to switch to a branding they can use anywhere, and thus get rid of the Gmail name. When, is anyone&#8217;s guess._
 
-[<img loading="lazy" style="float :right" src="http://farm1.static.flickr.com/187/429274072_3e686577a1_m.jpg" width="240" height="232" alt="google mail" />](http://www.flickr.com/photos/pforret/429274072/ "Photo Sharing") Now that Google changed the logo in my webmail client, I think we can say that Gmail is close to disappearing from Google&#8217;s (European) pages. They&#8217;re replacing it everywhere with the even less sexy &#8220;Google Mail&#8221;.
+[<img  style="float :right" src="http://farm1.static.flickr.com/187/429274072_3e686577a1_m.jpg" width="240" height="232" alt="google mail" />](http://www.flickr.com/photos/pforret/429274072/ "Photo Sharing") Now that Google changed the logo in my webmail client, I think we can say that Gmail is close to disappearing from Google&#8217;s (European) pages. They&#8217;re replacing it everywhere with the even less sexy &#8220;Google Mail&#8221;.
 
 This might be due to the following legal hassle Google has in Europe:
 

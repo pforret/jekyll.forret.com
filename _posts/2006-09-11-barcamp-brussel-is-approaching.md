@@ -14,7 +14,7 @@ The day is coming closer: [Barcamp Brussels II](http://barcamp.org/BarCampBrusse
 
 Some concrete info:
 
-[<img loading="lazy" src="http://static.flickr.com/89/235978075_66b15e4de0_m.jpg" style="float:right" width="240" height="160" alt="SAP Lounge" />](http://www.flickr.com/photos/pforret/235978075/ "Photo Sharing")
+[<img  src="http://static.flickr.com/89/235978075_66b15e4de0_m.jpg" style="float:right" width="240" height="160" alt="SAP Lounge" />](http://www.flickr.com/photos/pforret/235978075/ "Photo Sharing")
 
   * **breakfast starts at 09H00**. The actual speeches start around 10h, and end around 18h. 
   * the event takes place at the [SAP Lounge](http://www.saplounge.be/) (at _Arsenal_, next to VUB) 

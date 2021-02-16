@@ -16,7 +16,7 @@ Whatever the Belgian unions like [ABVV](http://www.zoekmachine.optimalisatie.jwi
 > (from [expatica.com](http://www.expatica.com/source/site_article.asp?subchannel_id=48&story_id=24399&name=Praise%2C+criticism+from+unions+and+employers+))
 
 If one takes the statistics from [UNECE (United Nations Economic Commission for Europe)](http://www.unece.org/stats/trends2005/employment.htm) of the activity rate (% of the people that are working) per age group, it is obvious to see that Belgium already has enough prepension. From the age of 40 onwards, Belgian men have the lowest activity rate of all major European countries. _(Make your own conclusions)_  
-[<img loading="lazy" width="500" height="341" alt="Economic activity rate - Men" src="http://static.flickr.com/31/54018063_e158cddfc5.jpg" />](http://www.flickr.com/photos/pforret/54018063/ "Photo Sharing")
+[<img  width="500" height="341" alt="Economic activity rate - Men" src="http://static.flickr.com/31/54018063_e158cddfc5.jpg" />](http://www.flickr.com/photos/pforret/54018063/ "Photo Sharing")
 
 Some other observations:
 
@@ -26,7 +26,7 @@ Some other observations:
   * of course they can&#8217;t beat us in retiring early, but the French come close
 
 Compare this to the activity rate for women:  
-[<img loading="lazy" width="500" height="341" alt="Economic activity rate - Women" src="http://static.flickr.com/29/54018064_752c795c9c.jpg" />](http://www.flickr.com/photos/pforret/54018064/ "Photo Sharing")
+[<img  width="500" height="341" alt="Economic activity rate - Women" src="http://static.flickr.com/29/54018064_752c795c9c.jpg" />](http://www.flickr.com/photos/pforret/54018064/ "Photo Sharing")
 
   * lowest activity rate for Spain and Italy (no surprises there)
   * most women active in Denmark: they top at 82% (the men&#8217;s top is 96%, in Germany)

@@ -14,7 +14,7 @@ categories:
 <td bgcolor="#DDDDDD" align=center> <font style='color:black; font-size: 14pt;'><br /> <strong>You Are Barney</strong><br /> </font></td> 
 <td bgcolor="#EEEEEE">
   <center>
-    <img loading="lazy" src="http://images.blogthings.com/thesimpsonspersonalitytest/barney.jpg" height="100" width="100" />
+    <img  src="http://images.blogthings.com/thesimpsonspersonalitytest/barney.jpg" height="100" width="100" />
   </center>
   
   <br /> <font color="#000000"><br /> You could have been an intellectual leader&#8230;</p> 

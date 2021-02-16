@@ -17,7 +17,7 @@ tags:
   - theory
   - week
 ---
-<figure class="wp-block-image size-large"><img loading="lazy" width="500" height="300" src="http://blog.forret.com/wp-content/uploads/2018/11/fig-13-11-2018_12-59-40.jpg" alt="" class="wp-image-1813" srcset="https://blog.forret.com/wp-content/uploads/2018/11/fig-13-11-2018_12-59-40.jpg 500w, https://blog.forret.com/wp-content/uploads/2018/11/fig-13-11-2018_12-59-40-300x180.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></figure> 
+<figure class="wp-block-image size-large"><img  width="500" height="300" src="http://blog.forret.com/wp-content/uploads/2018/11/fig-13-11-2018_12-59-40.jpg" alt="" class="wp-image-1813" srcset="https://blog.forret.com/wp-content/uploads/2018/11/fig-13-11-2018_12-59-40.jpg 500w, https://blog.forret.com/wp-content/uploads/2018/11/fig-13-11-2018_12-59-40-300x180.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />  
 
 I was recently introduced to the fact that, in some cultures, the days of the week have associated colors, and that one might take these into account when choosing what to wear, to eat or drink. I looked into it and found the explanation. These are the weekday colors, as defined by the [Ayurveda](http://en.wikipedia.org/wiki/Ayurveda), the &#8220;_ancient system of health care that is native to the Indian subcontinent_&#8220;. <figure class="wp-block-table">
 
@@ -133,7 +133,7 @@ I was recently introduced to the fact that, in some cultures, the days of the we
       <a href="https://toolstud.io/color/rgb.php?title=Maroon&hex_rgb=800000">Maroon </a>&#8211; <span style="background: #800000; color: #FFF">#800000</span>
     </td>
   </tr>
-</table></figure> 
+</table>  
 
 <li style="text-align: left;">
   Monday: <em>Lord Shiva</em> rules on Mondays. <strong>White</strong> is the color for Mondays and therefore wearing white dresses and keeping white flowers at home are recommended on Mondays. It is a good day for men seeking favors from women and for making new friends. Taking honey and cucumber on Mondays is likely to yield good results.<!--more-->

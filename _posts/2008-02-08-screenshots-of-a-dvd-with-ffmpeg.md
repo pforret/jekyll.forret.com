@@ -28,33 +28,33 @@ To give you an example: this is a script I wrote to extract screenshots of DVD f
 **1) the naive version**  
 `ffmpeg -i [input file] -r .05 -y [output name]%%03d.png`  
 This does indeed extract a PNG image every 20 seconds (framerate = 0.05), but it does not take into account that the DVD image material is stored anamorphically. What you get is this:  
-[<img loading="lazy" src="http://farm3.static.flickr.com/2410/2251354130_3c70d04cdf_m.jpg" alt="V4Vendetta_1_720.012" width="240" height="192" />](http://www.flickr.com/photos/pforret/2251354130/ "V4Vendetta_1_720.012 by PeterForret, on Flickr")  
+[<img  src="http://farm3.static.flickr.com/2410/2251354130_3c70d04cdf_m.jpg" alt="V4Vendetta_1_720.012" width="240" height="192" />](http://www.flickr.com/photos/pforret/2251354130/ "V4Vendetta_1_720.012 by PeterForret, on Flickr")  
 Natalie Portman looks really thin, but that&#8217;s because the image dimensions (720&#215;576 pixels &#8211; PAL standard) are for 5:4 aspect ratio, and whereas the actual image should be 16:9. So let&#8217;s make the image wider while keeping it the same height.
 
 **2) Rescale to 16:9**  
 `ffmpeg -i [input file] -r .05 -s 1024x576 -y [output name]%%03d.png`  
 The result looks better:  
-[<img loading="lazy" src="http://farm3.static.flickr.com/2125/2251353732_f0d3c9c74f_m.jpg" alt="V4Vendetta_1_1024.012" width="240" height="135" />](http://www.flickr.com/photos/pforret/2251353732/ "V4Vendetta_1_1024.012 by PeterForret, on Flickr")
+[<img  src="http://farm3.static.flickr.com/2125/2251353732_f0d3c9c74f_m.jpg" alt="V4Vendetta_1_1024.012" width="240" height="135" />](http://www.flickr.com/photos/pforret/2251353732/ "V4Vendetta_1_1024.012 by PeterForret, on Flickr")
 
 As you see, there are still black borders on the top and bottom. This is because a feature film is made in &#8216;scope&#8217; format, with an aspect ratio of 2.39 instead of 1.78 (the decimal equivalent of 16/9). So, while the full width of the image is used, only 428 pixels of the height are actually in use. Let&#8217;s crop those black borders off.
 
 **3) Crop black borders away**  
 `ffmpeg -i [input file] -r .05 -croptop 74 -cropbottom 74 -s 1024x428 -y [output name]%%03d.png`
 
-[<img loading="lazy" src="http://farm3.static.flickr.com/2159/2250661505_42377134ee.jpg" alt="V for Vendetta: cropped" width="500" height="209" />](http://www.flickr.com/photos/pforret/2250661505/ "V for Vendetta: cropped by PeterForret, on Flickr")
+[<img  src="http://farm3.static.flickr.com/2159/2250661505_42377134ee.jpg" alt="V for Vendetta: cropped" width="500" height="209" />](http://www.flickr.com/photos/pforret/2250661505/ "V for Vendetta: cropped by PeterForret, on Flickr")
 
 **4) old 4:3 movies**  
 The older movies used a 4:3 aspect ratio, so when you extract them as 16:9 they look like a weight fell on them:  
-[<img loading="lazy" src="http://farm3.static.flickr.com/2142/2250556757_9a5cdf6576_m.jpg" alt="MammaRoma_1024" width="240" height="135" />](http://www.flickr.com/photos/pforret/2250556757/ "MammaRoma_1024 by PeterForret, on Flickr")  
+[<img  src="http://farm3.static.flickr.com/2142/2250556757_9a5cdf6576_m.jpg" alt="MammaRoma_1024" width="240" height="135" />](http://www.flickr.com/photos/pforret/2250556757/ "MammaRoma_1024 by PeterForret, on Flickr")  
 In those cases, you can use the &#8216;naive&#8217; version above, which will give you:  
-[<img loading="lazy" src="http://farm3.static.flickr.com/2149/2250556101_cc7d436950_m.jpg" alt="MammaRoma_720" width="240" height="192" />](http://www.flickr.com/photos/pforret/2250556101/ "MammaRoma_720 by PeterForret, on Flickr")
+[<img  src="http://farm3.static.flickr.com/2149/2250556101_cc7d436950_m.jpg" alt="MammaRoma_720" width="240" height="192" />](http://www.flickr.com/photos/pforret/2250556101/ "MammaRoma_720 by PeterForret, on Flickr")
 
 Here also, the actual 4:3 image is &#8216;letterboxed&#8217; to the 5:4 DVD image.
 
 <!--more-->Why did I need to figure this out? Well, guess what movie is running on my LCD photo frame:
 
   
-[<img loading="lazy" src="http://farm3.static.flickr.com/2028/2250618987_04117271a2.jpg" alt="Lucia y el sexo" width="500" height="281" />](http://www.flickr.com/photos/pforret/2250618987/ "Lucia y el sexo by PeterForret, on Flickr")
+[<img  src="http://farm3.static.flickr.com/2028/2250618987_04117271a2.jpg" alt="Lucia y el sexo" width="500" height="281" />](http://www.flickr.com/photos/pforret/2250618987/ "Lucia y el sexo by PeterForret, on Flickr")
 
 #### Windows batch script
 

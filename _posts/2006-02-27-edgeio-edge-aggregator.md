@@ -47,7 +47,7 @@ Imagine the ease with which applications like &#8220;Most Popular [Youtube video
 ### Edgeio Buzz Timeline
 
 As a professional reporter on Web 2.0 projects, Mike knows exactly how to plan the buzz for his new project:  
-[<img loading="lazy" src="http://static.flickr.com/35/105291570_293f817809.jpg" width="500" height="338" alt="Edgeio Buzz" />](http://www.flickr.com/photos/pforret/105291570/ "Photo Sharing")
+[<img  src="http://static.flickr.com/35/105291570_293f817809.jpg" width="500" height="338" alt="Edgeio Buzz" />](http://www.flickr.com/photos/pforret/105291570/ "Photo Sharing")
 
   * 2005-10-07: Teaser: &#8220;_Edgeio will give you the ability to do new and (we think) really exciting things with your blog_&#8221; &#8211; [Techcrunch](http://www.techcrunch.com/2005/10/07/edgeio-launching-soon/) 
   * 2006-02-02: SDForum announcement &#8220;_All Your Classifieds Belong To Us_&#8221; &#8211; [Jeff Clavier](http://blog.softtechvc.com/2006/02/sdforum_search_.html) 

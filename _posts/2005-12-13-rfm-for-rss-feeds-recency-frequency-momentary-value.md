@@ -34,7 +34,7 @@ _(Side note: I learned this stuff while working in Sopres for [Stefaan Vermeiren
  
 
 Now how would this work for RSS feeds?  
-[<img loading="lazy" height="300" alt="RFM analysis for RSS feeds" src="http://static.flickr.com/34/73163154_e921c90b51.jpg" width="500" />](http://www.flickr.com/photos/pforret/73163154/ "Photo Sharing")
+[<img  height="300" alt="RFM analysis for RSS feeds" src="http://static.flickr.com/34/73163154_e921c90b51.jpg" width="500" />](http://www.flickr.com/photos/pforret/73163154/ "Photo Sharing")
 
   * **Recency**: date of last post
   * **Frequency**: average # posts per month, or mean-time-between-posts (important is that you only take into account the period from the first to the last post: if the feed contains 1 item per week but the last one was 1 year ago, the frequency is still 1/week i.e. around 4/month)

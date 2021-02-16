@@ -18,7 +18,7 @@ tags:
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
 
 <div class="wp-block-embed__wrapper">
-</div></figure> 
+</div>  
 
 <div class="wp-block-group">
   <div class="wp-block-group__inner-container">

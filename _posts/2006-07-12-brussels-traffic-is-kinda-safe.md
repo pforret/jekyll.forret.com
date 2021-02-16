@@ -11,7 +11,7 @@ categories:
   - Brussel
 ---
 Imagine my amazement: when processing the numbers from the Belgian traffic accidents in 2005 ([statbel](http://statbel.fgov.be/home_nl.asp)), Brussels turns out to be a lot safer than one would suspect. Or let&#8217;s just say: there&#8217;s worse:  
-[<img loading="lazy" src="http://static.flickr.com/73/187998059_66f07dfc0b.jpg" width="356" height="500" alt="ongevallen in Belgie: 2005" />](http://www.flickr.com/photos/pforret/187998059/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/73/187998059_66f07dfc0b.jpg" width="356" height="500" alt="ongevallen in Belgie: 2005" />](http://www.flickr.com/photos/pforret/187998059/ "Photo Sharing")  
 <!--more-->
 
   * Brussels had 5000 accidents in 2005. If we only count the heavy cases (people died or were heavily wounded), and divide that by the population, we get 0.31 heavily injured per thousand inhabitants. This is the lowest number for the whole of Belgium!!

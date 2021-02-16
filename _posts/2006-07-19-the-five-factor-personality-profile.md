@@ -14,7 +14,7 @@ categories:
 <td bgcolor="#BFE9FF" align=center> <font style='color:black; font-size: 14pt;'>Your Five Factor Personality Profile</font></td> 
 <td bgcolor="#DEF4FF">
   <center>
-    <img loading="lazy" src="http://images.blogthings.com/thefivefactorpersonalitytest/personality.jpg" height="100" width="100" />
+    <img  src="http://images.blogthings.com/thefivefactorpersonalitytest/personality.jpg" height="100" width="100" />
   </center>
   
   <br /> <font color="#000000"><br /> Extroversion:</p> 

@@ -12,7 +12,7 @@ categories:
 Just a thought I had:  
 if the &#8220;[rule of thirds](http://en.wikipedia.org/wiki/Rule_of_thirds)&#8221; is so effective for photo composition, could it also be used to create more pleasing Powerpoint presentation designs?  
 An example of the layout dimensions could be like this (don&#8217;t focus on the boring picture/font, just the relative placement):  
-[<img loading="lazy" src="http://static.flickr.com/78/216743931_779594cb56.jpg" width="500" height="400" alt="Rule of thirds for Powerpoint (no rules)" />](http://www.flickr.com/photos/pforret/216743931/ "Photo Sharing")
+[<img  src="http://static.flickr.com/78/216743931_779594cb56.jpg" width="500" height="400" alt="Rule of thirds for Powerpoint (no rules)" />](http://www.flickr.com/photos/pforret/216743931/ "Photo Sharing")
 
 Well, it has been recently discussed on [Presentation Zen](http://presentationzen.blogs.com/presentationzen/2006/06/the_power_of_th.html), with some really nice pictures. However, judging by the standard templates in Powerpoint, the people at the &#8216;Microsoft Office Powerpoint&#8217; team are not yet aware of this rule and other [design principles](http://www.digital-web.com/articles/principles_of_design/).
 

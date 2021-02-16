@@ -22,7 +22,7 @@ Interesting move! If one needed to guess a while back the type of device Nike sh
 > from [roughtype.com](http://www.roughtype.com/archives/2006/05/maxwell_smart_2.php)
 
 So now there&#8217;s an attack from a less obvious contender to that Holy Grail of Ultimate Mobile Device. Let&#8217;s take a look at that crowded space:  
-[<img loading="lazy" src="http://static.flickr.com/50/152500052_4d55f452b4.jpg" width="500" height="424" alt="Convergence: overview" />](http://www.flickr.com/photos/pforret/152500052/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/50/152500052_4d55f452b4.jpg" width="500" height="424" alt="Convergence: overview" />](http://www.flickr.com/photos/pforret/152500052/ "Photo Sharing")  
 <!--more-->
 
   
@@ -32,7 +32,7 @@ The axes are as follows:
   * the higher, the more functionality. On the bottom we see single purpose devices like a Walkman CD player, a traditional landline phone, going up we see the iPod (music, agenda, video), the PDA that is a general purpose device with smaller horsepower, and on top would be the PC/Mac, that is a fast general purpose machine.
 
 You see all types of devices that used to be single purpose (mobile phone, PDA, MP3 player, digital camera) trying to move up and to the left, trying to get a piece of that so valuable real estate: the consumer&#8217;s breast pocket or purse. Most phones can now take pictures and sync with the agenda/email box, some PDAs can be used to make phonealls and store images, and as of recently cameras are getting cross-over features: storage device, Wifi, agenda. MP3 players either expanded to heavy portable media devices (like the Archos) or to enhanced media devices: pictures, movies. The deal with Nike shows that Apple is also aiming for something else: ubiquitous personal connected storage device. Add to that phone functionality, and you have a killer device: the &#8220;iWhat?&#8221;.  
-[<img loading="lazy" src="http://static.flickr.com/52/152500055_f3282ca990.jpg" width="500" height="423" alt="Convergence: MP3 players" />](http://www.flickr.com/photos/pforret/152500055/ "Photo Sharing")
+[<img  src="http://static.flickr.com/52/152500055_f3282ca990.jpg" width="500" height="423" alt="Convergence: MP3 players" />](http://www.flickr.com/photos/pforret/152500055/ "Photo Sharing")
 
 One remark: the four types of devices are not all equally crucial to its user. What is the most painful functionality to lose? I guess for most people it&#8217;s this sequence: phone, PDA, MP3, camera. 
 

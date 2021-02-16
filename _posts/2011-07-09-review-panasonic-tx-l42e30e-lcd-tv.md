@@ -22,7 +22,7 @@ When digital TVs came out, the price for full HD (1080 lines instead of 720) was
 
 I knew I wanted an A-brand, which boiled down to Sony, Samsung, Panasonic, Philips, LG or Toshiba. Shopping for digital TV is exhausting. Each brand  seems to have 150 different models which are sometimes hard to tell apart. I know I was thinking during the shopping: I wish Apple made TV screens: they would have a 32, a 44 and a 56&#8243; model: just pick one. I wish I was able to say that I made a huge spreadsheet with all models, features and prices, created a N-variable price model and chose based on that, but honestly, I just picked one that looked nice in the shop (Vandenborre) and seemed like a good bargain. So I now have the Panasonic 42&#8243; Viera TV. Vandenborre offered to come bring and install it, but I opted for picking it up in the shop.
 
-[<img loading="lazy" title="Panasonic TV" src="http://blog2.forret.com/wp-content/uploads/2011/07/IMG_14701.jpg" alt="" width="500" height="333" />](http://blog2.forret.com/wp-content/uploads/2011/07/IMG_14701.jpg)
+[<img  title="Panasonic TV" src="http://blog2.forret.com/wp-content/uploads/2011/07/IMG_14701.jpg" alt="" width="500" height="333" />](http://blog2.forret.com/wp-content/uploads/2011/07/IMG_14701.jpg)
 
 <!--more-->
 

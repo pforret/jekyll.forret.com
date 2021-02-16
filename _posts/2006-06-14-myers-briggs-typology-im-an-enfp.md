@@ -158,7 +158,7 @@ If, for each of these four criteria/dimensions, you choose one of the possibilit
 </table>
 
 Or if you want to see some faces on those types (mostly actresses):  
-[<img loading="lazy" width="500" src="http://static.flickr.com/41/119993471_e24f0ba6e6.jpg" alt="Myers-Briggs typology for women" height="374" />](http://www.flickr.com/photos/pforret/119993471/ "Photo Sharing")
+[<img  width="500" src="http://static.flickr.com/41/119993471_e24f0ba6e6.jpg" alt="Myers-Briggs typology for women" height="374" />](http://www.flickr.com/photos/pforret/119993471/ "Photo Sharing")
 
 Keirsey uses the same letters but they sometimes [have a different meaning](http://www.teamtechnology.co.uk/keirsey-analysis.html).
 

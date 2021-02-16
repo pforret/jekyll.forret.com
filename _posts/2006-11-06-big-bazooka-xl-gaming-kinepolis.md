@@ -9,7 +9,7 @@ permalink: /2006/11/06/big-bazooka-xl-gaming-kinepolis/
 categories:
   - digital cinema
 ---
-[<img loading="lazy" src="http://static.flickr.com/115/290594299_8ccad55fa0.jpg" style="float: right" width="353" height="500" alt="Kinepolis XL-Gaming" />](http://www.flickr.com/photos/pforret/290594299/ "Photo Sharing")That 24&#8243; screen not big enough for you? Now you can a rent a movie theatre for a half hour to play [Playstation](http://www.playstation.com) games on the big screen in [Kinepolis](http://www.kinepolis.com) Brugge.
+[<img  src="http://static.flickr.com/115/290594299_8ccad55fa0.jpg" style="float: right" width="353" height="500" alt="Kinepolis XL-Gaming" />](http://www.flickr.com/photos/pforret/290594299/ "Photo Sharing")That 24&#8243; screen not big enough for you? Now you can a rent a movie theatre for a half hour to play [Playstation](http://www.playstation.com) games on the big screen in [Kinepolis](http://www.kinepolis.com) Brugge.
 
 > Thanks to the widespread digitalisation of Kinepolis cinemas, Kinepolis is developing further &#8216;alternative content&#8217; in conjunction with [Barco](http://www.barco.com/digitalcinema) and [Technicolor](http://www.technicolor.com/Cultures/En-Us/Services/Digital/). In addition to digital full-length films, cinema-goers can now also experience more and more alternative content in digital format, such as prestigious events, television series, live concerts and sports competitions &#8211; and now [XL Gaming](http://www.kinepolis.com/xlgaming), too.
 

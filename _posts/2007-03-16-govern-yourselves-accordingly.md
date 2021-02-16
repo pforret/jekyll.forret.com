@@ -42,7 +42,7 @@ I just received the following email:
 <!--more-->
 
   
-[<img loading="lazy" style="float: right;" src="http://farm1.static.flickr.com/129/423419895_14dac13999_m.jpg" alt="Domain Registry of America scam" width="183" height="240" />](http://www.flickr.com/photos/pforret/423419895/ "Photo Sharing")  
+[<img  style="float: right;" src="http://farm1.static.flickr.com/129/423419895_14dac13999_m.jpg" alt="Domain Registry of America scam" width="183" height="240" />](http://www.flickr.com/photos/pforret/423419895/ "Photo Sharing")  
 Small recap: DROA sends letters to owners of domain names urging them to renew their domain names with them. The letter looks like a bill that has to be paid. If someone falls for it, his or her domain names are transferred to and invoiced by the DROA. It is true, they include a notice in small print &#8216;This is not a bill&#8217;, but it is a scam nevertheless: they try to trick people. And so now they send me a cease-and-desist.
 
 As I researched earlier, the founders of the company, Daniel Klemann, James Tetaka and Peter Kuryliw (all from Toronto, Canada) spend a lot of time in courtrooms. The person who sent me the letter, Alan Benlolo, is apparently member of the same club:

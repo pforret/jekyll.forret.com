@@ -9,7 +9,7 @@ permalink: /2006/12/26/smokeban-countdown-5-days-to-go/
 categories:
   - Belgium
 ---
-[<img loading="lazy" src="http://farm1.static.flickr.com/123/332182145_66aade2606_m.jpg" style="float: right" width="240" height="156" alt="Mais je ne le sais pas encore" />](http://www.flickr.com/photos/pforret/332182145/ "Photo Sharing")A campaign from the French [<acronym title="Institut national de prévention et d’éducation pour la santé">INPES</acronym>](http://www.inpes.sante.fr/)
+[<img  src="http://farm1.static.flickr.com/123/332182145_66aade2606_m.jpg" style="float: right" width="240" height="156" alt="Mais je ne le sais pas encore" />](http://www.flickr.com/photos/pforret/332182145/ "Photo Sharing")A campaign from the French [<acronym title="Institut national de prévention et d’éducation pour la santé">INPES</acronym>](http://www.inpes.sante.fr/)
 
 >   * En fumant dans la meme piece que lui, j&#8217;augmente de 25% le risque qu&#8217;il meurre d&#8217;un cancer de poumon. _Ce n&#8217;est pas rien._ Mais je ne le sais pas encore. _Moi non plus._
 >   * En fumant a cote du serveur, on augmente de 50% le risque qu&#8217;il ait une crise cardiaque. _Mais on ne le sait pas encore._

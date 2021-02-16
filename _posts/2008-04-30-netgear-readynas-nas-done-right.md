@@ -18,7 +18,7 @@ tags:
 ---
 One of the most popular pages on this blog is about a storage device that has a lot of enemies and few defenders, the [SC101](http://blog.forret.com/2006/07/netgear-sc-101-urgent-support-required/). It&#8217;s Windows-only, uses a proprietary filesystem and when (not if) it starts crashing, just say bye-bye to your data. The product didn&#8217;t do much good for Netgear&#8217;s reputation. So when Netgear offered me the opportunity to test a real NAS solution, I agreed. So they sent me the [ReadyNAS NV+](http://www.netgear.com/Products/Storage/ReadyNASNVPlus.aspx).
 
-<img loading="lazy" src="http://farm1.static.flickr.com/141/331223697_f8b9d82886.jpg" alt="" width="500" height="335" /> 
+<img  src="http://farm1.static.flickr.com/141/331223697_f8b9d82886.jpg" alt="" width="500" height="335" /> 
 
 <!--more-->The ReadyNAS is a 4-bay network-attached storage device with a nice set of features. Yes, it does storage, but it also has an FTP server, an iTunes streaming server and uPnP (Universal Plug-and-Play: works with Microsoft products like Windows XP and Xbox). I&#8217;ve been able to use one for over a month and in short: I&#8217;m probably going to buy one.
 

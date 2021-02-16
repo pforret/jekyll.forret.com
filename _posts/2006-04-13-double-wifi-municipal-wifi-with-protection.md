@@ -15,7 +15,7 @@ I have written about FON before (they provide a business model for sharing one&#
 
 I see 2 scenario&#8217;s:  
 **Scenario 1: first the public**  
-[<img loading="lazy" src="http://static.flickr.com/46/127964026_7a9546cb6c.jpg" width="500" height="367" alt="Double Wifi: first the public" />](http://www.flickr.com/photos/pforret/127964026/ "Photo Sharing")
+[<img  src="http://static.flickr.com/46/127964026_7a9546cb6c.jpg" width="500" height="367" alt="Double Wifi: first the public" />](http://www.flickr.com/photos/pforret/127964026/ "Photo Sharing")
 
 Description
 :   The first router is connected to your broadband and serves the PUBLIC zone (e.g. SSID &#8220;FREEWIFI&#8221;). On one of the wired Ethernet connections (the Linksys has 4 of those) the other router is connected, that serves the PRIVATE zone (e.g. SSID &#8220;PROTECTED&#8221;). Both are in a different IP range. The PUBLIC one requires no login, the PRIVATE one requires WPA + maybe MAC address checking.
@@ -32,7 +32,7 @@ CONTRA
 
   
 **Scenario 2: first the private**  
-[<img loading="lazy" src="http://static.flickr.com/54/127964025_957e52d1aa.jpg" width="500" height="382" alt="Double Wifi: first the private" />](http://www.flickr.com/photos/pforret/127964025/ "Photo Sharing")
+[<img  src="http://static.flickr.com/54/127964025_957e52d1aa.jpg" width="500" height="382" alt="Double Wifi: first the private" />](http://www.flickr.com/photos/pforret/127964025/ "Photo Sharing")
 
 Description
 :   The first router is connected to your broadband and serves the PRIVATE zone. On one of the wired Ethernet connections, the other router is connected, that serves the PUBLIC zone. Both are in a different IP range. The PUBLIC one requires no login, the PRIVATE one requires WPA + maybe MAC address checking.
@@ -49,5 +49,5 @@ Another scenario might be (if your ISP supports it) to have 2 routers each takin
 
 Next to that, we also need routers that are bandwidth-limit conscious: let&#8217;s say that I get 25 GB from my ISP. I might want to configure that once the PUBLIC network has taken 10GB, it is cut off or limited to 256 Kbps. Or I could limit the PUBLIC throughput to 1Mbps (so I have a guaranteed 5Mbps left for INTERNAL use). Or limit streaming and BitTorrent traffic &#8230;
 
-[<img loading="lazy" src="http://static.flickr.com/48/127983841_141cb44fb0_o.jpg" style="float: right" width="249" height="263" alt="Double Wifi: prototype" />](http://www.flickr.com/photos/pforret/127983841/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/48/127983841_141cb44fb0_o.jpg" style="float: right" width="249" height="263" alt="Double Wifi: prototype" />](http://www.flickr.com/photos/pforret/127983841/ "Photo Sharing")  
 So if someone would come up with a double Wifi access point, that serves 2 different and separate Wifi zones (one on channel 6 and one on channel 11, say), with differents security (authentication) settings, that supports traffic shaping, bandwidth limits and abuse detection, and maybe even offers a Wifi VPN like Google was planning to, that would be the ideal router for municipal Wifi. Just glue those Linksys&#8217;es together!

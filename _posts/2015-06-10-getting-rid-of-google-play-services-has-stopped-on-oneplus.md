@@ -13,7 +13,7 @@ tags:
   - Google
   - oneplus
 ---
-[<img loading="lazy" class="alignnone size-full wp-image-1468" src="http://blog.forret.com/wp-content/uploads/2015/06/Google-Play-Services-Has-Stopped.jpg" alt="" width="480" height="353" srcset="https://blog.forret.com/wp-content/uploads/2015/06/Google-Play-Services-Has-Stopped.jpg 480w, https://blog.forret.com/wp-content/uploads/2015/06/Google-Play-Services-Has-Stopped-300x221.jpg 300w" sizes="(max-width: 480px) 100vw, 480px" />](http://blog.forret.com/wp-content/uploads/2015/06/Google-Play-Services-Has-Stopped.jpg)
+[<img  class="alignnone size-full wp-image-1468" src="http://blog.forret.com/wp-content/uploads/2015/06/Google-Play-Services-Has-Stopped.jpg" alt="" width="480" height="353" srcset="https://blog.forret.com/wp-content/uploads/2015/06/Google-Play-Services-Has-Stopped.jpg 480w, https://blog.forret.com/wp-content/uploads/2015/06/Google-Play-Services-Has-Stopped-300x221.jpg 300w" sizes="(max-width: 480px) 100vw, 480px" />](http://blog.forret.com/wp-content/uploads/2015/06/Google-Play-Services-Has-Stopped.jpg)
 
 One week after complete reinstallation of my OnePlus I started getting one &#8220;Unfortunately, Google Play Services has stopped&#8221; error message after the other. I tried a lot of solutions proposed online (&#8220;clear the app cache&#8221;/Goto Privacy guard/&#8230;) but none worked. Until I found this one from &#8216;ianyeo&#8217;:
 

@@ -14,10 +14,10 @@ Flickr reached a peak of nearly 100.000 pictures/hour (97.1 k#/h) and Smugmug a 
 
 ### Flickr
 
-[<img loading="lazy" src="http://farm1.static.flickr.com/154/343843812_fae2222c8f.jpg" width="500" height="135" alt="Flickr growth: photos/hour" />](http://www.flickr.com/photos/pforret/343843812/ "Photo Sharing")  
+[<img  src="http://farm1.static.flickr.com/154/343843812_fae2222c8f.jpg" width="500" height="135" alt="Flickr growth: photos/hour" />](http://www.flickr.com/photos/pforret/343843812/ "Photo Sharing")  
 (about 60 of those are mine)
 
 ### Smugmug
 
-[<img loading="lazy" src="http://farm1.static.flickr.com/162/343843815_37faaf1e88.jpg" width="500" height="135" alt="Smugmug growth: photos/hour" />](http://www.flickr.com/photos/pforret/343843815/ "Photo Sharing")  
+[<img  src="http://farm1.static.flickr.com/162/343843815_37faaf1e88.jpg" width="500" height="135" alt="Smugmug growth: photos/hour" />](http://www.flickr.com/photos/pforret/343843815/ "Photo Sharing")  
 (none of mine)

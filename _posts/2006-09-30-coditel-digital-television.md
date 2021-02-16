@@ -12,7 +12,7 @@ categories:
 Some remarks on the [Coditel digital television](http://www.coditel.be/index.php?mpage=tv-offre) system that I have been using for the last two weeks:
 
 **Way too many useless channels**  
-[<img loading="lazy" src="http://static.flickr.com/92/255896735_3e99741187.jpg" width="500" height="375" alt="Exotic channels" />](http://www.flickr.com/photos/pforret/255896735/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/92/255896735_3e99741187.jpg" width="500" height="375" alt="Exotic channels" />](http://www.flickr.com/photos/pforret/255896735/ "Photo Sharing")  
 I could now watch channels like Nile TV, Qatar TV and Al Jazeera for Kids. But no Discovery Channel or National Geographic. On the good side: I now have Vijf TV and Vitaya, which was not the case with analog TV.  
 <!--more-->
 

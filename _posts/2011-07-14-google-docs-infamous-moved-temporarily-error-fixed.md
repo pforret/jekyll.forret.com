@@ -18,7 +18,7 @@ tags:
   - publish
   - spreadsheet
 ---
-[<img loading="lazy" class="alignright wp-image-1278 size-medium" title="docs_publish" src="http://blog.forret.com/wp-content/uploads/2011/07/docs_publish1-276x300.png" alt="" width="276" height="300" srcset="https://blog.forret.com/wp-content/uploads/2011/07/docs_publish1-276x300.png 276w, https://blog.forret.com/wp-content/uploads/2011/07/docs_publish1.png 525w" sizes="(max-width: 276px) 100vw, 276px" />](http://blog.forret.com/wp-content/uploads/2011/07/docs_publish1.png)  
+[<img  class="alignright wp-image-1278 size-medium" title="docs_publish" src="http://blog.forret.com/wp-content/uploads/2011/07/docs_publish1-276x300.png" alt="" width="276" height="300" srcset="https://blog.forret.com/wp-content/uploads/2011/07/docs_publish1-276x300.png 276w, https://blog.forret.com/wp-content/uploads/2011/07/docs_publish1.png 525w" sizes="(max-width: 276px) 100vw, 276px" />](http://blog.forret.com/wp-content/uploads/2011/07/docs_publish1.png)  
 I store quite a lot of info in Google Spreadsheets, for the obvious reasons:
 
   * anyone can edit from any place, even at the same time
@@ -29,7 +29,7 @@ But there is a problem popping up at random moments with that last export or &#8
 
 The redirect is actually for authentication. Although I publish without requiring signing in, so one would expect no authentication process, there actually is one. See what it does (I used _wget_ in verbose mode to get the HTTP headers):
 
-<pre class="wp-block-code"><code>>:~$ wget -v "https://spreadsheets.google.com/(...)&output=csv"
+<pre  ><code>>:~$ wget -v "https://spreadsheets.google.com/(...)&output=csv"
 -- https://spreadsheets.google.com/(...)&output=csv
 (...)
 Location: https://www.google.com/... (first redirect)

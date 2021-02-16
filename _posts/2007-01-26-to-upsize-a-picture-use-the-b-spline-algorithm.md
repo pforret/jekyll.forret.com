@@ -17,9 +17,9 @@ Contrary to what I expected, it was not the [Lanczos](http://en.wikipedia.org/wi
 
   
 If you look at the simulation I made earlier, you see that B-spline blurs out the picture more evenly.  
-[<img loading="lazy" src="http://farm1.static.flickr.com/74/221089355_7ace4954a5.jpg" width="500" height="300" alt="Resize effect: B-spline filter" />](http://www.flickr.com/photos/pforret/221089355/ "Photo Sharing")
+[<img  src="http://farm1.static.flickr.com/74/221089355_7ace4954a5.jpg" width="500" height="300" alt="Resize effect: B-spline filter" />](http://www.flickr.com/photos/pforret/221089355/ "Photo Sharing")
 
 Lanczos creates these circular artefacts around magnification by 8 or 16.  
-[<img loading="lazy" src="http://farm1.static.flickr.com/97/221084713_e33c3b7bb6.jpg" width="500" height="300" alt="Resize effect: Lanczos filter" />](http://www.flickr.com/photos/pforret/221084713/ "Photo Sharing")
+[<img  src="http://farm1.static.flickr.com/97/221084713_e33c3b7bb6.jpg" width="500" height="300" alt="Resize effect: Lanczos filter" />](http://www.flickr.com/photos/pforret/221084713/ "Photo Sharing")
 
 I will do some tests on magnification of high-resolution photos to _super-high resolution_: e.g. from a 6 megapixel picture to 150 megapixel (width and height x 5 like above). I have a feeling the artefacts of areas that have less entropy/complexity (a 100&#215;100 pixel area might contain only some hairs of the eyebrows instead of a full face) will be different. Why would you want to create a picture bigger than 10 megapixel? An 8-megapixel should not be printed larger than 21.8&#8243; (553mm) x 16.3&#8243; (415mm) at 150dpi. With a 25 megapixel image, you can go to 38.5&#8243; (978mm) x 28.9&#8243; (734mm).

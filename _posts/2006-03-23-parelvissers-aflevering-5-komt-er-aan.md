@@ -17,4 +17,4 @@ De omerta tussen Guido, Dick en Xavier staat op springen, lijkt het. En is Lucas
 
   
 Wie is wie bij De Parelvissers:  
-[<img loading="lazy" src="http://static.flickr.com/40/105251473_7490d0d482_m.jpg" width="240" height="180" alt="De Parelvissers: geheugensteuntje" />](http://www.flickr.com/photos/pforret/105251473/ "Photo Sharing")
+[<img  src="http://static.flickr.com/40/105251473_7490d0d482_m.jpg" width="240" height="180" alt="De Parelvissers: geheugensteuntje" />](http://www.flickr.com/photos/pforret/105251473/ "Photo Sharing")

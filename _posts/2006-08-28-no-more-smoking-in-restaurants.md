@@ -10,7 +10,7 @@ categories:
   - Belgium
 ---
 <div style="float: right; width: 350; font-size: .8em; text-align: center" >
-  <a href="http://www.flickr.com/photos/pforret/227097370/" title="Photo Sharing"><img loading="lazy" src="http://static.flickr.com/69/227097370_f0e7efd1f4.jpg" width="350" height="500" alt="Jan 2007: No more smoking in restaurants" /></a><br /> ( picture is mashup from <a href="http://www.helpeenroker.be/">HelpEenRoker</a> campaign )
+  <a href="http://www.flickr.com/photos/pforret/227097370/" title="Photo Sharing"><img  src="http://static.flickr.com/69/227097370_f0e7efd1f4.jpg" width="350" height="500" alt="Jan 2007: No more smoking in restaurants" /></a><br /> ( picture is mashup from <a href="http://www.helpeenroker.be/">HelpEenRoker</a> campaign )
 </div>
 
 I am already counting down to January 1st 2007 (125 days to go). From that day onwards, it will be forbidden to smoke in Belgian restaurants. Hallelujah!

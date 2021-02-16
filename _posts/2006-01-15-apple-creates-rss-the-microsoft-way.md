@@ -16,7 +16,7 @@ When [Apple reinvented the photofeed](http://blog.forret.com/blog/2006/01/apple-
 > It&#8217;s pretty bad. There are lots of errors, the date formats are wrong, there are elements that are not in RSS that aren&#8217;t in a namespace.  
 > via [scripting.wordpress.com (Dave Winer)](http://scripting.wordpress.com/2006/01/11/welcome-to-the-wonderful-wacky-world-of-apple-rss/)
 
-[<img loading="lazy" height="436" alt="Apple photocast RSS" src="http://static.flickr.com/42/86859675_35a9a49514.jpg" width="500" />](http://www.flickr.com/photos/pforret/86859675/ "Photo Sharing")  
+[<img  height="436" alt="Apple photocast RSS" src="http://static.flickr.com/42/86859675_35a9a49514.jpg" width="500" />](http://www.flickr.com/photos/pforret/86859675/ "Photo Sharing")  
 from [static2.podcatch.com/blogs/gems/snedit/rss.xml](http://static2.podcatch.com/blogs/gems/snedit/rss.xml)
 
   * First of all, it looks like they made a &#8216;wallpaper-cast&#8217; instead of photocast. The RSS extensions are called _www.apple.com/ilife/wallpapers_.
@@ -29,7 +29,7 @@ from [static2.podcatch.com/blogs/gems/snedit/rss.xml](http://static2.podcatch.co
 
   
 Compare this to the [Flickr Photofeeds](http://www.smoothouse.com/blog/2005/08/flickr-photofeeds/): they use standard RSS 2.0, enriched with the MediaRSS extensions.  
-[<img loading="lazy" height="495" alt="Flickr Photocast/Photofeed RSS" src="http://static.flickr.com/37/86865050_ff9edbbf8b.jpg" width="500" />](http://www.flickr.com/photos/pforret/86865050/ "Photo Sharing")  
+[<img  height="495" alt="Flickr Photocast/Photofeed RSS" src="http://static.flickr.com/37/86865050_ff9edbbf8b.jpg" width="500" />](http://www.flickr.com/photos/pforret/86865050/ "Photo Sharing")  
 from [www.flickr.com](http://www.flickr.com/services/feeds/photos_public.gne?id=37855527@N00&format=rss_200_enc)
 
 My prediction: Apple will have to comply to the RSS specification (e.g. using correct dates), but they will stick to their own RSS extensions instead of using Media RSS. So if you have a need for photocasting, wait until [Feedburner](http://www.feedburner.com) have released some [Apple Photocast specific options](http://www.smoothouse.com/blog/2005/08/feedburner-photofeeds/), and let Feedburner convert your photocast feed for you:

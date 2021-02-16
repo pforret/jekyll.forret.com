@@ -27,18 +27,18 @@ But now I want to know: do I have the best formula? So I collected some data. On
 
 ### BROADBAND PRICES
 
-[<img loading="lazy" src="http://static.flickr.com/31/100186776_e4ca7694bb.jpg" width="500" height="430" alt="Broadband in Belgium: sorted by price" />](http://www.flickr.com/photos/pforret/100186776/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/31/100186776_e4ca7694bb.jpg" width="500" height="430" alt="Broadband in Belgium: sorted by price" />](http://www.flickr.com/photos/pforret/100186776/ "Photo Sharing")  
 The cheapest broadband one can get is Coditel LightClick: 22,90 &euro; for 1 Mbps. The best price/speed you can get is Telenet ExpressnetTurbo (60&euro; for a theorethical 20Mbps and an actual throughput of about 11 Mbps). The one to avoid is Belgacom ADSL Light: 30 &euro; for a meager 0,5 Mbps.
 
 ### COST OF 50GB/MON
 
 Now let&#8217;s see what happens if I would go to 50GB data transfer per month. Only 6 providers allow for this, either because their GB/mon allowance is big enough or because the price per extra GB is acceptable:  
-[<img loading="lazy" src="http://static.flickr.com/34/100202572_f347529599.jpg" width="500" height="209" alt="Broadband in Belgium: cost of 50GB/mon" />](http://www.flickr.com/photos/pforret/100202572/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/34/100202572_f347529599.jpg" width="500" height="209" alt="Broadband in Belgium: cost of 50GB/mon" />](http://www.flickr.com/photos/pforret/100202572/ "Photo Sharing")  
 Where I live, I cannot get BruTele or Chello, so the only options are Coditel (cable) and Dommel, RealDSL or Mobistar (ADSL).
 
 ### GB/MON ALLOWANCE
 
-[<img loading="lazy" src="http://static.flickr.com/30/100894746_1be89383c9.jpg" width="500" height="487" alt="Broandband in Belgium: GB/mon allowance" />](http://www.flickr.com/photos/pforret/100894746/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/30/100894746_1be89383c9.jpg" width="500" height="487" alt="Broandband in Belgium: GB/mon allowance" />](http://www.flickr.com/photos/pforret/100894746/ "Photo Sharing")  
 There are a 6 broadband subscriptions that allow unlimited download allowances: Dommel Netconnect Pro, BruTele @Home and @Turbo, RealDSL Basic and GeekDSL and Chello Extreme. The only options for me in Brussels are the 2 ADSL ones, of which the Dommel one is excessively expensive (&euro;150/month).
 
 ### CONCLUSION

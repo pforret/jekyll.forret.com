@@ -10,7 +10,7 @@ categories:
   - Belgium
 ---
 Smoking John says there is no proof that smoking causes cancer. I wouldn&#8217;t take his word for it.  
-[<img loading="lazy" src="http://farm1.static.flickr.com/135/337512809_d8341a0eff_o.jpg" width="450" height="398" alt="Smoking John" />](http://www.flickr.com/photos/pforret/337512809/ "Photo Sharing")  
+[<img  src="http://farm1.static.flickr.com/135/337512809_d8341a0eff_o.jpg" width="450" height="398" alt="Smoking John" />](http://www.flickr.com/photos/pforret/337512809/ "Photo Sharing")  
 <!--more-->
 
   

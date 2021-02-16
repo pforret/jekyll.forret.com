@@ -9,7 +9,7 @@ permalink: /2006/12/27/smokeban-countdown-4-days-to-go/
 categories:
   - Belgium
 ---
-[<img loading="lazy" src="http://farm1.static.flickr.com/134/332246030_83cdd62066_m.jpg" style="float: right" width="240" height="240" alt="Scarlett" />](http://www.flickr.com/photos/pforret/332246030/ "Photo Sharing")Why am I so looking forward to the smoking ban in Belgian restaurants? Let&#8217;s compile some reactions from abroad, when the smoking ban started there:
+[<img  src="http://farm1.static.flickr.com/134/332246030_83cdd62066_m.jpg" style="float: right" width="240" height="240" alt="Scarlett" />](http://www.flickr.com/photos/pforret/332246030/ "Photo Sharing")Why am I so looking forward to the smoking ban in Belgian restaurants? Let&#8217;s compile some reactions from abroad, when the smoking ban started there:
 
 **Argentina:**
 

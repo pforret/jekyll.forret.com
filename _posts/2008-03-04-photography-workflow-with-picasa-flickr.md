@@ -26,7 +26,7 @@ As you might know, I&#8217;m a Canonista, I use a [EOS 350D digital SLR](http://
 
 #### Step 2: import into Picasa
 
-[<img loading="lazy" src="http://farm4.static.flickr.com/3081/2310284930_6bc59e15f9.jpg" alt="picasa import2" height="420" width="500" />](http://www.flickr.com/photos/pforret/2310284930/ "picasa import2 by PeterForret, on Flickr")
+[<img  src="http://farm4.static.flickr.com/3081/2310284930_6bc59e15f9.jpg" alt="picasa import2" height="420" width="500" />](http://www.flickr.com/photos/pforret/2310284930/ "picasa import2 by PeterForret, on Flickr")
 
 <!--more-->For my photo processing I use 
 
@@ -34,7 +34,7 @@ As you might know, I&#8217;m a Canonista, I use a [EOS 350D digital SLR](http://
 
 #### Step 3: editing in Picasa
 
-[<img loading="lazy" src="http://farm4.static.flickr.com/3164/2309480093_0dcb6e6ee6.jpg" alt="picasa edit1" height="480" width="500" />](http://www.flickr.com/photos/pforret/2309480093/ "picasa edit1 by PeterForret, on Flickr")  
+[<img  src="http://farm4.static.flickr.com/3164/2309480093_0dcb6e6ee6.jpg" alt="picasa edit1" height="480" width="500" />](http://www.flickr.com/photos/pforret/2309480093/ "picasa edit1 by PeterForret, on Flickr")  
 Picasa has three different editing menus. The first one is a simple one with 6 buttons and a slider. The second is a more detailed control of colour and brightness. The last one features 12 &#8216;common effects&#8217; like conversion to B/W, sepia, saturation control &#8230;
 
 The sequence I usually follow is:
@@ -50,12 +50,12 @@ When I&#8217;m happy with the result of my tweaking, I add the picture to my sel
 
 #### Step 4: Export from Picasa
 
-[<img loading="lazy" src="http://farm3.static.flickr.com/2199/2309479773_2739bf689e.jpg" alt="picasa export" height="425" width="377" />](http://www.flickr.com/photos/pforret/2309479773/ "picasa export by PeterForret, on Flickr")  
+[<img  src="http://farm3.static.flickr.com/2199/2309479773_2739bf689e.jpg" alt="picasa export" height="425" width="377" />](http://www.flickr.com/photos/pforret/2309479773/ "picasa export by PeterForret, on Flickr")  
 When the selection/edting phase is finished, I push the &#8216;Export&#8217; button. Picasa will create a copy of each picture, with all the changes I&#8217;ve indicated, but in a smaller format. I typically use the &#8216;1200&#8217; setting: the longest side is never longer than 1200 pixels. This will give me exported pictures that are smaller than 1MB: they upload faster, but are still big enough to print if one wants to. Picasa will put these exported pictures in a separate folder under My PicturesPicasa Exports.
 
 #### Step 5: upload to Flickr
 
-[<img loading="lazy" src="http://farm3.static.flickr.com/2094/2309547663_8e860c9957_o.jpg" alt="flickr uploadr" height="445" width="392" />](http://www.flickr.com/photos/pforret/2309547663/ "flickr uploadr by PeterForret, on Flickr")  
+[<img  src="http://farm3.static.flickr.com/2094/2309547663_8e860c9957_o.jpg" alt="flickr uploadr" height="445" width="392" />](http://www.flickr.com/photos/pforret/2309547663/ "flickr uploadr by PeterForret, on Flickr")  
 When the export is finished, Picasa will pop up the new folder. I select all the images and right-click on &#8216;Send to Flickr &#8230;&#8217;. I have used both the [Flickr Uploadr](http://www.flickr.com/tools/) v2 and v3, and while the version 3 is more flexible, it sometimes doesn&#8217;t work, and the version 2 always works. So, for version 2, I add the tags that will be added to each picture and press &#8216;Finish&#8217;. When the Uploadr is finished, it will give me the option to go to the [Flickr website](http://www.flickr.com) and change titles, descriptions and tags for each picture.
 
 #### Step 6: archiving and cleaning up

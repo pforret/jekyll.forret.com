@@ -19,7 +19,7 @@ categories:
   <tr>
     <td bgColor="#dddddd">
       <center>
-        <img loading="lazy" width="100" src="http://images.blogthings.com/howcynicalareyouquiz/cynical-3.jpg" height="100" />
+        <img  width="100" src="http://images.blogthings.com/howcynicalareyouquiz/cynical-3.jpg" height="100" />
       </center>
       
       <br /> <font color="#000000"><br /> Yes, you are cynical, but more than anything, you&#8217;re a realist.<br /> You see what&#8217;s screwed up in the world, but you also take time to remember what&#8217;s right.<br /> </font>

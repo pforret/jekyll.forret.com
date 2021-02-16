@@ -12,7 +12,7 @@ categories:
 ---
 One of the memes going round for the moment is a guy whose girlfriend will let him live his dream (a threesome) if his website [pleasemakethiswork.com](http://www.pleasemakethiswork.com) receives 5.000.000 hits by the end of this year. It&#8217;s a bit like the million-dollar-page but with a (sexy) twist. I first read it through [Littl&#8217; Q](http://www.eskimokaka.be/?p=2907) (where she gets her info from, that&#8217;s a mystery) and when I saw it hitting the Belgian mainstream [Standaard Blog](http://standaard.typepad.com/en_nu_even_ernstig/2006/06/trio.html), I took a look at the page.
 
-[<img loading="lazy" src="http://static.flickr.com/22/166390670_d55a10105a.jpg" width="420" height="500" alt="Looks authentic" />](http://www.flickr.com/photos/pforret/166390670/ "Photo Sharing")
+[<img  src="http://static.flickr.com/22/166390670_d55a10105a.jpg" width="420" height="500" alt="Looks authentic" />](http://www.flickr.com/photos/pforret/166390670/ "Photo Sharing")
 
 ### First impressions
 
@@ -29,7 +29,7 @@ Let&#8217;s take look at the HTML code. It&#8217;s obviously not written by hand
 ### DNS/hosting
 
 The site is hosted by [Mistral](http://www.mistral.net), a large UK hoster. That does not tell us a lot. The DNS Whois lookup, however, is more revealing:  
-[<img loading="lazy" src="http://static.flickr.com/78/166390671_7428271e2c_o.jpg" width="372" height="171" alt="But is probably not that authentic" />](http://www.flickr.com/photos/pforret/166390671/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/78/166390671_7428271e2c_o.jpg" width="372" height="171" alt="But is probably not that authentic" />](http://www.flickr.com/photos/pforret/166390671/ "Photo Sharing")  
 The address does ring a bell. Thamesroad.co.uk is one of the NetCollex domains. Richard seems to be quite close to these guys.
 
 ### My theories

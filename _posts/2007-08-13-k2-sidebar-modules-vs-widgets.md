@@ -13,7 +13,7 @@ I [upgraded to the latest version of WordPress](http://blog.forret.com/2007/07/t
 
 #### K2 Sidebar modules
 
-[<img loading="lazy" width="500" src="http://farm2.static.flickr.com/1392/1103843665_fcb8cefb67.jpg" alt="k2-sidebar" height="324" />](http://www.flickr.com/photos/pforret/1103843665/ "Photo Sharing")
+[<img  width="500" src="http://farm2.static.flickr.com/1392/1103843665_fcb8cefb67.jpg" alt="k2-sidebar" height="324" />](http://www.flickr.com/photos/pforret/1103843665/ "Photo Sharing")
 
 The K2 theme comes with this plugin installed and it is the perfect sidebar framework:
 
@@ -22,6 +22,6 @@ The K2 theme comes with this plugin installed and it is the perfect sidebar fram
   * the blocks show the name that you gave them: you don&#8217;t have blocks named &#8216;Text 1&#8217;, &#8216;Text 2&#8217; but e.g. &#8216;About&#8217; and &#8216;Adsense&#8217;. This is much clearer if you want to change the order afterwards.
 
 Just compare this: the RSS block for K2 and Widgets:  
-[<img loading="lazy" width="236" src="http://farm2.static.flickr.com/1306/1103843121_50826cd7ee.jpg" alt="k2-sidebar-feed" height="500" />](http://www.flickr.com/photos/pforret/1103843121/ "Photo Sharing") [<img loading="lazy" width="240" src="http://farm2.static.flickr.com/1130/1103848243_e722b84928_m.jpg" alt="wp_widgets_rss" height="127" />](http://www.flickr.com/photos/pforret/1103848243/ "Photo Sharing")
+[<img  width="236" src="http://farm2.static.flickr.com/1306/1103843121_50826cd7ee.jpg" alt="k2-sidebar-feed" height="500" />](http://www.flickr.com/photos/pforret/1103843121/ "Photo Sharing") [<img  width="240" src="http://farm2.static.flickr.com/1130/1103848243_e722b84928_m.jpg" alt="wp_widgets_rss" height="127" />](http://www.flickr.com/photos/pforret/1103848243/ "Photo Sharing")
 
 Which is why I dove into the WordPress forums to find a way to disable those simplistic widgets and get my original sidebar back. Here is the trick: the [disable-wordpress-widgets](http://schulte.mn/2007/05/04/disable-wordpress-widgets/) plugin (also on [code.google.com](http://code.google.com/p/kaytwo/issues/detail?id=284) &#8211; via [wordpress.org](http://wordpress.org/extend/plugins/disable-wordpress-widgets/)) disables the Widgets. I then installed the lastest stable version of [K2 (0.9.6)](http://getk2.com/download/) over my WordPress 2.2.1 and not only are the sidebar modules active again, the sidebar was recovered as it was (from the database, probably). Awesome! Throw out those widgets!

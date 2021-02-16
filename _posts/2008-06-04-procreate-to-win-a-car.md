@@ -14,7 +14,7 @@ tags:
   - dodge
   - journey
 ---
-[<img loading="lazy" src="http://farm4.static.flickr.com/3029/2549995939_645e3ca040.jpg" alt="Dodge: baby made on board" width="500" height="303" />](http://www.flickr.com/photos/pforret/2549995939/ "Dodge: baby made on board by PeterForret, on Flickr")
+[<img  src="http://farm4.static.flickr.com/3029/2549995939_645e3ca040.jpg" alt="Dodge: baby made on board" width="500" height="303" />](http://www.flickr.com/photos/pforret/2549995939/ "Dodge: baby made on board by PeterForret, on Flickr")
 
 I&#8217;m getting old, I guess. [This ad campaign](http://www.babymadeonboard.be/) annoys me. For those who don&#8217;t understand Dutch: if you take a Dodge Journey for a test-drive on the Father&#8217;s Day weekend, and make a baby on the back seat, then you have a chance of winning a car.
 

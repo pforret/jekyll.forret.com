@@ -20,7 +20,7 @@ I&#8217;m developing a new service and I&#8217;ve decided to go all-in on Larave
 
 While Laravel Forge has an excellent auto-deploy function, you can&#8217;t use that the first time you want to deploy. You have to disable this magic `composer install` on your first run. You first need to give authentication proof to get access to private repos like Spark and Mailcoach. So you have to run the first `composer install` via ssh in interactive mode
 
-<pre class="wp-block-code"><code>$ ssh forge@&lt;yourserver&gt;
+<pre  ><code>$ ssh forge@&lt;yourserver&gt;
 $ cd /home/forge/&lt;yourdomain&gt;
 $ composer install</code></pre>
 
@@ -28,7 +28,7 @@ $ composer install</code></pre>
 
 When `composer` tries to install Laravel Spark, you will get a warning:
 
-<pre class="wp-block-code"><code>Failed to download laravel/spark-aurelius from dist: The "https://api.github.com/repos/laravel/spark-aurelius/zipball/(...)" file could not be downloaded (HTTP/1.1 404 Not Found)
+<pre  ><code>Failed to download laravel/spark-aurelius from dist: The "https://api.github.com/repos/laravel/spark-aurelius/zipball/(...)" file could not be downloaded (HTTP/1.1 404 Not Found)
 Now trying to download from source
 - Syncing laravel/spark-aurelius (v11.0.4) into cache
  Cloning failed using an ssh key for authentication, enter your GitHub credentials to access private repos
@@ -37,24 +37,24 @@ Now trying to download from source
 
 So you open a browser for [github.com/settings/tokens/new?scopes=repo](https://github.com/settings/tokens/new?scopes=repo) and create a token there (this unique token proves that in Github, you have access to the Spark repository), copy it and then paste it into your console. Composer will store this token so the next deployment will not need to ask for it.
 
-<pre class="wp-block-code"><code>Token (hidden):&nbsp;(***)&lt;br>Token stored successfully.</code></pre>
+<pre  ><code>Token (hidden):&nbsp;(***)&lt;br>Token stored successfully.</code></pre>
 
 ### Mailcoach: private [Satis](https://github.com/composer/satis) server 
 
 The Mailcoach authentication works a bit different. Spatie operates a private Packagist/Satis server at satis.spatie.be. You&#8217;ve had to add this to your `composer.json`, as explained on [github.com/spatie/laravel-mailcoach-docs](https://github.com/spatie/laravel-mailcoach-docs/blob/master/docs/package/general/installation-and-setup.md). To get access to this server in this first deployment, you need to give your username, which is your _email_, and a password, which is your _Mailcoach license key_ (64 characters). Composer will then ask to save these in a auth.json file. You should do this, because then all following deployments won&#8217;t need to ask this anymore.
 
-<pre class="wp-block-code"><code>Authentication required (satis.spatie.be):
+<pre  ><code>Authentication required (satis.spatie.be):
 Username: &lt;your email&gt;
 Password: &lt;your license key&gt;
 Do you want to store credentials for satis.spatie.be in /home/forge/.config/composer/auth.json ? &#91;Yn] Y</code></pre>
 
 Then you can go back to Forge and enable the automatic &#8220;Quick Deploy&#8221; functionality.<figure class="wp-block-image size-large">
 
-[<img loading="lazy" width="512" height="168" src="https://blog.forret.com/wp-content/uploads/2020/12/image.png" alt="" class="wp-image-2389" srcset="https://blog.forret.com/wp-content/uploads/2020/12/image.png 512w, https://blog.forret.com/wp-content/uploads/2020/12/image-300x98.png 300w" sizes="(max-width: 512px) 100vw, 512px" />](https://blog.forret.com/wp-content/uploads/2020/12/image.png)</figure> 
+[<img  width="512" height="168" src="https://blog.forret.com/wp-content/uploads/2020/12/image.png" alt="" class="wp-image-2389" srcset="https://blog.forret.com/wp-content/uploads/2020/12/image.png 512w, https://blog.forret.com/wp-content/uploads/2020/12/image-300x98.png 300w" sizes="(max-width: 512px) 100vw, 512px" />](https://blog.forret.com/wp-content/uploads/2020/12/image.png)  
 
 You&#8217;ve noticed how both procedures save their authentication in the same file `auth.json`. The file will like this:
 
-<pre class="wp-block-code"><code>{
+<pre  ><code>{
     "github-oauth": {
         "github.com": "&lt;Github token code>"
     },

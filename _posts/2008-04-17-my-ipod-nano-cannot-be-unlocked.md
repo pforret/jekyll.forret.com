@@ -14,7 +14,7 @@ tags:
   - lock
   - nano
 ---
-[<img loading="lazy" src="http://farm3.static.flickr.com/2120/2420950964_5b867c29aa.jpg" alt="iPod Nano cannot be unlocked" width="375" height="500" />](http://www.flickr.com/photos/pforret/2420950964/ "iPod Nano cannot be unlocked by PeterForret, on Flickr")
+[<img  src="http://farm3.static.flickr.com/2120/2420950964_5b867c29aa.jpg" alt="iPod Nano cannot be unlocked" width="375" height="500" />](http://www.flickr.com/photos/pforret/2420950964/ "iPod Nano cannot be unlocked by PeterForret, on Flickr")
 
 My iPod Nano has gone into the equivalent of a coma. No matter what you do with the &#8220;HOLD&#8221; switch, it remains in a locked state. So while you can see when you connect it to a PC that the music is still there and the battery still works, you cannot use it, since the play-button (as well as all the others) does not respond.
 

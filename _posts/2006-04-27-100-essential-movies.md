@@ -10,7 +10,7 @@ categories:
   - movie
 ---
 Jim Emerson has listed the 100 movies (103 actually) one should have seen to form an opinion about film  
-[<img loading="lazy" src="http://static.flickr.com/55/135867257_1acd68b6cf_m.jpg" style="float: right" width="191" height="240" alt="grace kelly" />](http://www.flickr.com/photos/pforret/135867257/ "Photo Sharing")
+[<img  src="http://static.flickr.com/55/135867257_1acd68b6cf_m.jpg" style="float: right" width="191" height="240" alt="grace kelly" />](http://www.flickr.com/photos/pforret/135867257/ "Photo Sharing")
 
 > (&#8230;) the movies you just kind of figure everybody ought to have seen in order to have any sort of informed discussion about movies. They&#8217;re the common cultural currency of our time, the basic cinematic texts that everyone should know, at minimum, to be somewhat &#8220;movie-literate.&#8221;  
 > from [rogerebert.suntimes.com](http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20060420/EDITOR/60419010) 
@@ -18,7 +18,7 @@ Jim Emerson has listed the 100 movies (103 actually) one should have seen to for
 That is a brave thing to do, because movie buffs will never agree on what those 100 movies should be, so his effort is bound to get contested. Which is what I&#8217;m going to do now.
 
 Looking at his choice, I would say the said Mr Emerson is English speaking and born before 1960. Look at the histogram:  
-[<img loading="lazy" src="http://static.flickr.com/53/135845488_834c290031.jpg" width="500" height="263" alt="Essential movies per decade" />](http://www.flickr.com/photos/pforret/135845488/ "Photo Sharing")
+[<img  src="http://static.flickr.com/53/135845488_834c290031.jpg" width="500" height="263" alt="Essential movies per decade" />](http://www.flickr.com/photos/pforret/135845488/ "Photo Sharing")
 
 **Quick stats**  
 85% of the listed movies are English spoken (mostly American). 70% of the movies were made before 1970. The best decade was the fifties (20 movies &#8211; from Hitchcock, Kurosawa, Wilder, Kazan, Godard &#8230;), then the seventies (19 movies &#8211; from Coppola, Scorsese, De Palma, Altman) and third the sixties (18 movies &#8211; Fellini, Kubrick, Bergman, Lean, Nichols).  

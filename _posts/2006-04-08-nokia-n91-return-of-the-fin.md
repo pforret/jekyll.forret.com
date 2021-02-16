@@ -23,6 +23,6 @@ Beause Nokia now has the opportunity to return with a vengeance. I have been ask
 
   
 So in the next couple of days I will be posting about my experiences with this 165g of high-tech. I am as curious as TheseDays whether I can be convinced to switch back to Nokia. Just a glance at the contenders: at your left, the Samsung E720,at your right the Nokia N91.  
-[<img src="http://static.flickr.com/43/125201191_47cc946aa9_m.jpg" alt="Samsung E720: the defender" height="185" />](http://www.flickr.com/photos/pforret/125201191/ "Photo Sharing") [<img loading="lazy" width="240" src="http://static.flickr.com/40/125201190_1937c4f41d_m.jpg" alt="Nokia N91: the challenger" height="185" />](http://www.flickr.com/photos/pforret/125201190/ "Photo Sharing")
+[<img src="http://static.flickr.com/43/125201191_47cc946aa9_m.jpg" alt="Samsung E720: the defender" height="185" />](http://www.flickr.com/photos/pforret/125201191/ "Photo Sharing") [<img  width="240" src="http://static.flickr.com/40/125201190_1937c4f41d_m.jpg" alt="Nokia N91: the challenger" height="185" />](http://www.flickr.com/photos/pforret/125201190/ "Photo Sharing")
 
 The Nokia N91 will be available in Belgium somewhere next month, the one I have seems to be #3 in the Benelux. Let&#8217;s find out if three is the magic number. In any way, a big thank you to TheseDays for qualifying me as &#8216;[an influential blogger](http://blog.thesedays.com/blog/2006/04/07/nokia-n91-a-music-lovers-wet-dream)&#8216; and letting me test this fancy piece of hardware.

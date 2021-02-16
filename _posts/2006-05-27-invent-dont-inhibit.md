@@ -24,13 +24,13 @@ Three years of constructive working and a new technology was developed that was 
 > from [research.philips.com](http://www.research.philips.com/newscenter/dossier/optrec/firstcds.html)
 
 The CD was an instant hit and made a lot of companies a lot of money:  
-[<img loading="lazy" src="http://static.flickr.com/51/153827169_7272ebf7c3.jpg" width="500" height="280" alt="CD versus LP" />](http://www.flickr.com/photos/pforret/153827169/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/51/153827169_7272ebf7c3.jpg" width="500" height="280" alt="CD versus LP" />](http://www.flickr.com/photos/pforret/153827169/ "Photo Sharing")  
 <!--more-->
 
 ### 2002
 
 What major enhancements did the recording industry add to this?  
-[<img loading="lazy" src="http://static.flickr.com/77/153827167_1f19dcd009.jpg" width="500" height="295" alt="Compact Disc family" />](http://www.flickr.com/photos/pforret/153827167/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/77/153827167_1f19dcd009.jpg" width="500" height="295" alt="Compact Disc family" />](http://www.flickr.com/photos/pforret/153827167/ "Photo Sharing")  
 In 1991 Philips tried the [CD-i (interactive CD)](http://en.wikipedia.org/wiki/CD-i) which failed. In 1993 Sony released the [SA-CD](http://www.sa-cd.net), introducing an imperceptible sound quality improvement in the hope of being able to charge even more than $20 for 1 hour of music. It&#8217;s not doing much either (only 3000 SA-CDs available).  
 In the mean time, the computer industry embraced the CD-ROM and CD-R, moved on to the DVD and will now jump on the HD-DVD/BluRay wagon. The music industry, on the other hand, only saw DVD as a delivery medium that&#8217;s slightly harder to copy, and allows adding some video and larger booklets in order to charge more.  
 The Fraunhofer Institute released the first [MPEG1 Layer 3 encoder](http://en.wikipedia.org/wiki/MP3) in 1994, within 5 years MP3 became the most disruptive technology to music distribution. The recording industry did basically nothing until 2000, when they sued [Napster](http://en.wikipedia.org/wiki/Napster).  

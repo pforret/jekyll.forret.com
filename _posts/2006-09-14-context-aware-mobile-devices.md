@@ -11,7 +11,7 @@ categories:
   - smartphones
 ---
 RIM, the maker of the fancy [Blackberry](http://www.blackberry.com/) devices, has filed a patent application for a technique that allows devices to &#8216;guess&#8217; in what kind of environment they are:  
-[<img loading="lazy" src="http://static.flickr.com/80/243093440_9e6c67c6cc_m.jpg" style="float: right" width="157" height="240" alt="Blackberry" />](http://www.flickr.com/photos/smoothouse/243093440/ "Photo Sharing")
+[<img  src="http://static.flickr.com/80/243093440_9e6c67c6cc_m.jpg" style="float: right" width="157" height="240" alt="Blackberry" />](http://www.flickr.com/photos/smoothouse/243093440/ "Photo Sharing")
 
 > The new Blackberrys would occasionally and very briefly vibrate. This should be too short to be mistaken for a message alert but just long enough for an accelerometer inside the device to measure how much it moves. This tells the Blackberry whether it is on top of a flat table, in a person&#8217;s hand or stuffed inside a pocket.
 > 

@@ -13,7 +13,7 @@ One of the more popular pages on this blog is the [post about Richard and Katie]
 
 ### Richard and Katie
 
-[<img loading="lazy" src="http://static.flickr.com/76/222085480_1573e6a3db_m.jpg" style="float: right" width="240" height="192" alt="Richard, Katie and Holly" />](http://www.flickr.com/photos/pforret/222085480/ "Photo Sharing")The old URL now consists of a redirect page to [www.richardandkatie.co.uk](http://www.richardandkatie.co.uk/) (NSFW). On this new site, we learn that the three-way action did take place, it took a full 45 minutes and they&#8217;re still editing it into a 20-minute video that will be available soon. The reinforcement they invited goes by the name of Holly, a dark-haired girl with an above-average cup-size.
+[<img  src="http://static.flickr.com/76/222085480_1573e6a3db_m.jpg" style="float: right" width="240" height="192" alt="Richard, Katie and Holly" />](http://www.flickr.com/photos/pforret/222085480/ "Photo Sharing")The old URL now consists of a redirect page to [www.richardandkatie.co.uk](http://www.richardandkatie.co.uk/) (NSFW). On this new site, we learn that the three-way action did take place, it took a full 45 minutes and they&#8217;re still editing it into a 20-minute video that will be available soon. The reinforcement they invited goes by the name of Holly, a dark-haired girl with an above-average cup-size.
 
 > The video will be put up on the site a.s.a.p its taking a few days due to editing &ndash; because believe me there are a couple of things that should be left to the imagination &ndash; for one my inability to perform during the first half hour&hellip; but more on that another day!!!
 
@@ -22,7 +22,7 @@ One of the more popular pages on this blog is the [post about Richard and Katie]
   
 There is a preview of the video, some screenshots from the video, an empty &#8220;Daily Journal&#8221;, an empty &#8220;Your videos&#8221;, some pictures on the &#8220;Your pictures&#8221; page and a &#8220;Chat board&#8221; (a phpBB forum). They promise to update the site on a daily basis, and I think they mean with that the forum they started on August 11th. Most comments there are either &#8220;_when will the video be ready_&#8220;, &#8220;_is this for real_&#8221; or &#8220;_I think threesomes are bad for your relationship/ emancipation/ ego/ knees/&#8230;_&#8220;. Richard concludes most discussions with &#8220;wait and see!&#8221;.
 
-[<img loading="lazy" src="http://static.flickr.com/78/222093221_1c77c50761.jpg" width="500" height="95" alt="Richard and Katie banner" />](http://www.flickr.com/photos/pforret/222093221/ "Photo Sharing")
+[<img  src="http://static.flickr.com/78/222093221_1c77c50761.jpg" width="500" height="95" alt="Richard and Katie banner" />](http://www.flickr.com/photos/pforret/222093221/ "Photo Sharing")
 
 ### Forensics
 

@@ -9,7 +9,7 @@ permalink: /2007/01/09/create-your-own-wordpress-plugin/
 categories:
   - Wordpress
 ---
-[<img loading="lazy" src="http://farm1.static.flickr.com/126/351892220_a44ce6173d.jpg" width="500" height="208" alt="wp-plugins" />](http://www.flickr.com/photos/pforret/351892220/ "Photo Sharing")  
+[<img  src="http://farm1.static.flickr.com/126/351892220_a44ce6173d.jpg" width="500" height="208" alt="wp-plugins" />](http://www.flickr.com/photos/pforret/351892220/ "Photo Sharing")  
 Wordpress has a really nifty system for adding functionality: the [WP plugins](http://codex.wordpress.org/Plugins). There are a ton of them around, but if you have some knowledge of SQL and PHP you can make your own plugins! You of course have to know how to display stuff, how to add a configuration panel to the Options or Manage tab, &#8230; When I read the code of some well-developed plugins, I thought: it should be easy to come up with a WordPress plugin template generator. So that&#8217;s what I did: here&#8217;s the first (far from complete) version of the [WordPress Plugin Generator](http://web.forret.com/tools/wp-plugin.asp)!
 
 Currently it supports the following features:

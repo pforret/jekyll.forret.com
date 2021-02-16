@@ -14,7 +14,7 @@ Een tijdje geleden merkte ik dat krantenkoppen.be verdwenen was. Ik gebruikte di
 
 [**belgie.popnuuz.com &#8211; overzicht van Belgische krantenartikels**](http://belgie.popnuuz.com)
 
-[<img loading="lazy" src="http://farm4.static.flickr.com/3348/3515224756_c24e7a783f.jpg" alt="Krantenkoppen: belgie.popnuuz.com" width="500" height="361" />](http://www.flickr.com/photos/pforret/3515224756/ "Krantenkoppen: belgie.popnuuz.com by PeterForret, on Flickr")
+[<img  src="http://farm4.static.flickr.com/3348/3515224756_c24e7a783f.jpg" alt="Krantenkoppen: belgie.popnuuz.com" width="500" height="361" />](http://www.flickr.com/photos/pforret/3515224756/ "Krantenkoppen: belgie.popnuuz.com by PeterForret, on Flickr")
 
 Ik heb mijn inspiratie getrokken uit zowel krantenkoppen.be als popurls.com . Je ziet een korte inhoud van het artikel als je over de link gaat met je muis (&#8216;_mouse-over_&#8216;) zodat je beter kan beslissen of je het artikel wil lezen of niet. Er is een splitsing op topics: zowel inhoudelijk (binnenland/buitenland/economie/&#8230;) als geografisch (per provincie), en per categorie wordt er een top 50 bijgehouden, alsook een globale top 50. Hoe meer mensen de site gebruiken als nieuwsoverzicht en doorklikken naar artikles, hoe waardevoller de [Populaire Artikels in Belgie &#8211; belgie.popnuuz.com/pop](http://belgie.popnuuz.com/pop/) link wordt.
 

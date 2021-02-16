@@ -25,7 +25,7 @@ I&#8217;ve had my iPhone for a week (loving it!) and of course I want to make cu
   * You don&#8217;t need a 5 min ringtone, just 15 to 30 seconds will be enough
   * I use [Audacity](http://audacity.sourceforge.net/) (with the [LAME MP3 encoder add-on](http://audacity.sourceforge.net/help/faq?s=install&item=lame-mp3)) to load the full source MP3 file, trim out the piece I want and then add a fade-in and fade-out.
 
-[<img loading="lazy" src="http://farm4.static.flickr.com/3324/3276474433_b361c195dc.jpg" alt="Make iPhone ringtone with Audacity" width="500" height="278" />](http://www.flickr.com/photos/pforret/3276474433/ "Make iPhone ringtone with Audacity by PeterForret, on Flickr")
+[<img  src="http://farm4.static.flickr.com/3324/3276474433_b361c195dc.jpg" alt="Make iPhone ringtone with Audacity" width="500" height="278" />](http://www.flickr.com/photos/pforret/3276474433/ "Make iPhone ringtone with Audacity by PeterForret, on Flickr")
 
 **3. Export to MP3**
 

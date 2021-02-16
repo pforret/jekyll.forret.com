@@ -11,7 +11,7 @@ categories:
   - Google
   - Web2.0
 ---
-[<img loading="lazy" src="http://static.flickr.com/47/135334844_7aa10a682c_m.jpg" style="float: right" width="240" height="166" alt="Google dollars" />](http://www.flickr.com/photos/pforret/135334844/ "Photo Sharing")
+[<img  src="http://static.flickr.com/47/135334844_7aa10a682c_m.jpg" style="float: right" width="240" height="166" alt="Google dollars" />](http://www.flickr.com/photos/pforret/135334844/ "Photo Sharing")
 
 > Last year, Google took in about $2.7 billion through ads on other people&#8217;s sites, accounting for 44% of its ad revenues. Most of that money probably came through big sites, but a decent portion must have come from the little guys. When you add up all the under-$100 AdSense balances earned by the Scott Karps of the world, the total must be a pretty impressive number. That&#8217;s free working capital for Google, or it can invest the stash and make even more money. It&#8217;s a devilishly good idea.  
 > [roughtype.com](http://www.roughtype.com/archives/2006/04/the_great_googl.php) via [kingsley2.com](http://www.kingsley2.com/archives/2006/04/25/the-long-tail-of-spare-change) and [google.blognewschannel.com](http://google.blognewschannel.com/index.php/archives/2006/04/26/where-does-google-adsense-make-money/)

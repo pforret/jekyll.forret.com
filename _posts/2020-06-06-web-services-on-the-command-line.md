@@ -38,7 +38,7 @@ Alternatives: [ip-api.com](https://ip-api.com/), [ifconfig.io](https://ifconfig.
 
 Igor Chubin has developed a neat ASCII weather forecast service [wttr.in](https://wttr.in/) that works great in CLI mode. It runs on Python and the code is on [chubin/wttr.in](https://github.com/chubin/wttr.in).<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="916" height="560" src="https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-06-at-13.38.18.png" alt="" class="wp-image-2277" srcset="https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-06-at-13.38.18.png 916w, https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-06-at-13.38.18-300x183.png 300w, https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-06-at-13.38.18-768x470.png 768w" sizes="(max-width: 916px) 100vw, 916px" /> </figure> 
+<img  width="916" height="560" src="https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-06-at-13.38.18.png" alt="" class="wp-image-2277" srcset="https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-06-at-13.38.18.png 916w, https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-06-at-13.38.18-300x183.png 300w, https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-06-at-13.38.18-768x470.png 768w" sizes="(max-width: 916px) 100vw, 916px" />   
 
   * `curl wttr.in` : get the weather for the location your computer is at
   * `curl wttr.in/London` : get the weather for London
@@ -57,7 +57,7 @@ Igor also developed [cheat.sh](https://cheat.sh/) (github: [chubin/cheat.sh](htt
 
 Another genius project of Igor Chubin: [qrenco.de](http://qrenco.de) ([github](https://github.com/chubin/qrenco.de))<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="367" height="272" src="https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-06-at-15.02.21.png" alt="" class="wp-image-2278" srcset="https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-06-at-15.02.21.png 367w, https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-06-at-15.02.21-300x222.png 300w" sizes="(max-width: 367px) 100vw, 367px" /> </figure> 
+<img  width="367" height="272" src="https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-06-at-15.02.21.png" alt="" class="wp-image-2278" srcset="https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-06-at-15.02.21.png 367w, https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-06-at-15.02.21-300x222.png 300w" sizes="(max-width: 367px) 100vw, 367px" />   
 
 ## Bandwidth speed
 
@@ -108,11 +108,11 @@ https://0x0.st/iOC_.jpg</pre>
 
 Another CLI service by Igor chubin : [rate.sx](https://rate.sx/) for cryptocurrency exchange rates.<figure class="wp-block-image size-large is-resized">
 
-<img loading="lazy" src="https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-06-at-15.09.36.png" alt="" class="wp-image-2279" width="640" height="544" srcset="https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-06-at-15.09.36.png 679w, https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-06-at-15.09.36-300x255.png 300w" sizes="(max-width: 640px) 100vw, 640px" /> </figure> 
+<img  src="https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-06-at-15.09.36.png" alt="" class="wp-image-2279" width="640" height="544" srcset="https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-06-at-15.09.36.png 679w, https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-06-at-15.09.36-300x255.png 300w" sizes="(max-width: 640px) 100vw, 640px" />   
 
 I had to search a bit but I also found an API for &#8216;regular&#8217; currency exchange rates: [exchangeratesapi.io](https://exchangeratesapi.io/) (via [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets))<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="550" height="579" src="https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-07-at-12.29.22.png" alt="" class="wp-image-2289" srcset="https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-07-at-12.29.22.png 550w, https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-07-at-12.29.22-285x300.png 285w" sizes="(max-width: 550px) 100vw, 550px" /> </figure> 
+<img  width="550" height="579" src="https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-07-at-12.29.22.png" alt="" class="wp-image-2289" srcset="https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-07-at-12.29.22.png 550w, https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-07-at-12.29.22-285x300.png 285w" sizes="(max-width: 550px) 100vw, 550px" />   
 
 ## Symbolic maths
 

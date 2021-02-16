@@ -13,7 +13,7 @@ tags:
   - bose
   - speaker
 ---
-<a title="SoundLink" href="https://www.flickr.com/photos/gential/14780877183/in/photolist-ow8RQ4-cNZMTh-byb26k-bWo1uY-bCtCeG-bZEZiw-bSoUfD-dCP8no-c3P7to-cxaXej-doJfTa-hygAgw-bUCb6N-bXYT8d-doJozs-bVXsxs-bxjkdq-doJowE-gYVLPv-doJfJD-bUCcdG-bUCbU9-bUCaem-bUCaAh-h4Jmko-gYUS4J-doJoGJ-bUCcHw-draBjP-bUCbty-cWqum3-doJorN-dxTuZQ-dxTw6W-draxwH-doJN5t-draJWf-dxTwbA-dxN3aa-da27yU-dxN4ax-gYUQ76-gYUTb1-dv1gVM-doJfDp-dF1Xin-doJoMG-doJVR9-dxzuwo-bmkHLd" data-flickr-embed="true"><img loading="lazy" src="https://c8.staticflickr.com/6/5557/14780877183_87d7e7cf4d_z.jpg" alt="SoundLink" width="640" height="569" /></a>
+<a title="SoundLink" href="https://www.flickr.com/photos/gential/14780877183/in/photolist-ow8RQ4-cNZMTh-byb26k-bWo1uY-bCtCeG-bZEZiw-bSoUfD-dCP8no-c3P7to-cxaXej-doJfTa-hygAgw-bUCb6N-bXYT8d-doJozs-bVXsxs-bxjkdq-doJowE-gYVLPv-doJfJD-bUCcdG-bUCbU9-bUCaem-bUCaAh-h4Jmko-gYUS4J-doJoGJ-bUCcHw-draBjP-bUCbty-cWqum3-doJorN-dxTuZQ-dxTw6W-draxwH-doJN5t-draJWf-dxTwbA-dxN3aa-da27yU-dxN4ax-gYUQ76-gYUTb1-dv1gVM-doJfDp-dF1Xin-doJoMG-doJVR9-dxzuwo-bmkHLd" data-flickr-embed="true"><img  src="https://c8.staticflickr.com/6/5557/14780877183_87d7e7cf4d_z.jpg" alt="SoundLink" width="640" height="569" /></a>
 
 Thanks to the nice people at [Bose Belgium](http://www.bosebelgium.be), I have been using the [Bose Soundlink](http://www.engadget.com/2011/09/15/bose-unveils-soundlink-wireless-mobile-speaker-fancies-up-a2dp/) for a couple of weeks, and when I left for a trip to Buenos Aires last month, I thought: why not take it along? After all, it&#8217;s only 1.3kg and it could give me some better sound in the hotel. I did not regret it.
 

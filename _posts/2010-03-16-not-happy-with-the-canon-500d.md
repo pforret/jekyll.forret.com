@@ -12,7 +12,7 @@ tags:
   - canon
   - dslr
 ---
-[<img loading="lazy" src="http://farm1.static.flickr.com/52/178964174_865c386647.jpg" alt="Couleur Cafe 2006" width="500" height="500" />](http://www.flickr.com/photos/pforret/178964174/ "Couleur Cafe 2006")  
+[<img  src="http://farm1.static.flickr.com/52/178964174_865c386647.jpg" alt="Couleur Cafe 2006" width="500" height="500" />](http://www.flickr.com/photos/pforret/178964174/ "Couleur Cafe 2006")  
 In June 2006 I bought my first reflex camera: a Canon 350D. About the same time I started taking pictures of tango (above: my first tango picture, at Couleur Cafe 2006). And it was the start of an exciting journey. Concerts, milongas, tango festivals, portraits, I discovered the joy of creating &#8211; or recording &#8211;  beauty. It has become a passion, and a privilege to do. I love the concentration, the play with light, the search for the right frame, the waiting for the perfect moment and then, every now and then, the joy of seeing that you&#8217;ve created an image that actualy IS worth a thousand words.
 
 Along that way, my 350D was my trusted accomplice. I took it everywhere, first in a simple black camera bag, afterwards, when I started buying more lenses, in a Lowepro backpack. Eventhough the screen on the back of the camera was small, it gave me enough feedback to know whether I was taking pictures the right way, allowed me to finetune ISO, whitebalance, shutterspeed. It sometimes felt like the extension of my hand, of my eye. I just loved that camera.
@@ -23,9 +23,9 @@ But then, end 2009, it started breaking down. First random power issues, then ju
 
 Thank god, [a dear friend photographer](http://b-art.skynetblogs.be/) let me borrow his own 350D as a second camera (he had switched to the 5D), and I found back some of the joy. I used both cameras next to one another, one with a 30mm f/1.4 lens, one with a 70-200mm f/2.8. Then, one evening at [Milonga de Gante](http://www.milongadegante.be/), I decided to really compare. I took pictures with the same lens, in the same place, with standard settings. The difference was so clear. Any picture that had colors that looked somewhat pleasing: 350D. Any picture so washed out in a dirty pink color that I had to desaturate it at least halfway to black/white to actually resemble anything human: 500D.
 
-350D: [<img loading="lazy" src="http://farm5.static.flickr.com/4009/4383264176_416ac0c93b.jpg" alt="Milonga de Gante 2" width="333" height="500" />](http://www.flickr.com/photos/pforret/4383264176/ "Milonga de Gante 2 by Peter Forret, on Flickr")
+350D: [<img  src="http://farm5.static.flickr.com/4009/4383264176_416ac0c93b.jpg" alt="Milonga de Gante 2" width="333" height="500" />](http://www.flickr.com/photos/pforret/4383264176/ "Milonga de Gante 2 by Peter Forret, on Flickr")
 
-500D:[<img loading="lazy" src="http://farm5.static.flickr.com/4053/4383269118_9468405d2b.jpg" alt="Milonga de Gante 2" width="333" height="500" />](http://www.flickr.com/photos/pforret/4383269118/ "Milonga de Gante 2 by Peter Forret, on Flickr")
+500D:[<img  src="http://farm5.static.flickr.com/4053/4383269118_9468405d2b.jpg" alt="Milonga de Gante 2" width="333" height="500" />](http://www.flickr.com/photos/pforret/4383269118/ "Milonga de Gante 2 by Peter Forret, on Flickr")
 
 (BTW, I have much better examples of just how ugly the colors are on the 500D, but I haven&#8217;t published any. It goes against my instinct.)
 

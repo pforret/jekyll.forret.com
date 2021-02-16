@@ -14,7 +14,7 @@ tags:
   - barcampbrussels
   - brussels
 ---
-[<img loading="lazy" width="500" src="http://farm3.static.flickr.com/2137/2054420483_e0bedc98f9.jpg" alt="barcamp brussels #4" height="165" />](http://www.flickr.com/photos/pforret/2054420483/ "barcamp brussels #4 by PeterForret, on Flickr")
+[<img  width="500" src="http://farm3.static.flickr.com/2137/2054420483_e0bedc98f9.jpg" alt="barcamp brussels #4" height="165" />](http://www.flickr.com/photos/pforret/2054420483/ "barcamp brussels #4 by PeterForret, on Flickr")
 
 Barcamp Brussels #4 is coming closer: [Saturday Dec 1st](http://www.barcamp.be/blog/2007/11/08/barcamp-4-dec-1-at-mvillage/) is 10 days away. Our main sponsor is MSN/Windows Live.
 

@@ -12,7 +12,7 @@ categories:
 ---
 I am using [Google Agenda](http://www.google.com/calendar/) as the central repository for the [milonga.be Belgian tango agenda](http://www.milonga.be/dancing/), which I edit together with half a dozen other tango enthusiasts. While the principle of a central, hosted calendar storage works wonderfully, I (have to) use a modified [PHPiCalendar](http://phpicalendar.net/) to display different views on the agenda (&#8216;only Brussels&#8217;, &#8216;only workshops&#8217;, &#8216;1 week in advance&#8217;, &#8216;1 month in advance&#8217;, &#8230;). There are actually a couple of features that I&#8217;d like to see in Google Agenda, and what better place to list them but here:
 
-[<img loading="lazy" width="500" src="http://farm2.static.flickr.com/1327/1203281910_a78cb6d2f8.jpg" alt="Google Agenda: desired features" height="365" />](http://www.flickr.com/photos/pforret/1203281910/ "Photo Sharing")
+[<img  width="500" src="http://farm2.static.flickr.com/1327/1203281910_a78cb6d2f8.jpg" alt="Google Agenda: desired features" height="365" />](http://www.flickr.com/photos/pforret/1203281910/ "Photo Sharing")
 
 ### Metadata/Folksonomy
 

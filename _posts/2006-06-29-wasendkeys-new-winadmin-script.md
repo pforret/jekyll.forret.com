@@ -9,7 +9,7 @@ permalink: /2006/06/29/wasendkeys-new-winadmin-script/
 categories:
   - winadmin
 ---
-[<img loading="lazy" src="http://static.flickr.com/73/177594344_1f1bf99f43_m.jpg" style="float: right" width="111" height="240" alt="winadmin tools" />](http://www.flickr.com/photos/pforret/177594344/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/73/177594344_1f1bf99f43_m.jpg" style="float: right" width="111" height="240" alt="winadmin tools" />](http://www.flickr.com/photos/pforret/177594344/ "Photo Sharing")  
 Over on the brand new, freshly painted [Winadmin scripts](http://winadmin.forret.com) site:  
 [waSendKeys.wsf 1.0](http://winadmin.forret.com/2006/06/wasendkeys-version-10/) was just released.
 

@@ -9,7 +9,7 @@ permalink: /2006/04/24/she-good-writer-1/
 categories:
   - women
 ---
-[<img loading="lazy" src="http://static.flickr.com/44/133773021_1c7d522548_m.jpg" style="float: right" width="240" height="135" alt="She good writer" />](http://www.flickr.com/photos/pforret/133773021/)Let&#8217;s introduce some blogs that are worth spending some time on, but non-technical and written by women.
+[<img  src="http://static.flickr.com/44/133773021_1c7d522548_m.jpg" style="float: right" width="240" height="135" alt="She good writer" />](http://www.flickr.com/photos/pforret/133773021/)Let&#8217;s introduce some blogs that are worth spending some time on, but non-technical and written by women.
 
 The first blog is written by [Ingrid Copp&eacute;](http://ingridgoesnewzealand.blogspot.com/), the director of the short film &#8220;[Another Day](http://brussel.blogt.be/2005/10/10/ingrid-coppe-filmfestival-gent.html)&#8220;. She&#8217;s currently working in New-Zealand on some movies. She has a very sharp sense of humour and doesn&#8217;t take herself too seriously. And she&#8217;s Bieke&#8217;s [best friend](http://vanhellemont.blogspot.com/2006/04/we-crazy-as-ever.html).
 

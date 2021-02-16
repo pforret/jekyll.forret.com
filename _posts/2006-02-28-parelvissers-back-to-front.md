@@ -19,6 +19,6 @@ _Klik op de foto om op Flickr mee te doen_](http://www.flickr.com/photos/pforret
 Mijn kleine teentje zegt me dat de dames in het gezelschap eerder aan de rechtse kant zitten, maar het zijn allebei donkere types, dus dat helpt nog niet eens zoveel.
 
 De volgende foto&#8217;s kunnen helpen omdat we kunnen veronderstellen dat de haarsnit en baardgroei (voor de mannen dan) erop dezelfde is als de foto hierboven.  
-<img loading="lazy" height="134" alt="De Parelvissers aan zee #1" src="http://static.flickr.com/36/105938306_2591eccdec_m.jpg" width="240" /><img loading="lazy" height="140" alt="De Parelvissers aan zee #2" src="http://static.flickr.com/52/105938307_887c8396b1_m.jpg" width="240" /> 
+<img  height="134" alt="De Parelvissers aan zee #1" src="http://static.flickr.com/36/105938306_2591eccdec_m.jpg" width="240" /><img  height="140" alt="De Parelvissers aan zee #2" src="http://static.flickr.com/52/105938307_887c8396b1_m.jpg" width="240" /> 
 
 Uw inzicht in de menselijke fysionomie wordt op prijs gesteld!

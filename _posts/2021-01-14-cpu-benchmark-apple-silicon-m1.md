@@ -25,19 +25,19 @@ When I started working with my Mac Mini M1, I felt it was faster, but I couldn&#
 
 For my first benchmark, I take a large photo from Unsplash ([Landscape by David Marcu](https://unsplash.com/photos/o0RZkkL072U), 4288&#215;2848) and prepare a low-res, B/W version of it, and then use `ffmpeg` to create a cross-fade MP4 from the low res to the hi-res photo, a 5 seconds movie at 10 fps. That is 50 frames of 12 megapixels. This takes a Mac Mini M1 about 75 seconds.<figure class="wp-block-image size-large">
 
-[<img loading="lazy" width="600" height="400" src="https://blog.forret.com/wp-content/uploads/2021/01/xfade.gif" alt="" class="wp-image-2411" />](https://blog.forret.com/wp-content/uploads/2021/01/xfade.gif)<figcaption>low-res GIF of the actual MP4 that is rendered through ffmpeg</figcaption></figure> 
+[<img  width="600" height="400" src="https://blog.forret.com/wp-content/uploads/2021/01/xfade.gif" alt="" class="wp-image-2411" />](https://blog.forret.com/wp-content/uploads/2021/01/xfade.gif)<figcaption>low-res GIF of the actual MP4 that is rendered through ffmpeg</figcaption>  
 
 ## Benchmark 2: primitive
 
 [fogleman/primitive](https://github.com/fogleman/primitive/) is a cool Go package that reduces a picture to N primitive shapes. I use it often (e.g. [instagram](https://www.instagram.com/squaredforwork/)[.com/squaredforwork](https://www.instagram.com/squaredforwork)) because I like to experiment with how much information your brain needs to recognize familiar images. It also is very CPU intensive, certainly when you create a GIF movie where a shape is added every frame. It takes the Mac Mini M1 almost 100 seconds to generate the GIF sequence.<figure class="wp-block-image size-large">
 
-[<img loading="lazy" width="600" height="400" src="https://blog.forret.com/wp-content/uploads/2021/01/primlow.gif" alt="" class="wp-image-2412" />](https://blog.forret.com/wp-content/uploads/2021/01/primlow.gif)<figcaption>low-res GIF of the actual sequence that is rendered through primitive</figcaption></figure> 
+[<img  width="600" height="400" src="https://blog.forret.com/wp-content/uploads/2021/01/primlow.gif" alt="" class="wp-image-2412" />](https://blog.forret.com/wp-content/uploads/2021/01/primlow.gif)<figcaption>low-res GIF of the actual sequence that is rendered through primitive</figcaption>  
 
 ## Running the benchmarks
 
 I created a bash script [**github.com/pforret/m1_benchmark**](https://github.com/pforret/m1_benchmark) (with [bashew](https://github.com/pforret/bashew), of course) that runs these two benchmarks, and calculates an index %, compared to my computer (the 2020 Mac Mini M1 8GB). It saves the results as a .md Markdown file in the `results` folder. Anyone who wants, can test their Apple (or Linux) machine by `git clone`-ing the repo and running the script. They can even do better: fork the repo, run the script, commit and push the results of their own machine and then issue a **pull request**, so I can add their results to the main repository.
 
-<pre class="wp-block-code"><code>macOS 11.1 i386
+<pre  ><code>macOS 11.1 i386
     Hardware details: Macmini9,1 - 8 CPUs - 8 GiB RAM - Apple M1 GPU
     CPU details : Apple M1
     OS Details : macOS 11.1
@@ -64,7 +64,7 @@ PS: the performance of both benchmarks varies a bit every time you run it. With 
 
 When I bought my old MBP laptop in 2013, it was an impressive machine, with an impressive price. I&#8217;ve used it mainly for photography and software development. It has become more and more buggy the last year (CPU overheating, screen flickering, &#8230;). And it feels slow, certainly compared to the M1.
 
-<pre class="wp-block-code"><code># macOS 11.1 i386
+<pre  ><code># macOS 11.1 i386
     * Hardware details: MacBookPro11,1 - 4 CPUs - 16 GiB RAM - Intel Iris GPU
     * CPU details : Intel(R) Core(TM) i7-4558U CPU @ 2.80GHz
 
@@ -88,7 +88,7 @@ PS: This MacBook Pro claims 4 cores, but it&#8217;s actual 4 _virtual cores_ on 
 
 The other machine I have handy is my work laptop. I was always rather happy with its performance. I am using Ubuntu 16 via WSL1 (Windows Subsystem for Linux).
 
-<pre class="wp-block-code"><code># Ubuntu 16.04 x86_64
+<pre  ><code># Ubuntu 16.04 x86_64
 * Hardware details: 8 CPUs - 16 GiB RAM - Nvidia GeForce GTX1050 GPU
 * CPU details     : Intel(R)Core(TM)i7-7700HQCPU@2.80GHz
  

@@ -26,4 +26,4 @@ The advantages:
 > _Research analyst Sam Bhavnani, of the market research firm Current Analysis, says that iTunes has 200 million users. Research analyst Shaw Wu, of the market research firm American Technology Research, gives a figure of 100 million. Oddly, Apple itself gives a much lower number: 10 million._  
 > [Google Answers](http://answers.google.com/answers/threadview?id=602246)
 
-[<img loading="lazy" src="http://farm3.static.flickr.com/2624/3839884804_ea5e62cf63.jpg" alt="iPod Touch running inside iTunes" width="500" height="435" />](http://www.flickr.com/photos/pforret/3839884804/ "iPod Touch running inside iTunes by Peter Forret, on Flickr")
+[<img  src="http://farm3.static.flickr.com/2624/3839884804_ea5e62cf63.jpg" alt="iPod Touch running inside iTunes" width="500" height="435" />](http://www.flickr.com/photos/pforret/3839884804/ "iPod Touch running inside iTunes by Peter Forret, on Flickr")

@@ -14,7 +14,7 @@ While writing my previous post on the [Canon 400D camera](http://blog.forret.com
 > Uk-based(?) webstore DexDigital.co.uk (gone, but resurrected as MobiTeh.co.uk, EastElectronics.co.uk, Gonex.co.uk, AnviDirect.co.uk, cxMusic.co.uk, wMusic.co.uk, aigars.co.uk, orvisinc.co.uk and StarkDigital.co.uk) has given this concept a new, and far more sinister, twist. Read on to learn how the scam works.  
 > (from [heim.ifi.uio.no](http://heim.ifi.uio.no/~gisle/blog/?p=62))
 
-[<img loading="lazy" src="http://static.flickr.com/121/307582758_f55afa0615.jpg" width="500" height="375" alt="StarkDigital: fake shop" />](http://www.flickr.com/photos/pforret/307582758/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/121/307582758_f55afa0615.jpg" width="500" height="375" alt="StarkDigital: fake shop" />](http://www.flickr.com/photos/pforret/307582758/ "Photo Sharing")  
 <!--more-->
 
   

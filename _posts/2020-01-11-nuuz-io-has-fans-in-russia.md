@@ -28,4 +28,4 @@ I saw I was getting quite some traffic from Russia on my [tech news aggregator](
 
 It&#8217;s a pretty interesting site, actually: IT salaries, travel, computational photography. It even has a Russian version of XKCD cartoons.<figure class="wp-block-image size-large">
 
-![](https://i.vas3k.ru/800.jpg) </figure>
+![](https://i.vas3k.ru/800.jpg)  

@@ -22,5 +22,5 @@ He [asked for a photo phuck](http://www.pietel.be/archives/1310) in black and wh
 
 [youtube]http://youtube.com/watch?v=ZgdzywISlOQ[/youtube]
 
-[<img loading="lazy" width="232" src="http://static.flickr.com/54/120833700_e7d28d184a_m.jpg" alt="Pietel gemixed met een vent" height="240" />](http://www.flickr.com/photos/pforret/120833700/ "Photo Sharing")  
+[<img  width="232" src="http://static.flickr.com/54/120833700_e7d28d184a_m.jpg" alt="Pietel gemixed met een vent" height="240" />](http://www.flickr.com/photos/pforret/120833700/ "Photo Sharing")  
 [see the movie](http://www.smoothouse.com/mp3/pietel_arnold2.avi) or [Youtube](http://youtube.com/watch?v=ZgdzywISlOQ)

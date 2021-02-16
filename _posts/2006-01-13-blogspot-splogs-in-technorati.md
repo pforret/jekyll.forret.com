@@ -11,7 +11,7 @@ categories:
 ---
 For some reason, if I search for [&#8220;baeyens&#8221; on Technorati](http://www.technorati.com/search/baeyens) (sorry, [John](http://www.baeyens.net)), all I get is a list of splogs (spam blogs). The first &#8216;real&#8217; result is somewhere at #50, drowned between WEBCAM, CAMERA and PHONE CARD splogs.
 
-[<img loading="lazy" src="http://static.flickr.com/43/85968015_b4b44b233d.jpg" width="468" height="500" alt="Technorati splog results" />](http://www.flickr.com/photos/pforret/85968015/ "Photo Sharing")
+[<img  src="http://static.flickr.com/43/85968015_b4b44b233d.jpg" width="468" height="500" alt="Technorati splog results" />](http://www.flickr.com/photos/pforret/85968015/ "Photo Sharing")
 
 They all have the same characteristics:
 

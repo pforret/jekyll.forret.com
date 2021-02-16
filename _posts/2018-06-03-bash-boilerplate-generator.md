@@ -32,7 +32,7 @@ tags:
     </p>
     
     <p>
-      <a href="https://toolstud.io/data/bash.php"><img loading="lazy" class="alignnone wp-image-1691 size-full" src="http://blog.forret.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-03-at-16.02.43-2.png" alt="" width="795" height="666" srcset="https://blog.forret.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-03-at-16.02.43-2.png 795w, https://blog.forret.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-03-at-16.02.43-2-300x251.png 300w, https://blog.forret.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-03-at-16.02.43-2-768x643.png 768w, https://blog.forret.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-03-at-16.02.43-2-600x503.png 600w" sizes="(max-width: 795px) 100vw, 795px" /></a>
+      <a href="https://toolstud.io/data/bash.php"><img  class="alignnone wp-image-1691 size-full" src="http://blog.forret.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-03-at-16.02.43-2.png" alt="" width="795" height="666" srcset="https://blog.forret.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-03-at-16.02.43-2.png 795w, https://blog.forret.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-03-at-16.02.43-2-300x251.png 300w, https://blog.forret.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-03-at-16.02.43-2-768x643.png 768w, https://blog.forret.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-03-at-16.02.43-2-600x503.png 600w" sizes="(max-width: 795px) 100vw, 795px" /></a>
     </p>
   </div>
 </div>

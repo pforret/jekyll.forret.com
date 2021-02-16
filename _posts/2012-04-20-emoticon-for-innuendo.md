@@ -18,7 +18,7 @@ It doesn&#8217;t [stop there](http://en.wikipedia.org/wiki/List_of_emoticons), t
 
 ### &-)   = if-you-know-what-I-mean
 
-[<img loading="lazy" class="alignnone size-large wp-image-1501" src="http://blog.forret.com/wp-content/uploads/2012/04/CS8760-1024x1021-1024x1021.jpg" alt="" width="660" height="658" srcset="https://blog.forret.com/wp-content/uploads/2012/04/CS8760-1024x1021.jpg 1024w, https://blog.forret.com/wp-content/uploads/2012/04/CS8760-1024x1021-150x150.jpg 150w, https://blog.forret.com/wp-content/uploads/2012/04/CS8760-1024x1021-300x300.jpg 300w, https://blog.forret.com/wp-content/uploads/2012/04/CS8760-1024x1021-768x766.jpg 768w" sizes="(max-width: 660px) 100vw, 660px" />](http://blog.forret.com/wp-content/uploads/2012/04/CS8760-1024x1021.jpg)
+[<img  class="alignnone size-large wp-image-1501" src="http://blog.forret.com/wp-content/uploads/2012/04/CS8760-1024x1021-1024x1021.jpg" alt="" width="660" height="658" srcset="https://blog.forret.com/wp-content/uploads/2012/04/CS8760-1024x1021.jpg 1024w, https://blog.forret.com/wp-content/uploads/2012/04/CS8760-1024x1021-150x150.jpg 150w, https://blog.forret.com/wp-content/uploads/2012/04/CS8760-1024x1021-300x300.jpg 300w, https://blog.forret.com/wp-content/uploads/2012/04/CS8760-1024x1021-768x766.jpg 768w" sizes="(max-width: 660px) 100vw, 660px" />](http://blog.forret.com/wp-content/uploads/2012/04/CS8760-1024x1021.jpg)
 
 <!--more-->
 

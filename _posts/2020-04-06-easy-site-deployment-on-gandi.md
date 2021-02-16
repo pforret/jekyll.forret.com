@@ -22,7 +22,7 @@ tags:
 
 I&#8217;m doing more and more Laravel development and I&#8217;m hosting these projects on Gandi.net Simple Hosting. I&#8217;ve also switched completely to Gandi&#8217;s **deploy with git** method, since it lets me do full and easy deployment from my laptop&#8217;s command line. I&#8217;ve even created a [bash script `gdeploy.sh`](https://github.com/pforret/gandi_deploy) to make this faster, Let me explain how it works:<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="703" height="305" src="https://blog.forret.com/wp-content/uploads/2020/04/image-1.png" alt="" class="wp-image-2149" srcset="https://blog.forret.com/wp-content/uploads/2020/04/image-1.png 703w, https://blog.forret.com/wp-content/uploads/2020/04/image-1-300x130.png 300w" sizes="(max-width: 703px) 100vw, 703px" /> </figure> 
+<img  width="703" height="305" src="https://blog.forret.com/wp-content/uploads/2020/04/image-1.png" alt="" class="wp-image-2149" srcset="https://blog.forret.com/wp-content/uploads/2020/04/image-1.png 703w, https://blog.forret.com/wp-content/uploads/2020/04/image-1-300x130.png 300w" sizes="(max-width: 703px) 100vw, 703px" />   
 
   1. when you [start your project](https://blog.forret.com/2020/03/05/hosting-a-laravel-project-on-gandi/), add the `git remote` for gandi, as specified in your Gandi Simple Hosting dashboard 
   2. develop and run your project locally (using e.g. `php artisan serve`)

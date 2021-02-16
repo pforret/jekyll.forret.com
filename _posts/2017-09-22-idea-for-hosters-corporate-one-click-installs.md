@@ -21,7 +21,7 @@ tags:
   - saas
   - service
 ---
-<figure class="wp-block-image size-large"><img loading="lazy" width="698" height="701" src="http://blog.forret.com/wp-content/uploads/2016/12/goodies_dreamhost.png" alt="" class="wp-image-1508" srcset="https://blog.forret.com/wp-content/uploads/2016/12/goodies_dreamhost.png 698w, https://blog.forret.com/wp-content/uploads/2016/12/goodies_dreamhost-150x150.png 150w, https://blog.forret.com/wp-content/uploads/2016/12/goodies_dreamhost-300x300.png 300w" sizes="(max-width: 698px) 100vw, 698px" /></figure> 
+<figure class="wp-block-image size-large"><img  width="698" height="701" src="http://blog.forret.com/wp-content/uploads/2016/12/goodies_dreamhost.png" alt="" class="wp-image-1508" srcset="https://blog.forret.com/wp-content/uploads/2016/12/goodies_dreamhost.png 698w, https://blog.forret.com/wp-content/uploads/2016/12/goodies_dreamhost-150x150.png 150w, https://blog.forret.com/wp-content/uploads/2016/12/goodies_dreamhost-300x300.png 300w" sizes="(max-width: 698px) 100vw, 698px" />  
 
 A lot of hosting companies already offer **one-click installs** for WordPress, Drupal, Joomla, dotProject. These are mostly content (CMS) tools. They&#8217;re useful, but they cover only a part of what a corporate customer would want. I would love to see a hosting company that offers **branded tools as a service**:
 

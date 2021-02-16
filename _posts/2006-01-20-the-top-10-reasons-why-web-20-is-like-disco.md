@@ -9,7 +9,7 @@ permalink: /2006/01/20/the-top-10-reasons-why-web-20-is-like-disco/
 categories:
   - Web2.0
 ---
-[<img loading="lazy" src="http://static.flickr.com/41/84766058_1ed6694c07_m.jpg" width="159" height="240" alt="White suit" />](http://www.flickr.com/photos/pforret/84766058/ "Photo Sharing")
+[<img  src="http://static.flickr.com/41/84766058_1ed6694c07_m.jpg" width="159" height="240" alt="White suit" />](http://www.flickr.com/photos/pforret/84766058/ "Photo Sharing")
 
 > #1: Feels great, but don&#8217;t want any pictures caught doing it.  
 > #2: Nobody quite sure what it is, but everyone wants to try.  

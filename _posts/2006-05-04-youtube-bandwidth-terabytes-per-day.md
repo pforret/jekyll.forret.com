@@ -14,7 +14,7 @@ tags:
   - traffic
   - youtube
 ---
-[<img loading="lazy" width="500" src="http://static.flickr.com/44/140242878_61c5743ed6.jpg" alt="Youtube (Blogpulse)" height="300" />](http://www.flickr.com/photos/pforret/140242878/ "Photo Sharing")  
+[<img  width="500" src="http://static.flickr.com/44/140242878_61c5743ed6.jpg" alt="Youtube (Blogpulse)" height="300" />](http://www.flickr.com/photos/pforret/140242878/ "Photo Sharing")  
 [Youtube](http://www.youtube.com) seems to be losing some of its early adopters: [Coolz0r](http://blog.coolz0r.com/2006/05/02/screw-youtube/) quits the service, while [Nathan](http://google.blognewschannel.com/?p=2295) even embarks on a grassroots activism mission to ruin the company (by getting its most popular uploaders banned &#8211; I have mixed feelings about that one). The issue is: to protect themselves from lawsuits, Youtube is taking the approach of deleting videos and even users upon first suspicion of (copyright) problems. They already received [an ultimatum from NBC](http://www.boingboing.net/2006/02/17/nbc_nastygrams_youtu.html) in Feb, then a proof to Jason Calacanis that it was &#8216;[not a real business](http://www.calacanis.com/2006/02/20/youtube-is-not-a-real-business/)&#8216;.
 
 ![Youtube traffic](http://traffic.alexa.com/graph?a=1&w=468&h=240&r=1y&u=youtube.com)  
@@ -28,7 +28,7 @@ What I found interesting in the whole controversy are the astounding numbers tha
 
 ### &#8220;Terabyte per day&#8221;
 
-[<img loading="lazy" width="470" src="http://static.flickr.com/49/140242877_0e8dd69974.jpg" alt="Youtube: 200tb per month" height="241" />](http://www.flickr.com/photos/pforret/140242877/ "Photo Sharing")  
+[<img  width="470" src="http://static.flickr.com/49/140242877_0e8dd69974.jpg" alt="Youtube: 200tb per month" height="241" />](http://www.flickr.com/photos/pforret/140242877/ "Photo Sharing")  
 I remember the days when a &#8220;TB/day&#8221; unit of bandwidth sounded like science fiction. Estimations of Youtube&#8217;s bandwidth go from [25TB/day](http://www.webhostingtalk.com/archive/thread/505157-1.html) to the 200TB/day above. Let&#8217;s get a feel for that number. [200 terabytes a day](http://www.forret.com/tools/bandwidth.asp?speed=200&unit=TB%2Fd&title=Youtube+Bandwidth) adds up to 6 petabyte per month, or 72 petabyte per year. That&#8217;s a lot of Libraries of Congress. It&#8217;s equivalent to a sustained 9.26 Gbps stream, more than any single Serial-ATA or Fibre Channel can deliver.  
 If you would build your own distributed network of &#8216;standard&#8217; unmetered 100Mbps caching servers, optimistically delivering [20TB/month at $2000/month](http://www.ev1servers.net/Dedicated/100Mbps.aspx), you would need at least 300 servers &#8211; or $600K per month. With [Streamload](http://www.streamload.com/Account/Pricing.asp?TerabytePlans=True), it&#8217;s way more expensive: $4400/15TB or $1,76mio per month for Youtube&#8217;s 6PB/month. Although I think Youtube would get a better price since they would need 400 Streamload servers.
 

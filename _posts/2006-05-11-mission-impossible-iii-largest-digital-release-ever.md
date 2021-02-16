@@ -14,7 +14,7 @@ categories:
 > from <http://www.dcinematoday.com/dc/pr.aspx?newsID=487> 
 
 <center>
-  <a href="http://www.flickr.com/photos/pforret/144490873/" title="Photo Sharing"><img loading="lazy" src="http://static.flickr.com/52/144490873_532d0a383a.jpg" width="500" height="334" alt="Mission Impossible III" /></a><br /> <small>(Digital cinema is obviously of much better quality than this pixelized image &#8211; this just says &#8220;digital&#8221;, doesn&#8217;t it?)</small>
+  <a href="http://www.flickr.com/photos/pforret/144490873/" title="Photo Sharing"><img  src="http://static.flickr.com/52/144490873_532d0a383a.jpg" width="500" height="334" alt="Mission Impossible III" /></a><br /> <small>(Digital cinema is obviously of much better quality than this pixelized image &#8211; this just says &#8220;digital&#8221;, doesn&#8217;t it?)</small>
 </center>
 
   

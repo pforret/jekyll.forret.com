@@ -36,7 +36,7 @@ Response:	+OK jdoe's maildrop has 2 messages (320 octets)
 
 _(remark: POP3 does have an APOP command that does not transfer the password in clear-text. It is however typically used for 2nd and following POP3 connections, using a piece of information that was given in the first transaction)_
 
-[<img loading="lazy" style="float: right" src="http://farm1.static.flickr.com/134/390226502_34c2cc32a9_m.jpg" width="222" height="240" alt="Wordpress login" />](http://www.flickr.com/photos/pforret/390226502/ "Photo Sharing")Even more scary: when you log in to your blog/CMS software (that does not use a Google, Yahoo, MSN or Passport account), how does your password reach the server, you think? Encrypted? Not!
+[<img  style="float: right" src="http://farm1.static.flickr.com/134/390226502_34c2cc32a9_m.jpg" width="222" height="240" alt="Wordpress login" />](http://www.flickr.com/photos/pforret/390226502/ "Photo Sharing")Even more scary: when you log in to your blog/CMS software (that does not use a Google, Yahoo, MSN or Passport account), how does your password reach the server, you think? Encrypted? Not!
 
 <!--more-->
 

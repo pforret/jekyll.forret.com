@@ -13,7 +13,7 @@ categories:
 ---
 It’s almost been 6 months, so here we go for the 4th time: I’m starting the preparations for **Barcamp Brussels #4**.
 
-[<img loading="lazy" width="500" src="http://farm3.static.flickr.com/2299/1577570471_6a6ad84f62.jpg" alt="Barcamp Brussels #4" height="105" />](http://www.flickr.com/photos/pforret/1577570471/ "Photo Sharing")
+[<img  width="500" src="http://farm3.static.flickr.com/2299/1577570471_6a6ad84f62.jpg" alt="Barcamp Brussels #4" height="105" />](http://www.flickr.com/photos/pforret/1577570471/ "Photo Sharing")
 
 The proposed dates are: Nov 24th or Dec 1st. Location: to be defined. Sponsors: to be defined (you know how to reach me). Logo can be found [on Flickr](http://www.flickr.com/photos/pforret/1577570471/).
 

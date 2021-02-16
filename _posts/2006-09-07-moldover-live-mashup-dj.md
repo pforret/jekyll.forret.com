@@ -17,7 +17,7 @@ tags:
   - music
   - pc
 ---
-[<img loading="lazy" width="240" src="http://static.flickr.com/88/236732326_a582333325_m.jpg" alt="Moldover: live mashup DJ" height="240" style="float: right" />](http://www.flickr.com/photos/pforret/236732326/ "Photo Sharing")I wrote a post last year &#8220;[REQ: Live mashup performance tool](http://blog.forret.com/2005/05/req-live-mashup-performance-tool/)&#8221; on how much fun it would be to be able to do live mashups: mix basslines, drums, guiter riffs and vocals from different songs in real-time. I just found out via [beatmixed](http://www.beatmixed.com/2006/09/05/remashing-with-ableton) that there is a New-York DJ that has figured out the nuts and bolts: Toto a.k.a. [Moldover](http://www.moldover.com/).
+[<img  width="240" src="http://static.flickr.com/88/236732326_a582333325_m.jpg" alt="Moldover: live mashup DJ" height="240" style="float: right" />](http://www.flickr.com/photos/pforret/236732326/ "Photo Sharing")I wrote a post last year &#8220;[REQ: Live mashup performance tool](http://blog.forret.com/2005/05/req-live-mashup-performance-tool/)&#8221; on how much fun it would be to be able to do live mashups: mix basslines, drums, guiter riffs and vocals from different songs in real-time. I just found out via [beatmixed](http://www.beatmixed.com/2006/09/05/remashing-with-ableton) that there is a New-York DJ that has figured out the nuts and bolts: Toto a.k.a. [Moldover](http://www.moldover.com/).
 
 ### MOLDOVER SETUP
 

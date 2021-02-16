@@ -9,7 +9,7 @@ permalink: /2005/12/01/municipal-wifi-requirements-for-success/
 categories:
   - wifi
 ---
-[<img loading="lazy" src="http://farm1.static.flickr.com/48/127983841_141cb44fb0_o.jpg" width="249" height="263" alt="Double Wifi: prototype" />](http://www.flickr.com/photos/pforret/127983841/ "Photo Sharing")  
+[<img  src="http://farm1.static.flickr.com/48/127983841_141cb44fb0_o.jpg" width="249" height="263" alt="Double Wifi: prototype" />](http://www.flickr.com/photos/pforret/127983841/ "Photo Sharing")  
 Municipal Wifi is gaining speed. Some of the efforts are institutional ([Joy Ito joins the FON](http://english.martinvarsavsky.net/fon/joichi-fon-american-board.html) advisory board, networks are being installed in [San Francisco](http://news.com.com/Google+blankets+city+with+free+Wi-Fi/2110-7351_3-5956837.html?tag=st.ref.goo) and [New Orleans](http://muniwireless.com/municipal/projects/932)) and some are grassroots (John is setting up [a Wifi cloud in Rio](http://www.baeyens.net/baeyens/view.php?id=1547) &#8230;)
 
 I&#8217;ve looked at the models and tools of providers like [FON](http://en.fon.es) and [WifiDog](http://www.ilesansfil.org/tiki-index.php?page=WiFiDog)/[OpenWRT](http://openwrt.org/) (any Linux), and I&#8217;ve done some testing as a provider myself. We&#8217;re not there yet.

@@ -10,7 +10,7 @@ categories:
   - music
   - photography
 ---
-[<img loading="lazy" width="160" src="http://farm2.static.flickr.com/1407/1005378957_25ff524d5f_m.jpg" alt="Luciano Supervieille" height="240" style="float: right" />](http://www.flickr.com/photos/pforret/1005378957/ "Photo Sharing") I went to the [concert of Bajofondo Tango Club in Brugge](http://www.milonga.be/2007/08/concert-bajofondo-tango-club-brugge/) last Friday. Of course I took my Canon 350D along and shot a lot of pictures. I never use a flash for concert pictures, certainly not since I started using a 50mm f/1.8 and I can grab quite a lot of light with it. I usually use &#8216;Aperture priority&#8217; mode (with aperture on 1.8, obviously) and use the automatic focus, because I&#8217;m not good enough at doing that manually. You sometimes have to wait for the right podium lights to go on, include some light spots in the frame so that your camera uses a shorter shutter but above all, you have to be lucky.
+[<img  width="160" src="http://farm2.static.flickr.com/1407/1005378957_25ff524d5f_m.jpg" alt="Luciano Supervieille" height="240" style="float: right" />](http://www.flickr.com/photos/pforret/1005378957/ "Photo Sharing") I went to the [concert of Bajofondo Tango Club in Brugge](http://www.milonga.be/2007/08/concert-bajofondo-tango-club-brugge/) last Friday. Of course I took my Canon 350D along and shot a lot of pictures. I never use a flash for concert pictures, certainly not since I started using a 50mm f/1.8 and I can grab quite a lot of light with it. I usually use &#8216;Aperture priority&#8217; mode (with aperture on 1.8, obviously) and use the automatic focus, because I&#8217;m not good enough at doing that manually. You sometimes have to wait for the right podium lights to go on, include some light spots in the frame so that your camera uses a shorter shutter but above all, you have to be lucky.
 
 The pictures that came out rather well are in my Flickr [Bajofondo Tango Club album](http://www.flickr.com/photos/pforret/sets/72157601227542198/).
 
@@ -30,4 +30,4 @@ This one cracked me up: the guy in front of me held his left index finger right 
 
 So, if your flash photos are way too dark, and your finger feels very warm whenever you take a picture, check where the flash sits on your compact camera and make sure you put no bodily parts in front of it.
 
-[<img loading="lazy" width="500" src="http://farm2.static.flickr.com/1188/1006208788_1ddfc50b6f.jpg" alt="Bajofondo Tango Club" height="333" />](http://www.flickr.com/photos/pforret/1006208788/ "Photo Sharing")
+[<img  width="500" src="http://farm2.static.flickr.com/1188/1006208788_1ddfc50b6f.jpg" alt="Bajofondo Tango Club" height="333" />](http://www.flickr.com/photos/pforret/1006208788/ "Photo Sharing")

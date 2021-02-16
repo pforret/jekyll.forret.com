@@ -21,7 +21,7 @@ Every now and then I get a request to use pictures of mine for a poster, a flyer
   * the **weird** I-used-to-work-in print version: &#8220;_can you send them in 300dpi_&#8220;?
 
 DPI (dots-per-inch) only make sense for me if I would know on what size you want to print them. If you&#8217;re making an [A4](http://en.wikipedia.org/wiki/Paper_size#ANSI_paper_sizes) flyer, that&#8217;s 8½ × 11 inch, and you need 300 dpi, then that means you need 3300&#215;2550 pixels. If you want to print only an A6 size, that&#8217;s 1650&#215;1275 pixels. So don&#8217;t tell me what DPI you need, tell me what pixel dimensions you need. Yes, you can save the DPI parameter in a JPEG file, but it changes nothing to the data. My 1200&#215;800 picture with a DPI value of 72 or 300dpi is still, pixel by pixel, the same picture. Your image viewer might decide to show it as a bigger picture on the screen, but the image data is **identical.**  
-[<img loading="lazy" src="http://farm4.static.flickr.com/3280/2430945120_c7fa265cea.jpg" alt="jpeg_dpi" width="373" height="500" />](http://www.flickr.com/photos/pforret/2430945120/ "jpeg_dpi by PeterForret, on Flickr")
+[<img  src="http://farm4.static.flickr.com/3280/2430945120_c7fa265cea.jpg" alt="jpeg_dpi" width="373" height="500" />](http://www.flickr.com/photos/pforret/2430945120/ "jpeg_dpi by PeterForret, on Flickr")
 
 > Beginning to see the pattern? No matter what DPI you set (or, as it happens, what size in inches) so long as you don&#8217;t let Photoshop resample the image up or down, it&#8217;s STILL 504 by 144 pixels.
 > 

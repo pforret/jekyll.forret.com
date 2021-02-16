@@ -20,11 +20,11 @@ The actual formula can be found here: [Arval: Benefit in kind](http://www.arval.
 
 &nbsp;
 
-<img loading="lazy" class="alignnone" title="VVA: goedkope autos" src="http://farm8.staticflickr.com/7101/7042250085_3a62529bdb.jpg" alt="VVA: goedkope autos" width="500" height="371" /> 
+<img  class="alignnone" title="VVA: goedkope autos" src="http://farm8.staticflickr.com/7101/7042250085_3a62529bdb.jpg" alt="VVA: goedkope autos" width="500" height="371" /> 
 
 And because you&#8217;re right to worry about your company Range Rover:
 
-<img loading="lazy" class="alignnone" title="VVA: dure autos" src="http://farm8.staticflickr.com/7274/7042250091_612150e840.jpg" alt="VVA: dure autos" width="500" height="317" /> 
+<img  class="alignnone" title="VVA: dure autos" src="http://farm8.staticflickr.com/7274/7042250091_612150e840.jpg" alt="VVA: dure autos" width="500" height="317" /> 
 
 **Conclusions**
 

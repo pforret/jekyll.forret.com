@@ -23,7 +23,7 @@ I have been taking tango pictures intensively for more than 2 years now. Most of
 All these tips come down to the same: get the fastest shutter times possible while keeping the picture quality acceptable.
 
 **#1: take the highest ISO your camera can afford**  
-[<img loading="lazy" class="alignright" style="float: right;" src="http://farm1.static.flickr.com/217/508410481_7a525d30e4_m.jpg" alt="50mm - f/1.8 - ISO800" width="160" height="240" />](http://www.flickr.com/photos/pforret/508410481/ "Nederland 106 by PeterForret, on Flickr")  
+[<img  class="alignright" style="float: right;" src="http://farm1.static.flickr.com/217/508410481_7a525d30e4_m.jpg" alt="50mm - f/1.8 - ISO800" width="160" height="240" />](http://www.flickr.com/photos/pforret/508410481/ "Nederland 106 by PeterForret, on Flickr")  
 If you can use sensitivity ISO 800 instead of ISO 100, you&#8217;ll win 3 stops. This is the difference between a picture at 1/40 sec (sharp) and 1/5 sec (blurry), certainly with moving targets (and tango dancers do move). Of course there is a trade-off: you loose [color detail](http://www.dpreview.com/learn/?/Glossary/Digital_Imaging/Sensitivity_01.htm).
 
 This is the main reason why you&#8217;ll need a camera with a decent sensor, or in other words, an dSLR instead of a regular point-and-shoot camera. Even my Canon EOS 350D gets colour defects at ISO800. When they&#8217;re too bad, I tend to convert the pictures to black-and-white or somewhere halfway (by decreasing the saturation).
@@ -35,7 +35,7 @@ The camera I&#8217;m drooling over now, the Canon 5D Mk II, can take decent pict
 **<!--more-->#2: take the lightest lens you can afford**
 
   
-[<img loading="lazy" class="alignright" style="float: right;" src="http://farm4.static.flickr.com/3026/2563010307_7b6c2ef894_m.jpg" alt="f/1.4 - 30mm - ISO 200" width="160" height="240" />](http://www.flickr.com/photos/pforret/2563010307/ "Hands by PeterForret, on Flickr")  
+[<img  class="alignright" style="float: right;" src="http://farm4.static.flickr.com/3026/2563010307_7b6c2ef894_m.jpg" alt="f/1.4 - 30mm - ISO 200" width="160" height="240" />](http://www.flickr.com/photos/pforret/2563010307/ "Hands by PeterForret, on Flickr")  
 You need a lens that will let in a lot of light, that allows you to use [maximum aperture](http://www.dpreview.com/learn/?/Glossary/Exposure/Aperture_01.htm). Your standard kit lens that goes from f/5 to f/3.5 probably won&#8217;t do. You will need a better lens and it will probably cost some money.
 
 I started with a Canon fixed 50mm f/1.8. Contrary to what I said before, this is a cheap lens (about €100). It&#8217;s a great portrait lens, but it is hard to get a tango couple from head to toe in a picture, you&#8217;d have to step back too far (50mm on a dSLR is slighty &#8216;tele&#8217;). It&#8217;s great for abrazo (embrace) pictures of the upper bodies.
@@ -45,19 +45,19 @@ For the last Brussels Tango festival, I bought a [Sigma fixed 30mm f/1.4](http:
 The drawback: with wide aperture, the depth-of-field becomes very narrow. This means: you focus on something e.g. 1.55m away, and every thing closer than 1.40m or further than 1.70m is already blurry. While this is also a feature (it&#8217;s a great effect for portraits up close), this means that if your autofocus is just slightly off, everything will be blurry. The error margin is very narrow.
 
 **#3: choose Av or Tv mode**  
-[<img loading="lazy" class="alignright" style="float: right;" src="http://farm2.static.flickr.com/1375/1464391139_94daaaa0dd_m.jpg" alt="f/1.8 - 50mm - ISO 800" width="160" height="240" />](http://www.flickr.com/photos/pforret/1464391139/ "Theresa by PeterForret, on Flickr")  
+[<img  class="alignright" style="float: right;" src="http://farm2.static.flickr.com/1375/1464391139_94daaaa0dd_m.jpg" alt="f/1.8 - 50mm - ISO 800" width="160" height="240" />](http://www.flickr.com/photos/pforret/1464391139/ "Theresa by PeterForret, on Flickr")  
 Obviously you&#8217;re not going to let the camera make all the decision by putting it in full auto mode. You should go for either aperture priority &#8220;Av&#8221; or shutter priority &#8220;Tv&#8221; mode. The first one allows you to always use maximum aperture and get the best shutter speed that you can. The second one would make sure that you use reasonable shutter times for moving subjects (like 1/20 or 1/40 sec).
 
 I prefer **using &#8220;Av&#8221; and fixing the aperture on f/1.4**. I take risks with that, because sometimes I end up with pictures with shutter times of 1/10 or 1/5 sec, but with some luck and good timing, they come out OK. It&#8217;s just my default &#8220;gimme all you got&#8221; setting. I don&#8217;t use &#8220;M&#8221; Manual Mode because I don&#8217;t have the time before each picture to decide how much aperture/shutter I want.
 
 **#4: use auto-focus on 1 (central) point**  
-[<img loading="lazy" class="alignright" style="float: right;" src="http://farm4.static.flickr.com/3288/2914743232_325f812dc6_m.jpg" alt="f/1.4 - 30mm - ISO 800 (-1 EV)" width="160" height="240" />](http://www.flickr.com/photos/pforret/2914743232/ "Milonga Nosotros @ Bouche à Oreille by PeterForret, on Flickr")  
+[<img  class="alignright" style="float: right;" src="http://farm4.static.flickr.com/3288/2914743232_325f812dc6_m.jpg" alt="f/1.4 - 30mm - ISO 800 (-1 EV)" width="160" height="240" />](http://www.flickr.com/photos/pforret/2914743232/ "Milonga Nosotros @ Bouche à Oreille by PeterForret, on Flickr")  
 Put your autofocus on 1 point, I use the middle of the frame. This is important because you want to control on what part of your frame your camera tries to focus. You have to force yourself to the following sequence: **_focus, re-frame, shoot_**. The point on which you focus will be one with the most contrast. It might be an upper-arm, where the skin and clothing touch, or the face, or some pattern with contrasting colors on the back. People who are fully dressed in plain black (and there are a lot of those in tango) are very hard to auto-focus on. The framing you use to focus and the actual frame you want to shoot will seldom be the same. So you need to re-frame right after focusing. You focus by pushing the shutter button halfway and then you keep it pushed like that while you move the frame. When the composition is right, you click all the way and the actual picture is taken.
 
 This is the main reason why people unfamiliar with my camera have a hard time taking acceptable pictures with it. They point at a dancing couple, they push the button all the way immediately, the camera focuses on something in between the two dancers -typically a far away wall- and the shot is unsharp.
 
 **#5: underexpose and fix it later**  
-[<img loading="lazy" class="alignright" style="float: right;" src="http://farm4.static.flickr.com/3183/2915676443_f3b20b4d5a_m.jpg" alt="f/1.4 - 30mm - ISO 400 - 1 stop underexposure" width="160" height="240" />](http://www.flickr.com/photos/pforret/2915676443/ "Milonga @ Pianofabriek by PeterForret, on Flickr")  
+[<img  class="alignright" style="float: right;" src="http://farm4.static.flickr.com/3183/2915676443_f3b20b4d5a_m.jpg" alt="f/1.4 - 30mm - ISO 400 - 1 stop underexposure" width="160" height="240" />](http://www.flickr.com/photos/pforret/2915676443/ "Milonga @ Pianofabriek by PeterForret, on Flickr")  
 If the 4 tips above still don&#8217;t make your shutter times acceptable, try using exposure compensation (the AV+/- button). I sometimes use **a full stop of underexposure** and I correct it in &#8216;post&#8217;. I use the [contrast maximisation in Picasa](http://blog.forret.com/2008/03/photography-workflow-with-picasa-flickr/) to stretch the histogram again.
 
 Also, in tango venues, there are a lot of spot lights (to make it cosy). If I focus on a dark part and then reframe to something that includes some of those lights, they might end up clipping part of the picture. When I underexpose, this becomes less of a problem.

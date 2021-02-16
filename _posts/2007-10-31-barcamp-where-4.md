@@ -14,7 +14,7 @@ tags:
   - barcampbrussels
   - brussels
 ---
-[<img loading="lazy" width="500" src="http://farm3.static.flickr.com/2299/1577570471_6a6ad84f62.jpg" alt="Barcamp Brussels #4" height="105" />](http://www.flickr.com/photos/pforret/1577570471/ "Photo Sharing")  
+[<img  width="500" src="http://farm3.static.flickr.com/2299/1577570471_6a6ad84f62.jpg" alt="Barcamp Brussels #4" height="105" />](http://www.flickr.com/photos/pforret/1577570471/ "Photo Sharing")  
 I&#8217;m getting a little nervous. Barcamp Brussels is gonna happen on Nov 24th or Dec 1st and I still haven&#8217;t found a location. All my options have returned negative. The previous times I never really had a problem with that.
 
 So I&#8217;m gonna put the question out there: who knows a nice location for [Barcamp Brussels #4](http://www.barcamp.be/blog/2007/10/15/barcamp-brussels-4/)? If possible, I would actually like it to be hosted at someone&#8217;s offices, since it&#8217;s on a Saturday anyway &#8230;

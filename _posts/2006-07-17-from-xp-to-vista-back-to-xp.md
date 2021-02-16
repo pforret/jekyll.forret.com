@@ -10,7 +10,7 @@ categories:
   - windows
 ---
 I finally got too fed up working with [a crippled PC](http://blog.forret.com/2006/06/murphy-forret-1-0/) and installed the Windows Vista Beta 2 on my laptop. It looks really nice, although slightly slow. I connected my camera and, lo and behold, the Picture import works flawlessly, creating a separate folder per session, the Vista Photo browser and editor remind me a lot of Google&#8217;s Picasa. Internet Explorer 7 has tabbed browsing at last, and seemed quite stable and robust. In all, I was quite happy to have a working system again.  
-[<img loading="lazy" src="http://static.flickr.com/59/187947588_8f2b1a1e42.jpg" width="500" height="212" alt="vista performance: I'm a '2'" />](http://www.flickr.com/photos/pforret/187947588/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/59/187947588_8f2b1a1e42.jpg" width="500" height="212" alt="vista performance: I'm a '2'" />](http://www.flickr.com/photos/pforret/187947588/ "Photo Sharing")  
 <!--more-->
 
   

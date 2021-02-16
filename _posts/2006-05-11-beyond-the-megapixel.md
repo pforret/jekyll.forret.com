@@ -9,7 +9,7 @@ permalink: /2006/05/11/beyond-the-megapixel/
 categories:
   - photography
 ---
-[<img loading="lazy" src="http://static.flickr.com/34/121977156_cf06708704_m.jpg" style="float: right" width="240" height="180" alt="Clemence_Ballet 137" />](http://www.flickr.com/photos/pforret/121977156/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/34/121977156_cf06708704_m.jpg" style="float: right" width="240" height="180" alt="Clemence_Ballet 137" />](http://www.flickr.com/photos/pforret/121977156/ "Photo Sharing")  
 Wired just released an [article on digital camera technology](http://www.wired.com/news/technology/0,70853-0.html): why megapixels alone are not a good indicator of camera and photograph quality.
 
 > For years, resolution was considered the main measure of image quality in digital photos, but continual improvements have only shown up the fallacy: [Grainy](http://www.dpreview.com/learn/?/key=noise), blurry and underexposed photos look just as bad at 8 megapixels as they do at 5.

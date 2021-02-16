@@ -13,14 +13,14 @@ categories:
 I found some data on the first names parents gave their children in 2004 (data from [statbel.fgov.be](http://statbel.fgov.be/figures/d22a_nl.asp)). It should come as no surprise that _passe-partout_ names (used in both Dutch and French) dominate the first names hitparade. 
 
 Here are the top 10 per province for the girls:  
-[<img loading="lazy" src="http://static.flickr.com/48/134754573_800a8d27a6.jpg" width="500" height="375" alt="Meisjesnamen in Belgie 2004" />](http://www.flickr.com/photos/pforret/134754573/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/48/134754573_800a8d27a6.jpg" width="500" height="375" alt="Meisjesnamen in Belgie 2004" />](http://www.flickr.com/photos/pforret/134754573/ "Photo Sharing")  
 <!--more-->
 
   
 Popular names in Belgium in 2004? Timeless names like Emma, Marie, Julie, Chloé. And some currently-in-fashion-names: Febe, Océane, Amber. You meet a girl in 2030 whose name is Febe? &#8220;You must be something like &#8230; 25?&#8221;
 
 I did another exercise: within the Dutch speaking (&#8216;Flemish&#8217;) provinces, what are the top names that are local to that province only?  
-[<img loading="lazy" src="http://static.flickr.com/54/134754572_9ed38bc0d0.jpg" width="500" height="252" alt="Vlaamse meisjesnamen 2004" />](http://www.flickr.com/photos/pforret/134754572/ "Photo Sharing")
+[<img  src="http://static.flickr.com/54/134754572_9ed38bc0d0.jpg" width="500" height="252" alt="Vlaamse meisjesnamen 2004" />](http://www.flickr.com/photos/pforret/134754572/ "Photo Sharing")
 
 Antwerp: Imane, Caro, Yousra, Anissa, Yasmina
 :   &#8220;Caro&#8221; is a trendy name, that had its peak in 1999 and is already on the way down (check [Wegenerdm.be](http://www.wegenerdm.be/index.php?pag=34&lang=NL) for details), and &#8220;Yousra&#8221; the same. &#8220;Imane&#8221; is a common first name since 1993, &#8220;Anissa&#8221; has been popular since the mid 80s, and Yasmina even a bit longer. (_Remark: the numbers for Brussels are NOT included in this last calculation, otherwise I&#8217;m sure there would have been Yasminas in Brussels, and as such it would not be a name local to only Antwerp_)

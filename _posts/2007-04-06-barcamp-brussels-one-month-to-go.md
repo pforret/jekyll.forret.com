@@ -10,8 +10,8 @@ categories:
   - barcamp
   - Brussel
 ---
-[<img loading="lazy" style="float: right" src="http://farm1.static.flickr.com/45/139767078_ec3b5727c6_m.jpg" width="240" height="69" alt="Barcamp Brussels logo" />](http://www.flickr.com/photos/pforret/139767078/ "Photo Sharing") In about 30 days, a bunch of Internet entrepreneurs, enthusiasts and geeks will gather at the Halles des Tanneurs in Brussels to share experiences and learn from each other: [Barcamp Brussels](http://barcamp.forret.com/blog/2007/03/07/barcamp-3-may-5-in-the-marolles/). This is the 3rd edition of this &#8216;unconference&#8217; that has proven to be a great place to meet new people and ideas.  
-[<img loading="lazy" src="http://farm1.static.flickr.com/179/379279542_48651395f8.jpg" width="500" height="333" alt="Les Halles des Tanneurs" />](http://www.flickr.com/photos/pforret/379279542/ "Photo Sharing")
+[<img  style="float: right" src="http://farm1.static.flickr.com/45/139767078_ec3b5727c6_m.jpg" width="240" height="69" alt="Barcamp Brussels logo" />](http://www.flickr.com/photos/pforret/139767078/ "Photo Sharing") In about 30 days, a bunch of Internet entrepreneurs, enthusiasts and geeks will gather at the Halles des Tanneurs in Brussels to share experiences and learn from each other: [Barcamp Brussels](http://barcamp.forret.com/blog/2007/03/07/barcamp-3-may-5-in-the-marolles/). This is the 3rd edition of this &#8216;unconference&#8217; that has proven to be a great place to meet new people and ideas.  
+[<img  src="http://farm1.static.flickr.com/179/379279542_48651395f8.jpg" width="500" height="333" alt="Les Halles des Tanneurs" />](http://www.flickr.com/photos/pforret/379279542/ "Photo Sharing")
 
 ### Attendees = participants
 

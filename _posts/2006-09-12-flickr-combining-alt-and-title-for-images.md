@@ -12,7 +12,7 @@ categories:
 If you want to embed one of your own [Flickr](http://www.flickr.com) pictures into your blog, the Flickr photo page gives you the HTML code for easy copy/paste. They require you to link back to the photo page, so obviously in the HTML they provide, they give your an image with a link, i.e. an `<img>` tag in between a `<a> </a>` anchor tag pair. A typical example:  
 `<a href="http://www.flickr.com/photos/(...)" title="<em>Photo Sharing</em>"><img src="http://static.flickr.com/(...).jpg" width="600" height="1200" alt="(image title)" /></a>`  
 As you can see, they combine both an anchor title (always &#8220;Photo Sharing&#8221;) with an image alt text (Flickr uses the photo title for that). Both fields give more info about the objects they refer to and are very much loved by search engines. It should come as no surprise that the #1 Google result for &#8220;photo sharing&#8221; is Flickr.  
-[<img loading="lazy" src="http://static.flickr.com/98/241479980_63fed49bf4.jpg" width="375" height="500" alt="Flickr: img alt vs. a title" />](http://www.flickr.com/photos/pforret/241479980/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/98/241479980_63fed49bf4.jpg" width="375" height="500" alt="Flickr: img alt vs. a title" />](http://www.flickr.com/photos/pforret/241479980/ "Photo Sharing")  
 <!--more-->
 
   

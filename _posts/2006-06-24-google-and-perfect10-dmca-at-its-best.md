@@ -11,11 +11,11 @@ categories:
   - Google
 ---
 While searching for something really innocent on Google (honestly!), I got the following warning:  
-[<img loading="lazy" src="http://static.flickr.com/66/173874573_fcb4373669.jpg" width="500" height="92" alt="Google DMCA warning: OMG" />](http://www.flickr.com/photos/pforret/173874573/ "Photo Sharing")
+[<img  src="http://static.flickr.com/66/173874573_fcb4373669.jpg" width="500" height="92" alt="Google DMCA warning: OMG" />](http://www.flickr.com/photos/pforret/173874573/ "Photo Sharing")
 
 The [Digital Millenium Copyright Act](http://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act) (&#8220;DMCA&#8221; &#8211; 1998) _criminalizes production and dissemination of technology that can circumvent measures taken to protect copyright, not merely infringement of copyright itself, and heightens the penalties for copyright infringement on the Internet_. OMG, what kind of illegal practices had Google just protected me from? Clicking the ChillingEffects link shows the DMCA complaint in question: the Perfect 10
 
-[<img loading="lazy" src="http://static.flickr.com/67/173874574_06690af5a3.jpg" width="500" height="375" alt="Google DMCA explanation: WTF" />](http://www.flickr.com/photos/pforret/173874574/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/67/173874574_06690af5a3.jpg" width="500" height="375" alt="Google DMCA explanation: WTF" />](http://www.flickr.com/photos/pforret/173874574/ "Photo Sharing")  
 <!--more-->
 
   

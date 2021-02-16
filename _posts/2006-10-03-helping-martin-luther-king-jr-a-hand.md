@@ -9,7 +9,7 @@ permalink: /2006/10/03/helping-martin-luther-king-jr-a-hand/
 categories:
   - Google
 ---
-[<img loading="lazy" src="http://static.flickr.com/86/259150913_cb608809ec_m.jpg" style="float: right" width="182" height="240" alt="Martin Luther King" />](http://www.flickr.com/photos/pforret/259150913/ "Photo Sharing")
+[<img  src="http://static.flickr.com/86/259150913_cb608809ec_m.jpg" style="float: right" width="182" height="240" alt="Martin Luther King" />](http://www.flickr.com/photos/pforret/259150913/ "Photo Sharing")
 
 > Last week, CNET&#8217;s Elinor Mills reported on how a web search for &#8220;[Martin Luther King](http://en.wikipedia.org/wiki/Martin_Luther_King%2C_Jr.)&#8221; returns, as its first result on Google and as its second result on Windows Live Search, a web site (martinlutherking dot org) operated by a white supremacist organization named Stormfront.  
 > (&#8230;)  

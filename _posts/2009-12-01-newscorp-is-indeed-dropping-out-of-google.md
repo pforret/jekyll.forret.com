@@ -17,7 +17,7 @@ tags:
 
 When Rupert Murdoch [announced that he would remove his sites](http://www.guardian.co.uk/media/2009/nov/09/murdoch-google) from Google (in order to [make a deal with Microsoft](http://www.wired.com/epicenter/2009/11/news-corp-microsoft-seek-to-pressure-google-into-paying-for-news/), so that only Bing would have the NewsCorp pages, as we now assume), he apparently wasn&#8217;t kidding. Although all Google _web_ sites still indicate that e.g. MySpace has 179 million pages in the index, the Google API is currently returning another number for that: only 7 million. The total number of NewsCorp pages (a [sum of MySpace, IGN, RottenTomatoes, &#8230;](http://tools.forret.com/newscorp/)) has dropped from 192 million to **12 million**.
 
-[<img loading="lazy" src="http://farm3.static.flickr.com/2680/4149930709_33164c5646.jpg" alt="Newscorp is dropping out of Google" width="500" height="114" />](http://www.flickr.com/photos/pforret/4149930709/ "Newscorp is dropping out of Google by Peter Forret, on Flickr")
+[<img  src="http://farm3.static.flickr.com/2680/4149930709_33164c5646.jpg" alt="Newscorp is dropping out of Google" width="500" height="114" />](http://www.flickr.com/photos/pforret/4149930709/ "Newscorp is dropping out of Google by Peter Forret, on Flickr")
 
 (trend via <http://trend.visualizor.com/g/1011> )
 

@@ -14,7 +14,7 @@ categories:
 <td bgcolor="#EEEEEE" align=center> <font face="Georgia, Times New Roman, Times, serif" style='color:black; font-size: 14pt;'>Your Brain is 60% Female, 40% Male</font></td> 
 <td bgcolor="#FFFFFF">
   <center>
-    <img loading="lazy" src="http://images.blogthings.com/whatgenderisyourbrainquiz/brain.jpg" height="100" width="100" />
+    <img  src="http://images.blogthings.com/whatgenderisyourbrainquiz/brain.jpg" height="100" width="100" />
   </center>
   
   <br /> <font color="#000000"><br /> Your brain is a healthy mix of male and female<br /> You are both sensitive and savvy<br /> Rational and reasonable, you tend to keep level headed<br /> But you also tend to wear your heart on your sleeve<br /> </font>

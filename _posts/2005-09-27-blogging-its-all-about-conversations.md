@@ -13,7 +13,7 @@ tags:
   - bloggers
   - blogosphere
 ---
-[<img loading="lazy" border="0" vspace="4" width="120" src="http://www.loiclemeur.com/france/lesblogs2logo.gif" hspace="4" alt="Les Blogs 2.0" height="94" />](http://lesblogs.typepad.com/ "Les Blogs 2.0")
+[<img  border="0" vspace="4" width="120" src="http://www.loiclemeur.com/france/lesblogs2logo.gif" hspace="4" alt="Les Blogs 2.0" height="94" />](http://lesblogs.typepad.com/ "Les Blogs 2.0")
 
 And talking about blogging is something I will do a lot in the near future:
 

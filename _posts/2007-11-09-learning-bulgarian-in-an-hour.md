@@ -22,9 +22,9 @@ Just read an interesting post: [How to Learn (But Not Master) Any Language in 1 
 #### Introduction
 
 Bulgarian is a slavic language written in a cyrillic alphabet of 30 letters:  
-[<img loading="lazy" src="http://farm3.static.flickr.com/2194/1935951683_04da8f9ecc.jpg" alt="alphabet2" width="500" height="292" />](http://www.flickr.com/photos/pforret/1935951683/ "Photo Sharing")
+[<img  src="http://farm3.static.flickr.com/2194/1935951683_04da8f9ecc.jpg" alt="alphabet2" width="500" height="292" />](http://www.flickr.com/photos/pforret/1935951683/ "Photo Sharing")
 
-[<img loading="lazy" src="http://farm3.static.flickr.com/2213/1936793430_721dc5a474.jpg" alt="pronunciation" width="500" height="419" />](http://www.flickr.com/photos/pforret/1936793430/ "Photo Sharing")
+[<img  src="http://farm3.static.flickr.com/2213/1936793430_721dc5a474.jpg" alt="pronunciation" width="500" height="419" />](http://www.flickr.com/photos/pforret/1936793430/ "Photo Sharing")
 
 For easier reading for us used to roman alphabets, and for Bulgarians with a US keyboard, there is a way to rewrite cyrillic words called &#8220;transliteration&#8221; or more specific &#8220;romanization&#8221;. I have -obviously- created one: [Bulgarian romanization: cyrillic <> latin](http://tools.forret.com/romanize/bulgarian.php).
 

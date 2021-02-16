@@ -11,7 +11,7 @@ categories:
 tags:
   - northernsoul
 ---
-[<img loading="lazy" class="alignright" style="float: right;" src="http://farm4.static.flickr.com/3072/2971903105_1229f55473_m.jpg" alt="Northern Soul" width="240" height="240" />](http://www.flickr.com/photos/pforret/2971903105/ "Northern Soul by PeterForret, on Flickr") I&#8217;m currently reading two related books at the same time:
+[<img  class="alignright" style="float: right;" src="http://farm4.static.flickr.com/3072/2971903105_1229f55473_m.jpg" alt="Northern Soul" width="240" height="240" />](http://www.flickr.com/photos/pforret/2971903105/ "Northern Soul by PeterForret, on Flickr") I&#8217;m currently reading two related books at the same time:
 
   * &#8220;Turn the beat around &#8211; the secret history of disco&#8221; by Peter Shapiro
   * &#8220;Last night a DJ saved my life &#8211; the history of the disc jockey&#8221; by Bill Brewster and Frank Broughton

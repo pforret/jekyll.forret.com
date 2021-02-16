@@ -25,21 +25,21 @@ First the basics: a [QR code](https://en.wikipedia.org/wiki/QR_code) is a 2-dime
 
 <ul class="blocks-gallery-grid">
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" width="580" height="580" src="https://blog.forret.com/wp-content/uploads/2020/05/hello.png" alt="" data-id="2215" data-link="https://blog.forret.com/?attachment_id=2215" class="wp-image-2215" srcset="https://blog.forret.com/wp-content/uploads/2020/05/hello.png 580w, https://blog.forret.com/wp-content/uploads/2020/05/hello-300x300.png 300w, https://blog.forret.com/wp-content/uploads/2020/05/hello-150x150.png 150w, https://blog.forret.com/wp-content/uploads/2020/05/hello-50x50.png 50w" sizes="(max-width: 580px) 100vw, 580px" /><figcaption class="blocks-gallery-item__caption">&#8220;Hello&#8221;</figcaption></figure>
+    <figure><img  width="580" height="580" src="https://blog.forret.com/wp-content/uploads/2020/05/hello.png" alt="" data-id="2215" data-link="https://blog.forret.com/?attachment_id=2215" class="wp-image-2215" srcset="https://blog.forret.com/wp-content/uploads/2020/05/hello.png 580w, https://blog.forret.com/wp-content/uploads/2020/05/hello-300x300.png 300w, https://blog.forret.com/wp-content/uploads/2020/05/hello-150x150.png 150w, https://blog.forret.com/wp-content/uploads/2020/05/hello-50x50.png 50w" sizes="(max-width: 580px) 100vw, 580px" /><figcaption class="blocks-gallery-item__caption">&#8220;Hello&#8221;</figcaption> 
   </li>
   <li class="blocks-gallery-item">
-    <figure><img loading="lazy" width="1620" height="1620" src="https://i0.wp.com/blog.forret.com/wp-content/uploads/2020/05/long.png?fit=688%2C688&ssl=1" alt="" data-id="2216" data-full-url="https://i0.wp.com/blog.forret.com/wp-content/uploads/2020/05/long.png?fit=1620%2C1620&ssl=1" data-link="https://blog.forret.com/?attachment_id=2216" class="wp-image-2216" srcset="https://blog.forret.com/wp-content/uploads/2020/05/long.png 1620w, https://blog.forret.com/wp-content/uploads/2020/05/long-300x300.png 300w, https://blog.forret.com/wp-content/uploads/2020/05/long-1024x1024.png 1024w, https://blog.forret.com/wp-content/uploads/2020/05/long-150x150.png 150w, https://blog.forret.com/wp-content/uploads/2020/05/long-768x768.png 768w, https://blog.forret.com/wp-content/uploads/2020/05/long-1536x1536.png 1536w, https://blog.forret.com/wp-content/uploads/2020/05/long-1600x1600.png 1600w, https://blog.forret.com/wp-content/uploads/2020/05/long-50x50.png 50w" sizes="(max-width: 1620px) 100vw, 1620px" /><figcaption class="blocks-gallery-item__caption">a long text</figcaption></figure>
+    <figure><img  width="1620" height="1620" src="https://i0.wp.com/blog.forret.com/wp-content/uploads/2020/05/long.png?fit=688%2C688&ssl=1" alt="" data-id="2216" data-full-url="https://i0.wp.com/blog.forret.com/wp-content/uploads/2020/05/long.png?fit=1620%2C1620&ssl=1" data-link="https://blog.forret.com/?attachment_id=2216" class="wp-image-2216" srcset="https://blog.forret.com/wp-content/uploads/2020/05/long.png 1620w, https://blog.forret.com/wp-content/uploads/2020/05/long-300x300.png 300w, https://blog.forret.com/wp-content/uploads/2020/05/long-1024x1024.png 1024w, https://blog.forret.com/wp-content/uploads/2020/05/long-150x150.png 150w, https://blog.forret.com/wp-content/uploads/2020/05/long-768x768.png 768w, https://blog.forret.com/wp-content/uploads/2020/05/long-1536x1536.png 1536w, https://blog.forret.com/wp-content/uploads/2020/05/long-1600x1600.png 1600w, https://blog.forret.com/wp-content/uploads/2020/05/long-50x50.png 50w" sizes="(max-width: 1620px) 100vw, 1620px" /><figcaption class="blocks-gallery-item__caption">a long text</figcaption> 
   </li>
-</ul></figure> 
+</ul>  
 
 What I have developed is: an animated series of different QR-encoded URLs, changing slow enough that a simple QR reader (like your smartphone camera) will recognise them most of the time but fast enough that you can&#8217;t really be sure which one you&#8217;re going to get when you click the URL. Hence: **QR Roulette**!<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="800" height="800" src="https://blog.forret.com/wp-content/uploads/2020/05/YT.f14a54.animated.gif" alt="" class="wp-image-2212" /> <figcaption>QR Roulette &#8211; all Youtube videos!</figcaption></figure> 
+<img  width="800" height="800" src="https://blog.forret.com/wp-content/uploads/2020/05/YT.f14a54.animated.gif" alt="" class="wp-image-2212" /> <figcaption>QR Roulette &#8211; all Youtube videos!</figcaption>  
 
 In the above example, all the URLs are Youtube URLs. An iPhone needs up to a second to &#8216;find&#8217; a QR code and the different codes are changing at 2x/second, So there is no telling which one you will get.
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-medium"><img loading="lazy" width="259" height="300" src="https://blog.forret.com/wp-content/uploads/2020/05/IMG_6126-259x300.jpg" alt="" class="wp-image-2214" srcset="https://blog.forret.com/wp-content/uploads/2020/05/IMG_6126-259x300.jpg 259w, https://blog.forret.com/wp-content/uploads/2020/05/IMG_6126-883x1024.jpg 883w, https://blog.forret.com/wp-content/uploads/2020/05/IMG_6126-768x890.jpg 768w, https://blog.forret.com/wp-content/uploads/2020/05/IMG_6126.jpg 1125w" sizes="(max-width: 259px) 100vw, 259px" /><figcaption>A QR code being recognized</figcaption></figure>
+  <figure class="aligncenter size-medium"><img  width="259" height="300" src="https://blog.forret.com/wp-content/uploads/2020/05/IMG_6126-259x300.jpg" alt="" class="wp-image-2214" srcset="https://blog.forret.com/wp-content/uploads/2020/05/IMG_6126-259x300.jpg 259w, https://blog.forret.com/wp-content/uploads/2020/05/IMG_6126-883x1024.jpg 883w, https://blog.forret.com/wp-content/uploads/2020/05/IMG_6126-768x890.jpg 768w, https://blog.forret.com/wp-content/uploads/2020/05/IMG_6126.jpg 1125w" sizes="(max-width: 259px) 100vw, 259px" /><figcaption>A QR code being recognized</figcaption> 
 </div>
 
 ### Toolchain
@@ -52,6 +52,6 @@ In the above example, all the URLs are Youtube URLs. An iPhone needs up to a sec
 I am obviously not the first person who thinks of animating QR codes. There are already other kinds of animated QR codes: 
 
   * there is [QR4 with their animation inside a static QR](https://blog.qr4.nl/Animated-QR-Code.aspx)  
-<img loading="lazy" width="187" height="205" class="wp-image-2210" style="width: 200px;" src="https://blog.forret.com/wp-content/uploads/2020/05/QR_CODE_ANIMATED_Radar.gif" alt="" /> 
+<img  width="187" height="205" class="wp-image-2210" style="width: 200px;" src="https://blog.forret.com/wp-content/uploads/2020/05/QR_CODE_ANIMATED_Radar.gif" alt="" /> 
   * and there is [TXQR](https://github.com/divan/txqr) with streaming data transfer via animated QR  
-<img loading="lazy" width="400" height="225" class="wp-image-2211" style="width: 300px;" src="https://blog.forret.com/wp-content/uploads/2020/05/txqr.gif" alt="" />
+<img  width="400" height="225" class="wp-image-2211" style="width: 300px;" src="https://blog.forret.com/wp-content/uploads/2020/05/txqr.gif" alt="" />

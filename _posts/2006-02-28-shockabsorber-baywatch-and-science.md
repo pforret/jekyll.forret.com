@@ -11,7 +11,7 @@ categories:
 ---
 [Joey](http://www.tv.com/matt-leblanc/person/899/summary.html) from &#8220;[Friends](http://www.tv.com/friends/show/71/summary.html)&#8220;, as we all know, is very interested in bio-mechanics, certainly the topic of female movement on beaches:
 
-> [<img loading="lazy" width="100" height="75" alt="Nicole Eggert" src="http://static.flickr.com/38/105517959_9c9c5be576_t.jpg" />](http://www.flickr.com/photos/pforret/105517959/ "Photo Sharing")CHANDLER: So ah, whatcha watching?  
+> [<img  width="100" height="75" alt="Nicole Eggert" src="http://static.flickr.com/38/105517959_9c9c5be576_t.jpg" />](http://www.flickr.com/photos/pforret/105517959/ "Photo Sharing")CHANDLER: So ah, whatcha watching?  
 > JOEY: Baywatch.  
 > CHANDLER: What&#8217;s it about?  
 > JOEY: Lifeguards.  
@@ -21,7 +21,7 @@ categories:
 > JOEY: They do that a lot.  
 > (from [The One With the Flashback](http://www.generationterrorists.com/cgi-bin/friends.cgi?ep=306))
 
-[<img loading="lazy" width="240" height="122" alt="ShockAbsorber - sports bra simulator" src="http://static.flickr.com/51/105504984_937a799808_m.jpg" />](http://www.flickr.com/photos/pforret/105504984/ "Photo Sharing")The UK bra brand [ShockAbsorber](http://www.shockabsorber.co.uk) took it one step further and actually teamed up with [Portsmouth University](http://www.port.ac.uk/) to explore the exact dynamics of chest movement during sports activity. Whoever said science was dull?
+[<img  width="240" height="122" alt="ShockAbsorber - sports bra simulator" src="http://static.flickr.com/51/105504984_937a799808_m.jpg" />](http://www.flickr.com/photos/pforret/105504984/ "Photo Sharing")The UK bra brand [ShockAbsorber](http://www.shockabsorber.co.uk) took it one step further and actually teamed up with [Portsmouth University](http://www.port.ac.uk/) to explore the exact dynamics of chest movement during sports activity. Whoever said science was dull?
 
 > **Teaming up with Portsmouth University**  
 > In 2004, we joined forces with Portsmouth University to update and expand our original research into breast movement during exercise. Established in 1992, the [Sports Science Department](http://www.port.ac.uk/departments/academic/sportscience/) has an impressive track record of research.  

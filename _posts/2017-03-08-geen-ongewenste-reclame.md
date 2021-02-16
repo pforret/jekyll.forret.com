@@ -22,7 +22,7 @@ tags:
 ---
 Je krijgt op een jaar nogal wat direct-in-de-papierbak reclame binnen. Ik ben in mijn gemeente (Grimbergen) op zoek gegaan naar de &#8220;Geen Reclame&#8221; sticker, maar zowel het postkantoor als het gemeentehuis konden me niet verder helpen. Ik heb dan maar online gezocht naar de juiste oplossing voor een reeks ongewenste reclame bronnen:
 
-[<img loading="lazy" class="alignnone size-full wp-image-1528" src="http://blog.forret.com/wp-content/uploads/2017/03/anti-reclamesticker.jpg" alt="" width="297" height="153" />](http://blog.forret.com/wp-content/uploads/2017/03/anti-reclamesticker.jpg)
+[<img  class="alignnone size-full wp-image-1528" src="http://blog.forret.com/wp-content/uploads/2017/03/anti-reclamesticker.jpg" alt="" width="297" height="153" />](http://blog.forret.com/wp-content/uploads/2017/03/anti-reclamesticker.jpg)
 
   * ongeaddresseerde, huis-aan-huis reclame: bestel een &#8220;NEE NEE sticker&#8221; door een mail te sturen naar <sticker@ovam.be> (voor [Vlamingen](http://www.ovam.be/papier-karton)) or via [Leefmilieu Brussel](http://www.leefmilieu.brussels/themas/afval-grondstof/mijn-afval/reclame-weigeren-uw-recht).
   * geaddresseerde, op-naam reclame: voeg je adres toe aan de Robinson Mail lijst: [www.robinsonlist.be](http://www.robinsonlist.be/)

@@ -10,7 +10,7 @@ categories:
   - media
 ---
 The &#8216;top model&#8217; Heidi Klum presents a TV show: [**Germany&#8217;s Next Top Model**](http://www.prosieben.de/lifestyle_magazine/topmodel/index.php), basically a contest for a bunch of girls who want to become a top model (date actors, eat carrots, spend hours getting your hair done, dress lightly and get paid a whole lot of money while doing that). Recently one of the candidates was dismissed and the reasons were somewhat controversial:  
-[<img loading="lazy" style="float: right" src="http://static.flickr.com/44/119006217_2d57a9622a_t.jpg" width="100" height="63" alt="Irina" />](http://www.flickr.com/photos/pforret/119006217/ "Photo Sharing")
+[<img  style="float: right" src="http://static.flickr.com/44/119006217_2d57a9622a_t.jpg" width="100" height="63" alt="Irina" />](http://www.flickr.com/photos/pforret/119006217/ "Photo Sharing")
 
 > Irina&#8217;s misfortune was her height-weight ratio &#8212; she weighed 52 kilograms (114.5 pounds) and was 1.76 meters (5 feet 9 inches) tall. With that kind of body, Irina, 19, was used to being adoringly ogled, but on supermodel Heidi Klum&#8217;s television show &#8220;Germany&#8217;s Next Top-Model&#8221; her body became her downfall. &#8220;Too fat,&#8221; was the verdict handed down by the show&#8217;s jury. The svelte Irina was sent home.  
 > [Der Spiegel](http://service.spiegel.de/cache/international/0,1518,398968,00.html)

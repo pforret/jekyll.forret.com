@@ -26,4 +26,4 @@ Google Calendar&#8217;s web interface doesn&#8217;t really allow you to bulk del
 
 Select the appointments you want to delete, hit the &#8216;Del&#8217; button and see them disappear one by one.
 
-[<img loading="lazy" class="size-medium wp-image-1229" title="thunderbird" src="http://blog2.forret.com/wp-content/uploads/2011/01/thunderbird1.jpg" alt="" width="500" height="187" />](http://blog2.forret.com/wp-content/uploads/2011/01/thunderbird1.jpg)
+[<img  class="size-medium wp-image-1229" title="thunderbird" src="http://blog2.forret.com/wp-content/uploads/2011/01/thunderbird1.jpg" alt="" width="500" height="187" />](http://blog2.forret.com/wp-content/uploads/2011/01/thunderbird1.jpg)

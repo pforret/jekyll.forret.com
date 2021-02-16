@@ -9,7 +9,7 @@ permalink: /2006/12/25/o-holy-fright/
 categories:
   - music
 ---
-[<img loading="lazy" src="http://farm1.static.flickr.com/165/332253414_56951ed225_m.jpg" style="float: right" width="240" height="219" alt="Evil santa" />](http://www.flickr.com/photos/pforret/332253414/ "Photo Sharing")  
+[<img  src="http://farm1.static.flickr.com/165/332253414_56951ed225_m.jpg" style="float: right" width="240" height="219" alt="Evil santa" />](http://www.flickr.com/photos/pforret/332253414/ "Photo Sharing")  
 Wishing you all a merry Christmas, and what better way than with this musical jewel of pure Christmas joy:
 
   

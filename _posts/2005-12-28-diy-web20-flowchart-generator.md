@@ -19,7 +19,7 @@ Use it in your presentations, use it in your business plans, use it to scare you
 
 An example below for the Web2.0-ishness of [Youtube.com](http://www.youtube.com):
 
-[<img loading="lazy" src="http://static.flickr.com/37/78641984_1a9b9095c1.jpg" border="0" width="500" height="344" alt="Youtube.com Flowchart" />](http://www.flickr.com/photos/pforret/78641984/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/37/78641984_1a9b9095c1.jpg" border="0" width="500" height="344" alt="Youtube.com Flowchart" />](http://www.flickr.com/photos/pforret/78641984/ "Photo Sharing")  
 You can post your own fancy/original/funny creations under the [Flickr](http://www.flickr.com) tag &#8220;[flowchart20](http://www.flickr.com/photos/tags/flowchart20/)&#8220;.
 
 Technorati: <a href="http://technorati.com/tag/diy" rel="tag">diy</a> &#8211; <a href="http://technorati.com/tag/web2.0" rel="tag">web2.0</a> &#8211; <a href="http://technorati.com/tag/flowchart" rel="tag">flowchart</a> &#8211; <a href="http://technorati.com/tag/mememap" rel="tag">mememap</a> &#8211; <a href="http://technorati.com/tag/generator" rel="tag">generator</a>

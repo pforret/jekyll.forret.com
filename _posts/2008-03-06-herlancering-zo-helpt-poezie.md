@@ -18,7 +18,7 @@ Soms groeit een hobby-project uit zijn voegen en moet je op een moment beslissen
 
 ### [www.zohelptpoezie.be](http://www.zohelptpoezie.be)
 
-[<img loading="lazy" src="http://farm4.static.flickr.com/3119/2314392016_4edc4ab775_d.jpg" alt="Zo Helpt Poezie" height="485" width="500" />](http://www.flickr.com/photos/pforret/2314392016/)
+[<img  src="http://farm4.static.flickr.com/3119/2314392016_4edc4ab775_d.jpg" alt="Zo Helpt Poezie" height="485" width="500" />](http://www.flickr.com/photos/pforret/2314392016/)
 
 Wat is er veranderd?
 

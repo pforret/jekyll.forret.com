@@ -17,7 +17,7 @@ _(If you don&#8217;t work with HTML, this next post will be of no interest to yo
 
 Why?
 
-[<img loading="lazy" width="196" height="240" src="http://static.flickr.com/87/243067639_e41df6d6f5_m.jpg" style="float: right;" alt="css Zen Garden" />](http://www.flickr.com/photos/pforret/243067639/ "Photo Sharing")  
+[<img  width="196" height="240" src="http://static.flickr.com/87/243067639_e41df6d6f5_m.jpg" style="float: right;" alt="css Zen Garden" />](http://www.flickr.com/photos/pforret/243067639/ "Photo Sharing")  
 **Because `src` is for now, `href` is for later**
 
 In a HTML page, there are a number of files (URLs) that have to be fetched to display:

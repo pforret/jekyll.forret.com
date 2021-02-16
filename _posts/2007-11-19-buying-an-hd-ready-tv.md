@@ -17,7 +17,7 @@ I get the question a lot, so I thought I might write a post about it as a ready-
 
 **&#8220;I&#8217;m gonna buy a new (LCD) TV, should I go for HD Ready or for Full HD?&#8221;**
 
-[<img loading="lazy" width="500" src="http://farm1.static.flickr.com/92/255896735_3e99741187.jpg" alt="Nothing even remotely like HD" height="375" />](http://www.flickr.com/photos/pforret/255896735/ "Nothing even remotely like HD")
+[<img  width="500" src="http://farm1.static.flickr.com/92/255896735_3e99741187.jpg" alt="Nothing even remotely like HD" height="375" />](http://www.flickr.com/photos/pforret/255896735/ "Nothing even remotely like HD")
 
 _1. What&#8217;s the difference?_
 

@@ -11,6 +11,6 @@ categories:
 ---
 There are different scenarios that enable people to share their Wifi. [FON](http://www.fon.com/) uses customer Wifi routers, [Wifidog](http://dev.wifidog.org/)/OpenWRT uses custom server machines (PCs), and Whisher has a an interesting alternative: they aggregate Wifi passwords. You install an local application that you communicate the WEP/WPA key of your Wifi router to. This application will communicate this to the central Whisher service and give it to other clients when required. The other users do not see the actual key, it&#8217;s their application that does the login. Their [mapping page](http://www.whisher.com/en/detailed_map.php) seems to be broken, so it&#8217;s hard to tell how many Whisher-compatible access points there are in Belgium.
 
-[<img loading="lazy" src="http://farm1.static.flickr.com/129/381702911_c9e8ede6f9.jpg" width="500" height="364" alt="Whisher" />](http://www.flickr.com/photos/pforret/381702911/ "Photo Sharing")
+[<img  src="http://farm1.static.flickr.com/129/381702911_c9e8ede6f9.jpg" width="500" height="364" alt="Whisher" />](http://www.flickr.com/photos/pforret/381702911/ "Photo Sharing")
 
 (via [balencourt.com](http://www.balencourt.com/com/index.php/2007/02/03/331-whisher-rendez-le-wifi-gratuit))

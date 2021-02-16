@@ -37,7 +37,7 @@ I host a lot of my projects on Gandi.net hosting, and when I started using the [
   * now set your remote repo to the Gandi URL  
     `git remote add gandi git+ssh://<yourid>@git.yyy.net/app.example.com.git`  
     _(the exact URL is shown on your Gandi dashboard)  
-_<img loading="lazy" width="1008" height="301" class="wp-image-2119" style="width: 500px;" src="https://blog.forret.com/wp-content/uploads/2020/03/gandi_site.png" alt="" srcset="https://blog.forret.com/wp-content/uploads/2020/03/gandi_site.png 1008w, https://blog.forret.com/wp-content/uploads/2020/03/gandi_site-300x90.png 300w, https://blog.forret.com/wp-content/uploads/2020/03/gandi_site-768x229.png 768w" sizes="(max-width: 1008px) 100vw, 1008px" /> 
+_<img  width="1008" height="301" class="wp-image-2119" style="width: 500px;" src="https://blog.forret.com/wp-content/uploads/2020/03/gandi_site.png" alt="" srcset="https://blog.forret.com/wp-content/uploads/2020/03/gandi_site.png 1008w, https://blog.forret.com/wp-content/uploads/2020/03/gandi_site-300x90.png 300w, https://blog.forret.com/wp-content/uploads/2020/03/gandi_site-768x229.png 768w" sizes="(max-width: 1008px) 100vw, 1008px" /> 
   * add your code to git and do your first commit  
     `git add .<br>git commit -a -m "first commit"`
   * now push your code to Gandi  
@@ -52,7 +52,7 @@ _<img loading="lazy" width="1008" height="301" class="wp-image-2119" style="widt
   * edit the .env file to use the correct database, set the app to &#8216;prod&#8217; etc
   * open app.example.com in your browser<figure class="wp-block-image size-full">
 
-<img loading="lazy" width="950" height="735" src="https://blog.forret.com/wp-content/uploads/2020/03/LaravelDefault.png" alt="" class="wp-image-2118" srcset="https://blog.forret.com/wp-content/uploads/2020/03/LaravelDefault.png 950w, https://blog.forret.com/wp-content/uploads/2020/03/LaravelDefault-300x232.png 300w, https://blog.forret.com/wp-content/uploads/2020/03/LaravelDefault-768x594.png 768w" sizes="(max-width: 950px) 100vw, 950px" /> <figcaption>Tada!</figcaption></figure> 
+<img  width="950" height="735" src="https://blog.forret.com/wp-content/uploads/2020/03/LaravelDefault.png" alt="" class="wp-image-2118" srcset="https://blog.forret.com/wp-content/uploads/2020/03/LaravelDefault.png 950w, https://blog.forret.com/wp-content/uploads/2020/03/LaravelDefault-300x232.png 300w, https://blog.forret.com/wp-content/uploads/2020/03/LaravelDefault-768x594.png 768w" sizes="(max-width: 950px) 100vw, 950px" /> <figcaption>Tada!</figcaption>  
 
 ### Deploy with git &#8211; bash script
 

@@ -19,7 +19,7 @@ If it were weight/length you can attach a mental image to that: if you took hori
 
   
 So I started playing with an estimate function for the weight of a person: I modeled a body as a rectangular 3D box.  
-[<img loading="lazy" src="http://static.flickr.com/38/112615379_ebcbc07eb2_m.jpg" width="105" height="240" style="float: right" alt="leonardo" />](http://www.flickr.com/photos/pforret/112615379/ "Photo Sharing")
+[<img  src="http://static.flickr.com/38/112615379_ebcbc07eb2_m.jpg" width="105" height="240" style="float: right" alt="leonardo" />](http://www.flickr.com/photos/pforret/112615379/ "Photo Sharing")
 
   * The length L is the person&#8217;s length. 
   * The &#8216;equivalent width&#8217; EW of a body is dependent on the average width (e.g. ear-to-ear, shoulder-to-shoulder, hip-to-hip). 
@@ -50,6 +50,6 @@ A [Michael Raymond Pierrynowski](http://isb.ri.ccf.org/biomch-l/archives/biomch-
 
 I took the data I had of the candidates for the Top Model show, and also added statistics for [US baseball players](http://generous.net/health/newbmi.shtml) (the team from the LA Lakers), who are at the other end of the spectrum. A common criticism on BMI is that it often qualifies athletes of heavy sports like baseball as potentially obese, whil they rather have way more muscles than average people and are often very healthy individuals.  
 I&#8217;ve put 3 lines on the graph for each system: a bottom line, under which you are considered rather light, an average line, and a top line, above which you are &#8216;too heavy&#8217;. You can see that the allometric curves are more lenient on the baseball players. Almost all models as well as all athletes fall within the norm.  
-[<img loading="lazy" src="http://static.flickr.com/56/112475105_f79afd416c.jpg" width="500" height="351" alt="BMI vs Geometric vs Allometric" />](http://www.flickr.com/photos/pforret/112475105/ "Photo Sharing")
+[<img  src="http://static.flickr.com/56/112475105_f79afd416c.jpg" width="500" height="351" alt="BMI vs Geometric vs Allometric" />](http://www.flickr.com/photos/pforret/112475105/ "Photo Sharing")
 
 Conclusion: BMI is just &#8216;a&#8217; way of measuring relative weight, maybe not the best. The usage aof the square of the length is contra-intuitive, but seems to give acceptable results.

@@ -14,13 +14,13 @@ I have been working a bit on Google Maps visualisations for my milonga.be tango 
   * I use [Google Maps](http://maps.google.com/)&#8216; &#8220;My Maps&#8221; to create a collection of pointers on a map. I called this map &#8220;milonga.be tango venues&#8221;. It&#8217;s not complete yet, but I have about 25 locations in it for the moment. I can easily link to this page so anyone can see it: [Belgian tango venues](http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=112599099261802333902.0004345d4d4fd0a979711&z=8&om=1).
   * But let&#8217;s say I want to embed it into a page. I could do it in-line (which would add a lot of JavaScript to the HTML) or use an inline frame (`IFRAME`). I decided to use the frame approach and build a generic KML visualizor.
 
-[<img loading="lazy" src="http://farm2.static.flickr.com/1211/727612809_264593f79d.jpg" width="500" height="406" alt="Google Maps Visualizor" />](http://www.flickr.com/photos/pforret/727612809/ "Photo Sharing")
+[<img  src="http://farm2.static.flickr.com/1211/727612809_264593f79d.jpg" width="500" height="406" alt="Google Maps Visualizor" />](http://www.flickr.com/photos/pforret/727612809/ "Photo Sharing")
 
 So how can you use it to show any KML/GeoRSS feed on your website?
 
   1. Go to the [forret.com Google Maps visualizor tool](http://web.forret.com/tools/google-maps.asp)
   2. Copy/paste the KML feed URL. Example 1: the KML link from Google Maps:  
-    [<img loading="lazy" src="http://farm2.static.flickr.com/1253/718873076_39143ad534_m.jpg" width="240" height="57" alt="Google Maps KML link" />](http://www.flickr.com/photos/pforret/718873076/ "Photo Sharing")  
+    [<img  src="http://farm2.static.flickr.com/1253/718873076_39143ad534_m.jpg" width="240" height="57" alt="Google Maps KML link" />](http://www.flickr.com/photos/pforret/718873076/ "Photo Sharing")  
     Example 2: Flickr feeds also have a [Flickr GeoRSS format](http://geobloggers.com/archives/2006/10/31/three-hiddenish-flickr-map-features/) which is compatible ([now also KML](http://geobloggers.com/archives/2007/05/31/flickr-kml-and-a-stroll-down-memory-lane/)).
   3. Choose the appropriate center point. Currently you have to copy/paste it from Google Maps or another application, I still have to add some interface magic to do it in the page.
   4. Press &#8220;Show!&#8221; and copy/paste the resulting `IFRAME` HTML code. Voila!

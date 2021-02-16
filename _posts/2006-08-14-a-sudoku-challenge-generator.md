@@ -15,7 +15,7 @@ _REMARK: this algorithm is quite logical and as such, I seriously doubt I would 
 ### Step 1: take a good root grid
 
 Let&#8217;s start with an completely valid Sudoku filled-in grid. Any one would do, I take the one that has 1-2-&#8230;-9 in the top row, and in the top left 3&#215;3 square:  
-[<img loading="lazy" src="http://static.flickr.com/79/214883343_eaaaf6e49e.jpg" width="500" height="383" alt="Step 1: start layout" />](http://www.flickr.com/photos/pforret/214883343/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/79/214883343_eaaaf6e49e.jpg" width="500" height="383" alt="Step 1: start layout" />](http://www.flickr.com/photos/pforret/214883343/ "Photo Sharing")  
 <!--more-->
 
   
@@ -30,13 +30,13 @@ If you&#8217;re not familiar with these puzzles: for a 9&#215;9 grid to be a val
 There are a couple of transformations that we can apply on a Sudoku grid while still keeping it in a valid state. They are:
 
   * swapping two rows in same group: when you swap 2 rows within the same &#8216;group&#8217; (within the 3&#215;3 borders), the Sudoku requirements remain fulfilled (I won&#8217;t include a formal proof, but trust me on this one).  
-    [<img loading="lazy" src="http://static.flickr.com/74/214883346_ecd5918691_m.jpg" width="240" height="154" alt="Step 2: shuffle 2 rows or columns" />](http://www.flickr.com/photos/pforret/214883346/ "Photo Sharing")
+    [<img  src="http://static.flickr.com/74/214883346_ecd5918691_m.jpg" width="240" height="154" alt="Step 2: shuffle 2 rows or columns" />](http://www.flickr.com/photos/pforret/214883346/ "Photo Sharing")
   * swapping two columns in same group: the vertical version of the previous one.
   * swapping two groups of rows: when you swap two 9&#215;3 groups of cells, that keeps the grid valid too.  
-    [<img loading="lazy" src="http://static.flickr.com/95/214883347_a63ba5863a_m.jpg" width="240" height="157" alt="Step 2: shuffle 2 row or column blocks" />](http://www.flickr.com/photos/pforret/214883347/ "Photo Sharing")
+    [<img  src="http://static.flickr.com/95/214883347_a63ba5863a_m.jpg" width="240" height="157" alt="Step 2: shuffle 2 row or column blocks" />](http://www.flickr.com/photos/pforret/214883347/ "Photo Sharing")
   * swapping two groups of columns: vertical version of the previous one
   * transposing the whole grid (the columns become the rows and vice versa)  
-    [<img loading="lazy" src="http://static.flickr.com/83/214883348_c0b729624d_m.jpg" width="240" height="194" alt="Step 2: transpose whole grid" />](http://www.flickr.com/photos/pforret/214883348/ "Photo Sharing")
+    [<img  src="http://static.flickr.com/83/214883348_c0b729624d_m.jpg" width="240" height="194" alt="Step 2: transpose whole grid" />](http://www.flickr.com/photos/pforret/214883348/ "Photo Sharing")
 
 There are maybe other, more complex, transformations, but these will take you a long way. Maybe someone could prove that with these base operations all possible Sudoku grids can be constructed, or maybe on the contrary, that some combinations can never be reached. We don&#8217;t really care, as long as we can apply a random sequence of the above transformations to get a grid that seems kind of random but is still valid.  
 You can compare this &#8216;shuffling&#8217; with the Rubik cube: you get it in the virgin state and then you shuffle it around to get a pseudo-random start situation.

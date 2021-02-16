@@ -129,17 +129,17 @@ As you might have read in my [Migrating to WordPress](http://blog.forret.com/200
   
 **[BLUEHOST](http://www.bluehost.com/track/pforret/COMPARE) GUI**  
 Bluehost has a nice management interface: [Cpanel Pro](http://www.cpanel.net).  
-[<img loading="lazy" src="http://static.flickr.com/44/128513379_e87253bd6e.jpg" width="454" height="500" alt="Bluehost: cpanel" />](http://www.flickr.com/photos/pforret/128513379/ "Photo Sharing")
+[<img  src="http://static.flickr.com/44/128513379_e87253bd6e.jpg" width="454" height="500" alt="Bluehost: cpanel" />](http://www.flickr.com/photos/pforret/128513379/ "Photo Sharing")
 
 Their list of one-click application installs is impressive:  
-[<img loading="lazy" src="http://static.flickr.com/55/128513380_76919a287a.jpg" width="382" height="500" alt="Bluehost: Fantastico" />](http://www.flickr.com/photos/pforret/128513380/ "Photo Sharing")
+[<img  src="http://static.flickr.com/55/128513380_76919a287a.jpg" width="382" height="500" alt="Bluehost: Fantastico" />](http://www.flickr.com/photos/pforret/128513380/ "Photo Sharing")
 
 **[DREAMHOST](http://www.dreamhost.com/r.cgi?166410) GUI**  
 The management interface of Dreamhost is an own-developed web application:  
-[<img loading="lazy" src="http://static.flickr.com/53/128513381_1f0ec7b9f7.jpg" width="500" height="256" alt="Dreamhost: control" />](http://www.flickr.com/photos/pforret/128513381/ "Photo Sharing")
+[<img  src="http://static.flickr.com/53/128513381_1f0ec7b9f7.jpg" width="500" height="256" alt="Dreamhost: control" />](http://www.flickr.com/photos/pforret/128513381/ "Photo Sharing")
 
 The list of one-click installs is more limited but has most best-of-breed applications:  
-[<img loading="lazy" src="http://static.flickr.com/47/128513382_a117c3d3f2.jpg" width="487" height="500" alt="Dreamhost: goodies" />](http://www.flickr.com/photos/pforret/128513382/ "Photo Sharing")
+[<img  src="http://static.flickr.com/47/128513382_a117c3d3f2.jpg" width="487" height="500" alt="Dreamhost: goodies" />](http://www.flickr.com/photos/pforret/128513382/ "Photo Sharing")
 
 **DNS MANAGEMENT**  
 A big difference between the two is the way they handle DNS management. 

@@ -15,7 +15,7 @@ tags:
   - facebook
   - gmail
 ---
-[<img loading="lazy" src="http://farm4.static.flickr.com/3490/3805043616_e9550f08da.jpg" alt="facebook spam" width="500" height="267" />](http://www.flickr.com/photos/pforret/3805043616/ "facebook spam by Peter Forret, on Flickr")
+[<img  src="http://farm4.static.flickr.com/3490/3805043616_e9550f08da.jpg" alt="facebook spam" width="500" height="267" />](http://www.flickr.com/photos/pforret/3805043616/ "facebook spam by Peter Forret, on Flickr")
 
 So I decided to let Facebook check my Gmail contact list to see if I had missed some contacts (people using aliases, etc &#8230;). After carefully selecting a couple of FB friends to invite (a buddy from the army, &#8230;), I clicked &#8216;Select&#8217; and then &#8216;OK&#8217; on the next screen that I supposed was a &#8216;Confirm&#8217; window. I didn&#8217;t even read what was written on it. Some minutes later I saw emails starting to come in on different email aliases I had created in all my years of Internet activity. Apparently I allowed Facebook to send email messages to all Gmail contacts with email addresses that were not yet &#8216;known&#8217; in Facebook. I have about 1500 addresses in my Gmail, let&#8217;s say some 500 already have a FB profile: so **I just allowed Facebook to send out 1000 &#8216;unsollicited commercial emails&#8217; or \*spam\* on my behalf**. There is no way for me to know how many emails went out, nor to whom. I feel strongly embarrased, since I have been a strong opponent of spam for years, and since I have no idea who I have bothered with this bulk mail.
 

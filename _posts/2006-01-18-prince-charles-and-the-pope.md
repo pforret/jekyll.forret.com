@@ -9,7 +9,7 @@ permalink: /2006/01/18/prince-charles-and-the-pope/
 categories:
   - media
 ---
-[<img loading="lazy" src="http://static.flickr.com/16/88248772_151b95ae7a_m.jpg" width="150" height="240" alt="Prince Charles and the pope" />](http://www.flickr.com/photos/pforret/88248772/ "Photo Sharing")
+[<img  src="http://static.flickr.com/16/88248772_151b95ae7a_m.jpg" width="150" height="240" alt="Prince Charles and the pope" />](http://www.flickr.com/photos/pforret/88248772/ "Photo Sharing")
 
 > Headlines from **1981**:
 > 

@@ -13,7 +13,7 @@ I continued to work a bit on _stuff one could do with the [Metatale](http://www.
 
 ### Top 100 in RSS format
 
-[<img loading="lazy" style="float: right" src="http://farm1.static.flickr.com/188/462772341_4efe83d2d8.jpg" width="229" height="500" alt="metatale search" />](http://www.flickr.com/photos/pforret/462772341/ "Photo Sharing")  
+[<img  style="float: right" src="http://farm1.static.flickr.com/188/462772341_4efe83d2d8.jpg" width="229" height="500" alt="metatale search" />](http://www.flickr.com/photos/pforret/462772341/ "Photo Sharing")  
 The ATOM/RSS feed [MetataleTop100](http://feeds.feedburner.com/MetataleTop100) (through [Feedburner](http://www.feedburner.com)) now lists all 100 blogs in the [top 100 of Metatale](http://www.metatale.eu/top-100). You can use it in your RSS reader (it&#8217;s in my Bloglines), show it on your blog (like my [Metatale Flemish Top 20](http://blog.forret.com/projects/statistics/metatale-flemish-top-20) page) or recycle it with Yahoo! Pipes or whatever. It&#8217;s RSS, so it&#8217;s easy to process.
 
 I&#8217;ve included in each blog description: its place in the Top 100, its Metatale influence indicator (a number between 0 and 25, plus a graphical representation of it), a _screenshot of the homepage_, a link to check Pagerank and incoming Technorati links and one for a more comprehensive blog dashboard.

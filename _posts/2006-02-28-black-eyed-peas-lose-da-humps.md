@@ -9,7 +9,7 @@ permalink: /2006/02/28/black-eyed-peas-lose-da-humps/
 categories:
   - music
 ---
-[<img loading="lazy" src="http://static.flickr.com/46/105491171_2d5ca8b990_m.jpg" width="191" height="240" alt="'Lose Da Humps'" />](http://www.flickr.com/photos/pforret/105491171/ "Photo Sharing")This song has bothered me from the first time I heard it:
+[<img  src="http://static.flickr.com/46/105491171_2d5ca8b990_m.jpg" width="191" height="240" alt="'Lose Da Humps'" />](http://www.flickr.com/photos/pforret/105491171/ "Photo Sharing")This song has bothered me from the first time I heard it:
 
 > What you gonna do with all that junk?  
 > All that junk inside that trunk?  

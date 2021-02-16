@@ -17,7 +17,7 @@ tags:
   - Search
 ---
 I had been wondering just how much information Google Adsense uses to select the right contextual ads. Specifically, do they use the referring page also. I just got part of the answer:  
-[<img loading="lazy" width="500" src="http://static.flickr.com/41/124139014_d3777be5b2.jpg" alt="Adsense: after search on Antwerp" height="346" />](http://www.flickr.com/photos/pforret/124139014/ "Photo Sharing")  
+[<img  width="500" src="http://static.flickr.com/41/124139014_d3777be5b2.jpg" alt="Adsense: after search on Antwerp" height="346" />](http://www.flickr.com/photos/pforret/124139014/ "Photo Sharing")  
 <!--more-->
 
   

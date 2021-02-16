@@ -11,7 +11,7 @@ categories:
   - Web2.0
 ---
 While playing with [Feed43](http://www.feed43.com) recently (an excellent anything-to-RSS converter), I wondered: why doesn&#8217;t [Feedburner](http://www.feedburner.com) do any of this stuff? It&#8217;s just a bit earlier in the RSS food chain (let&#8217;s call that the &#8216;feed chain&#8217;). Which of course incentivised me to put that feed chain on paper. This is the result:  
-[<img loading="lazy" src="http://static.flickr.com/34/117254772_76336c52b7.jpg" width="342" height="500" alt="RSS feed chain" />](http://www.flickr.com/photos/pforret/117254772/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/34/117254772_76336c52b7.jpg" width="342" height="500" alt="RSS feed chain" />](http://www.flickr.com/photos/pforret/117254772/ "Photo Sharing")  
 <!--more-->
 
   

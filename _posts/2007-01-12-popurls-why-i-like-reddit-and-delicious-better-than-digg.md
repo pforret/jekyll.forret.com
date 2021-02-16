@@ -10,7 +10,7 @@ categories:
   - Web2.0
 ---
 A site I use often to keep a view on &#8220;what&#8217;s happening&#8221; is [popurls.com](http://popurls.com/). It show lots of links, pictures and videos (Flickr, Youtube, iFilm, Wired &#8230;) but the part I use most is the top of the page: the 20 new hot links from the social bookmarking sites [Digg](http://www.digg.com), [del.icio.us](http://del.icio.us) and [Reddit](http://www.reddit.com).  
-[<img loading="lazy" width="500" src="http://farm1.static.flickr.com/146/354060040_19f5e114c3.jpg" alt="popurls" height="320" />](http://www.flickr.com/photos/pforret/354060040/ "Photo Sharing")
+[<img  width="500" src="http://farm1.static.flickr.com/146/354060040_19f5e114c3.jpg" alt="popurls" height="320" />](http://www.flickr.com/photos/pforret/354060040/ "Photo Sharing")
 
 I also find that I use the right part of the page (Reddit & del.icio.us) much more than the left (Digg) &#8211; just see the clicked (light-gray) links on the screenshot above. Today I read &#8220;[Digg is for kids, Reddit is for grown-ups](http://geektoid.net/2007/01/11/digg-is-for-kids-reddit-is-for-grown-ups/)&#8221; and let me try to formulate why Digg seems to have less appeal for me.
 

@@ -11,7 +11,7 @@ categories:
   - TV
 ---
 Small rant ahead:  
-[<img loading="lazy" src="http://static.flickr.com/54/113837979_5dd90187ec.jpg" width="332" height="500" alt="De Diadeem van Van Asbroeck" />](http://www.flickr.com/photos/pforret/113837979/ "Photo Sharing")
+[<img  src="http://static.flickr.com/54/113837979_5dd90187ec.jpg" width="332" height="500" alt="De Diadeem van Van Asbroeck" />](http://www.flickr.com/photos/pforret/113837979/ "Photo Sharing")
 
 One of Flanders&#8217; fine actors, Peter Van Asbroeck, has let his hair grow. Way too long. And to make sure he doesn&#8217;t get any between his teeth, he has resorted to wearing a head band. Not a macho type of hair band &#8211; as far as that is possible &#8211; but the most sissy of hairbands: the stretching &#8216;diadem&#8217; (we call them &#8216;diadeem&#8217;). For a guy that puts &#8216;Miami Vice&#8217;-like pictures on [his website](http://www.petervanasbroeck.com/), takes pride in showing of his muscles &#8211; and as of more recently, his beer bulge &#8211; that is a surprising decision.  
 <!--more-->

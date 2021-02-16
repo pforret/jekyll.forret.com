@@ -10,10 +10,10 @@ categories:
   - Tango
 ---
 I have been looking for a way to write down tango steps since I began dancing. I experimented with [drawing arrows](http://blog.forret.com/2005/02/tango-steps-and-twister/), writing full text, abbreviations, inventing signs, &#8230; I&#8217;m not alone in this quest:  
-[<img loading="lazy" src="http://static.flickr.com/70/187515225_3c0042a3ab_m.jpg" width="218" height="240" alt="Tango notation: larrydla" />](http://www.flickr.com/photos/pforret/187515225/ "Photo Sharing") or [<img loading="lazy" src="http://static.flickr.com/62/187520198_7b588b2615_m.jpg" width="182" height="240" alt="Tango notation: nfo.net" />](http://www.flickr.com/photos/pforret/187520198/ "Photo Sharing")
+[<img  src="http://static.flickr.com/70/187515225_3c0042a3ab_m.jpg" width="218" height="240" alt="Tango notation: larrydla" />](http://www.flickr.com/photos/pforret/187515225/ "Photo Sharing") or [<img  src="http://static.flickr.com/62/187520198_7b588b2615_m.jpg" width="182" height="240" alt="Tango notation: nfo.net" />](http://www.flickr.com/photos/pforret/187520198/ "Photo Sharing")
 
 And that is only when you take into account the feet. The [Labanotation](http://user.uni-frankfurt.de/~griesbec/LABANE.HTML) system (developed by professional dancers) has a graphical element for each movement of the legs and arms.  
-[<img loading="lazy" src="http://static.flickr.com/46/187495813_cbbc921678.jpg" width="500" height="264" alt="Labanotation: dance notation" />](http://www.flickr.com/photos/pforret/187495813/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/46/187495813_cbbc921678.jpg" width="500" height="264" alt="Labanotation: dance notation" />](http://www.flickr.com/photos/pforret/187495813/ "Photo Sharing")  
 While this is probably one of the best systems around, it&#8217;s too complicated for us laymen dancers. So I decided to distill a base vocabulary for writing down tango steps: [Tangotation](http://tango.smoothouse.com/dance/Tangotation).  
 <!--more-->
 
@@ -54,7 +54,7 @@ The leading &#8216;-&#8216; means that the step should be taken immediately afte
 Each letter has one unambiguous meaning, the full [Tangotation alphabet](http://tango.smoothouse.com/dance/Tangotation_alphabet) is here.
 
 I&#8217;ve even made a print-out form to allow easy notation:  
-[<img loading="lazy" src="http://static.flickr.com/47/140290664_ac9f8505de.jpg" width="383" height="500" alt="Tangotation sheet (to print out)" />](http://www.flickr.com/photos/pforret/140290664/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/47/140290664_ac9f8505de.jpg" width="383" height="500" alt="Tangotation sheet (to print out)" />](http://www.flickr.com/photos/pforret/140290664/ "Photo Sharing")  
 (as a [JPG](http://www.flickr.com/photo_zoom.gne?id=140290664&size=o), as a [PDF](http://tango.smoothouse.com/doc/tangotation_a5.pdf))
 
 This is just a first draft, so all input is appreciated!

@@ -9,7 +9,7 @@ permalink: /2006/11/20/babel-japanese-september-remix/
 categories:
   - movie
 ---
-[<img loading="lazy" src="http://static.flickr.com/117/301346590_6b5f635f32_m.jpg" style="float: right" width="240" height="240" alt="Babel: japanese girl" />](http://www.flickr.com/photos/pforret/301346590/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/117/301346590_6b5f635f32_m.jpg" style="float: right" width="240" height="240" alt="Babel: japanese girl" />](http://www.flickr.com/photos/pforret/301346590/ "Photo Sharing")  
 &#8220;[Babel](http://www.imdb.com/title/tt0449467/)&#8221; links up three stories on three continents in a clever way. Mexican director Iñárritu has probably made one of the best movies of 2006. I&#8217;m not gonna tell anything more about the plot (but girls: it features Brad Pitt and Gael García Bernal). Just go and see it!
 
 One very pleasant discovery halfway was the excellent Japanese remix of &#8220;September&#8221; ([Earth Wind and Fire](http://www.earthwindandfire.com/)). It starts off all sampled and cut up, but I recognized it quite fast (I have a thing for [sampling](http://www.xampled.com/)). So who was responsible for this funky rework of an already fabulous original?  

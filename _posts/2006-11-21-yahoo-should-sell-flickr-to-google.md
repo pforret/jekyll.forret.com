@@ -9,7 +9,7 @@ permalink: /2006/11/21/yahoo-should-sell-flickr-to-google/
 categories:
   - Google
 ---
-[<img loading="lazy" src="http://static.flickr.com/122/302678453_982d0f86e9.jpg" width="500" height="83" alt="Picasa: export to Flickr" />](http://www.flickr.com/photos/pforret/302678453/ "Photo Sharing")
+[<img  src="http://static.flickr.com/122/302678453_982d0f86e9.jpg" width="500" height="83" alt="Picasa: export to Flickr" />](http://www.flickr.com/photos/pforret/302678453/ "Photo Sharing")
 
 [Brad Garlinghouse](http://www.valleywag.com/tech/yahoo/brad-garlinghouse-is-jerry-maguire-215842.php), a Yahoo senior vice president, has written an internal memo ([that leaked, obviously](http://www.techmeme.com/061118/p32#a061118p32)) stating that it is about time for Yahoo! to bite the bullet and start reorganising/refocusing.
 

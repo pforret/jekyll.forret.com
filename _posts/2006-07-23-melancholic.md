@@ -14,7 +14,7 @@ categories:
 <td bgcolor="#DDDDDD" align=center> <font face="Georgia, Times New Roman, Times, serif" style='color:black; font-size: 14pt;'><br /> <strong>You Have a Melancholic Temperament</strong><br /> </font></td> 
 <td bgcolor="#EEEEEE">
   <center>
-    <img loading="lazy" src="http://images.blogthings.com/whattempermentareyouquiz/melancholic.jpg" height="100" width="100" />
+    <img  src="http://images.blogthings.com/whattempermentareyouquiz/melancholic.jpg" height="100" width="100" />
   </center>
   
   <br /> <font color="#000000"><br /> Introspective and reflective, you think about everything and anything.<br /> You are a soft-hearted daydreamer. You long for your ideal life.<br /> You love silence and solitude. Everyday life is usually too chaotic for you.</p> 

@@ -22,7 +22,7 @@ Remark: there are ways to make all Right-Click functionality inaccessible. I thi
   <table cellpadding="0" STYLE="background-image: url(http://www.pixagogo.com/S5uRuA-TyxopgHO98HAn!ET!A3jeWTJKCp!EtHLDV786CiHHHuGrgF5Gwr9XM!K8CKB62mq!0Su4O0rWL6ufbi4sFVYSDw7Nghr1-k5LLRo-8_/Gabriela_2756.JPG)" width="130" height="190" >
     <tr>
       <td>
-        <img loading="lazy" width="130" height="190" src="http://www.pixagogo.com/brand/pixagogo/images/spacer.gif" />
+        <img  width="130" height="190" src="http://www.pixagogo.com/brand/pixagogo/images/spacer.gif" />
       </td>
     </tr>
   </table>

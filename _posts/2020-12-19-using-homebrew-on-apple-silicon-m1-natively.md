@@ -20,13 +20,13 @@ tags:
 ---
 After reading all the raving reviews online about the new Apple M1-based Mac computers, and after losing too much time with my overheating MacBook Pro 2013 that&#8217;s on its last legs, I caved and bought a Mac Mini M1. <figure class="wp-block-image size-large">
 
-[<img loading="lazy" width="1000" height="500" src="https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini.jpg" alt="" class="wp-image-2397" srcset="https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini.jpg 1000w, https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini-300x150.jpg 300w, https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini-768x384.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" />](https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini.jpg)<figcaption>Apple MAC MINI 2020</figcaption></figure> 
+[<img  width="1000" height="500" src="https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini.jpg" alt="" class="wp-image-2397" srcset="https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini.jpg 1000w, https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini-300x150.jpg 300w, https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini-768x384.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" />](https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini.jpg)<figcaption>Apple MAC MINI 2020</figcaption>  
 
 ## &#x2611;&#xfe0f; Apple 30&#8243; Cinema display (2013)
 
 I made the mistake of thinking that any USB hub with a Mini Displayport connector would work with my Cinema display. But apparently, not all such ports are also Thunderbolt 2, as I found out with my Satechi hub.. Fortunately, Apple sells a 55 euro Thunderbolt 3 (with USB-C connector) to Thunderbolt 2 (with mini Displayport connector), and it works perfectly. This already takes 1 of the 2 USB-C ports on the Mac Mini.<figure class="wp-block-image">
 
-![Adapter voor Thunderbolt 3 (USB‑C) naar Thunderbolt 2 - Apple (BE)](https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MMEL2?wid=1144&hei=1144&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1590526638000) </figure> 
+![Adapter voor Thunderbolt 3 (USB‑C) naar Thunderbolt 2 - Apple (BE)](https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MMEL2?wid=1144&hei=1144&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1590526638000)   
 
 ## &#x2611;&#xfe0f; Homebrew in native mode
 
@@ -36,7 +36,7 @@ For that, I needed to get the [Homebrew package manager](https://brew.sh/) runni
 
 Running it is as easy as:
 
-<pre class="wp-block-code"><code>$ &lt;strong>.&lt;/strong>/m1_homebrew install
+<pre  ><code>$ &lt;strong>.&lt;/strong>/m1_homebrew install
 Program: m1_homebrew.sh 1.3.0
 &#x2714;  MacOS version = 11.1
 &#x2714;  Script running in arm64 mode
@@ -58,7 +58,7 @@ Script finished after 84 seconds</code></pre>
 
 After installation, running `brew install` will give you warnings and will often not be able to install the packages, because there are no pre-built casks for Apple Silicon yet.
 
-<pre class="wp-block-code"><code>Warning: You are running macOS on a arm64 CPU architecture.
+<pre  ><code>Warning: You are running macOS on a arm64 CPU architecture.
 We do not provide support for this (yet).
 Reinstall Homebrew under Rosetta 2 until we support it.
 You will encounter build failures with some formulae.
@@ -66,7 +66,7 @@ Please create pull requests instead of asking for help on Homebrew's GitHub, Twi
 
 Still, you can tell brew to install from source code, and compile on your machine by using `brew install --build-from-source` (or shorter: `brew install -s`). For small packages like `awk`, this will do the job. For large packages with lots of dependencies like `ffmpeg`, brew will stop for lack of _bottles_.
 
-<pre class="wp-block-code"><code>Error: &#91;some package]: no bottle available!
+<pre  ><code>Error: &#91;some package]: no bottle available!
 You can try to install from source with e.g.
 brew install --build-from-source &#91;some package]</code></pre>
 

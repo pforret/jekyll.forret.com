@@ -10,7 +10,7 @@ categories:
   - internet
 ---
 When the [.eu domains](http://en.wikipedia.org/wiki/.eu) became available to the general public, I decided I did not want forret.eu. That means that the domain was available to be grabbed by someone else, and indeed it has been. I received the following email today:  
-[<img loading="lazy" src="http://farm1.static.flickr.com/160/361430546_c9741c552b.jpg" width="500" height="340" alt=".EU domains businessmodel" />](http://www.flickr.com/photos/pforret/361430546/ "Photo Sharing")  
+[<img  src="http://farm1.static.flickr.com/160/361430546_c9741c552b.jpg" width="500" height="340" alt=".EU domains businessmodel" />](http://www.flickr.com/photos/pforret/361430546/ "Photo Sharing")  
 This has all the professional charm of the mafia offering &#8220;protection&#8221;. The guy hides behind the Gmail of Luxembourg, kmail.lu . A DNS search shows me that KJ stands for Kurt Janusch from G-1 Ltd, 175-177 Newland Avenue, HU5 2EP, Hull UK. His name also shows up in a Eurid dispute (Eurid is the registrar that manages the .eu domains), but [with an address in Germany](http://www.adreu.eurid.eu/adr/decisions/decision.php?dispute_id=81). In another [dispute with Altova](http://www.adreu.eurid.eu/adr/decisions/decision.php?dispute_id=2219), he is considered to have registered a domain name &#8220;without rights or legitimate interest in the name and in bad faith&#8221;.
 
 > Further, there were almost 3,000 other eu. domain names registered and offered for sale by the same “seller”, Mr. Kurt Janusch who, nevertheless, acts on behalf of various companies in this regard

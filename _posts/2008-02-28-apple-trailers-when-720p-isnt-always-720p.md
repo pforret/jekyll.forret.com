@@ -25,7 +25,7 @@ One of the best places to look for high-quality movie trailers is [Apple Trailer
 Apple typically offers its HD trailers in 3 formats: 480p, 720p and 1080p. The &#8220;p&#8221; stands for &#8220;progressive&#8221; i.e. not interlaced, every frame is a full picture instead of only the odd or even lines. The 480 in &#8220;480p&#8221; stands for the number of lines in the image. 480p is roughly equivalent with DVD quality, 720p is &#8220;HD Ready&#8221; and 1080p is &#8220;Full HD&#8221;.
 
 But let me give a concrete example of the resolution of 3 trailers:  
-[<img loading="lazy" src="http://farm4.static.flickr.com/3102/2295815779_2c784ee746.jpg" alt="resolutions of Apple Trailers" width="500" height="294" />](http://www.flickr.com/photos/pforret/2295815779/ "resolutions of Apple Trailers by PeterForret, on Flickr")  
+[<img  src="http://farm4.static.flickr.com/3102/2295815779_2c784ee746.jpg" alt="resolutions of Apple Trailers" width="500" height="294" />](http://www.flickr.com/photos/pforret/2295815779/ "resolutions of Apple Trailers by PeterForret, on Flickr")  
 <!--more-->
 
   
@@ -36,6 +36,6 @@ In concrete: 480p defines a canvas of 848&#215;480 (852 pixels would be closer t
 If the trailer is not in 16:9 or 1.78:1 aspect ratio but wider, then the used width will stay the same, but the number of used lines (what gave the standards their name in the first place) changes. So for &#8216;scope&#8217; trailers, 480p means 352 lines, 720p would actually have 544 lines and 1080p levels out to 816 lines. Hence: 720p isn&#8217;t always 720p.
 
 Some proof:  
-[<img loading="lazy" src="http://farm4.static.flickr.com/3243/2295761507_0ae429e2ab_o.jpg" alt="The Happening: Apple Trailer at 720p HD" width="360" height="346" />](http://www.flickr.com/photos/pforret/2295761507/ "The Happening: Apple Trailer at 720p HD by PeterForret, on Flickr")
+[<img  src="http://farm4.static.flickr.com/3243/2295761507_0ae429e2ab_o.jpg" alt="The Happening: Apple Trailer at 720p HD" width="360" height="346" />](http://www.flickr.com/photos/pforret/2295761507/ "The Happening: Apple Trailer at 720p HD by PeterForret, on Flickr")
 
-[<img loading="lazy" src="http://farm4.static.flickr.com/3281/2296554874_97b978ab12.jpg" alt="The Happening: Apple Trailer at 1080p HD" width="360" height="346" />](http://www.flickr.com/photos/pforret/2296554874/ "The Happening: Apple Trailer at 1080p HD by PeterForret, on Flickr")
+[<img  src="http://farm4.static.flickr.com/3281/2296554874_97b978ab12.jpg" alt="The Happening: Apple Trailer at 1080p HD" width="360" height="346" />](http://www.flickr.com/photos/pforret/2296554874/ "The Happening: Apple Trailer at 1080p HD by PeterForret, on Flickr")

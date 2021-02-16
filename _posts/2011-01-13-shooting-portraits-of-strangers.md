@@ -66,12 +66,12 @@ Let&#8217;s see what that looks like in my toolstud.io [depth-of-field calculato
   </tr>
 </table>
 
-[<img loading="lazy" src="http://farm6.static.flickr.com/5161/5352823282_dfe982816b.jpg" alt="portraits of strangers: depth-of-field" width="500" height="281" />](http://www.flickr.com/photos/pforret/5352823282/ "portraits of strangers: depth-of-field by Peter Forret, on Flickr")
+[<img  src="http://farm6.static.flickr.com/5161/5352823282_dfe982816b.jpg" alt="portraits of strangers: depth-of-field" width="500" height="281" />](http://www.flickr.com/photos/pforret/5352823282/ "portraits of strangers: depth-of-field by Peter Forret, on Flickr")
 
 <!--more-->Only 2.8 cm of sharpness, that&#8217;s shallow! You see it in the background of the pictures: hardly anything recognizable, but a nice creamy 
 
 _bokeh_. Take a look at this picture: her eyes and mouth are in focus, but the hairs that cover her ears are already a bit blurred. The background is white and green, but it&#8217;s hard to say what exactly.
 
-[<img loading="lazy" src="http://farm5.static.flickr.com/4008/4184733650_e46e956d5f.jpg" alt="Stranger #7" width="500" height="332" />](http://www.flickr.com/photos/dannysantos/4184733650/ "Stranger #7 by danny st., on Flickr")
+[<img  src="http://farm5.static.flickr.com/4008/4184733650_e46e956d5f.jpg" alt="Stranger #7" width="500" height="332" />](http://www.flickr.com/photos/dannysantos/4184733650/ "Stranger #7 by danny st., on Flickr")
 
 I found it a very inspiring project with admirable results. Check out all his [photos on Flickr](http://www.flickr.com/photos/dannysantos/sets/72157622966228004/)!

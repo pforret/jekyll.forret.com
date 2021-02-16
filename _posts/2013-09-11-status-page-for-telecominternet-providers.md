@@ -22,52 +22,52 @@ My mobile provider Telenet had a partial outage today. Sometimes calls would go 
 
 ### Belgacom Proximus
 
-  *<img loading="lazy" class="alignnone" src="http://toolstud.io/icon/fugue1/smiley-cry.png" alt="" width="16" height="16" /> Status page: no
-  * **<img loading="lazy" src="http://toolstud.io/icon/fugue1/thumb-up.png" alt="" width="16" height="16" />** Online customer support: [https://twitter.com/belgacom\_eva\_NL](https://twitter.com/belgacom_eva_NL)
-  *<img loading="lazy" class="alignnone" src="http://toolstud.io/icon/fugue1/system-monitor.png" alt="" width="16" height="16" /> Problem detection: <http://allestoringen.be/problemen/belgacom>
+  *<img  class="alignnone" src="http://toolstud.io/icon/fugue1/smiley-cry.png" alt="" width="16" height="16" /> Status page: no
+  * **<img  src="http://toolstud.io/icon/fugue1/thumb-up.png" alt="" width="16" height="16" />** Online customer support: [https://twitter.com/belgacom\_eva\_NL](https://twitter.com/belgacom_eva_NL)
+  *<img  class="alignnone" src="http://toolstud.io/icon/fugue1/system-monitor.png" alt="" width="16" height="16" /> Problem detection: <http://allestoringen.be/problemen/belgacom>
 
 ### Mobistar
 
-  *<img loading="lazy" src="http://toolstud.io/icon/fugue1/smiley-cry.png" alt="" width="16" height="16" /> Status page: no
-  * **<img loading="lazy" src="http://toolstud.io/icon/fugue1/thumb-up.png" alt="" width="16" height="16" />** Online customer support: <https://twitter.com/MobistarNL>
-  *<img loading="lazy" src="http://toolstud.io/icon/fugue1/system-monitor.png" alt="" width="16" height="16" /> Problem detection: <http://allestoringen.be/problemen/mobistar>
+  *<img  src="http://toolstud.io/icon/fugue1/smiley-cry.png" alt="" width="16" height="16" /> Status page: no
+  * **<img  src="http://toolstud.io/icon/fugue1/thumb-up.png" alt="" width="16" height="16" />** Online customer support: <https://twitter.com/MobistarNL>
+  *<img  src="http://toolstud.io/icon/fugue1/system-monitor.png" alt="" width="16" height="16" /> Problem detection: <http://allestoringen.be/problemen/mobistar>
 
 ### Telenet (on Mobistar network)
 
-  *<img loading="lazy" src="http://toolstud.io/icon/fugue1/smiley-cry.png" alt="" width="16" height="16" /> Status page: no
-  * **<img loading="lazy" src="http://toolstud.io/icon/fugue1/thumb-up.png" alt="" width="16" height="16" />** Online customer support: <https://twitter.com/Telenet>
-  *<img loading="lazy" src="http://toolstud.io/icon/fugue1/system-monitor.png" alt="" width="16" height="16" /> Problem detection: <http://allestoringen.be/problemen/telenet>
+  *<img  src="http://toolstud.io/icon/fugue1/smiley-cry.png" alt="" width="16" height="16" /> Status page: no
+  * **<img  src="http://toolstud.io/icon/fugue1/thumb-up.png" alt="" width="16" height="16" />** Online customer support: <https://twitter.com/Telenet>
+  *<img  src="http://toolstud.io/icon/fugue1/system-monitor.png" alt="" width="16" height="16" /> Problem detection: <http://allestoringen.be/problemen/telenet>
 
 ### Base (part of KPN)
 
-  *<img loading="lazy" src="http://toolstud.io/icon/fugue1/smiley-cry.png" alt="" width="16" height="16" /> Status page: no
-  * **<img loading="lazy" src="http://toolstud.io/icon/fugue1/thumb-up.png" alt="" width="16" height="16" />** Online customer support: <https://twitter.com/BASE_Company>
-  *<img loading="lazy" src="http://toolstud.io/icon/fugue1/system-monitor.png" alt="" width="16" height="16" /> Problem detection: <http://allestoringen.be/problemen/base>
+  *<img  src="http://toolstud.io/icon/fugue1/smiley-cry.png" alt="" width="16" height="16" /> Status page: no
+  * **<img  src="http://toolstud.io/icon/fugue1/thumb-up.png" alt="" width="16" height="16" />** Online customer support: <https://twitter.com/BASE_Company>
+  *<img  src="http://toolstud.io/icon/fugue1/system-monitor.png" alt="" width="16" height="16" /> Problem detection: <http://allestoringen.be/problemen/base>
 
 ### Mobile Vikings (on Base network)
 
-  * **<img loading="lazy" src="http://toolstud.io/icon/fugue1/thumb-up.png" alt="" width="16" height="16" /> Status page: <http://status.mobilevikings.com/> simple but efficient**
-  *<img loading="lazy" src="http://toolstud.io/icon/fugue1/thumb-up.png" alt="" width="16" height="16" /> Online customer support:https://twitter.com/mobilevikingsBE
-  *<img loading="lazy" src="http://toolstud.io/icon/fugue1/system-monitor.png" alt="" width="16" height="16" /> Problem detection: <http://allestoringen.be/problemen/mobile-vikings>
+  * **<img  src="http://toolstud.io/icon/fugue1/thumb-up.png" alt="" width="16" height="16" /> Status page: <http://status.mobilevikings.com/> simple but efficient**
+  *<img  src="http://toolstud.io/icon/fugue1/thumb-up.png" alt="" width="16" height="16" /> Online customer support:https://twitter.com/mobilevikingsBE
+  *<img  src="http://toolstud.io/icon/fugue1/system-monitor.png" alt="" width="16" height="16" /> Problem detection: <http://allestoringen.be/problemen/mobile-vikings>
 
 ## Broadband Internet
 
 ### Belgacom
 
-  *<img loading="lazy" src="http://toolstud.io/icon/fugue1/smiley-cry.png" alt="" width="16" height="16" /> Status page: no
-  * **<img loading="lazy" src="http://toolstud.io/icon/fugue1/thumb-up.png" alt="" width="16" height="16" />** Online customer support: [https://twitter.com/belgacom\_eva\_NL](https://twitter.com/belgacom_eva_NL)
-  *<img loading="lazy" src="hhttp://toolstud.io/icon/fugue1/system-monitor.png" alt="" width="16" height="16" /> Problem detection: <http://allestoringen.be/problemen/belgacom>
+  *<img  src="http://toolstud.io/icon/fugue1/smiley-cry.png" alt="" width="16" height="16" /> Status page: no
+  * **<img  src="http://toolstud.io/icon/fugue1/thumb-up.png" alt="" width="16" height="16" />** Online customer support: [https://twitter.com/belgacom\_eva\_NL](https://twitter.com/belgacom_eva_NL)
+  *<img  src="hhttp://toolstud.io/icon/fugue1/system-monitor.png" alt="" width="16" height="16" /> Problem detection: <http://allestoringen.be/problemen/belgacom>
 
 ### Telenet
 
-  * **<img loading="lazy" src="http://toolstud.io/icon/fugue1/thumb-up.png" alt="" width="16" height="16" /> Status page: [http://www.telenet.be](http://www.telenet.be/pong3/status.do) &#8211; best example of how it should be:  overview of all DNS/SMTP/POP3/Web servers with green/red status icon**
-  * **<img loading="lazy" src="http://toolstud.io/icon/fugue1/thumb-up.png" alt="" width="16" height="16" />** Online customer support: <https://twitter.com/Telenet>
-  *<img loading="lazy" src="http://toolstud.io/icon/fugue1/system-monitor.png" alt="" width="16" height="16" /> Problem detection: <http://allestoringen.be/problemen/telenet>
+  * **<img  src="http://toolstud.io/icon/fugue1/thumb-up.png" alt="" width="16" height="16" /> Status page: [http://www.telenet.be](http://www.telenet.be/pong3/status.do) &#8211; best example of how it should be:  overview of all DNS/SMTP/POP3/Web servers with green/red status icon**
+  * **<img  src="http://toolstud.io/icon/fugue1/thumb-up.png" alt="" width="16" height="16" />** Online customer support: <https://twitter.com/Telenet>
+  *<img  src="http://toolstud.io/icon/fugue1/system-monitor.png" alt="" width="16" height="16" /> Problem detection: <http://allestoringen.be/problemen/telenet>
 
 ### Scarlet (part of Belgacom)
 
-  *<img loading="lazy" src="http://toolstud.io/icon/fugue1/smiley-cry.png" alt="" width="16" height="16" /> Status page: no
-  * **<img loading="lazy" src="http://toolstud.io/icon/fugue1/thumb-up.png" alt="" width="16" height="16" />** Online customer support: <https://twitter.com/ScarletStatus>
-  *<img loading="lazy" src="http://toolstud.io/icon/fugue1/system-monitor.png" alt="" width="16" height="16" /> Problem detection: <http://allestoringen.be/problemen/scarlet>
+  *<img  src="http://toolstud.io/icon/fugue1/smiley-cry.png" alt="" width="16" height="16" /> Status page: no
+  * **<img  src="http://toolstud.io/icon/fugue1/thumb-up.png" alt="" width="16" height="16" />** Online customer support: <https://twitter.com/ScarletStatus>
+  *<img  src="http://toolstud.io/icon/fugue1/system-monitor.png" alt="" width="16" height="16" /> Problem detection: <http://allestoringen.be/problemen/scarlet>
 
 Kudos to <http://www.ionasj.com/welk-netwerk-voorziet-de-beste-dekking/>

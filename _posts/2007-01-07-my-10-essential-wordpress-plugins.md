@@ -9,7 +9,7 @@ permalink: /2007/01/07/my-10-essential-wordpress-plugins/
 categories:
   - Wordpress
 ---
-[<img loading="lazy" style="float: right" src="http://farm1.static.flickr.com/128/339867739_95e87fb3e3_m.jpg" width="240" height="222" alt="Xampled: samples from Donna Summer" />](http://www.flickr.com/photos/pforret/339867739/ "Photo Sharing")  
+[<img  style="float: right" src="http://farm1.static.flickr.com/128/339867739_95e87fb3e3_m.jpg" width="240" height="222" alt="Xampled: samples from Donna Summer" />](http://www.flickr.com/photos/pforret/339867739/ "Photo Sharing")  
 Since I&#8217;ve been doing quite a lot of WordPress blog upgrading recently, I&#8217;ve been diving into its plugins a lot. There are lots of them around and I have grown a liking to some of them.  
 Here&#8217;s a list of plugins that I&#8217;ve found to be essential to any of my WP installations:
 
@@ -64,7 +64,7 @@ Here&#8217;s a list of plugins that I&#8217;ve found to be essential to any of m
     site: [arnebrachhold.de](http://www.arnebrachhold.de/2005/06/05/google-sitemaps-generator-v2-final)  
     install: [sitemap.zip](http://www.arnebrachhold.de/redir/sitemap-dl-en/) v2.7 
 
-[<img loading="lazy" style="float: right" src="http://farm1.static.flickr.com/127/339867738_02345bbf25_m.jpg" width="237" height="240" alt="Samples from Funky Drummer (James Brown)" />](http://www.flickr.com/photos/pforret/339867738/ "Photo Sharing")  
+[<img  style="float: right" src="http://farm1.static.flickr.com/127/339867738_02345bbf25_m.jpg" width="237" height="240" alt="Samples from Funky Drummer (James Brown)" />](http://www.flickr.com/photos/pforret/339867738/ "Photo Sharing")  
 And some nice to have&#8217;s:
 
   * [FlickrRSS](http://eightface.com/wordpress/flickrrss/): show Flickr photos in your sidebar

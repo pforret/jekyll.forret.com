@@ -10,7 +10,7 @@ categories:
   - Google
 ---
 I don&#8217;t recall having seen this before: within the SERP (Search Engine Result Page) of a keyword X, Google puts the top 3 results for a keyword Y.  
-[<img loading="lazy" src="http://static.flickr.com/35/73745193_476107fe52.jpg" width="424" height="500" alt="Google alternate results" />](http://www.flickr.com/photos/pforret/73745193/ "Photo Sharing")  
+[<img  src="http://static.flickr.com/35/73745193_476107fe52.jpg" width="424" height="500" alt="Google alternate results" />](http://www.flickr.com/photos/pforret/73745193/ "Photo Sharing")  
 The exact details:
 
   * I did a search for &#8220;[FYD](http://www.google.com/search?q=FYD)&#8221; on google.com (I won&#8217;t tell you why, but I think [Ine](http://www.monuments.nu) might have an idea) 

@@ -22,7 +22,7 @@ Every tech geek has his/her preferred tools and one of mine is without doubt Tob
 
 MRTG is a Perl program that grabs some measurement values (typically via SNMP) and plots them as time series. It creates &#8216;daily&#8217;, &#8216;weekly&#8217;, &#8216;monthly&#8217; and &#8216;yearly&#8217; graphs and the HTML page that shows the graphs and some min/max/average statistics to accompany the graphs. You&#8217;ve probably seen the typical MRTG output images before:
 
-[<img loading="lazy" class="alignnone wp-image-1406 size-full" src="http://blog2.forret.com/wp-content/uploads/2015/10/mrtg.png" alt="Example of MRTG " width="500" height="135" srcset="https://blog.forret.com/wp-content/uploads/2015/10/mrtg.png 500w, https://blog.forret.com/wp-content/uploads/2015/10/mrtg-300x81.png 300w" sizes="(max-width: 500px) 100vw, 500px" />](http://blog2.forret.com/wp-content/uploads/2015/10/mrtg.png)
+[<img  class="alignnone wp-image-1406 size-full" src="http://blog2.forret.com/wp-content/uploads/2015/10/mrtg.png" alt="Example of MRTG " width="500" height="135" srcset="https://blog.forret.com/wp-content/uploads/2015/10/mrtg.png 500w, https://blog.forret.com/wp-content/uploads/2015/10/mrtg-300x81.png 300w" sizes="(max-width: 500px) 100vw, 500px" />](http://blog2.forret.com/wp-content/uploads/2015/10/mrtg.png)
 
 But MRTG can do more than just SNMP. In fact MRTG can plot any trend, as long as it gets its input in the form of 4 text lines:
 

@@ -17,7 +17,7 @@ Recently I investigated web fax services like eFax, WebFax, RingCentral but for 
 
 So what I would like to have, and what I don’t think exists yet: a Fax 2.0 device at home, let’s call it the _FaxaPorta_. It needs power and a phone connection, and … that’s all. So let’s make it look like this (not uninfluenced by the Apple Airport Express):
 
-[<img loading="lazy" alt="Faxaporta mockup" src="http://farm3.static.flickr.com/2748/4236989228_2b4edbd511.jpg" width="500" height="256" />](http://www.flickr.com/photos/pforret/4236989228/ "Faxaporta mockup by Peter Forret, on Flickr") 
+[<img  alt="Faxaporta mockup" src="http://farm3.static.flickr.com/2748/4236989228_2b4edbd511.jpg" width="500" height="256" />](http://www.flickr.com/photos/pforret/4236989228/ "Faxaporta mockup by Peter Forret, on Flickr") 
 
 Here’s how it works:
 

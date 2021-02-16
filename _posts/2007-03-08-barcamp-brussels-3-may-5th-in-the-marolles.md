@@ -13,7 +13,7 @@ categories:
 It has been decided, the bullet is through the church ([*](http://you-are-self-a-blog-you.blogspot.com/))!  
 Barcamp Brussels#3 will take place on **Saturday May 5th** at the [Halles Des Tanneurs](http://www.hallesdestanneurs.be), the renovated Wine Palace right in the Brussels Marolles!
 
-[<img loading="lazy" src="http://farm1.static.flickr.com/167/413696069_2cc53d597d.jpg" width="500" height="335" alt="hallesdestanneurs" />](http://www.flickr.com/photos/pforret/413696069/ "Photo Sharing")
+[<img  src="http://farm1.static.flickr.com/167/413696069_2cc53d597d.jpg" width="500" height="335" alt="hallesdestanneurs" />](http://www.flickr.com/photos/pforret/413696069/ "Photo Sharing")
 
 > For those of you who want to participate
 > 

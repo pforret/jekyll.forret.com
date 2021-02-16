@@ -9,9 +9,9 @@ permalink: /2006/11/27/the-popular-canon-400d/
 categories:
   - photography
 ---
-[<img loading="lazy" src="http://static.flickr.com/104/294828408_31149dd871.jpg" width="500" height="333" alt="Canon 400D" />](http://www.flickr.com/photos/pforret/294828408/ "Photo Sharing")
+[<img  src="http://static.flickr.com/104/294828408_31149dd871.jpg" width="500" height="333" alt="Canon 400D" />](http://www.flickr.com/photos/pforret/294828408/ "Photo Sharing")
 
-[<img loading="lazy" src="http://static.flickr.com/104/307001645_ae4c762d54.jpg" style="float: right" width="250" height="500" alt="Canon cameras on Flickr" />](http://www.flickr.com/photos/pforret/307001645/ "Photo Sharing")
+[<img  src="http://static.flickr.com/104/307001645_ae4c762d54.jpg" style="float: right" width="250" height="500" alt="Canon cameras on Flickr" />](http://www.flickr.com/photos/pforret/307001645/ "Photo Sharing")
 
 ### The new Digital Rebel
 

@@ -23,6 +23,6 @@ This bothers me a lot:
   * The whole conference scheme has been changed and compressed for allowing hours of (for most of us) irrelevant monologue
   * Loic was proud that [55% of attendees were not French](http://www.leweb3.com/leweb3/2006/12/36_countries_co.html), but then he gives the stage to French candidates speaking French
 
-[<img loading="lazy" src="http://static.flickr.com/144/320399810_d98ca2c998.jpg" width="500" height="321" alt="Countries on Le Web 3" />](http://www.flickr.com/photos/pforret/320399810/ "Photo Sharing")
+[<img  src="http://static.flickr.com/144/320399810_d98ca2c998.jpg" width="500" height="321" alt="Countries on Le Web 3" />](http://www.flickr.com/photos/pforret/320399810/ "Photo Sharing")
 
 I&#8217;m pissed off, and I&#8217;[m](http://blog.businessquests.com/2006/12/le_web_3_hacked.html) [certainly](http://crueltobekind.org/archive/2006-12-12/loic_lemeur_betraying_1000_att) [not](http://blogs.opml.org/tommorris/2006/12/12) [the](http://blogs.telegraph.co.uk/technology/shanerichmond/december06/whyarewehere.htm) [only](http://www.sierralog.com/stories/3056857/) [one](http://www.cjung.info/wordpress/?p=86)[!](http://druppels.be/oudedruppels/2006/12/le_web_3_old_fa_1.shtml)

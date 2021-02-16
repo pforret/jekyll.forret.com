@@ -17,7 +17,7 @@ tags:
 ---
 Seth Godin came up with a visualisation of &#8216;means of communication&#8217;: [bandwidth vs sync](http://sethgodin.typepad.com/seths_blog/2009/08/the-bandwidth-sync-correlation-thats-worth-thinking-about.html)(chronicity). He took a number of &#8216;old&#8217; (postal mail, radio) and &#8216;new&#8217; (blogs, Youtube and -of course- Twitter) technologies and ranked them on a 2D graph according to &#8216;quality&#8217; (density or bandwidth) and &#8216;sync&#8217; (speed of reaction).
 
-[<img loading="lazy" class="alignnone" src="http://sethgodin.typepad.com/.a/6a00d83451b31569e2011571af92c1970b-500wi" alt="" width="500" height="375" />](http://sethgodin.typepad.com/seths_blog/2009/08/the-bandwidth-sync-correlation-thats-worth-thinking-about.html)
+[<img  class="alignnone" src="http://sethgodin.typepad.com/.a/6a00d83451b31569e2011571af92c1970b-500wi" alt="" width="500" height="375" />](http://sethgodin.typepad.com/seths_blog/2009/08/the-bandwidth-sync-correlation-thats-worth-thinking-about.html)
 
 Although it is an interesting way of visualizing things, and I consider Seth a very bright and creative guy, I am bothered by the fact that the graph is neither clear, correct nor complete.
 
