@@ -26,7 +26,7 @@ url: ""
 twitter_username: pforret
 github_username:  pforret
 
-highlighter:      pygments
+highlighter:      rouge
 permalink:        pretty
 
 paginate:         5
