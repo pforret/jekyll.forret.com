@@ -37,21 +37,21 @@ For that, I needed to get the [Homebrew package manager](https://brew.sh/) runni
 Running it is as easy as:
 
 ```
-$ &lt;strong>.&lt;/strong>/m1_homebrew install
+$ m1_homebrew install
 Program: m1_homebrew.sh 1.3.0
-&#x2714;  MacOS version = 11.1
-&#x2714;  Script running in arm64 mode
-Are you sure you want to install Homebrew for arm64 to /opt/homebrew? &#91;y/N] Y 
+✔  MacOS version = 11.1
+✔  Script running in arm64 mode
+Are you sure you want to install Homebrew for arm64 to /opt/homebrew? [y/N] Y 
 …  Create folder for &#91;/opt/homebrew] Homebrew ...
-…  Download Homebrew into &#91;/Users/pforret/.homebrew] ...
-&#x2714;  After download: Homebrew folder is 15 MB
-&#x2714;  After update  : Homebrew folder is 64 MB                                      
-&#x2714;  After install : Homebrew folder is 463 MB                                           
+…  Download Homebrew into [/Users/pforret/.homebrew] ...
+✔  After download: Homebrew folder is 15 MB
+✔  After update  : Homebrew folder is 64 MB                                      
+✔  After install : Homebrew folder is 463 MB                                           
 …  Move Homebrew files to /opt/homebrew
 Create folder share/zshet/.homebrew/SECURITY.md ...                                                   
 Create folder share/zsh/site-functions
 Create folder Caskroom
-&#x2714;  All files moved to /opt/homebrew                           
+✔  All files moved to /opt/homebrew                           
 HOMEBREW_VERSION: 2.7.0-24-g53ef74f
 Script finished after 84 seconds
 ```
@@ -72,9 +72,9 @@ You are responsible for resolving any issues you experience while you are runnin
 Still, you can tell brew to install from source code, and compile on your machine by using `brew install --build-from-source` (or shorter: `brew install -s`). For small packages like `awk`, this will do the job. For large packages with lots of dependencies like `ffmpeg`, brew will stop for lack of _bottles_.
 
 ```
-Error: &#91;some package]: no bottle available!
+Error: [some package]: no bottle available!
 You can try to install from source with e.g.
-brew install --build-from-source &#91;some package]
+brew install --build-from-source [some package]
 ```
 
 ## &#x2611;&#xfe0f; native imagemagick
