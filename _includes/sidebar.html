@@ -1,7 +1,6 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-      <img alt="sunset" src="/wp-content/sunset.jpg" />
       <h1><a href="/">{{ site.title }}</a></h1>
       <p class="lead">{{ site.description }}</p>
     </div>
@@ -13,7 +12,7 @@
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }} {{node.nav}}</a>
           {% endif %}{% endif %}{% endif %}{% endfor %}
     </nav>
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p>&copy; 2004-{{ site.time | date: '%Y' }} by Peter Forret. All rights reserved.</p>
 
   </div>
 </div>
