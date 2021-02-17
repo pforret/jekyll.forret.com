@@ -1,10 +1,8 @@
 ---
-id: 2396
 title: Using Homebrew on Apple Silicon M1 natively (bash)
 date: 2020-12-19T01:45:30+01:00
 author: Peter
 layout: post
-guid: https://blog.forret.com/?p=2396
 permalink: /2020/12/19/using-homebrew-on-apple-silicon-m1-natively/
 image: /wp-content/uploads/2020/12/2020_macmini.jpg
 categories:
@@ -17,16 +15,22 @@ tags:
   - mac
   - macos
   - silicon
+  - bash
 ---
 After reading all the raving reviews online about the new Apple M1-based Mac computers, and after losing too much time with my overheating MacBook Pro 2013 that&#8217;s on its last legs, I caved and bought a Mac Mini M1. <figure class="wp-block-image size-large">
 
-[<img  width="1000" height="500" src="https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini.jpg" alt="" class="wp-image-2397" srcset="https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini.jpg 1000w, https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini-300x150.jpg 300w, https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini-768x384.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" />](https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini.jpg) Apple MAC MINI 2020   
+{% include image.html 
+    url="https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini.jpg" 
+    description="Apple Mac Mini M1 2020" %}
+
 
 ## &#x2611;&#xfe0f; Apple 30&#8243; Cinema display (2013)
 
 I made the mistake of thinking that any USB hub with a Mini Displayport connector would work with my Cinema display. But apparently, not all such ports are also Thunderbolt 2, as I found out with my Satechi hub.. Fortunately, Apple sells a 55 euro Thunderbolt 3 (with USB-C connector) to Thunderbolt 2 (with mini Displayport connector), and it works perfectly. This already takes 1 of the 2 USB-C ports on the Mac Mini.<figure class="wp-block-image">
 
-![Adapter voor Thunderbolt 3 (USB‑C) naar Thunderbolt 2 - Apple (BE)](https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MMEL2?wid=1144&hei=1144&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1590526638000)   
+{% include image.html
+url="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MMEL2?wid=1144&hei=1144&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1590526638000"
+description="Adapter voor Thunderbolt 3 (USB‑C) naar Thunderbolt 2 - Apple (BE)" %}
 
 ## &#x2611;&#xfe0f; Homebrew in native mode
 
