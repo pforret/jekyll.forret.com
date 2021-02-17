@@ -9,10 +9,10 @@ layout: default
 </div>
 <div>
     {% for tag in page.categories %}
-    <span class="tag">💬 {{tag}}</span>
+    <a href="/categories/#{{tag | slugify}}" class="tag">💬 {{tag}}</a>
     {% endfor %}
     {% for tag in page.tags %}
-    <span class="tag">🏷 {{tag}}</span>
+    <a href="/tags/#{{tag | slugify}}" class="tag">🏷 {{tag}}</a>
     {% endfor %}
 </div>
 
