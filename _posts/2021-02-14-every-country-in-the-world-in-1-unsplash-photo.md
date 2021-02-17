@@ -19,16 +19,19 @@ tags:
   - splashmark 
   - unsplash
 ---
-I wanted to demonstrate the power of my <a href="https://blog.forret.com/2020/10/07/new-script-splashmark-easy-unsplash-image-markup-on-the-command-line/" data-type="post" ><strong>splashmark</strong></a> image markup script and did the following experiment:
+I wanted to demonstrate the power of my [splashmark](/2020/10/07/new-script-splashmark-easy-unsplash-image-markup-on-the-command-line/) image markup script and did the following experiment:
 
   * I got a list of all countries in the world (via [kalinchernev/countries](https://gist.github.com/kalinchernev/486393efcca01623b18d), but I cleaned it up a little)
   * for each country, my script searched for the most popular image in [**Unsplash**](https://unsplash.com/). E.g. for **Belgium**, it is a photo by Alex Vasey of the [city of **Dinant**](https://unsplash.com/photos/3lxrM5yvkcI) (almost 4 million views, 37000 downloads):<figure class="wp-block-image size-large">
 
-[<img src="https://blog.forret.com/wp-content/uploads/2021/02/alex-vasey-3lxrM5yvkcI-unsplash-1024x683.jpg" alt="" class="wp-image-2501" >](https://unsplash.com/photos/3lxrM5yvkcI) Photo by [Alex Vasey](https://unsplash.com/@alexrvasey?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/belgium?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)   
+{% include img.html
+    src="https://images.unsplash.com/photo-1491557345352-5929e343eb89?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=720&q=80"
+    href="https://unsplash.com/photos/3lxrM5yvkcI"
+    description="Photo by Alex Vasey on Unsplash" %}
 
   * The script then used **splashmark** to resize and crop the original size of the image to a square 800&#215;800 size (&#8220;_Instagram style_&#8220;), added the name of the country as a big title, and added the photo attribution info (URL/photographer), _burnt_ into the photo (top and bottom right), as well as embedded in the image meta-data EXIF/IPTC info. This makes that attribution info pop up automatically when you use the photo in Facebook or WordPress, as you will see below.
   * The result is 195 images for 195 countries that should/could be representative for each. The definition of &#8220;most popular&#8221; image for Unsplash seems to be &#8220;most downloads&#8221;. 
-  * **The end result is here: [github.com/pforret/splashmark/&#8230;/countries.md](https://github.com/pforret/splashmark/blob/master/examples/countries/countries.md)**
+  * **The end result is here: [github.com/pforret/&#8230;/countries.md](https://github.com/pforret/splashmark_examples/blob/main/countries/countries.md)**
 
 I will give you some highlights:
 

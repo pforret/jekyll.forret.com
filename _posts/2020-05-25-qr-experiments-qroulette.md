@@ -31,9 +31,9 @@ changing slow enough that a simple QR reader (like your smartphone camera) will 
 but fast enough that you can&#8217;t really be sure which one you&#8217;re going to get when you click the URL. 
 Hence: **QR Roulette**
 
-    {% include image.html 
-        url="https://blog.forret.com/wp-content/uploads/2020/05/YT.f14a54.animated.gif" 
-        description="QR Roulette: all Youtube videos!" %}
+{% include image.html 
+    url="https://blog.forret.com/wp-content/uploads/2020/05/YT.f14a54.animated.gif" 
+    description="QR Roulette: all Youtube videos!" %}
 
 In the above example, all the URLs are Youtube URLs. 
 An iPhone needs up to a second to 'find' a QR code, and the different codes are changing at 2x/second, 
