@@ -1,15 +1,17 @@
 ---
-id: 137
 title: Removal of Serflog/Sumom worm
 date: 2005-03-20T19:08:00+01:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2005/03/20/removal-of-serflogsumom-worm/
 permalink: /2005/03/20/removal-of-serflogsumom-worm/
 categories:
   - security
+tags:
+  - virus
+  - worm
+  - hack 
 ---
-![Serflog/SumoM](http://www.pixagogo.com/S5vpfnjbBPdPk9Er9N5ggPszte3VuMbMS91wjDqub6sYLC57ulx0mKpeOYLb6CYl1ZmcZ8TIKJLRxHLqRRiDCabvntKyRfvS1Xs26tvVPekoBEgLVrJ6rqb7893wLRWWy7slRT6eatudQ_/sumom.jpg)  
+
 My little niece had been trying for a while now to send me through MSN Messenger a picture called &#8220;How a Blonde Eats a Banana&#8221;. My reaction was, as any one&#8217;s should be: don&#8217;t know what she&#8217;s sending, nor why, there&#8217;s no prior conversation, no context, no nothing: I did not accept it. But I did not think further about it. A couple of days later I found that a) the girl&#8217;s computer had a virus, b) the virus eagerly tried to infect other PCs via Messenger, and c) had succesfully accomplished that task in several cases. One of the victims handed over his PC to me (being the family geek and all). Since it was a nasty worm, and it took me some time to disable it, here is the procedure to follow:
 
   * The virus is a worm called W32.Serflog.A, Win32.Bropia.U, Worm.Win32.Sumom.a, W32/Crog.worm or WORM_FATSO.A, depending on what anti-virus company site you visit. I used the information on the [Symantec (Norton Antivirus) site](http://securityresponse.symantec.com/avcenter/venc/data/w32.serflog.a.html) to see how it locked itself to the PC. 
@@ -30,6 +32,4 @@ ren serbw.exe die_sucker.dead` (and the same for the other 2)
 
 These instructions should work on any Windows installation. You might use [Symantec&#8217;s removal tool](http://securityresponse.symantec.com/avcenter/venc/data/w32.serflog.a.html#removalinstructions), but I had no Internet connection when I was struggling with the intruder. Took me about thirty minutes to figure out a way to circumvent the vicious sucker.
 
-Is this a really nasty piece of software? Yes. Do I admire the person who wrote it? Not at all. It&#8217;s not clever engineering, just malevolent. 
-
-Technorati: <a href="http://technorati.com/tag/virus" rel="tag">virus</a>
+Is this a really nasty piece of software? Yes. Do I admire the person who wrote it? Not at all. It&#8217;s not clever engineering, just malevolent.
