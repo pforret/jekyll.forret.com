@@ -86,7 +86,9 @@ Some intermediate image files created by primitive:
 
 ## Step 4: convert GIF to .M4V, add title
 
-I need to convert the GIF movie, created by primitive, to a video format, and I will use that opportunity to add an introduction title in the first few seconds. That is a job that [**ffmpeg**](https://ffmpeg.org/) can handle perfectly, even if that can look a bit verbose:
+I need to convert the GIF movie, created by primitive, to a video format, 
+and I will use that opportunity to add an introduction title in the first few seconds. 
+That is a job that [**ffmpeg**](https://ffmpeg.org/) can handle perfectly, even if that can look a bit verbose:
 
 ```bash
 ffmpeg -i "$input" -vcodec libx264 -pix_fmt yuv420p -ss 1 -t 40 -r 12 
@@ -116,7 +118,7 @@ ffmpeg -loop 1 -i "$frame_last" -loop 1 -i "$frame_sharp" -r 12 -vcodec libx264 
 
 Now I want to merge the two videos into one, and add some sound. 
 
-I use ffmpeg&#8217;s concat functionality to append the primitive and the cross-fade video files.
+I use ffmpeg's concat functionality to append the primitive and the cross-fade video files.
 
 ```bash
 ffmpeg -f concat -safe 0 -i "$playlist" -c copy -y "$concat"

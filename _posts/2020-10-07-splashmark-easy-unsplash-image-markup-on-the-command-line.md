@@ -18,10 +18,10 @@ tags:
   - unsplash
   - remix
 ---
+See this photo below? It was created with one, albeit rather long, command line:
 
-<img alt="splashmark" src="/wp-content/uploads/2020/10/splashmark.jpg" />
+![](/wp-content/uploads/2020/10/splashmark.jpg)
 
-See this photo above here? It was created with one, albeit rather long, command line:
 
 ```
 splashmark -w 1280 -c 640 -i github.com/pforret/splashmark -j 50 \
