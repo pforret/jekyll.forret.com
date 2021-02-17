@@ -5,23 +5,23 @@ layout: none
 {% for post in site.posts %}
 {
 "title"    : "{{ post.title | escape }}",
-"category" : "{{ post.category }}",
+"category" : "{{ post.categories | join: ', '  }}",
 "tags"     : "{{ post.tags | join: ', ' }}",
-"url"      : "{{ site.baseurl }}{{ post.url }}",
-"date"     : "{{ post.date }}",
-"content"  : "{{ post.content | strip_html | strip_newlines }}"
+"url"      : "{{ post.url }}",
+"image"    : "{{ post.image }}",
+"date"     : "{{ post.date }}"
 } {% unless forloop.last %},{% endunless %}
 {% endfor %}
 ,
 {% for page in site.pages %}
 {
 {% if page.title != nil %}
-"title"    : "{{ page.title | escape }}",
-"category" : "{{ page.category }}",
+"title"    : "Page: {{ page.title | escape }}",
+"category" : "{{ page.categories | join: ', '  }}",
 "tags"     : "{{ page.tags | join: ', ' }}",
-"url"      : "{{ site.baseurl }}{{ page.url }}",
-"date"     : "{{ page.date }}",
-"content"  : "{{ page.content | strip_html | strip_newlines }}"
+"url"      : "{{ page.url }}",
+"image"    : "{{ page.image }}",
+"date"     : "{{ page.date }}"
 {% endif %}
 } {% unless forloop.last %},{% endunless %}
 {% endfor %}

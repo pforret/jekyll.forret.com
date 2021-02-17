@@ -1,6 +1,9 @@
 ---
-title: Github
+title: github.com/pforret
 layout: page
+type: portfolio
+image: https://github-readme-stats.vercel.app/api?username=pforret&show_icons=1&count_private=true&hide_border=1
+nav: false
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=pforret&show_icons=1&count_private=true&hide_border=1)
