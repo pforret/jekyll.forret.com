@@ -19,6 +19,7 @@ author:
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-redirect-from
 
 exclude:
   - hyde
