@@ -16,9 +16,11 @@ I could install a new Wordpress website with a nice theme, crucial plugins and e
 I even wrote scripts for cloning Wordpress sites from a standard template.
 It was my go-to CMS for any website, I was a WP-fanboy.
 
-![WP fanboy](/wp-content/uploads/2021/02/jekyll.jpg)
+{% include img.html
+src="/wp-content/uploads/2021/02/jekyll.jpg"
+description="WP Fanboy" %}
 
-That
+But the cost of that Wordpress focus has been a constant worry for hacks. I've installed Wordfence on all blogs, configured weekly backups, update all my plugins through InfiniteWP at least 2x/month, but still I get one of my blogs hacked like every 6 months. It always happens at a bad time, and it takes me at least an hour 
 
 
 I have been running this blog since 2004 on Wordpress. 
