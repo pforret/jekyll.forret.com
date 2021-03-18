@@ -20,7 +20,7 @@ src="/wp-content/uploads/2021/03/lastpass.jpg"
 description="LastPass upgrade experience"
 %}
 
-I've been a happy LastPass (free) user for the last 7-8 years, using it simultaneously on all my mobile and desktop/laptop devices. This means that my LastPass account contains ALL MY PASSWORDS AND CREDIT CARDS. The service it delivers is valuable, and that's why I decided to pay for it. Today (April 18) my mobile LastPass app finally told me I had to either lose the mobile/desktop synchronisation or upgrade to the premium version (3$/month). I selected 'upgrade'. What followed was a complete _sh*t show_ that could have been a disaster. 
+I've been a happy LastPass (free) user for the last 7-8 years, using it simultaneously on all my mobile and desktop/laptop devices. This means that my LastPass account contains ALL MY PASSWORDS AND CREDIT CARDS. The service it delivers is valuable, and that's why I decided: when the day comes, I will pay for it. That day was today (April 18). My mobile LastPass app finally told me lose functionality or upgrade to the premium version (3$/month). I selected 'upgrade'. What followed was a complete _sh*t show_ that could have been a disaster. 
 
 ## My upgrade experience
 
@@ -31,9 +31,11 @@ src="/wp-content/uploads/2021/03/lastpass_empty.png"
 description="LastPass with empty wallet"
 %}
 
-I choke on my coffee, sprint to my laptop and switch off its Wi-Fi to prevent it from syncing. Upon inspection, all password information was still present locally. I initiate an (encrypted) export, in the hope that it does not require an online connection. The export goes through, and I save an encrypted CSV to my disk. If I had not been close to a laptop/desktop machine with my LastPass account installed, it would have been **a disaster**, because 1) I need mobile LastPass multiple times a day and 2) I could not take a backup . If I had been abroad (ok, not probable in these COVID times), I would have been devastated.
+I choke on my coffee, sprint to my laptop and switch off its Wi-Fi to prevent it from syncing. Upon inspection, all password information was still present locally. I initiate an (encrypted) export, in the hope that it does not require an online connection (no, it doesn't). The export goes through, and I save an encrypted CSV to my disk. Calamity averted.
 
-After the emergency backup, I started investigating. I can still log in on the LastPass website, and my passwords are still there. It seems to be an app sync problem. I log out of the app, and log in again: still the same, no passwords.
+If I had not been close to a laptop/desktop machine with my LastPass account installed, it would have been **a disaster**, because 1) I need my mobile password manager multiple times a day and 2) I would not have been able to take a backup . Imagine being abroad (that was a thing before 2020) and losing all your passwords.
+
+After the emergency backup, I started investigating further. I can still log in on the LastPass website, and **my passwords are still there**. It seems to be an app sync problem. I log out of the app, and log in again: still the same, no passwords.
 
 ## After disaster upgrade, disaster support
 
