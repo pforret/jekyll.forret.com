@@ -13,8 +13,6 @@ tags:
     - premium
 ---
 
-## LastPass Premium
-
 LastPass has started pushing its free users towards a paid premium subscription. The way they do this is by only allowing the free version for 1 platform, e.g. only your laptop or only your mobile phone. This was announced by LastPass/LogMeIn  [on their blog](https://blog.LastPass.com/2021/02/changes-to-LastPass-free/) [last February](https://news.ycombinator.com/item?id=26153845), which caused [somewhat of a ](https://arstechnica.com/gadgets/2021/03/demand-for-fee-to-use-password-app-LastPass-sparks-backlash/) [backlash](https://news.ycombinator.com/item?id=26387397).
 
 {% include img.html
