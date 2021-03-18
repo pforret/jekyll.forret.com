@@ -27,7 +27,7 @@ I've been a happy LastPass (free) user for the last 7-8 years, using it simultan
 The payment experience itself was flawless (thanks to Apple Pay): 2 clicks, and it was done. After the payment went through, I am sent back to the LastPass app, and my LastPass account/wallet is **completely empty**. All my passwords are gone. I double-check: I am still logged in to the same account, and it is empty.
 
 {% include img.html
-src="/wp-content/uploads/2021/03/LastPass_empty.png"
+src="/wp-content/uploads/2021/03/lastpass_empty.png"
 description="LastPass with empty wallet"
 %}
 
@@ -50,7 +50,7 @@ Let me introduce you to [LastPass support](https://support.logmeininc.com/LastPa
 > "Type your question here, and get an answer to another -hopefully slightly related- question, or browse topics below  **or ... no, that's it, those are the only options**."
 
 {% include img.html
-src="/wp-content/uploads/2021/03/LastPass_support_2.png"
+src="/wp-content/uploads/2021/03/lastpass_support_2.png"
 description="LastPass support: no human here"
 %}
 
