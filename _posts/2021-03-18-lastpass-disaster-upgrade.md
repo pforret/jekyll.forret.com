@@ -62,6 +62,11 @@ I also tried the "Virtual Agent" pop-up, but it is equally useless. (The answer 
 
 Out of curiosity, I checked for other people's experiences and [Trustpilot gives LastPass](https://www.trustpilot.com/review/www.LastPass.com) 1,5 stars out of 5.
 
+## UPDATE
+
+> Three hours after my paid upgrade, my app suddenly synced and got all the passwords back.
+> No idea if this was a bug that was fixed, or if this is by design. 
+
 ## Conclusion
 
 * take regular (encrypted) backups of your password managers
