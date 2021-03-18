@@ -20,7 +20,7 @@ src="/wp-content/uploads/2021/03/lastpass.jpg"
 description="LastPass upgrade experience"
 %}
 
-I've been a happy LastPass (free) user for the last 7-8 years, using it simultaneously on all my mobile and desktop/laptop devices. This means that my LastPass account contains ALL MY PASSWORDS AND CREDIT CARDS. The service it delivers is valuable, and that's why I decided: when the day comes, I will pay for it. That day was today (April 18). My mobile LastPass app finally told me lose functionality or upgrade to the premium version (3$/month). I selected 'upgrade'. What followed was a complete _sh*t show_ that could have been a disaster. 
+I've been a happy LastPass (free) user for the last 7-8 years, using it simultaneously on all my mobile and desktop/laptop devices. This means that my LastPass account contains ALL MY PASSWORDS AND CREDIT CARDS. The service it delivers is valuable, and that's why I decided: when the day comes, I will pay for it. That day was today (April 18). My mobile LastPass app finally told me: lose functionality or upgrade to the premium version (3$/month). I selected 'upgrade'. What followed was a complete _sh*t show_ that could have been a disaster. 
 
 ## My upgrade experience
 
@@ -58,13 +58,13 @@ description="LastPass support: no human here"
 
 There is no way to submit a question, or email, or call someone. Whatever you type in the search field, the only thing you get are answers to other questions, but you can't reach a human. I'm sure this saves on support costs, but it's also a [dark pattern](https://www.darkpatterns.org/). 
 
-I also tried the "Virtual Agent" pop-up (after I disabled my Adblock and Ghostery plugins), but it is equally useless. (The answer to "_all my passwords have disappeared_" was "_This is how you do a backup_", which should have been "first you travel back in time and take a backup")
+I also tried the "Virtual Agent" pop-up, but it is equally useless. (The answer to "_all my passwords have disappeared_" was "_This is how you do a backup_", which should have been "first you travel back in time and take a backup")
 
 Out of curiosity, I checked for other people's experiences and [Trustpilot gives LastPass](https://www.trustpilot.com/review/www.LastPass.com) 1,5 stars out of 5.
 
 ## Conclusion
 
-Some lessons:
 * take regular (encrypted) backups of your password managers
 * avoid LastPass. I am switching to [1Password](https://my.1password.com/).
+* I now have a paid 1-year subscription for an app that's useless, and no recourse for support. Any ideas how to get my money back?
 
