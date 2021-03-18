@@ -54,7 +54,9 @@ src="/wp-content/uploads/2021/03/lastpass_support_2.png"
 description="LastPass support: no human here"
 %}
 
-There is no way to submit a question, or email, or call someone. Whatever you type in the search field, the only thing you get are answers to other questions, but you can't reach a human. I'm sure this saves on support costs, but it's also a [dark pattern](https://www.darkpatterns.org/). There is also a "Virtual Agent" pop-up (after I disabled my Adblock and Ghostery plugins), but it is also useless. (The answer to "_all my passwords have disappeared_"? "_This is how you do a backup_")
+There is no way to submit a question, or email, or call someone. Whatever you type in the search field, the only thing you get are answers to other questions, but you can't reach a human. I'm sure this saves on support costs, but it's also a [dark pattern](https://www.darkpatterns.org/). 
+
+I also tried the "Virtual Agent" pop-up (after I disabled my Adblock and Ghostery plugins), but it is equally useless. (The answer to "_all my passwords have disappeared_" was "_This is how you do a backup_", which should have been "first you travel back in time and take a backup")
 
 Out of curiosity, I checked for other people's experiences and [Trustpilot gives LastPass](https://www.trustpilot.com/review/www.LastPass.com) 1,5 stars out of 5.
 
