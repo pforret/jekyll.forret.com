@@ -1,16 +1,15 @@
 ---
-id: 172
 title: 'Automated initial image tagging: Ojos Inc'
 date: 2005-08-27T20:06:45+02:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2005/08/27/automated-initial-image-tagging-ojos-inc/
 permalink: /2005/08/27/automated-initial-image-tagging-ojos-inc/
 categories:
-  - science
-  - Web2.0
+    - technology
+tags:
+    - metadata
+    - AI
 ---
-![](http://www.pixagogo.com/S5!pg7swZZxdFSKaNm!IObT8Oxou4mMJ3nwii3Ereky-yKhybaPU70XND5h8Dk9cS8GfzLDvD5jYO!Gvm-TsCt2ireSJuO3I6r9C4OIX8xdns_/paz_vega_sep.jpg)  
 What meta-data do we have for the average digital picture we take:
 
 MINIMAL:</p> 
@@ -40,5 +39,3 @@ On his own blog, Shah writes:
 
 [Ho John Lee states on his blog](http://www.hojohnlee.com/weblog/?p=250) that the technology should be offered as a web service, not as yet another photo storage site. He has a point, and I can see also it working in a technology licensing model: let Flickr or Pixagogo run it locally and let them pay per million pictures treated. Anyway, it will be interesting to see where this company goes.  
 (via [John](http://www.baeyens.net/baeyens/view.php?id=1318))
-
-Technorati: <a href="http://technorati.com/tag/AI" rel="tag">AI</a> &#8211; <a href="http://technorati.com/tag/images" rel="tag">images</a> &#8211; <a href="http://technorati.com/tag/startup" rel="tag">startup</a> &#8211; <a href="http://technorati.com/tag/technology" rel="tag">technology</a>

@@ -4,7 +4,7 @@ layout: post
 permalink: /2004/11/29/how-do-you-move-a-terabyte/
 categories:
     - technology
-categories:
+tags:
     - bandwidth
     - disk
     - network

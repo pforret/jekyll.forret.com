@@ -18,7 +18,3 @@ Two surprises jump out:
 
   * the good position of [U2U&#8217;er Patrick](http://www.u2u.info/blogs/patrick/) (#11) which must be deserved through some other indicator, because a PR of 0 and 24 backlinks aren&#8217;t _to write home about_ ([*](http://you-are-self-a-blog-you.blogspot.com/))
   * the low position of Flanders&#8217; premier shockblog (and provider of premium bootie) [Zattevrienden](http://www.zattevrienden.be/) (#13). They go through all that effort collecting pictures of crashing bikers and naked blondes, frame those delicately in contemporary culture through intelligent conversation, but are not sufficiently rewarded for it. Oh well &#8230;
-
-In any case: if you want to meet some of the bloggers in the top 20 and buy them a drink, talk about interesting stuff or maybe even get a back link, put the following dates in your agenda:  
->> March 23rd, [Bwards](http://www.carreconfiture.be/bwards/), Antwerp  
->> May 5th, [Barcamp Brussels](http://barcamp.forret.com/), Brussels

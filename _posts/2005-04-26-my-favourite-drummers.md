@@ -26,5 +26,3 @@ And then some drummers who just like to show off:
   * [John Blackwell](http://www.drummerworld.com/Videos/JohnBlackwellstick.html) with his sticks 
   * [Thomas Lang](http://www.drummerworld.com/Videos/ThomasLang2.html) with just about anything 
   * [Buddy Rich](http://www.drummerworld.com/Videos/buddyrichflying.html) with his flying drum kit 
-
-Technorati: <a href="http://technorati.com/tag/music" rel="tag">music</a> &#8211; <a href="http://technorati.com/tag/drums" rel="tag">drums</a>

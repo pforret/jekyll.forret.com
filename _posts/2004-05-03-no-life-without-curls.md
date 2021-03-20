@@ -1,10 +1,8 @@
 ---
-id: 14
 title: No life without CURLs
 date: 2004-05-03T13:10:23+02:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2004/05/03/no-life-without-curls/
 permalink: /2004/05/03/no-life-without-curls/
 categories:
   - windows
