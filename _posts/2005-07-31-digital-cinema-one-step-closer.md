@@ -1,15 +1,14 @@
 ---
-id: 165
 title: 'Digital cinema: one step closer'
-date: 2005-07-31T20:41:00+02:00
-author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2005/07/31/digital-cinema-one-step-closer/
 permalink: /2005/07/31/digital-cinema-one-step-closer/
 categories:
-  - digital cinema
+    - technology
+tags:
+    - digital cinema
+    - cinema
+    - dci
 ---
-![](http://www.pixagogo.com/S5vpfnjbBPdPmdvl-2!BHJQAYWDPL8CP!3iKWF4tv!udhRBPZ9DZxjLhPkD8Dp75hTd!M5G22wHFLiEnziKSZlThqqcPEgBFXPzx0D4GJPY!vufDoPwJ1R9USCeBfx-toq2mPUB9vfVJujlM2D!UICsQ__/digital-cinema.jpg)  
 Digital Cinema Initiatives, LLC (DCI) &#8211; founded in March 2002, as a joint venture of [Disney](http://disney.go.com/disneypictures/), [Fox](http://www.foxmovies.com/), [MGM](http://www.mgm.com/movies_theatrical.do), [Paramount](http://www.paramount.com/motionpictures/), [Sony Pictures Entertainment](http://www.sonypictures.com/movies/index.html), [Universal](http://www.universalpictures.com/) and [Warner Bros. Studios](http://www2.warnerbros.com/web/main/movies/movies.jsp) &#8211; just released its &#8220;FINAL OVERALL SYSTEM REQUIREMENTS AND SPECIFICATIONS FOR DIGITAL CINEMA&#8221;:
 
 > (Hollywood, CA &#8211; July 27, 2005) Digital Cinema Initiatives, LLC (DCI) has completed the final overall system requirements and specifications to help theatrical projector and equipment manufacturers create uniform and compatible digital cinema (&#8230;)  

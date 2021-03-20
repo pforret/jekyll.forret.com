@@ -1,20 +1,18 @@
 ---
-id: 1318
 title: 'Company cars in Belgium: your new taxes'
-date: 2012-04-03T17:38:03+02:00
-author: Peter
 layout: post
-guid: http://blog.forret.com/?p=1318
 permalink: /2012/04/03/company-cars-in-belgium/
 categories:
-  - Belgium
-  - finance
+    - Belgium
+
 tags:
-  - car
-  - company
-  - taxes
+    - car
+    - company
+    - taxes
+    - finance
+
 ---
-January 2012 marks the beginning of a new calculation of the &#8216;Benefit in kind&#8217; &#8211; the value an employee is calculated to get from a company car. It has a big effect on your taxes. Do you pay taxes **in Belgium**? Do you have a **company car**? Read on!
+January 2012 marks the beginning of a new calculation of the 'Benefit in kind' - the value an employee is calculated to get from a company car. It has a big effect on your taxes. Do you pay taxes **in Belgium**? Do you have a **company car**? Read on!
 
 The actual formula can be found here: [Arval: Benefit in kind](http://www.arval.be/eng/lease/our-service-approach/tax-matter/benefit-in-kind.html) ([FR: Avantage de toute nature](http://www.arval.be/fre/location-longue-duree/nos-services/fiscalite/avantage-de-toute-nature.html) / [NL: Voordeel van alle aard](http://www.arval.be/dut/lease/dienstverlening/fiscaliteit/voordeel-alle-aard.html#Berekening_bestuurder)). I simulated this for my own car (Saab 9.3 Cabrio from 2005). It&#8217;s clear I need to sell it ASAP. Then I started calculating some other &#8216;common&#8217; company cars to see what car to buy next. A hybrid? Diesel? Start-stop? So here are some numbers for the &#8216;cheap&#8217; cars:
 

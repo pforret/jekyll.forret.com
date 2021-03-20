@@ -15,10 +15,13 @@ tags:
 ---
 You might have noticed the last couple of days that my blog (and some other of the dozen sites I run) was not always available. You might have experienced time-outs and Error 500 messages. I apologize for that. Let me give you a brief overview of what I went through between last Friday and now.
 
-![](/wp-content/uploads/2007/03/dream.jpg)
+
+{% include img.html
+src="/wp-content/uploads/2007/03/dream.jpg"
+description="Dreamhost -> OpenMinds"
+%}
 
 My (former) hosting company [Dreamhost](http://www.dreamhost.com) began having intermittent problems one week ago. Some of my sites would go down and then up again. The Dreamhost Status blog talked about &#8220;[Sporadic brief network outages](http://www.dreamhoststatus.com/2007/03/06/sporadic-brief-network-outages/)&#8221; and promised to fix them, so I waited. Then, by the end of last week, suddenly all my blogs started going down with the &#8220;Error 500: Internal Server Error&#8221; message. I got emails from friends to warn me, but thanks to my [Montastic](http://www.montastic.com/) account, I had a pretty good idea of when they went down, and up again, and down &#8230; A friggin&#8217; Christmas tree!  
-<!--more-->
 
   
 I sent mails to the Dreamhost support service, some of which were answered within the advertised 24 hours (but not all), but none of them any helpful. &#8220;I just checked and the blog/site is working correctly&#8221; (I&#8217;m sure it was, in between downtimes), &#8220;The machine was just restarted so all the apaches were still loading&#8221; (the restart didn&#8217;t help), &#8220;Is it possible a script in your code that&#8217;s taking longer than it should?&#8221; (how about you tell me?) &#8220;possibly people are hotlinking your pictures so it&#8217;s causing your site to go slow?&#8221; (No, all my pictures come from [Flickr](http://www.flickr.com)). &#8220;It appears some of the scripts on your site are being killed by our process watcher program&#8221; (no kidding!? which ones? what site?). 

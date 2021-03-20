@@ -1,19 +1,13 @@
 ---
-id: 890
 title: What is HD-JPEG?
-date: 2007-10-08T15:59:17+02:00
-author: Peter
 layout: post
-guid: http://blog.forret.com/2007/10/what-is-hd-jpeg/
 permalink: /2007/10/08/what-is-hd-jpeg/
 categories:
-  - audio-video
   - photography
 tags:
   - hd
   - image
   - jpeg
-  - photography
   - raw
 ---
 While reading the specs of the [PackardBell Store & Play](http://nl.packardbell.be/products/opslagmedia/store-and-play/store-and-play-3500-320-gb/productsheet-C050500000-1165.html), I fall upon &#8220;_Foto formaten: JPEG, **HD JPEG**_&#8221; As I am working with several aspects of HD (High Definition) video all the time, I am of course intrigued. There is a standard for HD JPEG? Wow, tell me more!
