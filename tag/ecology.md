@@ -1,5 +1,5 @@
 ---
-layout: with_category
+layout: with_tag
 title: Ecology
 keyword: ecology
 ---

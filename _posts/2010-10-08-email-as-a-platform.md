@@ -1,22 +1,22 @@
 ---
-id: 1191
 title: 'Idea: email as a platform'
 date: 2010-10-08T12:04:03+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2010/10/email-as-a-platform/
 permalink: /2010/10/08/email-as-a-platform/
 categories:
   - idea
-  - technology
-  - Web2.0
 tags:
-  - email
-  - platform
+    - technology
+    - Web2.0
+    - email
+    - platform
 ---
-**[<img  style="border-right-width: 0px; margin: 0px 0px 5px 5px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="146354021_1c0f548dfe_m[1]" border="0" alt="146354021_1c0f548dfe_m[1]" align="right" src="http://blog2.forret.com/wp-content/uploads/2010/10/146354021_1c0f548dfe_m1_thumb1.jpg" width="175" height="244" />](http://blog2.forret.com/wp-content/uploads/2010/10/146354021_1c0f548dfe_m11.jpg)**Something has been bothering me for a while. I have a colleague that needs to post some files on a site every week, and she needs to do it via FTP. FTP is ‘geeky’ for most people. Their PC does not come with an FTP program installed, they never need it for daily web usage and they’re not sure how it is different from email/web upload. I ended up installing [Filezilla](http://filezilla-project.org/) for her and she manages, but it would be so much easier if I could tell her: just email it to <XYZ@example.com> and it will arrive on that FTP server. Sending email, everyone can do. 
+![’](http://blog2.forret.com/wp-content/uploads/2010/10/146354021_1c0f548dfe_m11.jpg)
 
-Another issue I had is that I would like to offer a service (that involves audio manipulation of WAV files) and I would like people to send an email with the file attached and I send back the result. In both cases, the problem is the same: email now arrives in a mailbox and is expected to be handled manually. I would like a platform service: I pay for the usage of an email address, and every mail that arrives there triggers a number of actions that are automatic.
+Something has been bothering me for a while. I have a colleague that needs to post some files on a site every week, and she needs to do it via FTP. FTP is ‘geeky’ for most people. Their PC does not come with an FTP program installed, they never need it for daily web usage and they’re not sure how it is different from email/web upload. I ended up installing [Filezilla](http://filezilla-project.org/) for her and she manages, but it would be so much easier if I could tell her: just email it to <XYZ@example.com> and it will arrive on that FTP server. Sending email, everyone can do. 
+
+Another issue I had is that I would like to offer a service (that involves audio manipulation of WAV files), and I would like people to send an email with the file attached and I send back the result. In both cases, the problem is the same: email now arrives in a mailbox and is expected to be handled manually. I would like a platform service: I pay for the usage of an email address, and every mail that arrives there triggers a number of actions that are automatic.
 
 **Not just a service, a platform**
 
@@ -28,7 +28,7 @@ The funny thing is that a much more limited communication method, SMS/texting, h
 
 So what could this platform look like?
 
-  * I register for the service and I get the prefix ACME 
+  * I register for the service, and I get the prefix ACME 
   * I then start defining my services: <acme.upload@example.com>, <acme.support@example.com>, <acme.register@example.com> 
   * I configure acme.upload to save attachments to an FTP server and send a confirmation email. 
   * I configure acme.support to send a confirmation email with a unique number and forward the email with this unique number in the subject. Also, I get an SMS. 

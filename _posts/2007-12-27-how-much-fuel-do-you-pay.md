@@ -4,10 +4,14 @@ layout: post
 permalink: /2007/12/27/how-much-fuel-do-you-pay/
 image: /wp-content/uploads/2019/11/fig-22-11-2019_10-15-53.jpg
 categories:
-  - ecology
+    - toolstudio
 tags:
-  - fuel
-  - mileage
+    - fuel
+    - mileage
+    - ecology
+    - car
+    - economy
+
 ---
 My friend Henry asked me to calculate on a napkin how much I spent on fuel per month. I have a greedy car, but I live close to the office. Still I was quite surprised by the number I got.
 

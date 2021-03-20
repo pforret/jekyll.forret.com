@@ -1,15 +1,12 @@
 ---
-id: 143
 title: 'Old-style Nigerian scam: via fax'
 date: 2005-04-30T16:27:22+02:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2005/04/30/old-style-nigerian-scam-via-fax/
 permalink: /2005/04/30/old-style-nigerian-scam-via-fax/
 categories:
   - spam
 ---
-![](http://www.pixagogo.com/S5vpfnjbBPdPlYcyDksIWx3vz5DwXsBiA0xuI2xfKiPYNj7x9RPvHToavXlby-gKAv8-7Y3dMXgequpC!Ucpsl6VoDt4rEE0847gFucsa0kGjvFs5yxo8wylXomptJBX9VKJ1fTlT0JnGoucuUZJsFxQ__/nigerianscam1b.jpg)  
 Amazing: I just got my first [Nigerian (419) scam](http://en.wikipedia.org/wiki/Advance_fee_fraud) **via FAX**! In these days of practically free email sending, you have to admire someone who goes the extra mile and pays for sending faxes. A handwritten letter would have made me feel even more special, but it&#8217;s a start. 
 
 A Mister Victor Abbor (<vicabbor2@yahoo.com> or <vicabbor@sify.com>) from Lagos has picked me as a candidate for transfering a substantial amount of money ($17.6 mio), formerly belonging to Mr. Akbar Ali, who unfortunately died in the Benin plane crash on Dec 25, 2003. I have to pose as a relative for Mr. Ali (I do have a slight tan from one week in Portugal, so I should pass easily for an African) In return, he would only take a meager 65% and leave me with the remaining 35% (what, no taxes?) which amounts to &#8230; $6.16 mio, or &euro; 4.7 mio. A day&#8217;s work for a day&#8217;s pay.

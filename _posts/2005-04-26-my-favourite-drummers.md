@@ -1,16 +1,13 @@
 ---
-id: 141
 title: My favourite drummers
 date: 2005-04-26T00:32:00+02:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2005/04/26/my-favourite-drummers/
 permalink: /2005/04/26/my-favourite-drummers/
 categories:
   - music
 ---
-![](http://www.pixagogo.com/S5!pg7swZZxdEL6BfiT1x9o7WJQ3DuPd20B!0DSt7mRe2L2Tk3yOm0QbiBEW0LuXE2VkxRZVkipei!IJlSodYqGpoBxh23IuKa5i3NEn4Vqw0_/drummer_ifpi.jpg)  
-Bernhard Castiglioni has created the ultimate drummer&#8217;s web site [Drummerworld.com](http://www.drummerworld.com): bios and pictures of most of the world&#8217;s greatest drummers and lots of [video footage](http://www.drummerworld.com/drummervideo.html). I&#8217;ve spent hours browsing through the recordings and here are some of my favourites:
+Bernhard Castiglioni has created the ultimate drummer's web site [Drummerworld.com](https://www.drummerworld.com/): bios and pictures of most of the world&#8217;s greatest drummers and lots of [video footage](https://www.drummerworld.com/drummervideo.html). I've spent hours browsing through the recordings and here are some of my favourites:
 
   * [Brian &#8220;Brain&#8221; Mantia&#8217;s](http://www.drummerworld.com/Videos/Brianmantiagogobeat.html) gogo-beat: you don&#8217;t need dozens of toms and cymbals to lay down a funky groove 
   * Toto&#8217;s [Jeff Porcaro](http://www.drummerworld.com/Videos/jeffporcaro.html) explaining how he created the &#8220;Rosanna&#8221; beat inspired by (he calls it &#8216;stolen from&#8217;) Bernard Purdie, John Bonham and Bo Didley. 

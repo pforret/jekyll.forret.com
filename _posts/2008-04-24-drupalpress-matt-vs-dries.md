@@ -1,23 +1,16 @@
 ---
-id: 1056
-title: 'DrupalPress: Matt vs Dries'
+title: DrupalPress, Matt vs Dries
 date: 2008-04-24T23:25:48+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/?p=1056
 permalink: /2008/04/24/drupalpress-matt-vs-dries/
 categories:
-  - Belgium
-  - Web2.0
+  - wordpress
 tags:
-  - acquia
-  - automattic
-  - driesbuytaert
-  - drupal
-  - mattmullenweg
-  - Wordpress
+    - acquia
+    - drupal
 ---
-<img  class="alignright" style="float: right;" src="http://www.buytaert.net/cache/images-vancouver-2006-matt-mullenweg-500x500.jpg" alt="" width="200" height="300" />On my left side: [Matt Mullenweg](http://en.wikipedia.org/wiki/Matt_Mullenweg):
+On my left side: [Matt Mullenweg](http://en.wikipedia.org/wiki/Matt_Mullenweg):
 
   * Matt was born in 1984 in Houston, Texas.
   * Amongst other things (see below) Matt is a [passionate photographer](http://ma.tt/photos/log/).
@@ -28,7 +21,7 @@ tags:
   * In Dec 2005 Matt annouces the creation of [AutoMattic](http://automattic.com/), the company behind WordPress.com, Akismet.
   * Matt is cited as [#16](http://www.pcworld.com/article/id,129301-page,5-c,techindustrytrends/article.html) on PCWorld&#8217;s list of &#8220;50 Most Important People on the Web&#8221;
 
-<img  class="alignright" style="float: right;" src="http://farm3.static.flickr.com/2190/2097067097_f72f39fd0b_m.jpg" alt="" width="240" height="240" /> At my right hand: [Dries Buytaert](http://en.wikipedia.org/wiki/Dries_Buytaert):
+At my right hand: [Dries Buytaert](http://en.wikipedia.org/wiki/Dries_Buytaert):
 
   * Dries is born in 1978, in Belgium.
   * Amongst other things (see below), Dries is a [passionate photographer](http://buytaert.net/photos).
