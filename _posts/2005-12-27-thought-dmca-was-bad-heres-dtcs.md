@@ -7,9 +7,11 @@ layout: post
 guid: http://peter.smoothouse.com/2005/12/27/thought-dmca-was-bad-heres-dtcs/
 permalink: /2005/12/27/thought-dmca-was-bad-heres-dtcs/
 categories:
-  - copyright
+    - copyright
+tags:
+    - cinema
 ---
-[<img src="http://blog.forret.com/blog/uploaded_images/analog_hole-712376.gif" border="0" alt="" />](http://www.technorati.com/search/analog+hole)While people were buying Christmas trees and turkeys, the U.S. House of Representatives, and specifically Jim Sensenbrenner (Republican) and John Conyers (Democrat), have prepared a very nice gift to the [MPAA](http://en.wikipedia.org/wiki/MPAA):
+While people were buying Christmas trees and turkeys, the U.S. House of Representatives, and specifically Jim Sensenbrenner (Republican) and John Conyers (Democrat), have prepared a very nice gift to the [MPAA](http://en.wikipedia.org/wiki/MPAA):
 
 > (&#8230;) I&#8217;d like to continue by looking at [H.R. 4569](http://www.publicknowledge.org/issues/hr4569), the Digital Transition Content Security Act of 2005, which proves the point I&#8217;ve made many times over the years, that when it comes to technology, government doesn&#8217;t really know what it is doing. H.R. 4569, which was introduced in the U.S. House of Representatives on December 16th, is intended to protect the intellectual property rights of movie studios by [MAKING ANALOG-TO-DIGITAL CONVERSION ILLEGAL](http://arstechnica.com/news.ars/post/20051218-5797.html).
 > 
@@ -26,5 +28,3 @@ And someone had the same reflection as I had and did the research for me:
 > 
 > And isn&#8217;t it ironic when you look up John Conyers&#8217; financial information that you find some of the same and some new names as well. Some of the names that stick out [as John Conyers&#8217; largest financial contributors?](http://www.opensecrets.org/politicians/contrib.asp?CID=N00004029&cycle=2006) Comcast Corp., Clear Channel Communications, Major League Baseball Commissioner&#8217;s Office and ASCAP.  
 > (from [thomashawk.com](http://thomashawk.com/2005/12/jim-sensenbrenner-and-john-conyers.html)) 
-
-Technorati: <a href="http://technorati.com/tag/drm" rel="tag">drm</a> &#8211; <a href="http://technorati.com/tag/ad" rel="tag">ad</a> &#8211; <a href="http://technorati.com/tag/tivo" rel="tag">tivo</a> &#8211; <a href="http://technorati.com/tag/replaytv" rel="tag">replaytv</a> &#8211; <a href="http://technorati.com/tag/pvr" rel="tag">pvr</a> &#8211; <a href="http://technorati.com/tag/dvr" rel="tag">dvr</a> &#8211; <a href="http://technorati.com/tag/sensenbrenner" rel="tag">sensenbrenner</a> &#8211; <a href="http://technorati.com/tag/conyers" rel="tag">conyers</a>

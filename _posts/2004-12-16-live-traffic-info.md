@@ -1,5 +1,4 @@
 ---
-id: 91
 title: Live traffic info
 date: 2004-12-16T22:51:08+01:00
 author: Peter
@@ -8,7 +7,7 @@ guid: http://peter.smoothouse.com/2004/12/16/live-traffic-info/
 permalink: /2004/12/16/live-traffic-info/
 categories:
     - technology
-categories:
+tags:
     - traffic
     - map
     - tool

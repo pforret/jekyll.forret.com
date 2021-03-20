@@ -1,17 +1,16 @@
 ---
-id: 178
 title: 'Pareto doesn&#8217;t do search'
 date: 2005-09-11T14:47:00+02:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2005/09/11/pareto-doesnt-do-search/
 permalink: /2005/09/11/pareto-doesnt-do-search/
 categories:
-  - Google
-  - Search
-  - Web2.0
+    - Google
+  
+tags:
+    - search
+    - technorati
 ---
-![](http://www.pixagogo.com/S5vpfnjbBPdPkSvuAHMWEbb8AFf0mqjcPKxgq7hlKzOZ0r-HD8dnTOeA6RO-Rv9q-61BqZl0p8Cx8ZFOw!U0Z6-0SL-k8EWLcZ4EQf-ERG-7g6xwTnIedtaW-kcIiQLttXUkZF5SVRwylqbWsdP5x3pPi9e5CYMzkkDTGVitp-ptA_/technorati_site_monthly.jpg)  
 I&#8217;m gonna talk about a post that is 6 months old, I know, but I recently re-read it and wanted to link it to Technorati&#8217;s recent traffic troubles.  
 Joe Kraus from [JotSpot](http://www.jotspot.com) (and previously Excite) wrote an excellent article called &#8220;[The long tail of software. Millions of Markets of Dozens.](http://bnoopy.typepad.com/bnoopy/2005/03/the_long_tail_o.html)&#8220;. I&#8217;ll concentrate on the following segements:
 
@@ -25,4 +24,3 @@ Even if &#8220;[search is hard](http://www.heynorton.org/blog/2005/08/search_is_
 But search results on a random combination of words, several million times a day, within 17 million sites and 1.5 billion links in your database: &#8220;the average search is nearly unique&#8221;, that&#8217;s hard. You need an expensive Google-like architecture to cope with that. Unfortunately for Technorati, [Icerocket](http://blogs.icerocket.com/search?q=http%3A%2F%2Fblog.forret.com), [Feedster](http://feedster.com/links.php?q=blog.forret.com), [Pubsub](http://www.pubsub.com/site_stats.php?site=http%3A%2F%2Fblog.forret.com) and [Blogpulse](http://www.blogpulse.com/search?query=http%3A%2F%2Fblog.forret.com) are capable of doing it, either because they have less traffic or a better architecture. So some high-profile bloggers like [Kottke](http://www.kottke.org/05/08/so-long-technorati) and [Calacanis](http://calacanis.weblogsinc.com/entry/1234000280056812/) are jumping ship.
 
 Technorati has already burned some credit, but could survive if it can perform to Google standards within weeks, not months. Or it will not be the weapon of choice for blogger&#8217;s vanity searches. And that&#8217;s how this blogging thing got started in the first place.  
-Technorati: <a rel="tag" href="http://technorati.com/tag/technorati">technorati</a> &#8211; <a rel="tag" href="http://technorati.com/tag/search">search</a> &#8211; <a rel="tag" href="http://www.technorati.com/tag/power%20law">power law</a>
