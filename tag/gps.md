@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: gps
+title: Gps
 keyword: gps
 ---

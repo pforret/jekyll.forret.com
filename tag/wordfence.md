@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: wordfence
+title: Wordfence
 keyword: wordfence
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: california
+title: California
 keyword: california
 ---

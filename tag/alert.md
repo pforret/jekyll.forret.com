@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: alert
+title: Alert
 keyword: alert
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: certificate
+title: Certificate
 keyword: certificate
 ---

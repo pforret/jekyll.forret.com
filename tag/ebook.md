@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: ebook
+title: Ebook
 keyword: ebook
 ---

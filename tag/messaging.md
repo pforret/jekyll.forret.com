@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: messaging
+title: Messaging
 keyword: messaging
 ---

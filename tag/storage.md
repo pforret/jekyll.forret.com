@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: storage
+title: Storage
 keyword: storage
 ---

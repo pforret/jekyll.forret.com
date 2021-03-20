@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: upgrade
+title: Upgrade
 keyword: upgrade
 ---

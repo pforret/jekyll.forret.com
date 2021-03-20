@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: home-cinema
+title: Home-cinema
 keyword: home-cinema
 ---

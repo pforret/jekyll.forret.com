@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: silicon
+title: Silicon
 keyword: silicon
 ---

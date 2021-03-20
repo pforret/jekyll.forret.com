@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: idool
+title: Idool
 keyword: idool
 ---

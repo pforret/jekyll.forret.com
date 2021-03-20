@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: netgear
+title: Netgear
 keyword: netgear
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: forward
+title: Forward
 keyword: forward
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: bulgarian
+title: Bulgarian
 keyword: bulgarian
 ---

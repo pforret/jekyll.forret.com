@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: dpi
+title: Dpi
 keyword: dpi
 ---

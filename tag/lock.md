@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: lock
+title: Lock
 keyword: lock
 ---

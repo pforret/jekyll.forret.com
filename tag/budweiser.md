@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: budweiser
+title: Budweiser
 keyword: budweiser
 ---

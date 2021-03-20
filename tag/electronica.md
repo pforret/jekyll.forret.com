@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: electronica
+title: Electronica
 keyword: electronica
 ---

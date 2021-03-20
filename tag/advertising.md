@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: advertising
+title: Advertising
 keyword: advertising
 ---

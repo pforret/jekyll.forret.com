@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: playlist
+title: Playlist
 keyword: playlist
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: search
+title: Search
 keyword: search
 ---

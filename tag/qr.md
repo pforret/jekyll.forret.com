@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: qr
+title: Qr
 keyword: qr
 ---

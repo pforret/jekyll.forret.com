@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: tool
+title: Tool
 keyword: tool
 ---

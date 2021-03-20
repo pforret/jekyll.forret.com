@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: windows
+title: Windows
 keyword: windows
 ---

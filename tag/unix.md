@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: unix
+title: Unix
 keyword: unix
 ---

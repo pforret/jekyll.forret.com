@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: research
+title: Research
 keyword: research
 ---

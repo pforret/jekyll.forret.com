@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: ifpi
+title: Ifpi
 keyword: ifpi
 ---

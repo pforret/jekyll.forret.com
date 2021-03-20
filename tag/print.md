@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: print
+title: Print
 keyword: print
 ---

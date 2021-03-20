@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: placeholder
+title: Placeholder
 keyword: placeholder
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: package
+title: Package
 keyword: package
 ---

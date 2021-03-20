@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: azerty
+title: Azerty
 keyword: azerty
 ---

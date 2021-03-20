@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: innovation
+title: Innovation
 keyword: innovation
 ---

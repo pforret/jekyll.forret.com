@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: europe
+title: Europe
 keyword: europe
 ---

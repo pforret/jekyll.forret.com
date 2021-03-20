@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: internet
+title: Internet
 keyword: internet
 ---

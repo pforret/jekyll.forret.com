@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: aspect
+title: Aspect
 keyword: aspect
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: balkan
+title: Balkan
 keyword: balkan
 ---

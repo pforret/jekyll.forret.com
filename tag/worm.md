@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: worm
+title: Worm
 keyword: worm
 ---

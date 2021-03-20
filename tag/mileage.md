@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: mileage
+title: Mileage
 keyword: mileage
 ---

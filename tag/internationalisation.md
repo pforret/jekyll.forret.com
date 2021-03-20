@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: internationalisation
+title: Internationalisation
 keyword: internationalisation
 ---

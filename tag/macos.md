@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: macos
+title: Macos
 keyword: macos
 ---

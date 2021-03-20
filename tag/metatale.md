@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: metatale
+title: Metatale
 keyword: metatale
 ---

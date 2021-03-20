@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: keyboard
+title: Keyboard
 keyword: keyboard
 ---

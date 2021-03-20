@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: imperial
+title: Imperial
 keyword: imperial
 ---

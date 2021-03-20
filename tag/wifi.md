@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: wifi
+title: Wifi
 keyword: wifi
 ---

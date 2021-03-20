@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: music
+title: Music
 keyword: music
 ---

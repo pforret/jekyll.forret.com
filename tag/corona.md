@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: corona
+title: Corona
 keyword: corona
 ---

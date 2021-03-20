@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: myers-briggs
+title: Myers-briggs
 keyword: myers-briggs
 ---

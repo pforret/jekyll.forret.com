@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: ntp
+title: Ntp
 keyword: ntp
 ---

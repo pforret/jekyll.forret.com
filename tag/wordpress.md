@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: wordpress
+title: Wordpress
 keyword: wordpress
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: radio
+title: Radio
 keyword: radio
 ---

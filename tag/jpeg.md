@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: jpeg
+title: Jpeg
 keyword: jpeg
 ---

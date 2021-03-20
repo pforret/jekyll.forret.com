@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: uptime
+title: Uptime
 keyword: uptime
 ---

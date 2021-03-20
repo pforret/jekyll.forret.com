@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: shoot
+title: Shoot
 keyword: shoot
 ---

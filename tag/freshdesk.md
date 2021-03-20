@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: freshdesk
+title: Freshdesk
 keyword: freshdesk
 ---

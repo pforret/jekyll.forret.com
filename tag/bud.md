@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: bud
+title: Bud
 keyword: bud
 ---

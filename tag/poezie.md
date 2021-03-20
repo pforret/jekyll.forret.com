@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: poezie
+title: Poezie
 keyword: poezie
 ---

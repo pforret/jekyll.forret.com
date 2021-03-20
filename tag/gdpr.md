@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: gdpr
+title: Gdpr
 keyword: gdpr
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: personality
+title: Personality
 keyword: personality
 ---

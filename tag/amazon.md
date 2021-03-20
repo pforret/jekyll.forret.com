@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: amazon
+title: Amazon
 keyword: amazon
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: mashup
+title: Mashup
 keyword: mashup
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: meme
+title: Meme
 keyword: meme
 ---

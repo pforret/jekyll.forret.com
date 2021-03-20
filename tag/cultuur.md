@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: cultuur
+title: Cultuur
 keyword: cultuur
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: script
+title: Script
 keyword: script
 ---

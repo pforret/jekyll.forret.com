@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: rip
+title: Rip
 keyword: rip
 ---

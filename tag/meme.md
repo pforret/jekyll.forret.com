@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: meme
+title: Meme
 keyword: meme
 ---

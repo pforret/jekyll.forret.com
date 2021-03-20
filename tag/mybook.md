@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: mybook
+title: Mybook
 keyword: mybook
 ---

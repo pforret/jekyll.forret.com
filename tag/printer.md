@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: printer
+title: Printer
 keyword: printer
 ---

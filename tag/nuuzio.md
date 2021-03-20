@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: nuuzio
+title: Nuuzio
 keyword: nuuzio
 ---

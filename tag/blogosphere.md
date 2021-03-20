@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: blogosphere
+title: Blogosphere
 keyword: blogosphere
 ---

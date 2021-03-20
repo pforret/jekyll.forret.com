@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: movie
+title: Movie
 keyword: movie
 ---

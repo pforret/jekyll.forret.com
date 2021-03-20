@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: mac
+title: Mac
 keyword: mac
 ---

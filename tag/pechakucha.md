@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: pechakucha
+title: Pechakucha
 keyword: pechakucha
 ---

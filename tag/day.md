@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: day
+title: Day
 keyword: day
 ---

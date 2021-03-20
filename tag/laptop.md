@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: laptop
+title: Laptop
 keyword: laptop
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: stone
+title: Stone
 keyword: stone
 ---

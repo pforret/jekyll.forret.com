@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: brussel
+title: Brussel
 keyword: brussel
 ---

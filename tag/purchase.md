@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: purchase
+title: Purchase
 keyword: purchase
 ---

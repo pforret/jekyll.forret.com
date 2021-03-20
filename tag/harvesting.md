@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: harvesting
+title: Harvesting
 keyword: harvesting
 ---

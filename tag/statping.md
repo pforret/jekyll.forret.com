@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: statping
+title: Statping
 keyword: statping
 ---

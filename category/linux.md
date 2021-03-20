@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: linux
+title: Linux
 keyword: linux
 ---

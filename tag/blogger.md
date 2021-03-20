@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: blogger
+title: Blogger
 keyword: blogger
 ---

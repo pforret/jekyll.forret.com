@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: hack
+title: Hack
 keyword: hack
 ---

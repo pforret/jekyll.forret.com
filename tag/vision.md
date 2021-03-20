@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: vision
+title: Vision
 keyword: vision
 ---

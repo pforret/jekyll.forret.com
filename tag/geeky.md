@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: geeky
+title: Geeky
 keyword: geeky
 ---

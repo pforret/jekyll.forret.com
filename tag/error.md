@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: error
+title: Error
 keyword: error
 ---

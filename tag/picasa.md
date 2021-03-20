@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: picasa
+title: Picasa
 keyword: picasa
 ---

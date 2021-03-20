@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: extract
+title: Extract
 keyword: extract
 ---

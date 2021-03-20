@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: winadmin
+title: Winadmin
 keyword: winadmin
 ---

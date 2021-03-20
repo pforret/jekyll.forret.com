@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: vimeo
+title: Vimeo
 keyword: vimeo
 ---

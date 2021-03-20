@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: bose
+title: Bose
 keyword: bose
 ---

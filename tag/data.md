@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: data
+title: Data
 keyword: data
 ---

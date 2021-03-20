@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: typology
+title: Typology
 keyword: typology
 ---

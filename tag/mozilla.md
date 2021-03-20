@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: mozilla
+title: Mozilla
 keyword: mozilla
 ---

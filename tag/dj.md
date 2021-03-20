@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: dj
+title: Dj
 keyword: dj
 ---

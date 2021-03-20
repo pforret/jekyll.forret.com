@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: decimal
+title: Decimal
 keyword: decimal
 ---

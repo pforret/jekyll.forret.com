@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: design
+title: Design
 keyword: design
 ---

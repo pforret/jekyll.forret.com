@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: network
+title: Network
 keyword: network
 ---

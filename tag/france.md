@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: france
+title: France
 keyword: france
 ---

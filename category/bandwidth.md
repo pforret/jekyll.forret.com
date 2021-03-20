@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: bandwidth
+title: Bandwidth
 keyword: bandwidth
 ---

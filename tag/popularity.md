@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: popularity
+title: Popularity
 keyword: popularity
 ---

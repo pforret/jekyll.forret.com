@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: digital
+title: Digital
 keyword: digital
 ---

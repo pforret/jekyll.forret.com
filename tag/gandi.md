@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: gandi
+title: Gandi
 keyword: gandi
 ---

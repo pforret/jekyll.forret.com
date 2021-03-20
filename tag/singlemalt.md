@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: singlemalt
+title: Singlemalt
 keyword: singlemalt
 ---

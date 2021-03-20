@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: install
+title: Install
 keyword: install
 ---

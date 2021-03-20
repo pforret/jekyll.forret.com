@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: mbps
+title: Mbps
 keyword: mbps
 ---

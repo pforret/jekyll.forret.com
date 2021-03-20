@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: music
+title: Music
 keyword: music
 ---

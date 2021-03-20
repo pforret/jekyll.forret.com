@@ -17,9 +17,12 @@ tags:
   - theory
   - week
 ---
-<figure class="wp-block-image size-large"><img  width="500" height="300" src="http://blog.forret.com/wp-content/uploads/2018/11/fig-13-11-2018_12-59-40.jpg" alt="" class="wp-image-1813" srcset="https://blog.forret.com/wp-content/uploads/2018/11/fig-13-11-2018_12-59-40.jpg 500w, https://blog.forret.com/wp-content/uploads/2018/11/fig-13-11-2018_12-59-40-300x180.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />  
+I was recently introduced to the fact that, in some cultures, the days of the week have associated colors, and that one might take these into account when choosing what to wear, to eat or drink. I looked into it and found the explanation. These are the weekday colors, as defined by the [Ayurveda](http://en.wikipedia.org/wiki/Ayurveda), the ancient healing science that is native to the Indian subcontinent. 
 
-I was recently introduced to the fact that, in some cultures, the days of the week have associated colors, and that one might take these into account when choosing what to wear, to eat or drink. I looked into it and found the explanation. These are the weekday colors, as defined by the [Ayurveda](http://en.wikipedia.org/wiki/Ayurveda), the &#8220;_ancient system of health care that is native to the Indian subcontinent_&#8220;. <figure class="wp-block-table">
+{% include img.html
+src="/wp-content/uploads/2021/03/ayurveda.jpg"
+description="Weekday colours"
+%}
 
 <table class="">
   <tr>
@@ -135,49 +138,21 @@ I was recently introduced to the fact that, in some cultures, the days of the we
   </tr>
 </table>  
 
-<li style="text-align: left;">
-  Monday: <em>Lord Shiva</em> rules on Mondays. <strong>White</strong> is the color for Mondays and therefore wearing white dresses and keeping white flowers at home are recommended on Mondays. It is a good day for men seeking favors from women and for making new friends. Taking honey and cucumber on Mondays is likely to yield good results.<!--more-->
-</li>
-
-<li style="text-align: left;">
-  Tuesday: <strong>Red</strong> being the most suitable color for Tuesdays, wearing red clothes and keeping red flowers at home on the day may prove to be good. Men shall be courageous on the day and Tuesdays are the most suitable days to settle long-standing issues with the police and army. Administrative and hard laborious work should be undertaken on Tuesdays.
-</li>
-<li style="text-align: left;">
-  Wednesday: Ruled by Mercury, the day is most suitable for activities involving cerebral faculties, banking, finance, crop and grain trading and the acquisition of wealth. Wednesday is ideal for romance. All activities requiring cerebral input and intellectual faculties are recommended on Wednesdays. (&#8230;) The day is ideal for planting trees, as <strong>green</strong> is the color of the day. Keeping green plants at home, wearing green clothes and eating beans and <em>gota mungdal</em> on Wednesday would ensure good effects.
-</li>
-<li style="text-align: left;">
-  Thursday: Though traveling is virtually a taboo on Thursdays, efforts to retrieve lost wealth and articles are expected to succeed if undertaken on Thursdays. Thursday is an excellent day to join any educational institute or to begin any academic pursuits; such activities should, however, be undertaken in the first half of the day. (&#8230;) Wearing <strong>yellow</strong> or off-white clothes, keeping yellow or off-white flowers at home and eating <em>arhar dal</em>, papaya and rice with ghee on Thursdays may bring in good results.
-</li>
-<li style="text-align: left;">
-  Friday: <em>Shukra</em> (Venus) and <em>Bhubaneshwari Devi</em> rule Friday and promise success, especially to women. Happiness permeates the day. Friendship blossoms and effortless gains are natural events of the day. Most suitable for the purchase of new vehicles, Friday is also a good day for medical treatments of serious illness, as the healing energies are most active on the day. It is a day for purchasing jewellery, precious stones, ornaments and new houses. <em>(&#8230;) </em>Very <strong>light blue</strong> or <strong>white</strong> are the colors of the day.
-</li>
-<li style="text-align: left;">
-  Saturday: If you are besieged by nagging interminable legal problems, launch an all out effort to resolve the problem on Saturdays. Any work initiated in the first half on Saturday carries a high possibility of success. anyone leading a pious lifestyle on the day, bereft of luxuries, eating sesame seed paste and grilled black <em>brinjal</em>, keeping <strong>purple</strong> flowers at home and wearing <strong>black</strong> clothes, is likely to receive success and blessings of <em>Shani</em> or Saturn.
-</li>
-<li style="text-align: left;">
-  Sunday: An excellent day to undertake journeys, Sunday is also an extremely conducive day on which to resolve old disputes. Sunday, being a day for celebration, is the most suitable day to feed and entertain friends and family. (&#8230;) If one wears <strong>pink</strong> or <strong>maroon</strong> clothes on Sundays one can make friends easily and will enhance one&#8217;s personality. It is the day which is most suitable to initiate discussions and negotiations about new projects with government officials.<br />(via <a href="http://www.astrologycom.com/ayurveda7.html">http://www.astrologycom.com/ayurveda7.html</a>)
-</li>
+* Monday: <em>Lord Shiva</em> rules on Mondays. <strong>White</strong> is the color for Mondays and therefore wearing white dresses and keeping white flowers at home are recommended on Mondays. It is a good day for men seeking favors from women and for making new friends. Taking honey and cucumber on Mondays is likely to yield good results.<!--more-->
+* Tuesday: <strong>Red</strong> being the most suitable color for Tuesdays, wearing red clothes and keeping red flowers at home on the day may prove to be good. Men shall be courageous on the day and Tuesdays are the most suitable days to settle long-standing issues with the police and army. Administrative and hard laborious work should be undertaken on Tuesdays.
+* Wednesday: Ruled by Mercury, the day is most suitable for activities involving cerebral faculties, banking, finance, crop and grain trading and the acquisition of wealth. Wednesday is ideal for romance. All activities requiring cerebral input and intellectual faculties are recommended on Wednesdays. (&#8230;) The day is ideal for planting trees, as <strong>green</strong> is the color of the day. Keeping green plants at home, wearing green clothes and eating beans and <em>gota mungdal</em> on Wednesday would ensure good effects.
+* Thursday: Though traveling is virtually a taboo on Thursdays, efforts to retrieve lost wealth and articles are expected to succeed if undertaken on Thursdays. Thursday is an excellent day to join any educational institute or to begin any academic pursuits; such activities should, however, be undertaken in the first half of the day. (&#8230;) Wearing <strong>yellow</strong> or off-white clothes, keeping yellow or off-white flowers at home and eating <em>arhar dal</em>, papaya and rice with ghee on Thursdays may bring in good results.
+* Friday: <em>Shukra</em> (Venus) and <em>Bhubaneshwari Devi</em> rule Friday and promise success, especially to women. Happiness permeates the day. Friendship blossoms and effortless gains are natural events of the day. Most suitable for the purchase of new vehicles, Friday is also a good day for medical treatments of serious illness, as the healing energies are most active on the day. It is a day for purchasing jewellery, precious stones, ornaments and new houses. <em>(&#8230;) </em>Very <strong>light blue</strong> or <strong>white</strong> are the colors of the day.
+* Saturday: If you are besieged by nagging interminable legal problems, launch an all out effort to resolve the problem on Saturdays. Any work initiated in the first half on Saturday carries a high possibility of success. anyone leading a pious lifestyle on the day, bereft of luxuries, eating sesame seed paste and grilled black <em>brinjal</em>, keeping <strong>purple</strong> flowers at home and wearing <strong>black</strong> clothes, is likely to receive success and blessings of <em>Shani</em> or Saturn.
+* Sunday: An excellent day to undertake journeys, Sunday is also an extremely conducive day on which to resolve old disputes. Sunday, being a day for celebration, is the most suitable day to feed and entertain friends and family. (&#8230;) If one wears <strong>pink</strong> or <strong>maroon</strong> clothes on Sundays one can make friends easily and will enhance one&#8217;s personality. It is the day which is most suitable to initiate discussions and negotiations about new projects with government officials.<br />(via <a href="http://www.astrologycom.com/ayurveda7.html">http://www.astrologycom.com/ayurveda7.html</a>)
 
 Let&#8217;s double-check on another page:
 
-<li style="text-align: left;">
-  Monday: Monday is for the moon. The main color is <strong>milky white</strong>. Other colors are white or pale shades of blue, green and pink.
-</li>
-<li style="text-align: left;">
-  Tuesday: Tuesday represents Mars. The main color is <strong>bright red</strong>. Other colors are jet black and bright shades of orange and pink.
-</li>
-<li style="text-align: left;">
-  Wednesday: Wednesday represents Mercury. The main color is <strong>green</strong>, especially pear green. Other colors are neutral or mild tones of blues, grays and browns.
-</li>
-<li style="text-align: left;">
-  Thursday: Thursday is Jupiter&#8217;s day. The main color is <strong>yellow</strong>. Orange, gold and bright colors in general are always appropriate on Thursdays.
-</li>
-<li style="text-align: left;">
-  Friday: Friday belongs to Venus, the planet of beauty. The main color is <strong>radiant white</strong>, which contains all colors.
-</li>
-<li style="text-align: left;">
-  Saturday: Saturday belongs to Saturn. The main color is <strong>black</strong> or dark blue.
-</li>
-<li style="text-align: left;">
-  Sunday: Sunday represents the sun. The main colors are <strong>gold and brown</strong>, but any sunny color like red, yellow or orange is appropriate.
-</li>
+* Monday: Monday is for the moon. The main color is <strong>milky white</strong>. Other colors are white or pale shades of blue, green and pink.
+* Tuesday: Tuesday represents Mars. The main color is <strong>bright red</strong>. Other colors are jet black and bright shades of orange and pink.
+* Wednesday: Wednesday represents Mercury. The main color is <strong>green</strong>, especially pear green. Other colors are neutral or mild tones of blues, grays and browns.
+* Thursday: Thursday is Jupiter&#8217;s day. The main color is <strong>yellow</strong>. Orange, gold and bright colors in general are always appropriate on Thursdays.
+* Friday: Friday belongs to Venus, the planet of beauty. The main color is <strong>radiant white</strong>, which contains all colors.
+* Saturday: Saturday belongs to Saturn. The main color is <strong>black</strong> or dark blue.
+* Sunday: Sunday represents the sun. The main colors are <strong>gold and brown</strong>, but any sunny color like red, yellow or orange is appropriate.
+

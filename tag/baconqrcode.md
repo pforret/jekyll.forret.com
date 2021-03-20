@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: baconqrcode
+title: Baconqrcode
 keyword: baconqrcode
 ---

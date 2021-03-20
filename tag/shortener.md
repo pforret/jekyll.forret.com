@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: shortener
+title: Shortener
 keyword: shortener
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: e-commerce
+title: E-commerce
 keyword: e-commerce
 ---

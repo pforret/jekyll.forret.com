@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: oneplus
+title: Oneplus
 keyword: oneplus
 ---

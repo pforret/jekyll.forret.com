@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: hiring
+title: Hiring
 keyword: hiring
 ---

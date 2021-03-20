@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: remix
+title: Remix
 keyword: remix
 ---

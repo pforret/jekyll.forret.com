@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: color
+title: Color
 keyword: color
 ---

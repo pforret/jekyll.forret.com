@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: photo
+title: Photo
 keyword: photo
 ---

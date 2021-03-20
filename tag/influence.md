@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: influence
+title: Influence
 keyword: influence
 ---

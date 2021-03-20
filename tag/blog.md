@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: blog
+title: Blog
 keyword: blog
 ---

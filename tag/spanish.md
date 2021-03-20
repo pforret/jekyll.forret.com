@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: spanish
+title: Spanish
 keyword: spanish
 ---

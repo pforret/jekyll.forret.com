@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: sms
+title: Sms
 keyword: sms
 ---

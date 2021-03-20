@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: news
+title: News
 keyword: news
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: myspace
+title: Myspace
 keyword: myspace
 ---

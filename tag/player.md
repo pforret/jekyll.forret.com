@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: player
+title: Player
 keyword: player
 ---

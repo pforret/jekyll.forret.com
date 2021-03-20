@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: malt
+title: Malt
 keyword: malt
 ---

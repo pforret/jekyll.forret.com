@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: enlarge
+title: Enlarge
 keyword: enlarge
 ---

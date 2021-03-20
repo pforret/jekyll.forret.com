@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: web
+title: Web
 keyword: web
 ---

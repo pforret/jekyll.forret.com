@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: feedburner
+title: Feedburner
 keyword: feedburner
 ---

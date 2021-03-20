@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: pc
+title: Pc
 keyword: pc
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: marketing
+title: Marketing
 keyword: marketing
 ---

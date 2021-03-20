@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: simonharrisson
+title: Simonharrisson
 keyword: simonharrisson
 ---

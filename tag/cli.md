@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: cli
+title: Cli
 keyword: cli
 ---

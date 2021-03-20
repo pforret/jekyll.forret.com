@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: projects
+title: Projects
 keyword: projects
 ---

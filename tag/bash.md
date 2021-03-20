@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: bash
+title: Bash
 keyword: bash
 ---

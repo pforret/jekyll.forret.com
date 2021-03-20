@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: premium
+title: Premium
 keyword: premium
 ---

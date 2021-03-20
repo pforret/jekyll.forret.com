@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: homebrew
+title: Homebrew
 keyword: homebrew
 ---

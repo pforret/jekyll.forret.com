@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: ai
+title: Ai
 keyword: ai
 ---

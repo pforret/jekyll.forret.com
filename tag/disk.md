@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: disk
+title: Disk
 keyword: disk
 ---

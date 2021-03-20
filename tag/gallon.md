@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: gallon
+title: Gallon
 keyword: gallon
 ---

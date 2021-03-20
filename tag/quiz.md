@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: quiz
+title: Quiz
 keyword: quiz
 ---

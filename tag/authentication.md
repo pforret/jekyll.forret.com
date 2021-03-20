@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: authentication
+title: Authentication
 keyword: authentication
 ---

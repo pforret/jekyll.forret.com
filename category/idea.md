@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: idea
+title: Idea
 keyword: idea
 ---

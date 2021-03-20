@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: sony
+title: Sony
 keyword: sony
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: diy
+title: Diy
 keyword: diy
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: mbti
+title: Mbti
 keyword: mbti
 ---

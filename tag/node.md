@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: node
+title: Node
 keyword: node
 ---

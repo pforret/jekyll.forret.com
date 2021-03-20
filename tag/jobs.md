@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: jobs
+title: Jobs
 keyword: jobs
 ---

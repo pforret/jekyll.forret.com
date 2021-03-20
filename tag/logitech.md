@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: logitech
+title: Logitech
 keyword: logitech
 ---

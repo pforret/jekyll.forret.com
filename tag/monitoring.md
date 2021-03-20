@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: monitoring
+title: Monitoring
 keyword: monitoring
 ---

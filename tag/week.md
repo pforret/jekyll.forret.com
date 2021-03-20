@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: week
+title: Week
 keyword: week
 ---

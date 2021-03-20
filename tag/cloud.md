@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: cloud
+title: Cloud
 keyword: cloud
 ---

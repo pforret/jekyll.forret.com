@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: store
+title: Store
 keyword: store
 ---

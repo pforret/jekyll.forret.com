@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: internet
+title: Internet
 keyword: internet
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: internetofthings
+title: Internetofthings
 keyword: internetofthings
 ---

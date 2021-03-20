@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: battery
+title: Battery
 keyword: battery
 ---

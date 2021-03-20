@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: usb
+title: Usb
 keyword: usb
 ---

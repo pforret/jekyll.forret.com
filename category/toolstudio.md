@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: toolstudio
+title: Toolstudio
 keyword: toolstudio
 ---

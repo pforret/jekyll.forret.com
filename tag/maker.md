@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: maker
+title: Maker
 keyword: maker
 ---

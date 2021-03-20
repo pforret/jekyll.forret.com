@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: panasonic
+title: Panasonic
 keyword: panasonic
 ---

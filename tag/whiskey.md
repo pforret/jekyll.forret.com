@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: whiskey
+title: Whiskey
 keyword: whiskey
 ---

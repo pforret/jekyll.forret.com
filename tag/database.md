@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: database
+title: Database
 keyword: database
 ---

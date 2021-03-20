@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: trends
+title: Trends
 keyword: trends
 ---

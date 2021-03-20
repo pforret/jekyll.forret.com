@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: commercial
+title: Commercial
 keyword: commercial
 ---

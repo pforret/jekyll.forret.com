@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: youtube
+title: Youtube
 keyword: youtube
 ---

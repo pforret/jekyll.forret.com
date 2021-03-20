@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: ipad
+title: Ipad
 keyword: ipad
 ---

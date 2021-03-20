@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: reformat
+title: Reformat
 keyword: reformat
 ---

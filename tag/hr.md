@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: hr
+title: Hr
 keyword: hr
 ---

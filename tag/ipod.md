@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: ipod
+title: Ipod
 keyword: ipod
 ---

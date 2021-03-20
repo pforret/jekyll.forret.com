@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: mobile
+title: Mobile
 keyword: mobile
 ---

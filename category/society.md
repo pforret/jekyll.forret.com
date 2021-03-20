@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: society
+title: Society
 keyword: society
 ---

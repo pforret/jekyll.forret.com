@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: iomega
+title: Iomega
 keyword: iomega
 ---

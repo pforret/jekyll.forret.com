@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: tango
+title: Tango
 keyword: tango
 ---

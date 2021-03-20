@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: stokje
+title: Stokje
 keyword: stokje
 ---

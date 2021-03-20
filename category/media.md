@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: media
+title: Media
 keyword: media
 ---

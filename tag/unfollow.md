@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: unfollow
+title: Unfollow
 keyword: unfollow
 ---

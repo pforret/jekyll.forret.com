@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: clickbank
+title: Clickbank
 keyword: clickbank
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: studiobrussel
+title: Studiobrussel
 keyword: studiobrussel
 ---

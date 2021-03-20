@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: hardware
+title: Hardware
 keyword: hardware
 ---

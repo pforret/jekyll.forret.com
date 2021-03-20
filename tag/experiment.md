@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: experiment
+title: Experiment
 keyword: experiment
 ---

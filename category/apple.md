@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: apple
+title: Apple
 keyword: apple
 ---

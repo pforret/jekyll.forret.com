@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: windows
+title: Windows
 keyword: windows
 ---

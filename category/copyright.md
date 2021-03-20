@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: copyright
+title: Copyright
 keyword: copyright
 ---

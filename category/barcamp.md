@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: barcamp
+title: Barcamp
 keyword: barcamp
 ---

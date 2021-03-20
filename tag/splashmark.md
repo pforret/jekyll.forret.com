@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: splashmark
+title: Splashmark
 keyword: splashmark
 ---

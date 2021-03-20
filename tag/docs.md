@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: docs
+title: Docs
 keyword: docs
 ---

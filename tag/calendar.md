@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: calendar
+title: Calendar
 keyword: calendar
 ---

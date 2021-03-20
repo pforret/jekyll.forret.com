@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: stereoscopic
+title: Stereoscopic
 keyword: stereoscopic
 ---

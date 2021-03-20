@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: calculate
+title: Calculate
 keyword: calculate
 ---

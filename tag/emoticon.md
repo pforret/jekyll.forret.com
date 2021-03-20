@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: emoticon
+title: Emoticon
 keyword: emoticon
 ---

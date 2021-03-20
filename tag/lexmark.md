@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: lexmark
+title: Lexmark
 keyword: lexmark
 ---

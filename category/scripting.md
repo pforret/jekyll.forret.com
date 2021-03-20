@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: scripting
+title: Scripting
 keyword: scripting
 ---

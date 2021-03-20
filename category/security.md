@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: security
+title: Security
 keyword: security
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: review
+title: Review
 keyword: review
 ---

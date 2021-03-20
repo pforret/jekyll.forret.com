@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: image
+title: Image
 keyword: image
 ---

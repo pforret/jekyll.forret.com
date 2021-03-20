@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: qwerty
+title: Qwerty
 keyword: qwerty
 ---

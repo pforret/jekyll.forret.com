@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: basicsoul
+title: Basicsoul
 keyword: basicsoul
 ---

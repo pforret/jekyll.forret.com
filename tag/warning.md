@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: warning
+title: Warning
 keyword: warning
 ---

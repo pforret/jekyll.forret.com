@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: brexit
+title: Brexit
 keyword: brexit
 ---

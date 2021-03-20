@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: flash
+title: Flash
 keyword: flash
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: legal
+title: Legal
 keyword: legal
 ---

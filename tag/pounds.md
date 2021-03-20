@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: pounds
+title: Pounds
 keyword: pounds
 ---

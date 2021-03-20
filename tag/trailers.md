@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: trailers
+title: Trailers
 keyword: trailers
 ---

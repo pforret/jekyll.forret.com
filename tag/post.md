@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: post
+title: Post
 keyword: post
 ---

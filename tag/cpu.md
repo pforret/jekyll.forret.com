@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: cpu
+title: Cpu
 keyword: cpu
 ---

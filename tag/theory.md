@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: theory
+title: Theory
 keyword: theory
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: platform
+title: Platform
 keyword: platform
 ---

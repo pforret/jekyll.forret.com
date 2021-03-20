@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: communication
+title: Communication
 keyword: communication
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: photography
+title: Photography
 keyword: photography
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: house
+title: House
 keyword: house
 ---

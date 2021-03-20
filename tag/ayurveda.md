@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: ayurveda
+title: Ayurveda
 keyword: ayurveda
 ---

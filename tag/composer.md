@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: composer
+title: Composer
 keyword: composer
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: synchronisation
+title: Synchronisation
 keyword: synchronisation
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: dns
+title: Dns
 keyword: dns
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: ringtone
+title: Ringtone
 keyword: ringtone
 ---

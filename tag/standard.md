@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: standard
+title: Standard
 keyword: standard
 ---

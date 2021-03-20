@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: mobile
+title: Mobile
 keyword: mobile
 ---

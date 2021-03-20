@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: oauth
+title: Oauth
 keyword: oauth
 ---

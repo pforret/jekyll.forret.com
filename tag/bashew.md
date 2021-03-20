@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: bashew
+title: Bashew
 keyword: bashew
 ---

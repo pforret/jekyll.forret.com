@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: architempo
+title: Architempo
 keyword: architempo
 ---

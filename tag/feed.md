@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: feed
+title: Feed
 keyword: feed
 ---

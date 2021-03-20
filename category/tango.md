@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: tango
+title: Tango
 keyword: tango
 ---

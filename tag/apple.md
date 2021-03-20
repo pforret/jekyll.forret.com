@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: apple
+title: Apple
 keyword: apple
 ---

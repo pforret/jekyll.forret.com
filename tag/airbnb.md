@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: airbnb
+title: Airbnb
 keyword: airbnb
 ---

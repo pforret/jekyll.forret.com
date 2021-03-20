@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: color
+title: Color
 keyword: color
 ---

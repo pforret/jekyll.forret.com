@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: rewrite
+title: Rewrite
 keyword: rewrite
 ---

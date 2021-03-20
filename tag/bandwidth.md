@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: bandwidth
+title: Bandwidth
 keyword: bandwidth
 ---

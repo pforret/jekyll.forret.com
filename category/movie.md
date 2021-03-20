@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: movie
+title: Movie
 keyword: movie
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: learning
+title: Learning
 keyword: learning
 ---

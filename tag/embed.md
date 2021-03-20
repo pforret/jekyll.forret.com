@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: embed
+title: Embed
 keyword: embed
 ---

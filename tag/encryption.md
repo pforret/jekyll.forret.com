@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: encryption
+title: Encryption
 keyword: encryption
 ---

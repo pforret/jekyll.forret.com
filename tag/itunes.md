@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: itunes
+title: Itunes
 keyword: itunes
 ---

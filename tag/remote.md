@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: remote
+title: Remote
 keyword: remote
 ---

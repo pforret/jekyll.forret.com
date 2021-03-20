@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: science
+title: Science
 keyword: science
 ---

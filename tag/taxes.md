@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: taxes
+title: Taxes
 keyword: taxes
 ---

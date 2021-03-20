@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: speed
+title: Speed
 keyword: speed
 ---

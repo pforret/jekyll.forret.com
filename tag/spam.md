@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: spam
+title: Spam
 keyword: spam
 ---

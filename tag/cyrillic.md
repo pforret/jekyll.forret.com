@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: cyrillic
+title: Cyrillic
 keyword: cyrillic
 ---

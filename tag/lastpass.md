@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: lastpass
+title: Lastpass
 keyword: lastpass
 ---

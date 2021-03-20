@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: scam
+title: Scam
 keyword: scam
 ---

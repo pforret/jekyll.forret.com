@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: imagemagick
+title: Imagemagick
 keyword: imagemagick
 ---

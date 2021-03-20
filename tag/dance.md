@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: dance
+title: Dance
 keyword: dance
 ---

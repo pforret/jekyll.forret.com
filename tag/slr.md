@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: slr
+title: Slr
 keyword: slr
 ---

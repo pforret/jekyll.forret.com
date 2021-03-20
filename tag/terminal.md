@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: terminal
+title: Terminal
 keyword: terminal
 ---

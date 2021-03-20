@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: cinema
+title: Cinema
 keyword: cinema
 ---

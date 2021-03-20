@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: curl
+title: Curl
 keyword: curl
 ---

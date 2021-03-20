@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: distance
+title: Distance
 keyword: distance
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: drupal
+title: Drupal
 keyword: drupal
 ---

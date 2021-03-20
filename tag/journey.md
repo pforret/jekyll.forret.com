@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: journey
+title: Journey
 keyword: journey
 ---

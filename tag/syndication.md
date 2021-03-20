@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: syndication
+title: Syndication
 keyword: syndication
 ---

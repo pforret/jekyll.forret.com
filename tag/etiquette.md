@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: etiquette
+title: Etiquette
 keyword: etiquette
 ---

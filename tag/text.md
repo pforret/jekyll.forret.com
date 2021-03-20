@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: text
+title: Text
 keyword: text
 ---

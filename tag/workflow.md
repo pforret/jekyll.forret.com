@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: workflow
+title: Workflow
 keyword: workflow
 ---

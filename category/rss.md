@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: rss
+title: Rss
 keyword: rss
 ---

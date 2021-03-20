@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: proximus
+title: Proximus
 keyword: proximus
 ---

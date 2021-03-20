@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: thermography
+title: Thermography
 keyword: thermography
 ---

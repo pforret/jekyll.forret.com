@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: corporate
+title: Corporate
 keyword: corporate
 ---

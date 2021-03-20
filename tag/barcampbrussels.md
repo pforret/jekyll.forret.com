@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: barcampbrussels
+title: Barcampbrussels
 keyword: barcampbrussels
 ---

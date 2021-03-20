@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: car
+title: Car
 keyword: car
 ---

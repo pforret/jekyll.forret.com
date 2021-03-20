@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: hosting
+title: Hosting
 keyword: hosting
 ---

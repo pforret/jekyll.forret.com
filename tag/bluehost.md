@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: bluehost
+title: Bluehost
 keyword: bluehost
 ---

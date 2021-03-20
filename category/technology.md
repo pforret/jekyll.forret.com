@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: technology
+title: Technology
 keyword: technology
 ---

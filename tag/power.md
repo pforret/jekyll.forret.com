@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: power
+title: Power
 keyword: power
 ---

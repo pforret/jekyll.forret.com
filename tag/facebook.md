@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: facebook
+title: Facebook
 keyword: facebook
 ---

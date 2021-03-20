@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: comments
+title: Comments
 keyword: comments
 ---

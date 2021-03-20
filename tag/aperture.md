@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: aperture
+title: Aperture
 keyword: aperture
 ---

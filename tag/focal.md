@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: focal
+title: Focal
 keyword: focal
 ---

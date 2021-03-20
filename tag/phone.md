@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: phone
+title: Phone
 keyword: phone
 ---

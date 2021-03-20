@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: wordpress
+title: Wordpress
 keyword: wordpress
 ---

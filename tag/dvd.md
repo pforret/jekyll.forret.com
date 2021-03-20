@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: dvd
+title: Dvd
 keyword: dvd
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: application
+title: Application
 keyword: application
 ---

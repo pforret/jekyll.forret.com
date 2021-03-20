@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: gedichten
+title: Gedichten
 keyword: gedichten
 ---

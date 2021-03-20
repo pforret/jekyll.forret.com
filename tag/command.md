@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: command
+title: Command
 keyword: command
 ---

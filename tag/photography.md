@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: photography
+title: Photography
 keyword: photography
 ---

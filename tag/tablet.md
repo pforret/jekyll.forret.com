@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: tablet
+title: Tablet
 keyword: tablet
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: women
+title: Women
 keyword: women
 ---

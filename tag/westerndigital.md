@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: westerndigital
+title: Westerndigital
 keyword: westerndigital
 ---

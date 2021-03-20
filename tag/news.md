@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: news
+title: News
 keyword: news
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: speaker
+title: Speaker
 keyword: speaker
 ---

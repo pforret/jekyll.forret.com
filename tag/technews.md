@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: technews
+title: Technews
 keyword: technews
 ---

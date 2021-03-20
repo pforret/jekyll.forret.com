@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: digital-cinema
+title: Digital-cinema
 keyword: digital-cinema
 ---

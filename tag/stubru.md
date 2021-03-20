@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: stubru
+title: Stubru
 keyword: stubru
 ---

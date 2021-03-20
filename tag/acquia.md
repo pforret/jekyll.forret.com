@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: acquia
+title: Acquia
 keyword: acquia
 ---

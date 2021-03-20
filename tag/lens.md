@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: lens
+title: Lens
 keyword: lens
 ---

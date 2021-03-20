@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: sigma
+title: Sigma
 keyword: sigma
 ---

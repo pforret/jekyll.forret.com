@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: wifi
+title: Wifi
 keyword: wifi
 ---

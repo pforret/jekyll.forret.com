@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: sql
+title: Sql
 keyword: sql
 ---

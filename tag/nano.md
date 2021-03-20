@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: nano
+title: Nano
 keyword: nano
 ---

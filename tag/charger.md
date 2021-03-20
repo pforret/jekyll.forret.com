@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: charger
+title: Charger
 keyword: charger
 ---

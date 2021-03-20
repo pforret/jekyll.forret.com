@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: canon
+title: Canon
 keyword: canon
 ---

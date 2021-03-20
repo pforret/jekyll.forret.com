@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: finance
+title: Finance
 keyword: finance
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: belgium
+title: Belgium
 keyword: belgium
 ---

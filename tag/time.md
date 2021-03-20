@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: time
+title: Time
 keyword: time
 ---

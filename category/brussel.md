@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: brussel
+title: Brussel
 keyword: brussel
 ---

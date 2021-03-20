@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: kindle
+title: Kindle
 keyword: kindle
 ---

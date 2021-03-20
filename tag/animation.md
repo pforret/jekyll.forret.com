@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: animation
+title: Animation
 keyword: animation
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: belgium
+title: Belgium
 keyword: belgium
 ---

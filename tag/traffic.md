@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: traffic
+title: Traffic
 keyword: traffic
 ---

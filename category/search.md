@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: search
+title: Search
 keyword: search
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: personal
+title: Personal
 keyword: personal
 ---

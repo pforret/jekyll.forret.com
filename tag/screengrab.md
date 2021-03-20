@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: screengrab
+title: Screengrab
 keyword: screengrab
 ---

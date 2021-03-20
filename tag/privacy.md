@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: privacy
+title: Privacy
 keyword: privacy
 ---

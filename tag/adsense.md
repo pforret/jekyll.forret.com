@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: adsense
+title: Adsense
 keyword: adsense
 ---

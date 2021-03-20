@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: domain
+title: Domain
 keyword: domain
 ---

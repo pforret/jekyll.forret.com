@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: ecology
+title: Ecology
 keyword: ecology
 ---

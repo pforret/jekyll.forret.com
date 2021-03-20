@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: benchmark
+title: Benchmark
 keyword: benchmark
 ---

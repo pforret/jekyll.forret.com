@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: intelligence
+title: Intelligence
 keyword: intelligence
 ---

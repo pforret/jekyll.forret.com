@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: advertising
+title: Advertising
 keyword: advertising
 ---

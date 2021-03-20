@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: linux
+title: Linux
 keyword: linux
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: soul
+title: Soul
 keyword: soul
 ---

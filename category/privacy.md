@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: privacy
+title: Privacy
 keyword: privacy
 ---

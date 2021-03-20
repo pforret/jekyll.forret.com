@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: google
+title: Google
 keyword: google
 ---

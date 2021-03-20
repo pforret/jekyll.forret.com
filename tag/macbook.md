@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: macbook
+title: Macbook
 keyword: macbook
 ---

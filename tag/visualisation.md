@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: visualisation
+title: Visualisation
 keyword: visualisation
 ---

@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: argentina
+title: Argentina
 keyword: argentina
 ---

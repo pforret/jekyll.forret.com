@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: essential
+title: Essential
 keyword: essential
 ---

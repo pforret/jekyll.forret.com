@@ -1,5 +1,5 @@
 ---
 layout: with_tag
-title: email
+title: Email
 keyword: email
 ---
