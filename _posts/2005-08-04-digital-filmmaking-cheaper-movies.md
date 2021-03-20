@@ -7,7 +7,9 @@ layout: post
 guid: http://peter.smoothouse.com/2005/08/04/digital-filmmaking-cheaper-movies/
 permalink: /2005/08/04/digital-filmmaking-cheaper-movies/
 categories:
-  - digital cinema
+    - technology
+tags:
+  - digitalcinema
   - movie
 ---
 [<img src="http://blog.forret.com/blog/uploaded_images/CanonXL1Ssepia-799590.jpg" border="0" alt="" />](http://blog.forret.com/blog/uploaded_images/CanonXL1Ssepia-702983.jpg)

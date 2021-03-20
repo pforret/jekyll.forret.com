@@ -1,13 +1,13 @@
 ---
-id: 530
 title: 'Big bazooka: XL Gaming @ Kinepolis'
-date: 2006-11-06T17:31:14+01:00
-author: Peter
 layout: post
-guid: http://blog.forret.com/2006/11/big-bazooka-xl-gaming-kinepolis/
 permalink: /2006/11/06/big-bazooka-xl-gaming-kinepolis/
 categories:
-  - digital cinema
+    - technology
+tags:
+    - digitalcinema
+    - kinepolis
+    - gaming
 ---
 [<img  src="http://static.flickr.com/115/290594299_8ccad55fa0.jpg" style="float: right" width="353" height="500" alt="Kinepolis XL-Gaming" />](http://www.flickr.com/photos/pforret/290594299/ "Photo Sharing")That 24&#8243; screen not big enough for you? Now you can a rent a movie theatre for a half hour to play [Playstation](http://www.playstation.com) games on the big screen in [Kinepolis](http://www.kinepolis.com) Brugge.
 
