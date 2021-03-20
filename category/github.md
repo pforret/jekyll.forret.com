@@ -1,5 +1,5 @@
 ---
 layout: with_category
-title: Bash
-keyword: bash
+title: Github
+keyword: github
 ---
