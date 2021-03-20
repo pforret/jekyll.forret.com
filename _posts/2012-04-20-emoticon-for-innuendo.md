@@ -7,10 +7,13 @@ layout: post
 guid: http://blog.forret.com/?p=1322
 permalink: /2012/04/20/emoticon-for-innuendo/
 categories:
-  - culture
-  - idea
-  - internet
-  - sarcasm
+    - idea
+  
+tags:
+    - culture
+    - internet
+    - sarcasm
+    - emoji
 ---
 Do you often find yourself in a situation where you are using some kind of word play in a written (chat or text message) conversation, but feel that you need to make this second level of comprehension clear? This is why **emoticons** exist: _pictorial representations of a facial expression using punctuation marks and letters, written to express a person&#8217;s mood_. [Emoticons](http://en.wikipedia.org/wiki/Emoticon) were already used in the 18th century and adopted with mucho gusto in electronic communication since 1982. These days, if you don&#8217;t know that a &#8220;:-)&#8221; means that the writer is happy, you&#8217;re missing a lot of the meaning of SMS or emails.
 
@@ -22,9 +25,9 @@ It doesn&#8217;t [stop there](http://en.wikipedia.org/wiki/List_of_emoticons), t
 
 <!--more-->
 
-  * &#8220;_My parents are coming over tomorrow and I still have to dust off the silverware &-)_&#8221; = have to clean up dishes for the last 2 weeks and remove all clothes from the living room
-  * &#8220;_Can&#8217;t talk right now, my girlfriend is here and we&#8217;re studying &-)_&#8221; = no actual studying is done
-  * &#8220;I_s your wife a goer? &-)_&#8221; = say no more
+  * "My parents are coming over tomorrow and I still have to dust off the silverware &-)" = _I have to clean up dishes for the last 2 weeks and remove all clothes from the living room_
+  * "Can't talk right now, my girlfriend is here and we're studying &-)" = _no actual studying is done_
+  * "Is your wife a goer? &-)" = _say no more_
 
 What could be a proper response to a &-) ? Depending the recipient&#8217;s sense of humor:
 
