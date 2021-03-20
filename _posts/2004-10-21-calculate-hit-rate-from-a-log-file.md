@@ -1,5 +1,4 @@
 ---
-id: 436
 title: Calculate hit rate from a log file
 date: 2004-10-21T10:30:13+02:00
 author: Peter
@@ -7,7 +6,9 @@ layout: post
 guid: http://blog.forret.com/2004/10/calculate-hit-rate-from-a-log-file/
 permalink: /2004/10/21/calculate-hit-rate-from-a-log-file/
 categories:
-  - Linux
+    - bash
+tags:
+    - benchmark
 ---
 You have a huge file that contains one line per request/transaction. Some of the lines are of one type (e.g. &#8216;HIT&#8217;), some of another (e.g. MISS). Let&#8217;s say you want to calculate the hitrate, but as fast as possible.  
 We take a Squid log file of about 140MB. How long does it take to count how many lines it has?  

@@ -1,10 +1,8 @@
 ---
-id: 60
 title: I remember house before it was techno
 date: 2004-09-26T18:06:49+02:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2004/09/26/i-remember-house-before-it-was-techno/
 permalink: /2004/09/26/i-remember-house-before-it-was-techno/
 categories:
   - music
@@ -14,8 +12,6 @@ tags:
   - house
   - music
 ---
-<img width="500" src="http://www.pixagogo.com/Tools/Thumbnails.aspx?thumb=S5CLnY1NL-yFwC2gFBlilnIEG-EAB68BhnKGXC!pGqsYolswMlbRJOJqKTx6eA5xEGxRFMzw34fSWfziR-rfCVCMEaoJwIBZkn" />
-
 > I remember house before it was techno  
 > I remember house before it had an afro  
 > I remember house before it was deep  
@@ -35,4 +31,4 @@ It even includes multiple sound samples with each definition, so put on those he
 
 Another, more serious way, of discovering house music is the excellent [Jahsonic&#8217;s House Music History](http://www.jahsonic.com/House.html) (some sound bites and really well cross-referenced), and if you really want to graduate from House University, check out [House Music 101 (by Appollo)](http://www.livingart.com/raving/articles/housemusic101.htm). Wanna hear some? Browse through [DeepHousePage](http://www.deephousepage.com) or just use Smoothouse&#8217;s [Smooth-o-Matic](http://www.smoothouse.org/smoothouse/random.html).
 
-_Disclaimer: If Chic don&#8217;t make you snap your fingers, if George Clinton can&#8217;t incite you to move that booty and Bob Marley cannot make you wave that spliff above them dreadlocks, then you will not get it. Go back to your R.E.M. albums (or Metallica, whatever) and forget about it. You&#8217;re a lost case._
+_Disclaimer: If Chic doesn't make you snap your fingers, if George Clinton can&#8217;t incite you to move that booty and Bob Marley cannot make you wave that spliff above them dreadlocks, then you will not get it. Go back to your R.E.M. albums (or Metallica, whatever) and forget about it. You&#8217;re a lost case._
