@@ -8,9 +8,7 @@ guid: http://blog.forret.com/?p=1507
 permalink: /2017/09/22/idea-for-hosters-corporate-one-click-installs/
 image: /wp-content/uploads/2016/12/goodies_dreamhost-698x510.png
 categories:
-  - internet
-  - technology
-  - Web2.0
+  - idea
 tags:
   - ats
   - commercial

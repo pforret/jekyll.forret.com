@@ -8,7 +8,7 @@ guid: http://blog.forret.com/?p=1688
 permalink: /2018/06/03/bash-boilerplate-generator/
 image: /wp-content/uploads/2018/06/fig-03-06-2018_14-02-08.jpg
 categories:
-  - toolstud.io
+  - github
 tags:
   - bash
   - hacking

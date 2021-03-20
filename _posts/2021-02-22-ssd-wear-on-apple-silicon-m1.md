@@ -3,7 +3,7 @@ title: Detecting excessive SSD wear on Apple Silicon M1 machines
 layout: post
 image: /wp-content/uploads/2021/02/m1ssd2.jpg
 categories:
-    - Apple
+    - github
 tags:
     - silicon
     - m1
@@ -11,6 +11,8 @@ tags:
     - bash
     - bashew
     - script
+    - apple
+    - macos
 ---
 > Some more professional users of the new M1 Macbooks are experiencing extremely high drive writes over relatively short time. 
 > The most severe cases have "consumed" about 10-13% of the maximum warrantable TBW (Total Bytes Written) value of the SSDs (given their capacity & using values for equivalent market-available NVMe drives).

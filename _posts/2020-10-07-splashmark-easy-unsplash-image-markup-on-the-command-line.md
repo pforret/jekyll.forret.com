@@ -10,9 +10,9 @@ spay_email:
   - ""
 image: /wp-content/uploads/2020/10/splashmark.jpg
 categories:
-  - bash
-tags:
   - github
+tags:
+  - bash
   - imagemagick
   - shell
   - unsplash

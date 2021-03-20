@@ -9,18 +9,18 @@ permalink: /2016/07/08/idea-short-term-unified-group-messaging-enterprise/
 image: /wp-content/uploads/2018/03/fig-12-03-2018_23-51-31.jpg
 categories:
   - idea
-  - smartphones
-  - Web2.0
 tags:
-  - airbnb
-  - communication
-  - idea
-  - messaging
-  - phone
-  - saas
-  - sms
-  - text
-  - uber
+    - smartphones
+    - Web2.0
+    - airbnb
+    - communication
+    - idea
+    - messaging
+    - phone
+    - saas
+    - sms
+    - text
+    - uber
 ---
 I was driving for 6 hours the other day and my wife was asleep, so what does one do: work out the details for a new kind of hosted communication service in my head.
 

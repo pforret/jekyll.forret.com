@@ -6,7 +6,7 @@ layout: post
 permalink: /2020/12/19/using-homebrew-on-apple-silicon-m1-natively/
 image: /wp-content/uploads/2020/12/2020_macmini.jpg
 categories:
-  - Apple
+  - github
 tags:
   - Apple
   - arm
