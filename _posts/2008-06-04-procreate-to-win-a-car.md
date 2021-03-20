@@ -1,10 +1,6 @@
 ---
-id: 1073
 title: Procreate to win a car
-date: 2008-06-04T11:11:09+02:00
-author: Peter
 layout: post
-guid: http://blog.forret.com/?p=1073
 permalink: /2008/06/04/procreate-to-win-a-car/
 categories:
   - advertising
@@ -14,9 +10,10 @@ tags:
   - dodge
   - journey
 ---
-[<img  src="http://farm4.static.flickr.com/3029/2549995939_645e3ca040.jpg" alt="Dodge: baby made on board" width="500" height="303" />](http://www.flickr.com/photos/pforret/2549995939/ "Dodge: baby made on board by PeterForret, on Flickr")
 
-I&#8217;m getting old, I guess. [This ad campaign](http://www.babymadeonboard.be/) annoys me. For those who don&#8217;t understand Dutch: if you take a Dodge Journey for a test-drive on the Father&#8217;s Day weekend, and make a baby on the back seat, then you have a chance of winning a car.
+I'm getting old, I guess. [This ad campaign](http://www.babymadeonboard.be/) annoys me. For those who don&#8217;t understand Dutch: if you take a Dodge Journey for a test-drive on the Father&#8217;s Day weekend, and make a baby on the back seat, then you have a chance of winning a car.
+
+[<img  src="http://farm4.static.flickr.com/3029/2549995939_645e3ca040.jpg" alt="Dodge: baby made on board" width="500" height="303" />](http://www.flickr.com/photos/pforret/2549995939/ "Dodge: baby made on board by PeterForret, on Flickr")
 
 First off: it&#8217;s borderline immoral. There can be several reasons to have children, but winning a car shouldn&#8217;t be a motivation. Having children is quite a big thing. To make it into a gamble with a prize, feels wrong.
 
