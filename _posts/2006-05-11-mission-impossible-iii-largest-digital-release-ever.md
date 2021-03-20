@@ -1,14 +1,13 @@
 ---
-id: 327
 title: 'Mission Impossible III: largest digital release ever'
-date: 2006-05-11T12:14:47+02:00
-author: Peter
 layout: post
-guid: http://blog.forret.com/2006/05/mission-impossible-iii-largest-digital-release-ever/
 permalink: /2006/05/11/mission-impossible-iii-largest-digital-release-ever/
 categories:
-  - digital cinema
-  - movie
+    - technology
+tags:
+    - digitalcinema
+    - movie
+    - kinepolis
 ---
 > Add one more superlative to [Paramount](http://www.paramount.com/motionpictures/)’s “[Mission: Impossible: III](http://www.missionimpossible.com/)”: it is the largest digital release ever, playing on more than 170 digital cinema screens throughout North America. And all digital preparation and distribution to those screens was handled by [Kodak Digital Cinema](http://www.kodak.com/US/en/motion/products/digital/index.jhtml).  
 > from <http://www.dcinematoday.com/dc/pr.aspx?newsID=487> 

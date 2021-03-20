@@ -5,7 +5,7 @@ permalink: /2005/07/31/digital-cinema-one-step-closer/
 categories:
     - technology
 tags:
-    - digital cinema
+    - digitalcinema
     - cinema
     - dci
 ---

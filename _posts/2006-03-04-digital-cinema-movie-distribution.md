@@ -7,16 +7,19 @@ layout: post
 guid: http://peter.smoothouse.com/2006/03/04/digital-cinema-movie-distribution/
 permalink: /2006/03/04/digital-cinema-movie-distribution/
 categories:
-  - bandwidth
-  - digital cinema
+    - technology
+tags:
+    - bandwidth
+    - digitalcinema
 ---
-I wrote about [digital cinema](http://blog.forret.com/blog/2005/07/digital-cinema-one-step-closer.html) earlier. I want to focus now on the distribution of movies to theatres.
+I wrote about [digital cinema](https://blog.forret.com/blog/2005/07/digital-cinema-one-step-closer.html) earlier. I want to focus now on the distribution of movies to theatres.
 
 ### FILESIZE OF A MOVIE
 
-The movie&#8217;s video signal is compressed and encrypted into a bitrate of max [250 Mbps](http://www.forret.com/tools/bandwidth.asp?speed=250&unit=Mbps&title=DCI+movie), which translates in 31.25 MB/second or 112.50 GB/hour footage. So a &#8216;short&#8217; 90-minute movie is something like 170GB, and a 2h30 movie, with some audio thrown in, is more like 300 GB. The estimates from the DCI specification are even higher: around 140 GB per hour running length (video, audio and subtitles together) or around 38 MB/s.  
+The movie's video signal is compressed and encrypted into a bitrate of max [250 Mbps](https://toolstud.io/data/bandwidth.php?speed=250&speed_unit=Mbps&compare=cinema&title=DCP+Cinema+2K+p24+-+max+bitrate%3A+250+Mbps), which translates in 31.25 MB/second or 112.50 GB/hour footage. So a &#8216;short&#8217; 90-minute movie is something like 170GB, and a 2h30 movie, with some audio thrown in, is more like 300 GB. The estimates from the DCI specification are even higher: around 140 GB per hour running length (video, audio and subtitles together) or around 38 MB/s.  
+
 [<img alt="movie storage requirements" src="http://static.flickr.com/41/100762737_2309faef14.jpg" width="450" />](http://www.flickr.com/photos/pforret/100762737/ "Photo Sharing")  
-<!--more-->
+
 
 ### DIGITAL TRANSPORT
 

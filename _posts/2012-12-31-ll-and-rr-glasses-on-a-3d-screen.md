@@ -1,23 +1,20 @@
 ---
-id: 1294
 title: 'Idea: LL and RR glasses on a 3D screen &#8211; Double Vision'
-date: 2012-12-31T11:33:30+01:00
-author: Peter
 layout: post
-guid: http://blog.forret.com/?p=1294
 permalink: /2012/12/31/ll-and-rr-glasses-on-a-3d-screen/
 image: /wp-content/uploads/2018/03/fig-13-03-2018_00-10-16.jpg
 categories:
-  - digital cinema
-  - idea
+    - idea
 tags:
-  - 3D
-  - cinema
-  - idea
-  - innovation
-  - stereoscopic
+    - 3D
+    - cinema
+    - idea
+    - innovation
+    - digitalcinema
+    - stereoscopic
+    - brightfish
 ---
-_(I had this idea in June 2011 and wrote this post in Oct 2011, but I decided to wait with publishing until my lovely colleague Sylvia could get the scoop and use it for a [marketing action](http://www.brightfish.be/nl/bright-ideas/vind-inspiratie/double-vision-verdubbelt-de-creatieve-mogelijkheden-van-3d/))._
+_(I had this idea in June 2011 and wrote this post in Oct 2011, but I decided to wait with publishing until my lovely colleague Sylvia could get the scoop and use it for a [marketing action](https://www.brightfish.be/nl/bright-ideas/vind-inspiratie/double-vision-verdubbelt-de-creatieve-mogelijkheden-van-3d/))._
 
 A [3D display](http://en.wikipedia.org/wiki/3D_display) lets you experience 3D images by letting your left eye see something different than your right eye (&#8216;stereoscopy&#8217;). Most technologies for this (certainly the ones used in cinema) use special glasses. [Active/passive, based on colours, polarisation, timing](http://en.wikipedia.org/wiki/Stereoscopy)&#8230; It&#8217;s fascinating, but that&#8217;s not what I want to address here. What intrigues me, are less common usages: what if instead showing something different to eye1 (left) and eye2 (right), you show something different to person1 and person2?<!--more-->
 
