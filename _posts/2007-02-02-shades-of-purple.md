@@ -1,10 +1,8 @@
 ---
-id: 654
 title: Shades of purple
 date: 2007-02-02T12:33:31+01:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2007/02/shades-of-purple/
 permalink: /2007/02/02/shades-of-purple/
 categories:
   - color
@@ -228,4 +226,4 @@ So here&#8217;s a reference chart of the shades of purple I found in the [HTML c
 </table>
 
 If any woman/color-sensitive man would like to point out more variations of purple-ish colours, be my guest!  
-By the way: purple is the color for **Saturday**, according to [Ayurveda weekday colors](http://blog.forret.com/2007/08/21/weekday-colours-ayurveda/)
+By the way: purple is the color for **Saturday**, according to [Ayurveda weekday colors](/2007/08/21/weekday-colours-ayurveda/)

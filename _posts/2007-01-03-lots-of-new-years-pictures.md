@@ -1,13 +1,14 @@
 ---
-id: 606
 title: 'Lots of New Year&#8217;s pictures'
 date: 2007-01-03T10:54:26+01:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2007/01/lots-of-new-years-pictures/
 permalink: /2007/01/03/lots-of-new-years-pictures/
 categories:
-  - photography
+    - photography
+tags:
+    - visualisation
+    - statistics
 ---
 Lots of people have been taking pictures on New Year and this clearly shows in the stats of incoming pictures at two major photo hosting sites: [Flickr](http://www.flickr.com) and [Smugmug](http://www.smugmug.com).  
 Flickr reached a peak of nearly 100.000 pictures/hour (97.1 k#/h) and Smugmug a quarter of that (22.7 k#/h). That is 50% to 100% more than regular days.

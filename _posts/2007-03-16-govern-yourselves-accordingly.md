@@ -1,5 +1,4 @@
 ---
-id: 709
 title: Govern yourselves accordingly
 date: 2007-03-16T23:02:21+01:00
 author: Peter
