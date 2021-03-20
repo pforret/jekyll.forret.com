@@ -10,14 +10,15 @@ image: /wp-content/uploads/2020/05/BOSQ.20200525.200152.22.jpg
 categories:
   - photography
 tags:
-  - corona
-  - diy
-  - facetime
-  - internet
-  - lockdown
-  - messenger
-  - remote
-  - shoot
+    - corona
+    - covid
+    - diy
+    - facetime
+    - internet
+    - lockdown
+    - messenger
+    - remote
+    - shoot
 ---
 ## Intro
 
