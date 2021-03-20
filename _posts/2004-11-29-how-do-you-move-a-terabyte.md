@@ -1,15 +1,15 @@
 ---
-id: 82
 title: How do you move a terabyte?
-date: 2004-11-29T22:56:21+01:00
-author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2004/11/29/how-do-you-move-a-terabyte/
 permalink: /2004/11/29/how-do-you-move-a-terabyte/
 categories:
-  - bandwidth
+    - technology
+categories:
+    - bandwidth
+    - disk
+    - network
+
 ---
-![](http://www.pixagogo.com/S55bfzQn-9LaggcwmIzpCo0GTENEbkLXgJQZa-N5UmRqJF0r!iRsy8!CfUk2f9l7eTj5QXdFrKOAeOSXFsO9N-zb!8Mn8Usi7O/petabox.jpg)  
 I recently discovered [Brewster Kahle&#8217;s speech on the NotCon &#8217;04 podcast](http://notcon2004.blogspot.com/2004/06/copyright-pt-1-archiveorg.html) about the ambition of [The Internet Archive](http://www.archive.org) to archive absolutely everything (all books, all movies, all music, &#8230;). (There is an excellent transcript on [www.hotales.org](http://www.hotales.org/writings/universal-access-to-all-human-knowledge.html) .) They are currently setting up a second datacentre in Amsterdam, as an off-site copy of the original archive.org. They use massive parallel storage nodes grouped together in a [PetaBox](http://www.capricorn-tech.com/petabox.html) rack. You actually need 10 Petaboxes to get to 1 Petabyte (1 rack = 80 servers x 4 disks x 300 GB/disk = +- 100 TB). Since the rack uses node-to-node replication (every node has a sister node that holds a copy of all its data, so that if one of both nodes crashes, the data is still available), the net storage is 50TB.  
 So this got me thinking: how do you &#8216;copy&#8217; the contents of PetaBox A to PetaBox B, how do you move 50TB?  
 Let&#8217;s try some numbers from my [bandwidth calculator](http://www.forret.com/projects/hizmo/bandwidth.asp):

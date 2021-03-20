@@ -1,16 +1,16 @@
 ---
-id: 126
 title: CD-to-MP3 ripping speed estimation
-date: 2005-02-12T19:52:00+01:00
-author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2005/02/12/cd-to-mp3-ripping-speed-estimation/
 permalink: /2005/02/12/cd-to-mp3-ripping-speed-estimation/
 categories:
-  - bandwidth
-  - copyright
-  - music
-  - tool
+  - technology 
+    
+tags:
+- bandwidth
+- copyright
+- music
+- tool
+
 ---
 As every sensible car-owner in Brussels, I rip my CDs to MP3 so I can put copies of them in my car. As every self-respecting geek, I have multiple PCs at home. Which brings me to following observation: not all PCs rip alike. On one PC the CPU maxes out at 100% for the whole ripping procedure, and on the other, I never get above 75%. So I started wondering: what are the elements to define the maximum ripping speed you can get on a PC?  
 My hunch:

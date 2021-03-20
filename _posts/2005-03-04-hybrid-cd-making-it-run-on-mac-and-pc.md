@@ -1,18 +1,16 @@
 ---
-id: 134
 title: 'Hybrid CD: making it run on Mac and PC'
 date: 2005-03-04T11:41:51+01:00
-author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2005/03/04/hybrid-cd-making-it-run-on-mac-and-pc/
 permalink: /2005/03/04/hybrid-cd-making-it-run-on-mac-and-pc/
 categories:
-  - Apple
-  - hardware
   - technology
----
-![](http://www.pixagogo.com/S5vpfnjbBPdPnM5L7iqZ30Sp52!Mf6sSkG58OGHUEW-4d0WKAoQ31C3ZT9ATPmP1uxhyid13JncsCMfjyCZVA3Mqpo7etXzeYcO4ZePeNyIktAsBLwQfiT-u2guHxxNDHAkwzbTwP5sv6c5mjHyMRiUg__/macdisk.jpg)
+tags:
+    - apple
+    - hardware
+    - cd
 
+---
 &#8220;[Just write it on a CD](http://en.wikipedia.org/wiki/Compact_Disc)&#8221; can mean a lot of things. There&#8217;s the plain audio CD (also &#8216;IEC 908&#8217; or &#8216;[Red Book](http://en.wikipedia.org/wiki/Red_Book_%28audio_CD_standard%29)&#8216; standard &#8211; 74 minutes of audio), the CD-ROM (or &#8216;[Yellow Book](http://en.wikipedia.org/wiki/CD-ROM)&#8216; &#8211; 700MB of data), the CD-R (&#8216;[Orange Book](http://en.wikipedia.org/wiki/CD-R)&#8216;) and I&#8217;m not even gonna go into stuff like SVCD ([Super Video CD](http://en.wikipedia.org/wiki/SVCD) &#8211; up to 60 minutes of video).
 
 While these colorful standards define the lowest level of formatting, for a CD-R/CD-ROM you still have the issue of which filesystem to use on it. Apple has chosen for using its [Hierarchical File System (HFS)](http://en.wikipedia.org/wiki/Hierarchical_File_System) &#8211; the weird one with the resource forks &#8211; on CD media too, while PCs use the [ISO 9660](http://en.wikipedia.org/wiki/ISO_9660) standard (in its basic version: 8.3 filenames). PC-style CDs are readable on a Mac most of the time, while Mac disks are only accessible on a PC with [special software](http://www.macwindows.com/disks2.html). And it&#8217;s possible to create a CD with both a Mac and PC partition, each of them invisible for the other platform: the [hybrid disc](http://www.roxio.com/en/support/toast/toasthybrid.jhtml).  

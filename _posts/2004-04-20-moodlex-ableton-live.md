@@ -1,13 +1,13 @@
 ---
-id: 9
 title: 'Moodlex &#038; Ableton Live'
-date: 2004-04-20T19:41:02+02:00
-author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2004/04/20/moodlex-ableton-live/
 permalink: /2004/04/20/moodlex-ableton-live/
 categories:
   - music
+tags:
+    - daw
+    - live
+    - ableton
 ---
 I saw a gig some weeks ago by Moodlex: just one guy with a portable PC, mixing his music live.  
 It was awesome, terribly funky. I just had to know what he was using for software, that made it so easy and intuitive to do live mixing/composing.  

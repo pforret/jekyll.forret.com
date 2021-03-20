@@ -1,21 +1,15 @@
 ---
-id: 133
-title: 'Gentleman that&#8217;s going around, turning the joint upside-down'
-date: 2005-03-02T02:57:36+01:00
-author: Peter
+title: Gentleman that’s going around, turning the joint upside-down
 layout: post
-guid: http://peter.smoothouse.com/2005/03/02/gentleman-thats-going-around-turning-the-joint-upside-down/
 permalink: /2005/03/02/gentleman-thats-going-around-turning-the-joint-upside-down/
+date: 2005-03-02
 categories:
-  - Belgium
-  - copyright
+  - belgium
 tags:
-  - Belgium
   - copyright
   - ifpi
   - sabam
 ---
-![](http://www.pixagogo.com/S5vpfnjbBPdPkxAx!macgCu8AcBm7lSQxjgf-cI3IOiwNKBqCGF1QzH7ajrPfrpGUsenrKmRVLApCEhleUkvHxAeGUy8-l2UwYCzR0t4HWRhxxtu5LY1vBaF9bdjlFCjWbFB7!EOqcxb1O7mPm1J7RhQ__/stool_pigeon.jpg)  
 What started as a testcase for &#8216;quoting&#8217; music without breaking the law (making use of Belgium&#8217;s _citing right_) and made for some amusing exchanges of condescending legalese, has become awkward since the author has voluntarily turned into a stool pigeon.
 
 Some background: on Feb 13 the Skynetblogger [Librarian](http://librarian.skynetblogs.be/) had put a link on his blog that pointed to a RealAudio recording of &#8220;One-Trick Pony&#8221; by Nelly Furtado. When the IFPI, represented by its lawyer Olivier Maeterlinck, [asked him on Feb 21 to remove this link](http://librarian.skynetblogs.be/?date=20050222&number=1&unit=months#947873) (a classic &#8216;cease and desist&#8217;, that Mr Maeterlinck probably sends dozens of every week), the blogger reacted by putting up a link to a excerpt of the song (1:29 of the total 4:47) that he hosted on his own website. He then put forward that because of the right to cite (&#8220;[citaatrecht](http://www.law.kuleuven.ac.be/cir/auteuracademisch/uitzondering_citaat.html)&#8221; in Dutch) he should be allowed to do this. The right to cite an original work without explicit permission of the author is regularly used in written communication, but is restricted to the following purposes: critic, polemic, education or scientific efforts (_&#8220;kritiek, polemiek of onderwijs, of in het kader van wetenschappelijke werkzaamheden&#8221;_). It made for an interesting test case, which was noticed by other bloggers like [LVB](http://lvb.net/item/880). IFPI did not seem to object to the excerpt (but started questioning the right to link to the song&#8217;s lyrics). The conversation took the form of an exchange of legal statements with long slightly abusive sentences, lots of unnecessary adjectives and the occasional disclaimer. The stuff they teach lawyers at university, in other words.

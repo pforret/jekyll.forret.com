@@ -1,15 +1,15 @@
 ---
-id: 139
 title: 'Podcast hosting: cheap or free?'
-date: 2005-04-18T18:07:00+02:00
-author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2005/04/18/podcast-hosting-cheap-or-free/
 permalink: /2005/04/18/podcast-hosting-cheap-or-free/
 image: /wp-content/uploads/2005/04/jonathan-velasquez-c1ZN57GfDB0-unsplash.jpg
 categories:
-  - bandwidth
   - podcast
+
+tags:
+    - bandwidth
+    - podcast
+
 ---
 _THIS IS A POST FROM 2005 &#8211; this information is no longer accurate nor complete._
 
