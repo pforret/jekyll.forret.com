@@ -4,7 +4,6 @@ title: pyPersoMail updated to v0.2
 date: 2004-03-11T21:55:20+01:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2004/03/11/pypersomail-updated-to-v02/
 permalink: /2004/03/11/pypersomail-updated-to-v02/
 categories:
   - internet
