@@ -4,14 +4,15 @@ title: 'Adsense in all media: TV, cinema, sport, traffic'
 date: 2005-11-02T21:22:42+01:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2005/11/02/adsense-in-all-media-tv-cinema-sport-traffic/
 permalink: /2005/11/02/adsense-in-all-media-tv-cinema-sport-traffic/
 categories:
   - advertising
-  - Google
-  - Web2.0
+    
+tags:
+    - Google
+    - Web2.0
 ---
-<img style="float: right" src="http://www.pixagogo.com/S5vpfnjbBPdPkQsUzVPHd-V0qNfJnhMu8P12uMYkIwaQuvZO3zBvnM88B2piHlqgZZ4qTg8ZdJU-aU1KU06EbkUR4Bq4-X73XBkCfyS76dzgtQOoCJlJ9PzwFiwC6Xnnc!sEa3iQvXPyt75BnvOaKk93SkC3cAZoGz/adsense_newspaper.jpg" />The other day I was talking with [Francois](http://www.shoob.com/) on Google&#8217;s tests with providing ads in printed media, i.e. buying up ad space up front and deciding just before the actual printing what ads should go on which page. Adsense for print media, as it were.
+The other day I was talking with [Francois](http://www.shoob.com/) on Google&#8217;s tests with providing ads in printed media, i.e. buying up ad space up front and deciding just before the actual printing what ads should go on which page. Adsense for print media, as it were.
 
 In [Google: Thinking about the future of TV ads](http://blogs.zdnet.com/Google/?p=18) , Garett Rogers tries to imagine what Google Adsense for TV could be like.
 
@@ -30,8 +31,6 @@ But those are just 2 examples of where Larry and Sergey are heading. Let&#8217;s
   * **[Adsense for Gmail](http://www.gmail.com)** puts ads within email messages (on their own pages)
   * **[Adsense for Search](https://www.google.com/adsense/search-settings)** allows for rebranded search within a domain and the possibility to disallow ads from competitors (on their own pages)
 
-![](http://www.pixagogo.com/S5vpfnjbBPdPl5Au6cT!mex2OsgoJWlXodjNZVN5I8k9pSR3ZJCt37r70URnijhqhlHs9lgOfCYeZSSccjrnxcnzi7oF9QzOooQZjtXA!W!ahpKl-vOfkFi0qLyvVd9qCWM8co20ZfFJz7MwvkYLcbrZhZY-N5a7!G/adsense_traffic.jpg) 
-
 ### TOMORROW
 
   * **Adsense for newspapers**: as mentioned above, Google reserves X cm² in each edition of a newspaper, that it can fill with whatever ad seems the most appropriate. _Contextual: based on content of the page, demographics of the newspaper audience, date/time of publication_
@@ -44,12 +43,10 @@ But those are just 2 examples of where Larry and Sergey are heading. Let&#8217;s
   * **Adsense for movies**: why not take some &#8216;real estate&#8217; in movies? Why not even customised product placement? Imagine the lead character driving by local stores, and Google can choose for each city/country what brands to feature there. _Contextual: content of the movie, location of the cinema, demographics of the audience_.
   * **Adsense for video-on-demand**: Google provides the bandwidth and in exchange can put some ads before/in each movie. _Contextual: content of the movie, demographics of the user, usage profile (previous movies)_.
   * **Adsense for ticketing**: while we&#8217;re at it, why not print ads on the movie tickets the moment they are printed? And on concert tickets, that are bought sometimes months before the event and cherished for years afterwards? _Contextual: type of event, demographics of the audience, time before the event (if the ticket is bought 2 days before the concert, you would want to put &#8216;act now!&#8217; ads on it.)_
-  *![](http://www.pixagogo.com/S5vpfnjbBPdPlHN1d96xMY0oVZvqb6qNcwd3TnKK479MwItP3jeXycGeH2qN2p03nTkcS68oRCrOss6FxNH3pjQyz2YWWMSiPiy2W7PCwUpcr4c1DdhilDuhYJa2sbDelS!xOgcMNSNZQDM5zSdmhCZm02!Eu9jYXX/adsense_timessquare.jpg) **Adsense for billboards**: most of the boards in Europe are &#8216;static&#8217;, i.e. printed in paper, but imagine the screen-based billboards like on Times Square and in Japan showing content that is picked out for that occasion. _Contextual: location of the billboard, time of day, maybe some demographics_ This is basically what [Clearchannel Outdoor](http://www.clearchanneloutdoor.com) already does to some degree, but it could just provide the real estate and let Google pick the advertisers. Main issue here would be: how do you measure effectiveness?
+  * **Adsense for billboards**: most of the boards in Europe are &#8216;static&#8217;, i.e. printed in paper, but imagine the screen-based billboards like on Times Square and in Japan showing content that is picked out for that occasion. _Contextual: location of the billboard, time of day, maybe some demographics_ This is basically what [Clearchannel Outdoor](http://www.clearchanneloutdoor.com) already does to some degree, but it could just provide the real estate and let Google pick the advertisers. Main issue here would be: how do you measure effectiveness?
   * **Adsense for phone/GSM**: imagine Google buying a competitor of [Skype](http://www.skype.com) and offering you full phone service for free &#8211; even international &#8211; provided you listen to a short ad just before your conversation. _Contextual: demographics of caller and receiver, time of day_. God forbid they base it on the content of the conversations you&#8217;ve had before&#8230;
   * **Adsense for fax**: free international faxing and/or fax-via-email, but with a Google cover page or Google ads in the footer. _Contextual: demographics of sender and receiver, content of the page (some quick OCR, how hard can that be)_
   * **Adsense for road traffic**: the [LED screens on top of cabs](http://www.nydailynews.com/news/local/story/317308p-271403c.html), the back and sides of trucks, trams, buses, all connected through Google&#8217;s free Wifi and adapting their displayed ads on-the-fly. _Contextual: location of display, time of day, type of support_.
   * **Adsense for sport**: the shirts of football players and cycling athletes, a logo overlay on the center circle of the basketball field, or even replacing the ad panels around the field (so the same ad space is sold twice: once for the people attending, and once for the TV audience &#8211; [no science fiction](http://www.pvi.tv)). _Contextual: type of support (shirt, bath cap, speedo, &#8230;), location/type of event, time of day_
 
 Any Big Brother scenario I forgot?
-
-Technorati: <a href="http://technorati.com/tag/adsense" rel="tag">adsense</a> &#8211; <a href="http://technorati.com/tag/contextual" rel="tag">contextual</a> &#8211; <a href="http://technorati.com/tag/advertising" rel="tag">advertising</a> &#8211; <a href="http://technorati.com/tag/google" rel="tag">google</a>

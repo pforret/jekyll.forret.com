@@ -1,13 +1,15 @@
 ---
-id: 62
 title: Adobe authors Digital Negative (DNG) standard
 date: 2004-10-03T15:46:26+02:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2004/10/03/adobe-authors-digital-negative-dng-standard/
 permalink: /2004/10/03/adobe-authors-digital-negative-dng-standard/
 categories:
   - photography
+
+tags:
+    - adobe
+    - raw
 ---
 Adobe has developed a new format for &#8216;raw&#8217; camera files, called Digital Negative.  
 The [DNG specifications (PDF)](http://www.adobe.com/products/dng/pdfs/dng_spec.pdf) uses the following arguments for its existence:
@@ -21,5 +23,3 @@ The [DNG specifications (PDF)](http://www.adobe.com/products/dng/pdfs/dng_spec.p
 Adobe is currently shipping a RAW-to-DNG converter application and a plugin for Photoshop. 
 
 It will be interesting to see whether Adobe can pull their PostScript/PDF stunt again by creating a de-facto standard. They already have (verbal) support from the likes of Microsoft, HP and Corbis. Way to go.
-
-(via [Digital Photography News](http://digitalphotographynews.blogspot.com/2004/09/industry-leaders-endorse-digital.html))

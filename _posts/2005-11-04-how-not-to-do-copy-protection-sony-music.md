@@ -1,16 +1,14 @@
 ---
-id: 209
 title: 'How not to do copy-protection: Sony Music'
 date: 2005-11-04T15:09:50+01:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2005/11/04/how-not-to-do-copy-protection-sony-music/
 permalink: /2005/11/04/how-not-to-do-copy-protection-sony-music/
 categories:
   - copyright
   - music
 ---
-![](http://www.pixagogo.com/S5vpfnjbBPdPlfUe6lZZBx0w5KqqGALRQ7GN!jaere4gdnc5LmKB5qbntJqobFKGNCJqD70aYnivFAbn-UPyNrXJf-d6m8ubFtNURVcNFF2Mw-HKt8uW0NUBZvlG!riK!ZebTZuuKmPV-MWv5XPSA3Sg__/iPod_hand.jpg)Error #1: take a really broad definition of &#8220;backwards compatible&#8221;
+Error #1: take a really broad definition of &#8220;backwards compatible&#8221;
 
 > Smith said the goal of the XCP technology is work with record labels and help them in better controlling the amount of copies made per user. He agreed that copying CDs for fair/personal use is acceptable, however, certain users exceed that limit. Now, he said, record labels and other software developers have the capability to limit the number of burns per CD. He further stated that record labels and others could control various aspects of copying, such as the quality of music at which the data is burned onto the new CD – in addition the number of burns.  
 > The company said its technology is **backwards compatible**. Sony added that it has shipped approximately two millions compact discs that are equipped with XCP.  
@@ -37,11 +35,9 @@ Error #5: even when it&#8217;s discovered, no one will do anything against it
 > And because we are increasingly technology aware, your ever-increasing assault on not only our fair use but also our common sense will virtually guarantee that we use our God-given ingenuity to find a way around whatever bizarre restrictions you see fit to impose. Why? Not because we&#8217;re dying to break the law, but because you have sold us a crappy product, and, fundamentally, because it is not our responsibility to protect your profits.  
 > from [DRM this, Sony! (CNET)](http://www.cnet.com/4520-6033_1-6376177.html)
 
-It&#8217;s a pity the CD standard was developed by a company (Philips) and not by a standard body that is independent of commercial pressure. Otherwise the record companies could have been forced to call their shiny gray discs something else, because they are not CDs/Compact Discs. But Philips ([former owners of Polygram, now Universal](http://en.wikipedia.org/wiki/PolyGram)) won&#8217;t be hurrying to counter the amateuristic copyright-control efforts of Sony, Warner, Universal and the others.
+It's a pity the CD standard was developed by a company (Philips) and not by a standard body that is independent of commercial pressure. Otherwise the record companies could have been forced to call their shiny gray discs something else, because they are not CDs/Compact Discs. But Philips ([former owners of Polygram, now Universal](http://en.wikipedia.org/wiki/PolyGram)) won&#8217;t be hurrying to counter the amateuristic copyright-control efforts of Sony, Warner, Universal and the others.
 
 I was already complaining about this last year:
 
 > Result: my Windows Media Player keeps crashing on it &#8211; mostly taking my PC with it, because the CD-ROM becomes inaccesible. My MusicMatch won&#8217;t play it, and I haven&#8217;t even tried RealPlayer, because I don&#8217;t want to reboot more than 3 times in a day, life&#8217;s too short. So I can only look at the cover and wonder what it sounds like.  
-> from [Portable audio & copy protection](http://blog.forret.com/blog/2004/04/portable-audio-copy-protection.html) 
-
-Technorati: <a href="http://technorati.com/tag/copyright" rel="tag">copyright</a> &#8211; <a href="http://technorati.com/tag/drm" rel="tag">drm</a> &#8211; <a href="http://technorati.com/tag/sony" rel="tag">sony</a> &#8211; <a href="http://technorati.com/tag/rootkit" rel="tag">rootkit</a> &#8211; <a href="http://technorati.com/tag/xcp" rel="tag">xcp</a>
+> from [Portable audio & copy protection](https://blog.forret.com/2004/04/28/portable-audio-copy-protection/) 

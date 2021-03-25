@@ -4,10 +4,14 @@ title: Probe disk performance (MRTG)
 date: 2004-11-03T14:41:28+01:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2004/11/probe-disk-performance-mrtg/
 permalink: /2004/11/03/probe-disk-performance-mrtg/
 categories:
-  - Linux
+  - devops
+
+tags:
+    - linux
+    - performance
+    - benchmark
 ---
 The `hdparam` can be used to monitor the throughput speed of a hard disk:  
 `# <strong>hdparm -tT /dev/hda</strong>`  

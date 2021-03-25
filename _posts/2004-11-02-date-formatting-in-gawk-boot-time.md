@@ -4,10 +4,13 @@ title: 'Date formatting in GAWK: boot time'
 date: 2004-11-02T15:17:54+01:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2004/11/date-formatting-in-gawk-boot-time/
 permalink: /2004/11/02/date-formatting-in-gawk-boot-time/
 categories:
-  - Linux
+  - devops
+
+tags:
+    - linux
+    - redhat
 ---
 I have one server with apparently an exceptional stability:  
 `# uptime`

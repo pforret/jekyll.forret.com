@@ -7,7 +7,12 @@ layout: post
 guid: http://blog.forret.com/2004/11/squid-cachemgrcgi-ui-hack/
 permalink: /2004/11/08/squid-cachemgrcgi-ui-hack/
 categories:
-  - Linux
+  - devops
+
+tags:
+    - cache
+    - linux
+    - squid
 ---
 Squid has a little system statistics viewer built-in:
 

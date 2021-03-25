@@ -4,11 +4,12 @@ title: 'Idea: using a URI for sending email'
 date: 2004-11-25T16:28:03+01:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2004/11/25/idea-using-a-uri-for-sending-email/
 permalink: /2004/11/25/idea-using-a-uri-for-sending-email/
 categories:
   - idea
-  - internet
+
+tags:
+    - email
 ---
 In order to send an email over [SMTP](http://www.networksorcery.com/enp/rfc/rfc2821.txt), you need 2 sets of information:
 
