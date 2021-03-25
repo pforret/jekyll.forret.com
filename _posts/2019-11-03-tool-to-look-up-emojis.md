@@ -8,8 +8,7 @@ guid: http://blog.forret.com/?p=1888
 permalink: /2019/11/03/tool-to-look-up-emojis/
 image: /wp-content/uploads/2019/11/emoji-fruit-600x516.png
 categories:
-  - Projects
-  - toolstud.io
+  - toolstudio
 tags:
   - character
   - emoji

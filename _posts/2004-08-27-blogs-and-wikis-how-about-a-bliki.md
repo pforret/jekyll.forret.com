@@ -1,13 +1,17 @@
 ---
-id: 52
 title: 'Blogs and Wiki&#8217;s: how about a bliki?'
 date: 2004-08-27T17:37:49+02:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2004/08/27/blogs-and-wikis-how-about-a-bliki/
 permalink: /2004/08/27/blogs-and-wikis-how-about-a-bliki/
 categories:
   - Web2.0
+tags:
+    - wikipedia
+    - wiki
+    - blog
+    - cms
+    - jahsonic
 ---
 [Wikipedia.org](http://www.wikipedia.org) is awesome. Who would have thought that building a knowledge system based on voluntary contributions from just about anyone who wants to, would work? 
 

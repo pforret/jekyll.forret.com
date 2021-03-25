@@ -1,10 +1,8 @@
 ---
-id: 46
 title: 'Imperial time units: here come the nunes'
 date: 2004-08-08T19:25:36+02:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2004/08/08/imperial-time-units-here-come-the-nunes/
 permalink: /2004/08/08/imperial-time-units-here-come-the-nunes/
 image: /wp-content/uploads/2019/12/fig-02-12-2019_11-16-33.jpg
 categories:
@@ -20,18 +18,18 @@ tags:
   - uk
   - units
 ---
-I caught an episode of [Top Gear](http://www.bbc.co.uk/topgear/) the other day. The rather excellent Jeremy Clarkson was talking about &#8216;driving very economically&#8217; with an big Audi and mentioned all kinds of mpg (miles per gallon) measurements. For me, as I have lived in the metric system for all my life, [conversion from _&#8216;mpg_&#8216; to _&#8216;l/100km&#8217;_ (liter/100 km)](https://toolstud.io/finance/mileage.php?currency=%C2%A3&fuelprice=1.25&fuelprice_unit=0.264172&carmileage=25&carmileage_unit=mpg&distance=25000&distance_unit=1.6093&lifetime=5&lifetime_unit=1) proved to be non-trivial. Some research revealed the following stunning data:
+I caught an episode of [Top Gear](http://www.bbc.co.uk/topgear/) the other day. The rather excellent Jeremy Clarkson was talking about &#8216;driving very economically&#8217; with a big Audi and mentioned all kinds of mpg (miles per gallon) measurements. For me, as I have lived in the metric system for all my life, [conversion from _&#8216;mpg_&#8216; to _&#8216;l/100km&#8217;_ (liter/100 km)](https://toolstud.io/finance/mileage.php?currency=%C2%A3&fuelprice=1.25&fuelprice_unit=0.264172&carmileage=25&carmileage_unit=mpg&distance=25000&distance_unit=1.6093&lifetime=5&lifetime_unit=1) proved to be non-trivial. Some research revealed the following stunning data:
 
 **Length**:
-:   1 mile = 8 furlong **•** 1 furlong = 40 rod **•** 1 rod = 5.5 yard **•** 1 yard = 3 feet **•** 1 foot = 12 inch
+:   1 mile = 8 furlong / 1 furlong = 40 rod / 1 rod = 5.5 yard / 1 yard = 3 feet / 1 foot = 12 inch
 :   Which gives us: _1 mile = 1760 yard_ or 1.609344 km
 
 **Weight:**
-:   1 stone = 14 pounds **•** 1 clove = 7 pounds **•** 1 pound = 16 ounces **•** 1 ounce = 16 drams
+:   1 stone = 14 pounds / 1 clove = 7 pounds / 1 pound = 16 ounces / 1 ounce = 16 drams
 :   Which gives us: _1 stone = 224 ounce_
 
 **Volume:**
-:   1 gallon = 4 quart **•** 1 quart = 2 pint **•** 1 US pint = 16 US fluid ounces _but(!) 1 Imperial pint = 20 Imperial fluid ounces_
+:   1 gallon = 4 quart / 1 quart = 2 pint / 1 US pint = 16 US fluid ounces _but(!) 1 Imperial pint = 20 Imperial fluid ounces_
 :   Which gives us: _1 Imperial gallon = 160 Imperial fluid ounces_ or 4.54609188 liter
 
 Two observations:
@@ -52,6 +50,5 @@ I propose the following:
     
     Since Greenwich is still England, Greenwich Mean Time (GMT) cannot be abandoned just like that, so it will be renamed to Greenwich Mazy Time, and midnight will still be midnight (or actually, it will be mid-nune and happen every day with at least one metric hour difference with any non-English country). The suggestion to have a &#8216;Daylight Saving Time&#8217; system is still under investigation, it might make things unnecessarily complicated.
     
-    <div>
-      [Inspired by: &#8220;<a href="http://www.amazon.co.uk/exec/obidos/ASIN/0434003484/">The Hitch Hiker&#8217;s Guide to the Galaxy</a>&#8221; &#8211; <strong>Douglas Adams</strong>]
-    </div>
+    
+[Inspired by: &#8220;<a href="http://www.amazon.co.uk/exec/obidos/ASIN/0434003484/">The Hitch Hiker&#8217;s Guide to the Galaxy</a>&#8221; &#8211; <strong>Douglas Adams</strong>]

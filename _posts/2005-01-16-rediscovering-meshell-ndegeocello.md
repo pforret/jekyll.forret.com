@@ -1,14 +1,16 @@
 ---
-id: 108
 title: Rediscovering Meshell Ndegeocello
 date: 2005-01-16T13:10:39+01:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2005/01/16/rediscovering-meshell-ndegeocello/
 permalink: /2005/01/16/rediscovering-meshell-ndegeocello/
 categories:
   - music
-  - women
+    
+tags:
+    - women
+    - bass
+    - funk
 ---
 ![](http://www.pixagogo.com/S5LaMqXOKRm-25qx-38Vb0fQVXofVXUROR--Zmf4TBz0pHRnGKvPa!ECE4Xn-ieEmdf4Vo9zSaGqNpv0xVfIv-66JN7o2sGcNFQtxMAO3TxEE_/meshell2.jpg)  
 I recently rediscovered [Meshell Ndegeocello](http://www.meshell.com/). I had been really disappointed by the concert I had seen of her last year on the [Blue Note festival](http://www.bluenotefestival.com/) and hadn&#8217;t listened to any of her CDs for that time. Basically I was disappointed to see such a talent go to waste.
