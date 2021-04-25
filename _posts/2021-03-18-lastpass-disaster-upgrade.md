@@ -2,6 +2,7 @@
 title: My disaster upgrade to LastPass Premium
 layout: post
 image: /wp-content/uploads/2021/03/lastpass.jpg
+permalink: /2021/03/18/lastpass-disaster-upgrade/
 categories:
     - security
 tags:
