@@ -4,7 +4,6 @@ title: Play us a slow song
 date: 2006-05-03T13:56:59+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2006/05/play-us-a-slow-song/
 permalink: /2006/05/03/play-us-a-slow-song/
 image: /wp-content/uploads/2018/06/fig-03-06-2018_17-40-47.jpg
 categories:

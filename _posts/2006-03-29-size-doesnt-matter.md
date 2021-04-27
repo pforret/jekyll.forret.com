@@ -4,7 +4,6 @@ title: 'Size doesn&#8217;t matter'
 date: 2006-03-29T11:43:59+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2006/03/size-doesnt-matter/
 permalink: /2006/03/29/size-doesnt-matter/
 categories:
   - spam
