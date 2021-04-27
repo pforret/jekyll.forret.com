@@ -14,17 +14,13 @@ layout: default
 
 <div class="related">
     <h2>Recent Posts</h2>
-    <table class="related-posts">
-        <tr>
-            {% for post in site.related_posts limit:3 %}
-            <td style="vertical-align: top; width: 33%">
-                <h4> <a href="{{ post.url }}"> {{ post.title }} </a> </h4>
-                {% if post.image %}
-                <img width="220" src="{{post.image}}" />
-                {% endif %}
-                <p>{{ post.excerpt | truncatewords: 30 }} &bull; {{ post.date | date_to_string }}</p>
-            </td>
-            {% endfor %}
-        </tr>
-    </table>
+    {% for post in site.related_posts limit:4 %}
+        <p>
+            <strong><a href="{{ post.url }}"> {{ post.title }} </a></strong>
+            <small>
+                &bull; <i>{{ post.date | date_to_string }}</i>
+                &bull; {{ post.excerpt | strip_html | truncatewords: 30 }}
+            </small>
+        </p>
+    {% endfor %}
 </div>
