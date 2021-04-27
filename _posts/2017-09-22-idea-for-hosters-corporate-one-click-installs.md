@@ -1,10 +1,8 @@
 ---
-id: 1507
 title: Branded tools as a service
 date: 2017-09-22T15:47:37+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/?p=1507
 permalink: /2017/09/22/idea-for-hosters-corporate-one-click-installs/
 image: /wp-content/uploads/2016/12/goodies_dreamhost-698x510.png
 categories:
@@ -19,8 +17,6 @@ tags:
   - saas
   - service
 ---
-<figure class="wp-block-image size-large"><img  width="698" height="701" src="http://blog.forret.com/wp-content/uploads/2016/12/goodies_dreamhost.png" alt="" class="wp-image-1508" srcset="https://blog.forret.com/wp-content/uploads/2016/12/goodies_dreamhost.png 698w, https://blog.forret.com/wp-content/uploads/2016/12/goodies_dreamhost-150x150.png 150w, https://blog.forret.com/wp-content/uploads/2016/12/goodies_dreamhost-300x300.png 300w" sizes="(max-width: 698px) 100vw, 698px" />  
-
 A lot of hosting companies already offer **one-click installs** for WordPress, Drupal, Joomla, dotProject. These are mostly content (CMS) tools. They&#8217;re useful, but they cover only a part of what a corporate customer would want. I would love to see a hosting company that offers **branded tools as a service**:
 
   * let you register your domain name with them: **mycompany.com**
@@ -33,6 +29,8 @@ A lot of hosting companies already offer **one-click installs** for WordPress, D
   * now add an applicant tracking system on **jobs.mycompany.com**
   * now add a mailing list service on **newsletter.mycompany.com**
   * now add &#8230;
+
+![](http://blog.forret.com/wp-content/uploads/2016/12/goodies_dreamhost.png)
 
 It doesn&#8217;t really matter if these services are hosted on your account (e.g. with an open-source software, with Docker) or are actually SaaS offers (style FreshDesk/FreshService) where the hosting company takes care of the registration. But the beauty is knowing that you have easy solutions to problems that all companies have, and you have central management and invoicing.
 
