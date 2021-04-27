@@ -9,7 +9,7 @@ permalink: /2005/05/20/la-gamba-sinistra-italian-tango/
 categories:
   - Tango
 ---
-<img style="float: right" src="http://www.pixagogo.com/S5vpfnjbBPdPnRQXlTa6fPnniln1YEtEfgomU!j26vpqLytcMzN4to81Z7CiWRex-9wKQbIrsZJyFpwT7cIhFDuBUxoKIjMBZkQ2IAm42Q19RpKXcjnzAqy878WoqMmzQx99AeDhrOFI7IaRyYjtzHzg__/abano_pool.jpg" />  
+
 I just spent a wonderful five days on a [tango course in Italy](http://www.tango-argentino.org/abanoterme_eng.html). Life at the [Abano Ritz](http://www.abanoritz.it/inglese/home.asp) (Abano Terme, near Venice) is quite enjoyable, and the teachers [Marisa & Oliver](http://www.marisayoliver.com/) and [Birkit & Muzaffer](http://www.tangolazapada.nl) were excellent. 
 
 Since it was my first tango holiday abroad, I did learn quite a lot:
@@ -22,5 +22,3 @@ Since it was my first tango holiday abroad, I did learn quite a lot:
   * The prejudices about Italians are largely based on the truth. As a man, I of course have no experience with the [Italian macho seduction skills](http://americangirlsareeasy.com/book/italian_men.shtml), but both men and women seem to have a natural tendency towards careless arrogance.  
     > As far as geography goes, you can never know too much about Italy. If you meet an Italian in Japan and ask where he&#8217;s from, he won&#8217;t say he&#8217;s from Italy. Instead he&#8217;ll name some obscure Italian city, assuming you know the ins and outs of his country.  
     > (from [americangirlsareeasy.com](http://americangirlsareeasy.com/book/italian_men.shtml))
-
-Technorati: <a href="http://technorati.com/tag/tango" rel="tag">tango</a>

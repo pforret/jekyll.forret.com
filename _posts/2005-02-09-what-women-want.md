@@ -10,7 +10,6 @@ categories:
   - Society
   - women
 ---
-![What women want](http://www.pixagogo.com/S5vpfnjbBPdPndNQquNfIkhm5-wjE3lyYvAruQRmkDzUZ9Xtu5NVXbLMqivAyePZnbL5A8tENBjyd0QFLe4H5fDZy3iHRftsJOFfXs2bbkdqlOcT1Z!iqrryxphaeYr6tRmZMObzNDc-4xxq9i78OOdQ__/whatwomenwant.jpg)  
 Things you learn in bars: the list of things girls look for in a guy (or, in this case, as cited by Nathalie and An).  
 I use the following scale: 1 = nice to have &#8230; 3 = definite bonus &#8230; 5 = really important, and 6 = _conditio sine qua non_ (if you don&#8217;t qualify, forget it). I averaged the weights of both authors. In all cases, the desired answer is &#8216;yes&#8217;.
 

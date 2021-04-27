@@ -8,8 +8,10 @@ layout: default
   {{ content }}
 </div>
 <div>
-    {% for tag in page.categories %}<a href="/category/{{tag | slugify}}" class="category">💬 {{tag}}</a>{% endfor %}
-    {% for tag in page.tags %}<a href="/tag/{{tag | slugify}}" class="tag">🏷 {{tag}}</a>{% endfor %}
+    {% for tag in page.categories %}
+    <a href="/category/{{tag | slugify}}" class="category">💬 {{tag}}</a>{% endfor %}
+    {% for tag in page.tags %}
+    <a href="/tag/{{tag | slugify}}" class="tag">🏷 {{tag}}</a>{% endfor %}
 </div>
 
 <div class="related">

@@ -23,7 +23,7 @@ Multimedia search is a fascinating topic, let&#8217;s talk about audio for a mom
 **SEARCHING**
 
   * **preview**: what should the results of a search look like? Just text (artist, song, album, year, filesize) or also audio samples? To make the analogy with Google Images, provide a 30 seconds 28Kbps MP3 preview file (which would be approx. 60KB) for every audio file found.
-  *![](http://www.pixagogo.com/Tools/Thumbnails.aspx?thumb=S5%21pg7swZZxdHzLTM694VJ09AHShld9Cfg7jUuudWkkw-36pVKbmH7SeRwLSqzxXArLXKMocvBWoL5fziyDjIrH7MRATXQaPnLoriWRlVw4KU_) 
+
   * **ranking**: which search hits are shown first? Something like an audio _SoundRank_ could be invented. My guess is that this is easier than the [real Google PageRank](http://www-db.stanford.edu/%7Ebackrub/google.html), since audio files are typically an endpoint, they do not &#8216;cast votes&#8217; to other URLs, so there is no recursivity in calculating this SoundRank. Every page/playlist referring to an audio file would represent a vote. Maybe high PageRank sites should have a heavier weight.
 
 Currently existing audio search engines: 

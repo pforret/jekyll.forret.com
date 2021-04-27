@@ -9,7 +9,7 @@ permalink: /2005/05/09/req-live-mashup-performance-tool/
 categories:
   - music
 ---
-![](http://www.pixagogo.com/S5vpfnjbBPdPkCoGtoelrtOyTZponFTQxTaKKy0NdBLYhPOfyfOqFTf9y7dDH37kV2Gk9BxEQKPAFM1dsKhUXYipwezuDCWzScg-qkv24ZQJoAtIFaA7lU0U1UX1JWMBB-Vd2W5x6b1i8Ti4YSGKb4aA__/LesTruttes2.jpg)  
+
 I have an idea for a software that I would love to use to do live mashup performances. It&#8217;s based on experiences I&#8217;ve had with different types of software and hardware tools, but none has the exact functionality I&#8217;m looking for. The inspiration I got comes from different sources:
 
   * a concert last week of [Les Truttes](http://www.lestruttes.be/) in the [Monk](http://www.ebru.be/Cafes/CafMonk.html). One of their numbers is a 15 minute instrumental medley of great riffs (rock/house/elektro/&#8230;). They play it with live instruments, but it should be possible to do something similar with a PC. When done right (like Les Truttes) the audience goes crazy. 
@@ -21,7 +21,6 @@ I have an idea for a software that I would love to use to do live mashup perform
 
 The goal here would be to improvise: just like a DJ does not know up front what tracks he&#8217;s gonna play in what order, the live mashup DJ wouldn&#8217;t know what his set is gonna be like. He just arrives with his portable PC , starts with e.g. a [Jon Cutler acapella](http://www.traxsource.com/index.php?act=show&step_id=71b09f4373d5c56773ad65fc568fb91c&ss=YWNh&sc=tracks&ob=r_date&so=1&pg=1) over Prince&#8217;s Controversy beat, throws in some Justin Timberlake vocals, keyboards from Depeche Mode and a De La Soul sample, goes to the break with Michael Jackson&#8217;s &#8220;Ma ma sa, ma ma coo sa&#8221; and Daft Punk with a wah-wah filter. Whatever.
 
-![](http://www.pixagogo.com/S5vpfnjbBPdPk5w7fVtkR8HpT1MdVKLWSvNUEGn!SbvVuZmuslDvsJEBC1VVeI3utW4xNI9WYQb2bhcIXhKMpKVBrNmPIEXdcyiuchhvW8Pd2!7lVHr9qnD4oiwc3onlOiugsRauS15-S53ZzpLNQpRA__/mc505_a.jpg)  
 So the software I have in mind would work in the following way:
 
   * **LIBRARY**: obviously you start with a large library of audio: 4-bar, 8-bar loops, one-shots, beatmatched accapella&#8217;s, in any of the WAV, MP3 or WMA formats. Like ACID, each of these loops/samples can contain length information and/or tuning. Using a C# loop in a G# track would cause the sound to be tuned up 7 semitones (or tuned down 5 semitones). You would have stuff like Missy Elliot accapellas, James Brown grunts, the Funky Drummer groove, the Blue Monday beat, maybe some famous movie quotes taken from DVDs (Monty Python, Chris Rock, Arnold, &#8230;) 
