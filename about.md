@@ -1,11 +1,7 @@
 ---
 title: About me
 layout: page
+fontawesome: <i class="fas fa-user-alt"></i>
 ---
 
-## My background
-
-* Peter Forret (Belgium, 1969)
-* M.Sc. Computer Science (K.U.Leuven)
-* experience as product manager, operations, CTO, software architect, technical director
-* Linkedin: [peterforret](https://www.linkedin.com/in/peterforret/)
+* I started this blog in 2004. I wrote on the early days of <a href="/category/podcast/">podcasting</a> (2004-2006)

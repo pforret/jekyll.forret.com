@@ -1,6 +1,7 @@
 ---
 title: Portfolio
 layout: page
+fontawesome: <i class="fas fa-briefcase"></i>
 ---
 
 {% assign pages_list = site.pages %}

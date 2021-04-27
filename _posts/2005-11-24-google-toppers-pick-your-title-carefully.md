@@ -4,7 +4,6 @@ title: 'Google Toppers: pick your title carefully'
 date: 2005-11-24T14:43:00+01:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2005/11/24/google-toppers-pick-your-title-carefully/
 permalink: /2005/11/24/google-toppers-pick-your-title-carefully/
 categories:
   - Google
@@ -56,5 +55,3 @@ Try to guess the blogs that can claim these word combinations in Google:
   * [[news source](http://www.google.com/search?q=news+source)]: **#1 of about 827,000,000** ([*](http://www.theonion.com/ "www.theonion.com")) &#8211; the champ for now
 
 Do you know of any other impressive search queries that can be claimed by a blog? Is there a `#1 of about 1,000,000,000`? Add them to the comments!
-
-Technorati: <a href="http://technorati.com/tag/google" rel="tag">google</a> &#8211; <a href="http://technorati.com/tag/seo" rel="tag">seo</a> &#8211; <a href="http://technorati.com/tag/serp" rel="tag">serp</a> &#8211; <a href="http://technorati.com/tag/statistics" rel="tag">statistics</a> &#8211; <a href="http://technorati.com/tag/blogs" rel="tag">blogs</a>

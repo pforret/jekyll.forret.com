@@ -31,5 +31,3 @@ A 1000 GB iPod, that is
   * Our then-standard [48 megapixel camera](http://www.forret.com/tools/megapixel.asp?title=48+Megapixel+camera&width=8000&height=6000) would create 72MB RAW images, of which the iPod could store 14.000, or if you would compress them to 5MB JPEG: 200.000 pictures. 
 
 Other predictions: the [iPhone](http://money.cnn.com/2005/11/11/technology/apple_predictions/) (or Apple as mobile virtual network operator) and the [iTIVO](http://money.cnn.com/2005/11/11/technology/apple_predictions/), a media-center/time-shifting/TV/video/DVD hub , all in the next 12-24 months. Let&#8217;s hope this inspires some people to seriously vamp up their design/user interface teams (Nokia, Microsoft, I&#8217;m looking at you!).
-
-Technorati: <a href="http://technorati.com/tag/terabyte" rel="tag">terabyte</a> &#8211; <a href="http://technorati.com/tag/ipod" rel="tag">ipod</a> &#8211; <a href="http://technorati.com/tag/bandwidth" rel="tag">bandwidth</a> &#8211; <a href="http://technorati.com/tag/portable" rel="tag">portable</a> &#8211; <a href="http://technorati.com/tag/data" rel="tag">data</a>
