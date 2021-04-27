@@ -8,10 +8,10 @@ guid: http://blog.forret.com/?p=1147
 permalink: /2009/12/01/newscorp-is-indeed-dropping-out-of-google/
 categories:
   - Google
-  - news
 tags:
   - murdoch
   - newscorp
+  - news
 ---
 #### The big disappearing act
 
@@ -19,7 +19,6 @@ When Rupert Murdoch [announced that he would remove his sites](http://www.guardi
 
 [<img  src="http://farm3.static.flickr.com/2680/4149930709_33164c5646.jpg" alt="Newscorp is dropping out of Google" width="500" height="114" />](http://www.flickr.com/photos/pforret/4149930709/ "Newscorp is dropping out of Google by Peter Forret, on Flickr")
 
-(trend via <http://trend.visualizor.com/g/1011> )
 
 #### Which sites are Newscorp?
 

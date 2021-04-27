@@ -4,17 +4,15 @@ title: Dag van de download
 date: 2007-12-18T10:05:36+01:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2007/12/dag-van-de-download/
 permalink: /2007/12/18/dag-van-de-download/
 categories:
   - bandwidth
-  - Belgium
 tags:
   - bandwidth
   - broadband
   - download
+  - belgium
 ---
-<img  border="0" width="450" src="http://dagvandedownload.be/files/dvdd_logo_mid.png" alt="Dag Van De Download" height="174" />
 
 > Met deze actie willen wij een statement maken: stilstand is achteruitgang. De toestand op de Belgische markt dient te veranderen. De gebruikers willen van de datalimieten af, meer concurrentie en betere tarieven voor hun breedband-internet.  
 > [Dag van de download](http://dagvandedownload.be)
