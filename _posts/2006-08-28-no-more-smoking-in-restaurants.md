@@ -4,7 +4,6 @@ title: No more smoking in restaurants
 date: 2006-08-28T14:17:38+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2006/08/no-more-smoking-in-restaurants/
 permalink: /2006/08/28/no-more-smoking-in-restaurants/
 categories:
   - Belgium
