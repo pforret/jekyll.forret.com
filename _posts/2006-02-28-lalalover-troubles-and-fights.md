@@ -4,14 +4,7 @@ title: 'Lalalover: troubles and fights'
 date: 2006-02-28T23:21:22+01:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2006/02/28/lalalover-troubles-and-fights/
 permalink: /2006/02/28/lalalover-troubles-and-fights/
-enclosure:
-  - |
-    http://www.delaatsteshow.be/video/files/341/breed.wmv
-    8046932
-    video/x-ms-wmv
-    
 categories:
   - Belgium
   - music
@@ -47,5 +40,3 @@ This is a part of the lyrics of &#8220;Troubles & Fights&#8221;:
 I unfortunately missed their (sold-out) concert in the [AB Club](http://www.abconcerts.be) last week. [De Standaard](http://www.standaard.be/Artikel/Detail.aspx?artikelid=GUKONO6M) cites influences like Steely Dan and Steve Winwood, [De Morgen](http://www.lalalover.com/presspdf/deMorgenrecensie.pdf) mentions the Beatles and Crowded House. Crowded House, that sounds about right!
 
 Their next concert in the neighbourhood of Brussels: 27 April 2006 &#8211; [Het Depot, Leuven](http://www.hetdepot.be/concerten/index.html). Support act is [Milow](http://www.milow.be/), the singer song-writer [Pietel](http://www.pietel.be/archives/1025) has been marketing to us for months. Leuven it is, then!
-
-Technorati: <a href="http://technorati.com/tag/music" rel="tag">music</a> &#8211; <a href="http://technorati.com/tag/lalalover" rel="tag">lalalover</a> &#8211; <a href="http://technorati.com/tag/milow" rel="tag">milow</a>
