@@ -2,6 +2,8 @@
 title: Generate individual tag/category/author pages for your Jekyll website
 layout: post
 image: https://github.com/pforret/jekyll_taxonomy/raw/master/assets/taxonomy.jpg
+permalink: /2021/03/21/create-tag-category-pages-jekyll/
+
 categories:
     - github
 tags:
@@ -55,4 +57,4 @@ git add tag       ## add any new tag indexes to git
 git status        ## show me all added/removed tags and categories
 ```
 
-Jekyll will now have to generate an extra number (in my case: +- 550) of pages, and since all of these go through all your posts, the Jekyll generation process takes a lot longer, in my case up to 80 seconds. [Big O notation](https://en.wikipedia.org/wiki/Big_O_notation) for using this system of tag/category pages is O(n^2). 
+Jekyll will now have to generate an extra number (in my case: +- 550) of pages, and since all of these go through all your posts, the Jekyll generation process takes a lot longer, in my case up to 80 seconds. 
