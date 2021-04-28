@@ -2,6 +2,7 @@
 title: Detecting excessive SSD wear on Apple Silicon M1 machines
 layout: post
 image: /wp-content/uploads/2021/02/m1ssd2.jpg
+permalink: /2021/02/22/ssd-wear-on-apple-silicon-m1/
 categories:
     - github
 tags:

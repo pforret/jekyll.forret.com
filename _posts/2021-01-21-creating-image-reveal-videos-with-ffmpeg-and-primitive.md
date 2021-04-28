@@ -4,7 +4,6 @@ title: Creating image reveal videos with ffmpeg and primitive (bash)
 date: 2021-01-21T15:53:28+01:00
 author: Peter
 layout: post
-guid: https://blog.forret.com/?p=2421
 permalink: /2021/01/21/creating-image-reveal-videos-with-ffmpeg-and-primitive/
 image: /wp-content/uploads/2021/01/thehelp.026.jpg
 categories:
