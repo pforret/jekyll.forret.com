@@ -16,5 +16,5 @@ fontawesome: <i class="fas fa-star"></i>
 
 
 {% for item in unique_items %}
-<li><a id="{{item}}" href="/{{single}}/{{item}}">{{ item }}</a></li>
+<div style='width: 33%; float: left'><i class="fas fa-star"></i> <a id="{{item}}" href="/{{single}}/{{item}}">{{ item }}</a></div>
 {% endfor %}
