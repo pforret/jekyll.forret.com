@@ -5,8 +5,7 @@ author: Peter
 layout: post
 permalink: /2005/01/16/rediscovering-meshell-ndegeocello/
 categories:
-  - music
-    
+  - convert
 tags:
     - women
     - bass

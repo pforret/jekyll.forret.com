@@ -7,6 +7,8 @@ layout: post
 guid: http://blog.forret.com/2007/08/point-and-shoot-badly/
 permalink: /2007/08/06/point-and-shoot-badly/
 categories:
+    - concert
+tags:
   - music
   - photography
 ---

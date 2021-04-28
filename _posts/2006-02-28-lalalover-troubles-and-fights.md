@@ -6,8 +6,9 @@ author: Peter
 layout: post
 permalink: /2006/02/28/lalalover-troubles-and-fights/
 categories:
-  - Belgium
   - music
+tags:
+    - belgium
 ---
 It&#8217;s been a while since I was really pleasantly surprised by a new Belgian group ([Moiano comes to mind](http://blog.forret.com/blog/2004/08/moiano-teaches-soulschool.html)) but it just happened again. I was humming along to the little pearl &#8220;Troubles and Fights&#8221; by [Lalalover](http://www.lalalover.com) &#8211; _&#8220;Wow, who&#8217;s that?&#8221;_ &#8211; and then I find out it&#8217;s a Belgian group started by Tom Kestens &#8211; former multi-instrumentalist with [das pop](http://www.daspop.be/).
 
