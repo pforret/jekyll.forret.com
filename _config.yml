@@ -2,18 +2,18 @@ title: Peter Forret
 email: peter@forret.com
 description: because eloquence is, like, whatever
 baseurl: "/"
-url: ""
+url: "https://blog.forret.com"
 twitter_username: pforret
 github_username:  pforret
 
-highlighter:      rouge
-permalink:        pretty
+highlighter: rouge
+permalink: pretty
 
-paginate:         10
+paginate: 10
 
 author:
-  name:           'Peter Forret'
-  url:            https://twitter.com/pforret
+    name: 'Peter Forret'
+    url: https://twitter.com/pforret
 
 # Build settings
 plugins:
