@@ -1,4 +1,4 @@
----
+'---
 title: 'Idea: LL and RR glasses on a 3D screen &#8211; Double Vision'
 layout: post
 permalink: /2012/12/31/ll-and-rr-glasses-on-a-3d-screen/
