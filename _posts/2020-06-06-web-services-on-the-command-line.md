@@ -32,7 +32,7 @@ There is the website [ifconfig.co](https://ifconfig.co/), run by Martin Polden (
   * `curl ifconfig.co/country` : &#8220;Belgium&#8221; (your country or the one your IP address seems to indicate)
   * `curl ifconfig.co/country-iso` : &#8220;BE&#8221; (your country code)
 
-Alternatives: [ip-api.com](https://ip-api.com/), [ifconfig.io](https://ifconfig.io/), [ipinfo.io](https://ipinfo.io)
+Alternatives: [ip-api.com](https://ip-api.com/), [ifconfig.io](https://ifconfig.io/), [ipinfo.io](https://ipinfo.io), [abstractapi.com](https://www.abstractapi.com/ip-geolocation-api)
 
 ## Weather
 
@@ -47,7 +47,7 @@ Igor Chubin has developed a neat ASCII weather forecast service [wttr.in](https:
 
 ## Developer help
 
-Igor also developed [cheat.sh](https://cheat.sh/) (github: [chubin/cheat.sh](https://github.com/chubin/cheat.sh)) which allows a fast way to answer &#8220;how does XYZ work again?&#8221;
+Igor also developed [cheat.sh](https://cheat.sh/) (github: [chubin/cheat.sh](https://github.com/chubin/cheat.sh) ) which allows a fast way to answer &#8220;how does XYZ work again?&#8221;
 
   * `curl cht.sh/rsync` : show usage for rsync
   * `curl cht.sh/php/facade` : what is a PHP facade for again?
@@ -80,39 +80,45 @@ Upload: 18.26 Mbit/</pre>
 
 ## Dictionary lookup
 
-<pre class="wp-block-preformatted">$ curl dict://dict.org/d:albeit
-150 1 definitions retrieved
-151 "Albeit" gcide "The Collaborative International Dictionary of English v.0.48"
-Albeit \Al`be"it\, conj. [OE. al be although it be, where al is
-&nbsp;&nbsp; our all. Cf. {Although}.]
-&nbsp;&nbsp; Even though; although; notwithstanding. --Chaucer.
-&nbsp;&nbsp; [1913 Webster]
-
-
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Albeit so masked, Madam, I love the truth. --Tennyson.
-&nbsp;&nbsp; [1913 Webster]</pre>
+    $ curl dict://dict.org/d:albeit
+    220 dict.dict.org dictd 1.12.1/rf on Linux 4.19.0-10-amd64 <auth.mime> <69792767.2757.1634813146@dict.dict.org>
+    250 ok
+    150 1 definitions retrieved
+    151 "Albeit" gcide "The Collaborative International Dictionary of English v.0.48"
+    Albeit \Al`be"it\, conj. [OE. al be although it be, where al is
+        our all. Cf. {Although}.]
+            Even though; although; notwithstanding. --Chaucer.
+        [1913 Webster]
+        
+         Albeit so masked, Madam, I love the truth. --Tennyson.
+    [1913 Webster]
+    .
 
 ## Create short URL
 
-<pre class="wp-block-preformatted">$ curl -F shorten=https://blog.forret.com <a href="https://ttm.sh/">https://ttm.sh</a>&nbsp;
-https://ttm.sh/hv6</pre>
+    $ curl -F shorten=https://blog.forret.com
+    https://ttm.sh/hv6
 
 ## Publish a file (image)
 
-<pre class="wp-block-preformatted">&nbsp;$ curl -F'file=@test.jpg' https://0x0.st
-https://0x0.st/iOC_.jpg</pre>
+    $ curl -F'file=@test.jpg' https://0x0.st
+    https://0x0.st/iOC_.jpg
 
-<pre class="wp-block-preformatted">$ curl --upload-file ./results.txt https://transfer.sh/results.txt https://transfer.sh/66nb8/results.txt</pre>
+    $ curl --upload-file ./results.txt https://transfer.sh/results.txt 
+    https://transfer.sh/66nb8/results.txt
 
 ## Exchange rates
 
-Another CLI service by Igor chubin : [rate.sx](https://rate.sx/) for cryptocurrency exchange rates.<figure class="wp-block-image size-large is-resized">
+Another CLI service by Igor chubin : [rate.sx](https://rate.sx/) for cryptocurrency exchange rates.
+![](https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-06-at-15.09.36.png)
 
-<img  src="https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-06-at-15.09.36.png" alt="" class="wp-image-2279" width="640" height="544" srcset="https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-06-at-15.09.36.png 679w, https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-06-at-15.09.36-300x255.png 300w" sizes="(max-width: 640px) 100vw, 640px" />   
 
-I had to search a bit but I also found an API for &#8216;regular&#8217; currency exchange rates: [exchangeratesapi.io](https://exchangeratesapi.io/) (via [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets))<figure class="wp-block-image size-large">
+I had to search a bit, but I also found an API for &#8216;regular&#8217; currency exchange rates: 
+* [exchangeratesapi.io](https://exchangeratesapi.io/) (via [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets))
+* [abstractapi.com](https://www.abstractapi.com/exchange-rate-api)
 
-<img  width="550" height="579" src="https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-07-at-12.29.22.png" alt="" class="wp-image-2289" srcset="https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-07-at-12.29.22.png 550w, https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-07-at-12.29.22-285x300.png 285w" sizes="(max-width: 550px) 100vw, 550px" />   
+![](https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-07-at-12.29.22.png)
+
 
 ## Symbolic maths
 

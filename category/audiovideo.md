@@ -1,6 +1,6 @@
 ---
 layout: with_category
-title: Audio-video
-keyword: audio-video
+title: Audiovideo
+keyword: audiovideo
 count: 12
 ---
