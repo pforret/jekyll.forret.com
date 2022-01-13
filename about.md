@@ -10,7 +10,9 @@ fontawesome: <i class="fas fa-user-alt"></i>
   <a href="/category/belgium/">Belgium</a>, 
   the organisation of <a href="/category/barcamp/">Barcamp</a> in Brussels (2006-2007)
 * I'm an engineer, and I write a lot about <a href="/category/technology/">technology</a>, <a href="/category/security/">security</a> and <a href="/category/copyright/">copyright</a>. Recently it's more <a href="/tag/digitalcinema/">digital cinema</a> and <a href="/tag/bash/">bash scripting</a>
-* Sometimes I have <a href="/category/idea/">ideas</a> that are somewhat interesting, like my 2007 Web 2.0 meme map, or my 2017 external USB storage dock
+* Sometimes I have <a href="/category/idea/">ideas</a> that are somewhat interesting, 
+like my 2007 [Web 2.0 meme map](/2005/09/29/web-20-mememap-overview/),
+or my 2017 [external USB storage dock](/2017/02/11/diy-my-bamboo-usb-ssd-disk-bay/)
 
 | <img width="300" src="https://live.staticflickr.com/37/78495255_6028a2858d_o.png"> | <img width="300" src="/wp-content/uploads/2017/02/BOSQ.20170211.201956.jpg"> | 
 

@@ -30,7 +30,7 @@ As a photographer, I need a lot of storage space. As a [travelling photographer]
 
 After travelling for months with this beta version (made out of a plastic table cover and lots of tape), I decided to make a real one, a version 1.0. Here's what happened:
 
-#### Step 1: buy 2 bamboo serving trays (26 euro, in [Blokker](http://www.blokker.be/nl/yong-dienblad-bamboe-32-x-24-x-1-7-cm)
+#### Step 1: buy 2 bamboo serving trays (26 euro, in [Blokker](http://www.blokker.be/nl/yong-dienblad-bamboe-32-x-24-x-1-7-cm))
 
 #### Step 2: figure out how to fit a USB hub + 3 SSD disks inside
 
