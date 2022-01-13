@@ -34,13 +34,13 @@ _Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's
 ![](/wp-content/uploads/2022/unsplash.software.jpg)
 
 ## Photography
-* Lightroom + Photoshop
+* Adobe Lightroom Classic + Photoshop
 * Nik Collection by DxO
 * [GigaPixel AI](https://www.topazlabs.com/gigapixel-ai) for upscaling low-res pics (for [remote photoshoots](/2020/05/30/simple-remote-portrait-photography/))
 
 ## Development
-* PHPStorm, the best editor for PHP, Laravel and quite good for `bash` too
-* SublimeText, for variety in editors
+* PHPStorm, the best editor for PHP, Laravel and  `bash` projects
+* SublimeText, for random text files
 * WakaTime
 
 ## Other
