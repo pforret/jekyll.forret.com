@@ -18,12 +18,10 @@ _Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's
 * Canon 5D Mark III, with Sigma 50mm f/1.4, Canon 85mm f/1.8, Canon 24-70mm f/2.8, Sigma 70-200mm f/2.8
 * Fujifilm X100F
 
-## Accessories
+## Media
 * Chromecast: I was an early adopter of Google ChromeCast, I have 3 Chromecast Video devices, 4 Chromecast Audio.
-
-## Music
 * BlueYeti microphone
-* (I expect to do some more investment here, to pick up my old hobby of remixing)
+* I would like to pick up my old hobby of remixing, so I'm looking at Ableton Push + Live
 
 ## Storage
 * Synology DS412+ with 16TB and and extra 16TB on a DX513
