@@ -8,8 +8,7 @@ categories:
 tags:
     - vpn
     - meraki
-    - update
-    - sysadmin
+    - microsoft
 ---
 
 Chances are, if you are using a non-pure-Windows VPN on Windows, you've had an interesting few days.
