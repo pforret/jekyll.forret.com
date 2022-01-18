@@ -28,7 +28,7 @@ We're a couple of days further down the road and a solution has been put forward
 
 ## 1) Quick and dirty: uninstall the patch
 
-You can install the KB5009543 patch that caused it, by typing the following in a command box:
+You can **uninstall** the KB5009543 patch that caused it, by typing the following in a command box:
 
 `wusa /uninstall /kb:5009543`
 
@@ -51,7 +51,9 @@ How does it work? (via [docs.microsoft.com](https://docs.microsoft.com/en-us/win
 * click the "Check for Updates" button and then open the "View Optional Updates".
 ![](/wp-content/uploads/2022/01/checkforupdates.png)
 * select the "2022-01 Cumulative ... (KB5010793)" update and start the update process
-* wait until the patch has downloaded and installed (this is for Windows 10. For Windows 11, you early adopters, it's KB5010795 )
+* (if it is not visible, you might have to install the `Windows 10 21H2` update first and then try again)
+* wait until the patch has been downloaded and installed
+  (this is for Windows 10. For Windows 11, you early adopters, it's KB5010795 )
 ![](/wp-content/uploads/2022/01/cumulativeupdate.png)
 * reboot the machine
 
