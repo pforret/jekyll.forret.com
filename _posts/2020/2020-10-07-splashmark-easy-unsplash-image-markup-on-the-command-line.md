@@ -17,6 +17,7 @@ tags:
   - shell
   - unsplash
   - remix
+  - splashmark
 ---
 See this photo below? It was created with one, albeit rather long, command line:
 
