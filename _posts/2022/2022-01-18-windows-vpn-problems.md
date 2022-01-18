@@ -36,14 +36,14 @@ It takes about 10 minutes and a reboot, and that indeed fixed the VPN error (wit
 Unfortunately, it is temporary. The next time Windows Update runs, the patch will probably be installed again and the problems resurface.
 One could disable Windows Updates but that's a whole other box of Pandora one would be opening.
 
-## 2) Microsoft fix KB5010793
+## 2) Microsoft fix [KB5010793](https://support.microsoft.com/en-us/topic/january-17-2022-kb5010793-os-builds-19042-1469-19043-1469-and-19044-1469-out-of-band-f2d4f178-5b36-49cb-a6fd-4bf9857574f9)
 
 Microsoft was quickly made aware of the problem with their KB5009543 patch 
 (thousands of users without VPN connection to the office will do that)
 and has released a patch for the patch, called KB5010793. 
 However, this is still an _optional patch_ with Windows Update, it will not install automatically (yet).
 
-How does it work?
+How does it work? (via [docs.microsoft.com](https://docs.microsoft.com/en-us/windows/release-health/status-windows-10-21h2#2773msgdesc))
 
 * click the Windows Start and type 'check' to see all programs that contain this word.
 * click the "Check for Updates / System Settings" program
@@ -51,7 +51,7 @@ How does it work?
 * click the "Check for Updates" button and then open the "View Optional Updates".
 ![](/wp-content/uploads/2022/01/checkforupdates.png)
 * select the "2022-01 Cumulative ... (KB5010793)" update and start the update process
-* wait until the patch has downloaded and installed
+* wait until the patch has downloaded and installed (this is for Windows 10. For Windows 11, you early adopters, it's KB5010795 )
 ![](/wp-content/uploads/2022/01/cumulativeupdate.png)
 * reboot the machine
 
