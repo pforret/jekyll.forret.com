@@ -21,16 +21,21 @@ measuring the **throughput** (MB/s) of common **bash text manipulations**.
 
 ### using `tr` 
 * The easiest to remember method is through tr: 
-* `tr "[:upper:]" "[:lower:]"`
+```shell
+tr "[:upper:]" "[:lower:]"
+```
 
 ### using `awk`
 * Still quite easy to remember is awk: 
-* `awk '{print tolower($0)}'`
+```shell
+awk '{print tolower($0)}'
+```
 
 ### using `sed`
-* This one is impossible to remember by heart: 
-* `sed 'y/ABCDEFGHIJKLMNOPQRSTUVWXYZÀÁÂÄÆÃÅĀǍÇĆČÈÉÊËĒĖĘĚÎÏÍÍĪĮÌǏŁÑŃÔÖÒÓŒØŌǑÕẞŚŠÛÜǓÙǕǗǙǛÚŪŸŽŹŻ/abcdefghijklmnopqrstuvwxyzàáâäæãåāǎçćčèéêëēėęěîïííīįìǐłñńôöòóœøōǒõßśšûüǔùǖǘǚǜúūÿžźż/'`
-
+* This one is impossible to remember by heart:
+```shell
+sed 'y/ABCDEFGHIJKLMNOPQRSTUVWXYZÀÁÂÄÆÃÅĀǍÇĆČÈÉÊËĒĖĘĚÎÏÍÍĪĮÌǏŁÑŃÔÖÒÓŒØŌǑÕẞŚŠÛÜǓÙǕǗǙǛÚŪŸŽŹŻ/abcdefghijklmnopqrstuvwxyzàáâäæãåāǎçćčèéêëēėęěîïííīįìǐłñńôöòóœøōǒõßśšûüǔùǖǘǚǜúūÿžźż/'
+```
 ## Benchmark [via pforret/bash_benchmarks](https://github.com/pforret/bash_benchmarks)
 
 > **TL;DR: The fastest way to convert to lowercase is `sed`!

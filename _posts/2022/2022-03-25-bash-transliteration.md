@@ -25,7 +25,7 @@ You don't want to delete the characters, you want them mapped to the closest ASC
 
 ### using `awk`
 * first, let's do it as explicit and verbose as possible:
-```
+```bash
 awk '
   {
     gsub(/[àáâäæãåāǎ]/,"a");
@@ -57,20 +57,20 @@ awk '
 ### using `iconv`
 * You might google-find this as a solution for this problem, but as you will see, it doesn't map one-to-one.
 The character Ä is mapped to ¨A, which is maybe not what you want.
-```
+```bash
 iconv -f utf8 -t ascii//TRANSLIT//IGNORE
 ```
 
 ### using `sed`
 * of course sed can do this too, but it will be verbose:
-```
+```bash
 sed 'y/àáâäæãåāǎçćčèéêëēėęěîïííīįìǐłñńôöòóœøōǒõßśšûüǔùǖǘǚǜúūÿžźżÀÁÂÄÆÃÅĀǍÇĆČÈÉÊËĒĖĘĚÎÏÍÍĪĮÌǏŁÑŃÔÖÒÓŒØŌǑÕẞŚŠÛÜǓÙǕǗǙǛÚŪŸŽŹŻ/aaaaaaaaaccceeeeeeeeiiiiiiiilnnooooooooosssuuuuuuuuuuyzzzAAAAAAAAACCCEEEEEEEEIIIIIIIILNNOOOOOOOOOSSSUUUUUUUUUUYZZZ/'
 ```
 
 ### using `tr`
 * this is a slightly more appealing format than the previous one, 
 since you can put the 'from' and 'to' lists under each other and that makes it easier to look for errors/omissions.
-```
+```bash
 tr \
   'àáâäæãåāǎçćčèéêëēėęěîïííīįìǐłñńôöòóœøōǒõßśšûüǔùǖǘǚǜúūÿžźżÀÁÂÄÆÃÅĀǍÇĆČÈÉÊËĒĖĘĚÎÏÍÍĪĮÌǏŁÑŃÔÖÒÓŒØŌǑÕẞŚŠÛÜǓÙǕǗǙǛÚŪŸŽŹŻ' \
   'aaaaaaaaaccceeeeeeeeiiiiiiiilnnooooooooosssuuuuuuuuuuyzzzAAAAAAAAACCCEEEEEEEEIIIIIIIILNNOOOOOOOOOSSSUUUUUUUUUUYZZZ'
