@@ -113,7 +113,7 @@ perl -CSA -ne 'use utf8; binmode STDOUT, ":utf8"; print lc'
 
 Now let's see how all these methods compare in throughput speed (MB/s, when you start the command and let it process a big file in 1 go), and in invocation speed (operations/sec, which gives you an idea of the startup time a program needs.) Both are of the 'more-is-better' type.
 
-> I will focus here on the relative speeds compared to each other, the absolute speeds depend on your machine, and my 2021 MacBookPro M1 16" is quite fast. I've run these benchmarks on a Ubuntu-on-Windows WSL1 environment, and that is wayyyyyy slower.
+> I will focus here on the relative speeds compared to each other, the absolute speeds depend on your machine, and my 2021 MacBookPro M1 16" is quite fast. I've tested these benchmarks on a Ubuntu-on-Windows WSL1 environment, and that is wayyyyyy slower.
 
 
 | method           | throughput   | invocation       |
