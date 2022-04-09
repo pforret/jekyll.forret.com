@@ -158,8 +158,8 @@ After : '0x0141OREM IPSUM dolor sit amet oessy' ## problem with Ł and þ
 
 Some lessons from these benchmarks:
 * `awk` is a little slower to start up with such a big set of instructions (200 ops/sec vs normally 250 ops/sec)
-* `sed` with 85 small instructions runs dramatically slower than `sed` with 1 large instruction (240 MB/s vs 1 MB/s)
-* `iconv` could maybe be fixed is you would delete all the ~'¨^` characters afterwards.
+* `sed` with 85 small instructions runs dramatically slower than `sed` with 1 large instruction (1 MB/s vs 240 MB/s)
+* `iconv` could maybe be fixed if you would delete all the ~'¨^` characters afterwards.
 
 ---
 So what is my recommendation for **romanizing text**?
