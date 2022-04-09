@@ -126,14 +126,11 @@ After : 'LOREM IPSUM dolor sit amet oessth'
 
 ### using `tr`
 `tr` will only allow us to replace single characters with other single characters, and there's no trick around that. If your use case can live with that (e.g. only french accents and diacritics), then this method is OK.
-```bash
+```shell
+Command:
 tr
   'ÄÀÂΑÁÅĂÃĀǍĄԱБԲÇĆČЦԾՉՑΔÐДĎԴÉÈÊËΕΗĒĖĘĚЕЁЭԵԷԸЃФՖΓГĢԳՂՀΙÍÎÏĪĮÌǏИԻЙՋΚЌКĶԿՔΛŁЛĻԼΜМՄÑΝНŅŇՆÖÔΟΩÓÒØŌǑÕОՈՕΠПՊՓΡРŘՌՐΣСŠՍΤТŤԹՏÜÙÛÚǓǕǗǙǛŪУŲŮΒВՎЎՒΞԽŸÝЫՅΖŽŹŻЗԶԺäàâαáåąăãāǎաбբçćčћцծչցδđðђдďդéèêëεηęēėěеёэեէըѓфֆγгģգղհιíîïīįìǐиıիйջκќкķկքλłлļĺľլμмմñνńнņňնöôοωóòøōǒõоոօπпպփρрŕřռրσšśсսτтťթտüùûúǔǖǘǚǜūуųůβвվўւξխÿýыüյζžźżзզժ' \n
   'AAAAAAAAAAAABBCCCCCCCDDDDDEEEEEEEEEEEEEEEEFFFGGGGGHIIIIIIIIIIJJKKKKKKLLLLLMMMNNNNNNOOOOOOOOOOOOOPPPPRRRRRSSSSTTTTTUUUUUUUUUUUUUVVVWWXXYYYYZZZZZZZaaaaaaaaaaaabbccccccccdddddddeeeeeeeeeeeeeeeefffggggghiiiiiiiiiiijjkkkkkklllllllmmmnnnnnnnooooooooooooopppprrrrrrssssstttttuuuuuuuuuuuuuvvvwwxxyyyyyzzzzzzz'
-```
-
-```shell
-Command: 'tr ÄÀÂΑÁÅĂÃĀǍĄԱБԲÇĆČЦԾՉՑΔÐДĎԴÉÈÊËΕΗĒĖĘĚЕЁЭԵԷԸЃФՖΓГĢԳՂՀΙÍÎÏĪĮ...'
 Before: 'ŁORÈM ÎPSÙM dôlõr sit amét œßþ'
 After : 'LOREM IPSUM dolor sit amet œßþ'
 ```
@@ -143,7 +140,7 @@ I have also found a specialized transliteration program for Linux: [uni2asccii](
 ```shell
 Command: 'uni2ascii -B'
 Before: 'ŁORÈM ÎPSÙM dôlõr sit amét œßþ'
-After : '0x0141OREM IPSUM dolor sit amet oessy'
+After : '0x0141OREM IPSUM dolor sit amet oessy' ## problem with Ł and þ
 ```
 
 ## Benchmark [via pforret/bash_benchmarks](https://github.com/pforret/bash_benchmarks)
@@ -167,6 +164,6 @@ Some lessons from these benchmarks:
 ---
 So what is my recommendation for **romanizing text**?
 * if you know what accents/diacritics/alternative alphabets you need to support:
-  * if all your characters can be replaced by a single character: use `tr`
+  * if all your characters can be replaced by a single character: use `sed`
   * if some of your characters should be transliterated to 2 characters, use `awk`
 * if you don't know up front what types of input you need to support: use `awk` with a huge set of rules.
