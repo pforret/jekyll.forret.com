@@ -2,5 +2,5 @@
 layout: with_tag
 title: Awk
 keyword: awk
-count: 4
+count: 3
 ---

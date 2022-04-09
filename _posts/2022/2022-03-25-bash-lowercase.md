@@ -18,7 +18,7 @@ tags:
 Post #2 in this [bash benchmark](/tag/bash-benchmark/) series,
 measuring the speed of common **bash text manipulations**.
 
-> Update: I now have developed benchmarking for both **throughput** (MB/s) and **invocation** (ops/sec) speed in my project, combined with all kinds of other improvements, so the content in this article was updated [2022-04-08]
+> Update: I now have developed [bash benchmarking](https://github.com/pforret/bash_benchmarks) for both **throughput** (MB/s) and **invocation** (ops/sec) speed in my project, combined with all kinds of other improvements, so the content in this article was updated [2022-04-08]
 
 ## Converting text to lowercase
 
