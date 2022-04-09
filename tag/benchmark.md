@@ -2,5 +2,5 @@
 layout: with_tag
 title: Benchmark
 keyword: benchmark
-count: 6
+count: 7
 ---
