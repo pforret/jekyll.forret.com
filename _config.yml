@@ -8,8 +8,8 @@ github_username:  pforret
 
 highlighter: rouge
 permalink: pretty
-
-paginate: 10
+remote_theme: daattali/beautiful-jekyll
+paginate: 6
 
 author:
     name: 'Peter Forret'

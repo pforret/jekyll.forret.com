@@ -55,10 +55,11 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 2rem .5rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
@@ -79,13 +80,13 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  font-family: "Nunito", serif;
   font-size: 3.25rem;
 }
 
 /* Sidebar nav */
 .sidebar-nav {
-  margin-bottom: 1rem;
+  margin-bottom: .5rem;
 }
 .sidebar-nav-item {
   display: block;
@@ -99,6 +100,11 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
+.footer-nav {
+  font-family: Nunito, sans-serif;
+  font-style: italic;
+  font-size: .8em;
+}
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the

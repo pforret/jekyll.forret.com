@@ -1,0 +1,45 @@
+<div class="footer">
+    <nav class="footer-nav">
+        {% assign pages_list = site.pages %}
+        {% for node in pages_list %}{% if node.title != null %}{% if node.layout == "page" %}{% if node.nav != false
+        %}
+        <a class="xsidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{node.fontawesome}}
+            {{ node.title }} {{node.nav}}</a>
+        {% endif %}{% endif %}{% endif %}{% endfor %}
+    </nav>
+    <p style="font-size: 120%">
+        <a href="https://github.com/pforret" title="Github: pforret"><i class="fab fa-github-square"></i></a>
+        <a href="https://www.linkedin.com/in/peterforret/" title="Linkedin: peterforret"><i class="fab fa-linkedin"></i></a>
+        <a href="https://twitter.com/pforret" title="Twitter: pforret"><i class="fab fa-twitter-square"></i></a>
+        <a href="https://bash.forret.com/podcast" title="Youtube: pforret"><i class="fab fa-youtube-square"></i></a>
+        <a href="https://www.flickr.com/people/pforret/" title="Flickr: pforret"><i class="fab fa-flickr"></i></a>
+    </p>
+    <p class="text-center">
+        <small>
+            <a href="#" onclick="jumpTo('content');">&uarr;</a>
+            &copy; 2004-{{ site.time | date: '%Y' }} by Peter Forret.
+        </small>
+    </p>
+</div>
+
+<script>
+
+    function getPosition(element){
+        var e = document.getElementById(element);
+        var left = 0;
+        var top = 0;
+
+        do{
+            left += e.offsetLeft;
+            top += e.offsetTop;
+        }while(e = e.offsetParent);
+
+        return [left, top];
+    }
+
+    function jumpTo(id){
+        window.scrollTo(getPosition(id));
+    }
+
+    jumpTo("content");
+</script>

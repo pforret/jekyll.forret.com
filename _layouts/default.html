@@ -8,8 +8,11 @@
     {% include sidebar.html %}
 
     <div class="content container">
+      <a href="#" id="content"></a>
       {{ content }}
+      {% include footer.html %}
     </div>
+
 
     <!-- Google Analytics -->
     <script>
@@ -22,6 +25,5 @@
       ga('send', 'pageview');
     </script>
     <!-- End Google Analytics -->
-
   </body>
 </html>

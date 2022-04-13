@@ -4,26 +4,5 @@
       <h1><a href="/">{{ site.title }}</a></h1>
       <p class="lead">{{ site.description }}</p>
     </div>
-
-    <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/">Home</a>
-      {% assign pages_list = site.pages %}
-      {% for node in pages_list %}{% if node.title != null %}{% if node.layout == "page" %}{% if node.nav != false %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{node.fontawesome}} {{ node.title }} {{node.nav}}</a>
-          {% endif %}{% endif %}{% endif %}{% endfor %}
-    </nav>
-    <p style="font-size: 150%">
-      <a href="https://github.com/pforret" title="Github: pforret"><i class="fab fa-github-square"></i></a>
-      <a href="https://www.linkedin.com/in/peterforret/" title="Linkedin: peterforret"><i class="fab fa-linkedin"></i></a>
-      <a href="https://twitter.com/pforret" title="Twitter: pforret"><i class="fab fa-twitter-square"></i></a>
-      <a href="https://bash.forret.com/podcast" title="Youtube: pforret"><i class="fab fa-youtube-square"></i></a>
-      <a href="https://www.flickr.com/people/pforret/" title="Flickr: pforret"><i class="fab fa-flickr"></i></a>
-      <!--
-      <a href="https://soundcloud.com/pforret" title="Soundcloud: pforret"><i class="fab fa-soundcloud"></i></a>
-      <a href="https://www.mixcloud.com/pforret/" title="Mixcloud: pforret"><i class="fab fa-mixcloud"></i></a>
-      -->
-    </p>
-    <p>&copy; 2004-{{ site.time | date: '%Y' }} by Peter Forret.</p>
-
   </div>
 </div>

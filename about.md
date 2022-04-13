@@ -1,5 +1,5 @@
 ---
-title: About me
+title: About
 layout: page
 fontawesome: <i class="fas fa-user-alt"></i>
 ---

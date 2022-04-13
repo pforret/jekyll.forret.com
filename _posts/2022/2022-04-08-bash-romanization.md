@@ -82,7 +82,7 @@ After : 'LOR`EM ^IPS`UM d^ol~or sit am'et oessth'
 
 ### using `sed`
 
-If we use the same technique as we did for the case conversion (`sed 'y/___/___/'`, we can only translate to single characters.
+If we use the same technique as we did for the [lower case conversion](https://blog.forret.com/2022/03/25/lowercase-bash/) (`sed 'y/___/___/'`, we can only translate to single characters.
 
 ```shell
 Command:
