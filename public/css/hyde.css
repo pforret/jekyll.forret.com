@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Nunito", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -56,8 +56,14 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem .5rem;
-  color: rgba(255,255,255,.5);
+  color: rgba(255,255,255,.75);
   background-color: #202020;
+}
+
+.title-icon {
+  width: 40px;
+  height: 40px;
+  float: left;
 }
 
 @media (min-width: 48em) {
@@ -69,6 +75,16 @@ html {
     width: 18rem;
     text-align: left;
   }
+
+  .title-icon {
+    width: 100px;
+    height: 100px;
+    clear: both;
+    text-align: center;
+    display: block;
+    margin-right: 100px;
+  }
+
 }
 
 /* Sidebar links */
@@ -81,7 +97,7 @@ html {
   color: #fff;
   margin-top: 0;
   font-family: "Nunito", serif;
-  font-size: 3.25rem;
+  font-size: 2rem;
 }
 
 /* Sidebar nav */
