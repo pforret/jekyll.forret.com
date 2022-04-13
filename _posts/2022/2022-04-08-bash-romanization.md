@@ -14,6 +14,7 @@ tags:
     - romanization
     - transliteration
     - bash-benchmark
+    - language
 ---
 Post #4 in this [bash benchmark](/tag/bash-benchmark/) series,
 measuring the speed of common **bash text manipulations**.
@@ -26,7 +27,7 @@ measuring the speed of common **bash text manipulations**.
 
 So _é_ becomes _e_, _ç_ becomes _c_, _ô_ becomes _o_. But also _б_ (greek beta) becomes _b_, _σ_ (sigma) becomes _s_, _д_ (russian) becomes _d_, _յ_ (armenian yi) becomes _y_.
 
-But of course things are never that easy. Some non-latin characters are romanized/transliterated to _two characters_, like œ -> oe, æ -> ae, я -> ya. This makes it hard to accomplish exhaustive romanization with `tr` or `sed`.
+ANd of course things are never that easy. Some non-latin characters are romanized / transliterated to _two characters_, like œ -> oe, æ -> ae, я -> ya. This makes it hard to accomplish exhaustive romanization with `tr` or `sed`.
 
 ### using `awk`
 If we include roman languages (éèà), slavic (ăž), cyrillic (жзи), turkish (ğış) and armenian (կհձ), we can construct the following daunting `awk` program:
@@ -163,7 +164,7 @@ Some lessons from these benchmarks:
 
 ---
 So what is my recommendation for **romanizing text**?
-* if you know what accents/diacritics/alternative alphabets you need to support:
+* if you know all the accents, diacritics or alternative alphabets you need to support:
   * if all your characters can be replaced by a single character: use `sed`
   * if some of your characters should be transliterated to 2 characters, use `awk`
 * if you don't know up front what types of input you need to support: use `awk` with a huge set of rules.
