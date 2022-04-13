@@ -16,30 +16,7 @@
     </p>
     <p class="text-center">
         <small>
-            <a href="#" onclick="jumpTo('content');">&uarr;</a>
             &copy; 2004-{{ site.time | date: '%Y' }} by Peter Forret.
         </small>
     </p>
 </div>
-
-<script>
-
-    function getPosition(element){
-        var e = document.getElementById(element);
-        var left = 0;
-        var top = 0;
-
-        do{
-            left += e.offsetLeft;
-            top += e.offsetTop;
-        }while(e = e.offsetParent);
-
-        return [left, top];
-    }
-
-    function jumpTo(id){
-        window.scrollTo(getPosition(id));
-    }
-
-    jumpTo("content");
-</script>

@@ -103,7 +103,7 @@ a.sidebar-nav-item:focus {
 .footer-nav {
   font-family: Nunito, sans-serif;
   font-style: italic;
-  font-size: .8em;
+  font-size: .9em;
 }
 /* Sticky sidebar
  *
@@ -128,8 +128,8 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top:    4rem;
-  padding-bottom: 4rem;
+  padding-top:    2rem;
+  padding-bottom: 2rem;
 }
 
 @media (min-width: 48em) {
