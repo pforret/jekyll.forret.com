@@ -19,7 +19,7 @@ tags:
 Post #4 in this [bash benchmark](/tag/bash-benchmark/) series,
 measuring the speed of common **bash text manipulations**.
 
-## Romanization; removing accents/diacritics
+## Romanization: removing accents/diacritics
 
 ![Bash benchmarks](/wp-content/uploads/2022/03/benchmark.transliteration.jpg)
 
@@ -27,7 +27,7 @@ measuring the speed of common **bash text manipulations**.
 
 So _é_ becomes _e_, _ç_ becomes _c_, _ô_ becomes _o_. But also _б_ (greek beta) becomes _b_, _σ_ (sigma) becomes _s_, _д_ (russian) becomes _d_, _յ_ (armenian yi) becomes _y_.
 
-ANd of course things are never that easy. Some non-latin characters are romanized / transliterated to _two characters_, like œ -> oe, æ -> ae, я -> ya. This makes it hard to accomplish exhaustive romanization with `tr` or `sed`.
+And of course things are never that easy. Some non-latin characters are romanized / transliterated to _two characters_, like œ -> oe, æ -> ae, я -> ya. This makes it hard to accomplish exhaustive romanization with `tr` or `sed`.
 
 ### using `awk`
 If we include roman languages (éèà), slavic (ăž), cyrillic (жзи), turkish (ğış) and armenian (կհձ), we can construct the following daunting `awk` program:
