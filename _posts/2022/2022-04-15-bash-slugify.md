@@ -81,9 +81,12 @@ Command: ${line//[^a-zA-Z0-9]/-}
 Before: '  (Demain, dès l’aube)     '
 After : '---Demain--d--s-l-aube------'
 ```
-That's a lot of extra hyphens we still need to get rid of. Let's try a series of ${} to replace characters and take care if leading/trailing whitespace. Our code readability drops dramatically.
+That's a lot of extra hyphens we still need to get rid of. Let's try a series of ${} to replace characters and take care of leading/trailing whitespace. Our code readability drops dramatically.
 ```shell
-Command: $(line="${line//[^a-zA-Z0-9 ]/}"; line="${line%"${line##*[![:space:]]}"}"; line="${line#"${line%%[![:space:]]*}"}"; echo "${line// /-}")
+Command: $(line="${line//[^a-zA-Z0-9 ]/}"; 
+            line="${line%"${line##*[![:space:]]}"}"; 
+            line="${line#"${line%%[![:space:]]*}"}"; 
+            echo "${line// /-}")
 Before: '  (Demain, dès l’aube)     '
 After : 'Demain-ds-laube'
 ```
