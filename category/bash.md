@@ -2,5 +2,5 @@
 layout: with_category
 title: Bash
 keyword: bash
-count: 8
+count: 9
 ---
