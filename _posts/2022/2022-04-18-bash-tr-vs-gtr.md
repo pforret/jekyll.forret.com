@@ -2,7 +2,7 @@
 title: "Benchmark: MacOS tr vs GNU gtr"
 layout: post
 permalink: /2022/04/18/bash-tr-vs-gtr/
-image: /wp-content/uploads/2022/03/benchmark.slugify.jpg
+image: /wp-content/uploads/2022/03/benchmark.gtr.jpg
 categories:
     - bash
 tags:
@@ -70,4 +70,4 @@ It seems the GNU version of `tr` does not support accented characters and diacri
 So what is my recommendation for **tr or gtr**?
 
 * if you know you won't have accents/diacritics/foreign alphabets in your input, use `gtr`.
-* otherwise use `tr`. It's not fast, but it supports more 'weird' characters.
+* otherwise, use `tr`. It's not fast, but it supports more 'weird' characters.
