@@ -98,7 +98,9 @@ After : 'f8f0b804649a12456a239e4f1997fef581ee26b5869062093725b6586ff2f930d100b25
 Some lessons from these benchmarks:
 * almost all GNU hashing tools have about the same invocation time: 700-800 ops/sec, which means +- 1,3 msec per invocation. Only the native `md5` is slightly faster in invocation.
 * the Blake2 algorithm `b2sum` is the clear winner: it's the fastest in throughput (1GB in less than 2 seconds), while also being more secure than the other options.
+
 ---
+
 So what is my recommendation for **hashing**?
 
 * install/update the GNU coreutils to the most recent version and use `b2sum` for every hashing need.
