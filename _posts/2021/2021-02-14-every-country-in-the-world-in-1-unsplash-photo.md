@@ -30,7 +30,7 @@ I wanted to demonstrate the power of my [splashmark](/2020/10/07/new-script-spla
 
   * The script then used **splashmark** to resize and crop the original size of the image to a square 800&#215;800 size (&#8220;_Instagram style_&#8220;), added the name of the country as a big title, and added the photo attribution info (URL/photographer), _burnt_ into the photo (top and bottom right), as well as embedded in the image meta-data EXIF/IPTC info. This makes that attribution info pop up automatically when you use the photo in Facebook or WordPress, as you will see below.
   * The result is 195 images for 195 countries that should/could be representative for each. The definition of &#8220;most popular&#8221; image for Unsplash seems to be &#8220;most downloads&#8221;. 
-  * **The end result is here: [github.com/pforret/&#8230;/countries.md](https://github.com/pforret/splashmark_examples/blob/main/countries/countries.md)**
+  * **The end result is here: [splashing.forret.com/topic/country](https://splashing.forret.com/topic/country/index/)**
 
 I will give you some highlights:
 
