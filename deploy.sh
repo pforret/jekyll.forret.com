@@ -9,6 +9,8 @@ jekyll_taxonomy -c generate tag
 git add tag
 
 git add _posts
+cp VERSION.md _includes/version.html
+git add _includes
 git add wp-content
 git add public
 
