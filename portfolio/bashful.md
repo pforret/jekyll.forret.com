@@ -64,15 +64,14 @@ So I started one: [www.basher.it/package](https://www.basher.it/package)
 
 ## Bash Scripting Tools</h2>
 
-* <strong><a href="https://github.com/pforret/setver">pforret/setver</a></strong>: easy version (semver) management for bash, PHP, Node. <a href="https://blog.forret.com/2020/07/31/package-version-management-with-semver-sh/">Launched in 2020</a>. <figure class="wp-block-image size-large"><a href="https://blog.forret.com/wp-content/uploads/2021/01/setver.jpg"><img src="https://blog.forret.com/wp-content/uploads/2021/01/setver-1024x512.jpg" alt="" class="wp-image-2456"/></a><figcaption>Photo: Markus Winkler on Unsplash.com</figcaption></figure>
-* <a href="https://github.com/pforret/progressbar"><strong>pforret/progressbar</strong></a>: self-configuring progress bar for long-running CLI programs <figure class="wp-block-image size-large"><a href="https://blog.forret.com/wp-content/uploads/2021/01/progressbar.jpg"><img src="https://blog.forret.com/wp-content/uploads/2021/01/progressbar.jpg" alt="" class="wp-image-2460"/></a><figcaption>Photo: Lindsay  Henwood on Unsplash.com</figcaption></figure>
+* [github.com/pforret/setver](https://github.com/pforret/setver): easy version (semver) management for bash, PHP, Node. [Launched in 2020](https://blog.forret.com/2020/07/31/package-version-management-with-semver-sh) ![](https://blog.forret.com/wp-content/uploads/2021/01/setver.jpg)
+* [github.com/pforret/progressbar](https://github.com/pforret/progressbar): self-configuring progress bar for long-running CLI programs ![](https://blog.forret.com/wp-content/uploads/2021/01/progressbar.jpg) 
 
 ## Other Bash projects</h2>
 
-* <a href="https://github.com/pforret/splashmark"><strong>pforret/splashmark</strong></a>: create (social) images based on Unsplash photos, with proper attribution, titles, image filters. Used to make most of the images on this page. <a href="https://blog.forret.com/2020/10/07/new-script-splashmark-easy-unsplash-image-markup-on-the-command-line/">Launched in 2020</a>. <figure class="wp-block-image size-large"><a href="https://blog.forret.com/wp-content/uploads/2021/01/splashmark.jpg"><img src="https://blog.forret.com/wp-content/uploads/2021/01/splashmark-1024x512.jpg" alt="" class="wp-image-2461"/></a></figure>
-<!-- /wp:image -->
+* [github.com/pforret/splashmark](https://github.com/pforret/splashmark) : create (social) images based on Unsplash photos, with proper attribution, titles, image filters. Used to make most of the images on this page. <a href="https://blog.forret.com/2020/10/07/new-script-splashmark-easy-unsplash-image-markup-on-the-command-line/">Launched in 2020</a>. ![](https://blog.forret.com/wp-content/uploads/2021/01/splashmark-1024x512.jpg)
 
-* <a href="https://github.com/pforret/gandi_deploy"><strong>pforret/gandi_deploy</strong></a>: Easy git-based deployment for (PHP projects on) <a href="https://gandi.link/f/4a9c1f95">Gandi Simple Hosting</a>. <a href="https://blog.forret.com/2020/04/06/easy-site-deployment-on-gandi/">Launched in 2020</a>.
+* [github.com/pforret/gandi_deploy](https://github.com/pforret/gandi_deploy): Easy git-based deployment for (PHP projects on) <a href="https://gandi.link/f/4a9c1f95">Gandi Simple Hosting</a>. <a href="https://blog.forret.com/2020/04/06/easy-site-deployment-on-gandi/">Launched in 2020</a>.
 
 ## Bash scripting on Apple Silicon M1</h2>
 
