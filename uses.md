@@ -21,7 +21,7 @@ _Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's
 ## Media
 * Chromecast: I was an early adopter of Google ChromeCast, I have 3 Chromecast Video devices, 4 Chromecast Audio.
 * BlueYeti microphone
-* I would like to pick up my old hobby of [mashups/remixing](https://soundcloud.com/pforret/tracks), so I'm looking at Ableton Push + Live
+* I would like to pick up my old hobby of [mashups/remixing](https://soundcloud.com/pforret/tracks), so I've bought an Ableton Push2.
 
 ## Storage
 * Synology DS412+ with 16TB and and extra 16TB on a DX513
