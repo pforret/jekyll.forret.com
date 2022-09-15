@@ -64,7 +64,7 @@ Imagine that a payment terminal could show a QR code after every payment,
 that contains all the required VAT receipt information, easy to scan with your phone.
 
 ## 2. Use the middle (bank) man
-But then it hit me: why not use the middle man, i.e. the payment provider/bank? 
+But then I thought: why not use the middle man, i.e. the payment provider/bank? 
 At the time of the payment, the payment provider knows: 
 * the vendor's name
 * the vendor's VAT number
@@ -106,3 +106,5 @@ the [Expensify Business Credit Card](https://use.expensify.com/card)
 
 > ![Expensify Card](/wp-content/uploads/2022/09/screenshot.expensify.png)
 > However, this seems to be a US-only solution.
+
+As far as I can see now, there is no EU-compatible solution for the SME market.
