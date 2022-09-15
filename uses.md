@@ -10,9 +10,9 @@ _Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's
 ![](/wp-content/uploads/2022/unsplash.m1pro.jpg)
 
 ## Computers
-* 2021 MacBookPro 16" M1 Pro with 2TB SSD and 16GB RAM + Magic Mouse
+* 2021 MacBookPro 16" M1 Pro with 2TB SSD and 16GB RAM
 * 2020 MacMini M1 + Apple Cinema Display
-* 2017 Dell XPS 15" for client work
+* 2022 HP Elitebook 15" for client work
 
 ## Photography
 * Canon 5D Mark III, with Sigma 50mm f/1.4, Canon 85mm f/1.8, Canon 24-70mm f/2.8, Sigma 70-200mm f/2.8
