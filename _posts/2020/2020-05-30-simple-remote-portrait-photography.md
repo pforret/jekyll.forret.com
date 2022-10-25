@@ -1,10 +1,8 @@
 ---
-id: 2226
 title: How to do a remote portrait photo shoot
 date: 2020-05-30T14:43:39+02:00
 author: Peter
 layout: post
-guid: https://blog.forret.com/?p=2226
 permalink: /2020/05/30/simple-remote-portrait-photography/
 image: /wp-content/uploads/2020/05/BOSQ.20200525.200152.22.jpg
 categories:
@@ -43,53 +41,53 @@ In most cases, the model will use a mobile phone (or tablet) to capture the imag
 
 ### Hold your phone in your hand
 
-Obviously the easiest thing to do is for the model to hold the phone in their hand, directly or with a selfie stick. <figure class="wp-block-image size-large">
+Obviously the easiest thing to do is for the model to hold the phone in their hand, directly or with a selfie stick. 
 
-<img  width="640" height="640" src="https://blog.forret.com/wp-content/uploads/2020/05/11336131_1599455200326354_875258063_n.jpg" alt="" class="wp-image-2238" srcset="https://blog.forret.com/wp-content/uploads/2020/05/11336131_1599455200326354_875258063_n.jpg 640w, https://blog.forret.com/wp-content/uploads/2020/05/11336131_1599455200326354_875258063_n-300x300.jpg 300w, https://blog.forret.com/wp-content/uploads/2020/05/11336131_1599455200326354_875258063_n-150x150.jpg 150w, https://blog.forret.com/wp-content/uploads/2020/05/11336131_1599455200326354_875258063_n-50x50.jpg 50w" sizes="(max-width: 640px) 100vw, 640px" />  <https://www.instagram.com/p/3cNIHxyB6t/>   
+<img width="500" height="500" src="https://blog.forret.com/wp-content/uploads/2020/05/11336131_1599455200326354_875258063_n.jpg" alt="" />
+
+[https://www.instagram.com/p/3cNIHxyB6t/](https://www.instagram.com/p/3cNIHxyB6t/)
 
 But this limits the distance between model and camera (no full body shots), it limits the movement and makes some shots impossible. So let&#8217;s look at how the phone can be positioned so that the model does not need to hold it.
 
 ### Let your phone stand
 
-There are lots of options to hold your phone up so the camera is pointing horizontally. You can buy a mini tripod (3 static feet, less than 30cm/1 foot high), gorillapod (the feet can bend), a real tripod (up to 2m high), or you can DIY some solution out [of a cup or some old credit cards](https://fixthephoto.com/diy-iphone-tripod.html).<figure class="wp-block-gallery columns-3 is-cropped">
+There are lots of options to hold your phone up so the camera is pointing horizontally. You can buy a mini tripod (3 static feet, less than 30cm/1 foot high), gorillapod (the feet can bend), a real tripod (up to 2m high), or you can DIY some solution out [of a cup or some old credit cards](https://fixthephoto.com/diy-iphone-tripod.html).
 
-<ul class="blocks-gallery-grid">
-  <li class="blocks-gallery-item">
-     <img  width="300" height="180" src="https://blog.forret.com/wp-content/uploads/2020/05/diy-iphone-tripod-with-a-flipped-cup-step-2-300x180.jpg" alt="" data-id="2228" class="wp-image-2228" srcset="https://blog.forret.com/wp-content/uploads/2020/05/diy-iphone-tripod-with-a-flipped-cup-step-2-300x180.jpg 300w, https://blog.forret.com/wp-content/uploads/2020/05/diy-iphone-tripod-with-a-flipped-cup-step-2-768x461.jpg 768w, https://blog.forret.com/wp-content/uploads/2020/05/diy-iphone-tripod-with-a-flipped-cup-step-2.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="blocks-gallery-item__caption">DIY Cup holder  
-  </li>
-  <li class="blocks-gallery-item">
-     <img  width="300" height="200" src="https://blog.forret.com/wp-content/uploads/2020/05/FADRX8EIO34EGEE.LARGE_-300x200.jpg" alt="" data-id="2229" class="wp-image-2229" srcset="https://blog.forret.com/wp-content/uploads/2020/05/FADRX8EIO34EGEE.LARGE_-300x200.jpg 300w, https://blog.forret.com/wp-content/uploads/2020/05/FADRX8EIO34EGEE.LARGE_-768x512.jpg 768w, https://blog.forret.com/wp-content/uploads/2020/05/FADRX8EIO34EGEE.LARGE_.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="blocks-gallery-item__caption">DIY Wires  
-  </li>
-  <li class="blocks-gallery-item">
-     <img  width="300" height="180" src="https://blog.forret.com/wp-content/uploads/2020/05/plastic-card-iphone-stand-diy-step-7-300x180.jpg" alt="" data-id="2230" class="wp-image-2230" srcset="https://blog.forret.com/wp-content/uploads/2020/05/plastic-card-iphone-stand-diy-step-7-300x180.jpg 300w, https://blog.forret.com/wp-content/uploads/2020/05/plastic-card-iphone-stand-diy-step-7-768x461.jpg 768w, https://blog.forret.com/wp-content/uploads/2020/05/plastic-card-iphone-stand-diy-step-7.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="blocks-gallery-item__caption">DIY Plastic cards  
-  </li>
-  <li class="blocks-gallery-item">
-     <img  width="522" height="1024" src="https://blog.forret.com/wp-content/uploads/2020/05/gorilla_tripod-522x1024.jpg" alt="" data-id="2231" class="wp-image-2231" srcset="https://blog.forret.com/wp-content/uploads/2020/05/gorilla_tripod-522x1024.jpg 522w, https://blog.forret.com/wp-content/uploads/2020/05/gorilla_tripod-153x300.jpg 153w, https://blog.forret.com/wp-content/uploads/2020/05/gorilla_tripod.jpg 764w" sizes="(max-width: 522px) 100vw, 522px" /><figcaption class="blocks-gallery-item__caption">Tripod  
-  </li>
-  <li class="blocks-gallery-item">
-     <img  width="300" height="300" src="https://blog.forret.com/wp-content/uploads/2020/05/flexible_mount-300x300.jpg" alt="" data-id="2235" class="wp-image-2235" srcset="https://blog.forret.com/wp-content/uploads/2020/05/flexible_mount-300x300.jpg 300w, https://blog.forret.com/wp-content/uploads/2020/05/flexible_mount-150x150.jpg 150w, https://blog.forret.com/wp-content/uploads/2020/05/flexible_mount-50x50.jpg 50w, https://blog.forret.com/wp-content/uploads/2020/05/flexible_mount.jpg 650w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="blocks-gallery-item__caption">Gooseneck  
-  </li>
-</ul>  
+<img width="300" src="https://blog.forret.com/wp-content/uploads/2020/05/diy-iphone-tripod-with-a-flipped-cup-step-2-300x180.jpg" alt="" />
+DIY Cup holder  
 
-The phone holder can stand on a table, a window sill, a cupboard, a rack or the floor. It can tilt downwards or upwards.<figure class="wp-block-image size-large">
 
-<img  width="1080" height="607" src="https://i0.wp.com/blog.forret.com/wp-content/uploads/2020/05/100898961_2598854367035809_3401344633216125874_n.jpg?fit=688%2C387&ssl=1" alt="" class="wp-image-2255" srcset="https://blog.forret.com/wp-content/uploads/2020/05/100898961_2598854367035809_3401344633216125874_n.jpg 1080w, https://blog.forret.com/wp-content/uploads/2020/05/100898961_2598854367035809_3401344633216125874_n-300x169.jpg 300w, https://blog.forret.com/wp-content/uploads/2020/05/100898961_2598854367035809_3401344633216125874_n-1024x576.jpg 1024w, https://blog.forret.com/wp-content/uploads/2020/05/100898961_2598854367035809_3401344633216125874_n-768x432.jpg 768w" sizes="(max-width: 1080px) 100vw, 1080px" />  <https://www.instagram.com/p/CAqeFPzptGb/>   
+<img width="300" src="https://blog.forret.com/wp-content/uploads/2020/05/FADRX8EIO34EGEE.LARGE_-300x200.jpg" alt=""  />
+DIY Wires  
+
+<img  width="300" src="https://blog.forret.com/wp-content/uploads/2020/05/plastic-card-iphone-stand-diy-step-7-300x180.jpg" alt="" />
+DIY Plastic cards  
+
+<img width="200" src="https://blog.forret.com/wp-content/uploads/2020/05/gorilla_tripod-522x1024.jpg" alt="" />
+Tripod  
+
+<img width="300" src="https://blog.forret.com/wp-content/uploads/2020/05/flexible_mount-300x300.jpg" alt="" />
+Gooseneck  
+
+The phone holder can stand on a table, a window sill, a cupboard, a rack or the floor. It can tilt downwards or upwards.
+
+![Remote shoot](https://blog.forret.com/wp-content/uploads/2020/05/100898961_2598854367035809_3401344633216125874_n.jpg)
 
 ### Let your phone hang
 
-Your phone can be hung from the top of a door, or the door handle. This is something that is easy to do with a piece of rope, a clothes hanger and/or some gaffer tape. The advantage is that you can more easily take portraits on eye height.<figure class="wp-block-image size-large">
+Your phone can be hung from the top of a door, or the door handle. This is something that is easy to do with a piece of rope, a clothes hanger and/or some gaffer tape. The advantage is that you can more easily take portraits on eye height.
 
-<img  width="640" height="640" src="https://blog.forret.com/wp-content/uploads/2020/05/101025160_479566716149652_7056341517506949518_n.jpg" alt="" class="wp-image-2234" srcset="https://blog.forret.com/wp-content/uploads/2020/05/101025160_479566716149652_7056341517506949518_n.jpg 640w, https://blog.forret.com/wp-content/uploads/2020/05/101025160_479566716149652_7056341517506949518_n-300x300.jpg 300w, https://blog.forret.com/wp-content/uploads/2020/05/101025160_479566716149652_7056341517506949518_n-150x150.jpg 150w, https://blog.forret.com/wp-content/uploads/2020/05/101025160_479566716149652_7056341517506949518_n-50x50.jpg 50w" sizes="(max-width: 640px) 100vw, 640px" />  <https://www.instagram.com/p/CAxGDz8goHL/>   
+![](https://blog.forret.com/wp-content/uploads/2020/05/101025160_479566716149652_7056341517506949518_n.jpg)
 
 ### Let your phone lie down
 
 Your phone can lie on its back and shoot up. This allows for hand stand, dynamic jump, step shots or original background for a face shot (i.e. the ceiling).<figure class="wp-block-image size-large">
 
-<img  width="564" height="705" src="https://blog.forret.com/wp-content/uploads/2020/05/9e352c29d79f1bdd4860548a62d14be4.jpg" alt="" class="wp-image-2237" srcset="https://blog.forret.com/wp-content/uploads/2020/05/9e352c29d79f1bdd4860548a62d14be4.jpg 564w, https://blog.forret.com/wp-content/uploads/2020/05/9e352c29d79f1bdd4860548a62d14be4-240x300.jpg 240w" sizes="(max-width: 564px) 100vw, 564px" />  <https://www.instagram.com/tezza/>   
+![](https://blog.forret.com/wp-content/uploads/2020/05/9e352c29d79f1bdd4860548a62d14be4.jpg)
 
-The opposite is also possible: lie your phone flat down on a glass table or other surface and position yourself underneath. Another option would be to [tape it to the ceiling](https://www.youtube.com/watch?v=cTx6D88mogs).<figure class="wp-block-image size-large">
+The opposite is also possible: lie your phone flat down on a glass table or other surface and position yourself underneath. Another option would be to [tape it to the ceiling](https://www.youtube.com/watch?v=cTx6D88mogs).
 
-<img  width="1280" height="1920" src="https://i0.wp.com/blog.forret.com/wp-content/uploads/2020/05/rebellious-fashion-photography-editorial-poses-ideas-fresh-jen-vermeulen-photography-jenvermeulenphotography-wide-angle-high-of-rebellious-fashion-photography-editorial-poses-ideas.jpg?fit=683%2C1024&ssl=1" alt="" class="wp-image-2236" srcset="https://blog.forret.com/wp-content/uploads/2020/05/rebellious-fashion-photography-editorial-poses-ideas-fresh-jen-vermeulen-photography-jenvermeulenphotography-wide-angle-high-of-rebellious-fashion-photography-editorial-poses-ideas.jpg 1280w, https://blog.forret.com/wp-content/uploads/2020/05/rebellious-fashion-photography-editorial-poses-ideas-fresh-jen-vermeulen-photography-jenvermeulenphotography-wide-angle-high-of-rebellious-fashion-photography-editorial-poses-ideas-200x300.jpg 200w, https://blog.forret.com/wp-content/uploads/2020/05/rebellious-fashion-photography-editorial-poses-ideas-fresh-jen-vermeulen-photography-jenvermeulenphotography-wide-angle-high-of-rebellious-fashion-photography-editorial-poses-ideas-683x1024.jpg 683w, https://blog.forret.com/wp-content/uploads/2020/05/rebellious-fashion-photography-editorial-poses-ideas-fresh-jen-vermeulen-photography-jenvermeulenphotography-wide-angle-high-of-rebellious-fashion-photography-editorial-poses-ideas-768x1152.jpg 768w, https://blog.forret.com/wp-content/uploads/2020/05/rebellious-fashion-photography-editorial-poses-ideas-fresh-jen-vermeulen-photography-jenvermeulenphotography-wide-angle-high-of-rebellious-fashion-photography-editorial-poses-ideas-1024x1536.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />  <https://www.instagram.com/jenvermeulenphotography>/   
+![](https://blog.forret.com/wp-content/uploads/2020/05/rebellious-fashion-photography-editorial-poses-ideas-fresh-jen-vermeulen-photography-jenvermeulenphotography-wide-angle-high-of-rebellious-fashion-photography-editorial-poses-ideas.jpg)
 
 ## The remote shoot: the model
 
@@ -97,11 +95,10 @@ The opposite is also possible: lie your phone flat down on a glass table or othe
 
 A remote portrait photo shoot requires a lot of communication, and 90% of this communication will be verbal, so it is very important that both parties understand each other well, Wearing headphones is not possible for the model. One Airpod/Galaxy Bud might be an option, but then the model has to keep in mind to always hide one side of the head.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-medium"><img  width="300" height="300" src="https://blog.forret.com/wp-content/uploads/2020/05/100957903_568454430526427_9022327949220291047_n-300x300.jpg" alt="" class="wp-image-2239" srcset="https://blog.forret.com/wp-content/uploads/2020/05/100957903_568454430526427_9022327949220291047_n-300x300.jpg 300w, https://blog.forret.com/wp-content/uploads/2020/05/100957903_568454430526427_9022327949220291047_n-150x150.jpg 150w, https://blog.forret.com/wp-content/uploads/2020/05/100957903_568454430526427_9022327949220291047_n-50x50.jpg 50w, https://blog.forret.com/wp-content/uploads/2020/05/100957903_568454430526427_9022327949220291047_n.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /> <a href="https://www.instagram.com/p/CAwtQ1Lg7kZ/">https://www.instagram.com/p/CAwtQ1Lg7kZ/</a>   
-</div>
+<img width="300" src="https://blog.forret.com/wp-content/uploads/2020/05/100957903_568454430526427_9022327949220291047_n-300x300.jpg" alt="" /> <a href="https://www.instagram.com/p/CAwtQ1Lg7kZ/">https://www.instagram.com/p/CAwtQ1Lg7kZ/</a>   
 
-A better option is to use a **Bluetooth speaker**. It carries more sound than the flimsy speaker of the phone itself and it can easily be positioned outside of the frame. Just make sure that your microphone still works OK. Test it beforehand with a friend.
+
+A better option is to use a **Bluetooth speaker**. It carries more sound than the flimsy speaker of the phone itself, and it can easily be positioned outside the frame. Just make sure that your microphone still works OK. Test it beforehand with a friend.
 
 ### Garderobe
 
@@ -113,38 +110,15 @@ For most remote shoots, you need good natural light, and you will have to choose
 
 The model can also use extra light sources, like a flame/lighter, the flash of another phone, a flash light, a desk lamp, string lights.
 
-<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide">
-  <div class="wp-block-jetpack-slideshow_container swiper-container">
-    <ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper">
-      <li class="wp-block-jetpack-slideshow_slide swiper-slide">
-         <img  width="640" height="640" alt="" class="wp-block-jetpack-slideshow_image wp-image-2245" data-id="2245" src="https://blog.forret.com/wp-content/uploads/2020/05/36661217_259436281309125_8359717472986726400_n.jpg" srcset="https://blog.forret.com/wp-content/uploads/2020/05/36661217_259436281309125_8359717472986726400_n.jpg 640w, https://blog.forret.com/wp-content/uploads/2020/05/36661217_259436281309125_8359717472986726400_n-300x300.jpg 300w, https://blog.forret.com/wp-content/uploads/2020/05/36661217_259436281309125_8359717472986726400_n-150x150.jpg 150w, https://blog.forret.com/wp-content/uploads/2020/05/36661217_259436281309125_8359717472986726400_n-50x50.jpg 50w" sizes="(max-width: 640px) 100vw, 640px" /><figcaption class="wp-block-jetpack-slideshow_caption gallery-caption">https://www.instagram.com/brandonwoelfel/  
-      </li>
-      <li class="wp-block-jetpack-slideshow_slide swiper-slide">
-         <img  width="700" height="1059" alt="" class="wp-block-jetpack-slideshow_image wp-image-2246" data-id="2246" src="https://blog.forret.com/wp-content/uploads/2020/05/AD-Easy-Camera-Hacks-How-to-Improve-Photography-Skills-02N-1.jpg" srcset="https://blog.forret.com/wp-content/uploads/2020/05/AD-Easy-Camera-Hacks-How-to-Improve-Photography-Skills-02N-1.jpg 700w, https://blog.forret.com/wp-content/uploads/2020/05/AD-Easy-Camera-Hacks-How-to-Improve-Photography-Skills-02N-1-198x300.jpg 198w, https://blog.forret.com/wp-content/uploads/2020/05/AD-Easy-Camera-Hacks-How-to-Improve-Photography-Skills-02N-1-677x1024.jpg 677w" sizes="(max-width: 700px) 100vw, 700px" /><figcaption class="wp-block-jetpack-slideshow_caption gallery-caption">Kicthen equiment  
-      </li>
-      <li class="wp-block-jetpack-slideshow_slide swiper-slide">
-         <img  width="700" height="1011" alt="" class="wp-block-jetpack-slideshow_image wp-image-2247" data-id="2247" src="https://blog.forret.com/wp-content/uploads/2020/05/AD-Easy-Camera-Hacks-How-to-Improve-Photography-Skills-13-1.jpg" srcset="https://blog.forret.com/wp-content/uploads/2020/05/AD-Easy-Camera-Hacks-How-to-Improve-Photography-Skills-13-1.jpg 700w, https://blog.forret.com/wp-content/uploads/2020/05/AD-Easy-Camera-Hacks-How-to-Improve-Photography-Skills-13-1-208x300.jpg 208w" sizes="(max-width: 700px) 100vw, 700px" /><figcaption class="wp-block-jetpack-slideshow_caption gallery-caption">Sunglasses  
-      </li>
-      <li class="wp-block-jetpack-slideshow_slide swiper-slide">
-         <img  width="689" height="1063" alt="" class="wp-block-jetpack-slideshow_image wp-image-2248" data-id="2248" src="https://blog.forret.com/wp-content/uploads/2020/05/AD-Easy-Camera-Hacks-How-to-Improve-Photography-Skills-19.jpg" srcset="https://blog.forret.com/wp-content/uploads/2020/05/AD-Easy-Camera-Hacks-How-to-Improve-Photography-Skills-19.jpg 689w, https://blog.forret.com/wp-content/uploads/2020/05/AD-Easy-Camera-Hacks-How-to-Improve-Photography-Skills-19-194x300.jpg 194w, https://blog.forret.com/wp-content/uploads/2020/05/AD-Easy-Camera-Hacks-How-to-Improve-Photography-Skills-19-664x1024.jpg 664w" sizes="(max-width: 689px) 100vw, 689px" /><figcaption class="wp-block-jetpack-slideshow_caption gallery-caption">Cardboard shapes  
-      </li>
-      <li class="wp-block-jetpack-slideshow_slide swiper-slide">
-         <img  width="688" height="807" alt="" class="wp-block-jetpack-slideshow_image wp-image-2249" data-id="2249" src="https://blog.forret.com/wp-content/uploads/2020/05/AD-Easy-Camera-Hacks-How-to-Improve-Photography-Skills-27-1.jpg" srcset="https://blog.forret.com/wp-content/uploads/2020/05/AD-Easy-Camera-Hacks-How-to-Improve-Photography-Skills-27-1.jpg 688w, https://blog.forret.com/wp-content/uploads/2020/05/AD-Easy-Camera-Hacks-How-to-Improve-Photography-Skills-27-1-256x300.jpg 256w" sizes="(max-width: 688px) 100vw, 688px" /><figcaption class="wp-block-jetpack-slideshow_caption gallery-caption">Shower curtain soft box  
-      </li>
-      <li class="wp-block-jetpack-slideshow_slide swiper-slide">
-         <img  width="700" height="787" alt="" class="wp-block-jetpack-slideshow_image wp-image-2250" data-id="2250" src="https://blog.forret.com/wp-content/uploads/2020/05/AD-Easy-Camera-Hacks-How-to-Improve-Photography-Skills-41.jpg" srcset="https://blog.forret.com/wp-content/uploads/2020/05/AD-Easy-Camera-Hacks-How-to-Improve-Photography-Skills-41.jpg 700w, https://blog.forret.com/wp-content/uploads/2020/05/AD-Easy-Camera-Hacks-How-to-Improve-Photography-Skills-41-267x300.jpg 267w" sizes="(max-width: 700px) 100vw, 700px" /><figcaption class="wp-block-jetpack-slideshow_caption gallery-caption">Flame  
-      </li>
-      <li class="wp-block-jetpack-slideshow_slide swiper-slide">
-         <img  width="700" height="788" alt="" class="wp-block-jetpack-slideshow_image wp-image-2251" data-id="2251" src="https://blog.forret.com/wp-content/uploads/2020/05/AD-Easy-Camera-Hacks-How-to-Improve-Photography-Skills-16-1.jpg" srcset="https://blog.forret.com/wp-content/uploads/2020/05/AD-Easy-Camera-Hacks-How-to-Improve-Photography-Skills-16-1.jpg 700w, https://blog.forret.com/wp-content/uploads/2020/05/AD-Easy-Camera-Hacks-How-to-Improve-Photography-Skills-16-1-266x300.jpg 266w" sizes="(max-width: 700px) 100vw, 700px" /><figcaption class="wp-block-jetpack-slideshow_caption gallery-caption">CD reflector  
-      </li>
-    </ul>
-    
-    <a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a>
-    
-    <div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white">
-    </div>
-  </div>
-</div>
+
+![](https://blog.forret.com/wp-content/uploads/2020/05/36661217_259436281309125_8359717472986726400_n.jpg)
+![](https://blog.forret.com/wp-content/uploads/2020/05/AD-Easy-Camera-Hacks-How-to-Improve-Photography-Skills-02N-1.jpg)
+![](https://blog.forret.com/wp-content/uploads/2020/05/AD-Easy-Camera-Hacks-How-to-Improve-Photography-Skills-13-1.jpg)
+![](https://blog.forret.com/wp-content/uploads/2020/05/AD-Easy-Camera-Hacks-How-to-Improve-Photography-Skills-19.jpg)
+![](https://blog.forret.com/wp-content/uploads/2020/05/AD-Easy-Camera-Hacks-How-to-Improve-Photography-Skills-27-1.jpg)
+![](https://blog.forret.com/wp-content/uploads/2020/05/AD-Easy-Camera-Hacks-How-to-Improve-Photography-Skills-41.jpg)
+![](https://blog.forret.com/wp-content/uploads/2020/05/AD-Easy-Camera-Hacks-How-to-Improve-Photography-Skills-16-1.jpg)
+
 
 ## The remote shoot: the photographer
 
@@ -158,7 +132,8 @@ Make a list of the places you want to use and pick one to start.
 
 For the photographer, (wireless) headphones will be handy. If possible, try to work on the **biggest screen possible**, a laptop or external screen are preferable (screenshots will have more pixels). Otherwise it&#8217;s just your smart phone/tablet and taking screen shots. As mentioned above, [Facetime allows for taking live photos on iPhone instead of screen shots](https://appleinsider.com/articles/20/04/08/photographer-shows-how-facetime-can-create-captivating-portraits-remotely).<figure class="wp-block-image size-large">
 
-<img  width="1024" height="576" src="https://blog.forret.com/wp-content/uploads/2020/05/gamze999.png" alt="" class="wp-image-2258" srcset="https://blog.forret.com/wp-content/uploads/2020/05/gamze999.png 1024w, https://blog.forret.com/wp-content/uploads/2020/05/gamze999-300x169.png 300w, https://blog.forret.com/wp-content/uploads/2020/05/gamze999-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />  Remote shoot with Messenger on external screen, mood board on the right   
+![](https://blog.forret.com/wp-content/uploads/2020/05/gamze999.png)
+Remote shoot with Messenger on external screen, mood board on the right   
 
 Your photos will not really be big enough to allow a lot of cropping, so try to get the frame right in camera.
 
@@ -172,7 +147,7 @@ You have to use **clear wording** to describe the pose you have in mind. The &#8
 
 The images you will have taken, are not the usual 20 megapixel photos. You will have only 1 megapixel to work with, and a lot of digital noise. One way to solve this is to **embrace the grain**, and add some film grain to make the photo look moody/vintage instead of only noisy.<figure class="wp-block-image size-large">
 
-<img  width="640" height="640" src="https://blog.forret.com/wp-content/uploads/2020/05/100975157_2747399592156451_5674181972166211049_n.jpg" alt="" class="wp-image-2256" srcset="https://blog.forret.com/wp-content/uploads/2020/05/100975157_2747399592156451_5674181972166211049_n.jpg 640w, https://blog.forret.com/wp-content/uploads/2020/05/100975157_2747399592156451_5674181972166211049_n-300x300.jpg 300w, https://blog.forret.com/wp-content/uploads/2020/05/100975157_2747399592156451_5674181972166211049_n-150x150.jpg 150w, https://blog.forret.com/wp-content/uploads/2020/05/100975157_2747399592156451_5674181972166211049_n-50x50.jpg 50w" sizes="(max-width: 640px) 100vw, 640px" />  <https://www.instagram.com/p/CAqeNGCJSE6/>   
+![](https://blog.forret.com/wp-content/uploads/2020/05/100975157_2747399592156451_5674181972166211049_n.jpg)
 
 Some more articles:
 
