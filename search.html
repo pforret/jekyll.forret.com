@@ -3,13 +3,7 @@ layout: page
 title: Search
 fontawesome: <i class="fas fa-search"></i>
 ---
-<style type="text/css">
-    #search-demo-container {
-        max-width: 40em;
-        padding: 1em;
-        margin: 1em auto;
-        border: 1px solid lightgrey;
-    }
+<style>
     #search-input {
         display: inline-block;
         padding: .5em;
@@ -21,12 +15,27 @@ fontawesome: <i class="fas fa-search"></i>
     }
 </style>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/simple-jekyll-search/1.9.2/simple-jekyll-search.min.js" integrity="sha512-gABzh+zgo1Eh5HMdD2IMOjeaQAjl9v/MrA3xbZnMTRR5wC4x3WxurJo6yg5EWj1zfNz0qoXK/rKVP5Are0E4QQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script
+        src="https://cdnjs.cloudflare.com/ajax/libs/simple-jekyll-search/1.9.2/simple-jekyll-search.min.js"
+        integrity="sha512-gABzh+zgo1Eh5HMdD2IMOjeaQAjl9v/MrA3xbZnMTRR5wC4x3WxurJo6yg5EWj1zfNz0qoXK/rKVP5Are0E4QQ=="
+        crossorigin="anonymous"
+        referrerpolicy="no-referrer">
+</script>
 <!-- HTML elements for search -->
-<input type="text" id="search-input" placeholder="Search blog posts..">
-<ul id="results-container"></ul>
+<label for="search-input">Search for keyword(s) in title of post</label>
+<input type="text" id="search-input" placeholder="Start typing ...">
 
-
+<ul id="results-container">
+    <li style="color: #CCC">
+        ...
+    </li>
+    <li style="color: #CCC">
+        ...
+    </li>
+    <li style="color: #CCC">
+        ...
+    </li>
+</ul>
 
 <script type="text/javascript">
     SimpleJekyllSearch({

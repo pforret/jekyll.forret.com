@@ -2,5 +2,5 @@
 layout: with_tag
 title: Cinema
 keyword: cinema
-count: 6
+count: 5
 ---

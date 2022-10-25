@@ -1,25 +1,26 @@
 ---
-id: 439
 title: 'Estimate # of lines in a log file'
 date: 2004-10-21T13:30:27+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2004/10/estimate-of-lines-in-a-log-file/
 permalink: /2004/10/21/estimate-of-lines-in-a-log-file/
 categories:
   - Linux
 ---
 Let&#8217;s say you need an (approximate) count of the number of lines in a huge file. The most obvious way of calculating this would be using `wc`, but this actually can be quite slow:  
-`# time wc -l /var/log/squid/access.log<br />
-2812824 /var/log/squid/access.log<br />
-real    0m43.988s`  
-(counting is done at 64.000 lines/sec)
+```bash
+> time wc -l /var/log/squid/access.log
+2812824 /var/log/squid/access.log
+real    0m43.988s
+# (counting is done at 64.000 lines/sec)
+```
 
-Running `wc` without the `-l` (only count lines) would be ever slower because it would also count the words, instead of just the LF (linefeed) characters. But using `wc -c` is very fast! This is because the filesystem keeps track of each file&#8217;s filesize (= number of characters/bytes), so the file does not even have to be read to give this number. Can we estimate the # of lines from the # of bytes?
+Running `wc` without the `-l` (only count lines) would be ever slower because it would also count the words, instead of just the LF (linefeed) characters. But using `wc -c` is very fast! This is because the filesystem keeps track of each file's filesize (= number of characters/bytes), so the file does not even have to be read to give this number. Can we estimate the # of lines from the # of bytes?
 
-For the type of file we are talking about here (a Squid log file) there actually is a way. The file is more or less &#8216;square&#8217;, meaning that every line is about the same length (it contains date, status, URL, &#8230;).  
+For the type of file we are talking about here (a Squid log file) there actually is a way. The file is more or less 'square', meaning that every line is about the same length (it contains date, status, URL, ...)
+
 If we take the beginning of the file (the first 10000 lines):  
-`# head -10000 /var/log/squid/access.log | wc<br />
+`# head -10000 /var/log/squid/access.log | wc
   10000  100000 1775257`  
 we see that every line is about 177 chars long.
 
