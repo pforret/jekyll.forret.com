@@ -17,7 +17,7 @@ author:
 
 # Build settings
 plugins:
-#  - jekyll-feed
+  - jekyll-feed
   - jekyll-paginate
   - jekyll-redirect-from
 

@@ -47,23 +47,17 @@ Yes! That beautiful saturated red and green, that is indeed the French classic _
 
 Isn't it amazing that your brain can sometimes get enough out of 9 (3 x 3) pixels to recognise an image? It actually works a bit counterintuitive: if you want a better view, you don't zoom in, but you have to zoom out. Let's try some more, but keep your phone at arm's length (if you're on mobile) or move 4 steps away from your laptop screen.
 
-<img  width="150" height="150" src="https://blog.forret.com/wp-content/uploads/2020/05/themarti.c8d9.9-M15G16-150x150.jpg" alt=""  /> 
-  
+<img  width="150" height="150" src="https://blog.forret.com/wp-content/uploads/2020/05/themarti.c8d9.9-M15G16-150x150.jpg" alt=""  />  
 <img  width="150" height="150" src="https://blog.forret.com/wp-content/uploads/2020/05/fightclu.06bb.5-M20G16-150x150.jpg" alt="" /> 
-
 <img  width="150" height="150" src="/wp-content/uploads/2020/05/Alladin.4244.9-M15G16.jpg" alt="" /> 
-
 <img width="150" height="150" src="/wp-content/uploads/2020/05/Amercian.530b.9-M15G16.jpg" alt="" /> 
 
 
 Or if that's too hard:
 
 <img  width="150" height="150" src="/wp-content/uploads/2020/05/themarti.c8d9.15-M15G16-1-150x150.jpg" alt="" /> 
-
 <img  width="150" height="150" src="/wp-content/uploads/2020/05/fightclu.06bb.15-M15G16.jpg" alt="" /> 
-
 <img  width="150" height="150" src="/wp-content/uploads/2020/05/Alladin.4244.15-M15G16.jpg" alt=""  /> 
-
 <img  width="150" height="150" src="/wp-content/uploads/2020/05/Amercian.530b.15-M15G16.jpg" alt="" /> 
 
 Answers: The Martian, Fight Club, Aladdin, American Beauty.
