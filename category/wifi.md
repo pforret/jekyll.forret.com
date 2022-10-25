@@ -2,5 +2,5 @@
 layout: with_category
 title: Wifi
 keyword: wifi
-count: 11
+count: 10
 ---

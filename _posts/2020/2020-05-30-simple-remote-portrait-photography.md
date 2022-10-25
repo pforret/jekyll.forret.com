@@ -18,8 +18,6 @@ tags:
     - remote
     - shoot
 ---
-## Intro
-
 COVID19 has had a huge impact of pretty much everything. For portrait photography, the 6-feet-apart, no-travelling, use-mouth-mask lockdown had made it almost impossible to do an in-person photo shoot. But every limit is also a challenge, Is it possible to do an interesting remote shoot via the internet? The answer is yes. I will give you some tips on how to do this. 
 
 _This article only talks about a &#8216;simple&#8217; remote portrait photo shoot: 1 or 2 models, 1 photographer, with smartphone or tablet camera, no studio lighting, no DSLR, no assistant, no remote triggering, no tethering setup._
