@@ -1,15 +1,16 @@
 ---
-id: 336
 title: Convergence of the iPod
 date: 2006-05-24T16:39:46+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2006/05/convergence-of-the-ipod/
 permalink: /2006/05/24/convergence-of-the-ipod/
 categories:
   - mobile
+tags:
   - smartphones
   - wifi
+  - ipod
+  - apple
 ---
 Using an iPod to see how fast one is running:
 
@@ -23,7 +24,6 @@ Interesting move! If one needed to guess a while back the type of device Nike sh
 
 So now there&#8217;s an attack from a less obvious contender to that Holy Grail of Ultimate Mobile Device. Let&#8217;s take a look at that crowded space:  
 [<img  src="http://static.flickr.com/50/152500052_4d55f452b4.jpg" width="500" height="424" alt="Convergence: overview" />](http://www.flickr.com/photos/pforret/152500052/ "Photo Sharing")  
-<!--more-->
 
   
 The axes are as follows: 
