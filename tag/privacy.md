@@ -2,5 +2,5 @@
 layout: with_tag
 title: Privacy
 keyword: privacy
-count: 2
+count: 4
 ---

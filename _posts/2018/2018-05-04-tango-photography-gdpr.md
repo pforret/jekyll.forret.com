@@ -9,11 +9,10 @@ permalink: /2018/05/04/tango-photography-gdpr/
 image: /wp-content/uploads/2018/03/TP.20170709.0240.0975-1-600x400.jpg
 categories:
   - photography
-  - privacy
-  - Tango
+  - gdpr
+  - tango
 tags:
   - europe
-  - gdpr
   - photography
   - privacy
 ---

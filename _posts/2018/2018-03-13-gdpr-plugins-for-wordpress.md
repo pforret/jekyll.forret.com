@@ -8,15 +8,14 @@ guid: http://blog.forret.com/?p=1613
 permalink: /2018/03/13/gdpr-plugins-for-wordpress/
 image: /wp-content/uploads/2018/03/fig-12-03-2018_23-41-09.jpg
 categories:
-  - security
-  - Wordpress
+  - gdpr
 tags:
   - europe
-  - gdpr
   - https
   - law
   - privacy
   - ssl
+  - wordpress
 ---
 Europe&#8217;s General Data Protection Regulation (GDPR) jumps into action on 25 May 2018. This has a lot of implications for every company in Europe, but also worldwide. And what does it mean for us, owners of a WordPress blog?
 
