@@ -6,15 +6,15 @@ layout: default
 <div class="container">
     <h1>Error 404: Page not found</h1>
 
-    <img src="/wp-content/uploads/error404.gif">
+    <img src="/wp-content/uploads/error404.gif" alt="Page not found">
     <h2>Search this blog</h2>
     <p>
         <script>
             url = window.location.href;
             parts =url.split('/');
-            var basename = parts.pop();
+            basename = parts.pop();
             if(!basename){
-                var basename = parts.pop();
+                basename = parts.pop();
             }
             basename=basename.replaceAll("-"," ");
             basename = basename.substring(0,15);
