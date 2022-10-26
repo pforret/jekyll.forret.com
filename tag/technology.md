@@ -2,5 +2,5 @@
 layout: with_tag
 title: Technology
 keyword: technology
-count: 2
+count: 3
 ---
