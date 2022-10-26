@@ -1,5 +1,6 @@
 ---
 permalink: /404.html
+title: Page not found
 layout: default
 ---
 <div class="container">
@@ -8,7 +9,18 @@ layout: default
     <img src="/wp-content/uploads/error404.gif">
     <h2>Search this blog</h2>
     <p>
-        Here you can <a href="/search">search this blog</a>.
+        <script>
+            url = window.location.href;
+            parts =url.split('/');
+            var basename = parts.pop();
+            if(!basename){
+                var basename = parts.pop();
+            }
+            basename=basename.replaceAll("-"," ");
+            basename = basename.substring(0,15);
+            console.log(basename);
+            document.write('Here you can <a href="/search?q=' + basename.replaceAll(" ","+") + '">search this blog for <i>' + basename + '</i></a>');
+        </script>
     </p>
     <h2>Popular posts</h2>
     <p>

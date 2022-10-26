@@ -4,7 +4,7 @@ layout: none
 [
 {% for post in site.posts %}
 {
-"title"    : "{{ post.title | escape }}",
+"title"    : "{{ post.title | strip_html | strip_newlines | remove_chars | escape }}",
 "category" : "{{ post.categories | join: ', '  }}",
 "tags"     : "{{ post.tags | join: ', ' }}",
 "url"      : "{{ post.url }}",
@@ -16,7 +16,7 @@ layout: none
 {% for page in site.pages %}
 {
 {% if page.title != nil %}
-"title"    : "Page: {{ page.title | escape }}",
+"title"    : "Page: {{ page.title | strip_html | strip_newlines | remove_chars | escape }}",
 "category" : "{{ page.categories | join: ', '  }}",
 "tags"     : "{{ page.tags | join: ', ' }}",
 "url"      : "{{ page.url }}",

@@ -13,6 +13,14 @@ fontawesome: <i class="fas fa-search"></i>
         -moz-box-sizing: border-box;
         box-sizing: border-box;
     }
+
+    .temp_result {
+        animation: blinker 4s linear infinite;
+    }
+
+    @keyframes blinker {
+        50% { opacity: 0; }
+    }
 </style>
 
 <script
@@ -26,26 +34,44 @@ fontawesome: <i class="fas fa-search"></i>
 <input type="text" id="search-input" placeholder="Start typing ...">
 
 <ul id="results-container">
-    <li style="color: #CCC">
+    <li class="temp_result">
         ...
     </li>
-    <li style="color: #CCC">
+    <li class="temp_result">
         ...
     </li>
-    <li style="color: #CCC">
+    <li class="temp_result">
         ...
     </li>
 </ul>
 
 <script type="text/javascript">
-    SimpleJekyllSearch({
+    function getParameterByName(name, url = window.location.href) {
+        name = name.replace(/[\[\]]/g, '\\$&');
+        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+            results = regex.exec(url);
+        if (!results) return null;
+        if (!results[2]) return '';
+        return decodeURIComponent(results[2].replace(/\+/g, ' '));
+    }
+
+    var sjs = SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         json: '/search.json',
-        searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+        searchResultTemplate: '<li><a href="{url}" title="{date} &bull; {category} &bull; {tags}">{title}</a></li>',
         noResultsText: 'No results found',
         limit: 20,
         fuzzy: false,
         exclude: ['Welcome']
-    })
+    });
+
+    document.getElementById("search-input").focus();
+    var query = getParameterByName('q')
+    if(query){
+        document.getElementById("search-input").value = query;
+        console.log("Searching for: " + query);
+        sjs.search(query);
+    }
+
 </script>
