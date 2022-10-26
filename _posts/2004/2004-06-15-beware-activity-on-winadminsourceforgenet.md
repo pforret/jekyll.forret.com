@@ -1,19 +1,27 @@
 ---
 id: 33
-title: 'Beware: activity on winadmin.sourceforge.net !'
+title: 'WinAdmin scripts for Windows sysadmins'
 date: 2004-06-15T20:34:27+02:00
 author: Peter
 layout: post
 permalink: /2004/06/15/beware-activity-on-winadminsourceforgenet/
 categories:
+  - windows
+tags:
+  - sysadmin
+  - script
   - winadmin
 ---
-I just created a new [WinAdmin](http://winadmin.forret.com)script to do XSL Transforms, and while I was at it, also updated some older scripts. 
+> These scripts were moved to [Github](https://github.com/pforret/WinAdmin) in 2018, from previously on SourceForge
 
-The results:<img style="float: right" src="http://www.forret.com/forret/forret_pc_bg.gif" alt="Winadmin Utilities" />
+* [waRmZip](https://github.com/pforret/WinAdmin/tree/master/waRmZip) : Clean up/free up space by deleting/compressing files after X time
+* [waTimer](https://github.com/pforret/WinAdmin/tree/master/waTimer) : Time execution of programs and calculate throughput statistics during/after
+* [waCron](https://github.com/pforret/WinAdmin/tree/master/waCron) : Execute program, log and/or email in case of error
+* [waDate](https://github.com/pforret/WinAdmin/tree/master/waDate) : Outputs a formatted date/time, for use in .CMD scripts (rudimentary date command)
+* [waNOCAPS](https://github.com/pforret/WinAdmin/tree/master/waNOCAPS) : disable/enable CAPS LOCK key on Windows machine
+* waFTP : basic FTP upload client (probably obsolete by now)
 
-  * [waXslt](http://winadmin.forret.com/scripts/waxslt/) (NEW): to perform an XSL Transform on an XML file
-  * [waNoCaps](http://winadmin.forret.com/registry/wanocaps/) (UPDATED): the most popular &#8211; and the simplest &#8211; of all my utilities, to disable your CAPSLOCK key
-  * [waRmZip](http://winadmin.forret.com/scripts/warmzip/) (UPDATED): 2nd most popular, to clean up folders by deleting, moving, rotating or compressing files.
-  * [waTemplate](http://winadmin.forret.com/templates/wsf-template/) (UPDATED): WSF template script, includes parameter parsing, logging
-
+## Background
+* A collection of various self-developed CMD/WSF bactch scripts (Windows)
+* Developed between 2003 and 2006, slightly updated in 2018
+* Runs on: Windows XP / Vista / Win7 / Win8 / Win10
