@@ -1,19 +1,21 @@
 ---
-id: 187
 title: Web 2.0 mememap overview
 date: 2005-09-29T13:20:44+02:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2005/09/29/web-20-mememap-overview/
 permalink: /2005/09/29/web-20-mememap-overview/
 categories:
-  - Web2.0
+  - web
+tags:
+  - web2
+  - meme
+  - remix
 ---
-After I saw [Tim O&#8217;Reilly&#8217;s Web 2.0 mememap](http://www.flickr.com/photos/36521959321@N01/44349798/) (via [readwriteweb.com](http://readwriteweb.com/archives/002834.php)) and [Dion Hinchcliffe](http://web2.wsj2.com/visualizingweb20.htm)&#8216;s visualisation of Web 2.0, I realised they didn&#8217;t cut it for me. They were somewhat confusing and chaotic. So I [decided to make one myself](http://blog.forret.com/blog/2005/09/rss-is-hammer.html).
+After I saw [Tim O&#8217;Reilly's Web 2.0 mememap](http://www.flickr.com/photos/36521959321@N01/44349798/) (via [readwriteweb.com](http://readwriteweb.com/archives/002834.php)) and [Dion Hinchcliffe](http://web2.wsj2.com/visualizingweb20.htm)&#8216;s visualisation of Web 2.0, I realised they didn't cut it for me. They were somewhat confusing and chaotic. So I [decided to make one myself](/2005/09/28/rss-is-a-hammer/).
 
-So here it is: Peter&#8217;s effort for a better [**Web 2.0 mememap visualisation**](http://www.flickr.com/photos/pforret/47674175):
+So here it is: Peter's effort for a better [**Web 2.0 mememap visualisation**](http://www.flickr.com/photos/pforret/47674175):
 
-[![Web 2.0 overview - mememap](http://static.flickr.com/28/47674175_6886af3e57.jpg)](http://www.flickr.com/photos/pforret/47674175)
+[![Web 2.0 overview - mememap](https://live.staticflickr.com/28/47674175_6886af3e57_o.png)](http://www.flickr.com/photos/pforret/47674175)
 
 Some examples:
 
@@ -26,6 +28,4 @@ Some examples:
 
 The image falls under my Creative Commons blog license, i.e. you can use it in any way you want, except for commercial stuff, and you have to mention your source (this page).
 
-All input is welcome, since this is only the first version (let&#8217;s call it v0.1).
-
-Technorati: <a href="http://technorati.com/tag/web2.0" rel="tag">web2.0</a> &#8211; <a href="http://technorati.com/tag/web+2.0" rel="tag">web 2.0</a> &#8211; <a href="http://technorati.com/tag/blogoposium1" rel="tag">blogoposium1</a> &#8211; <a href="http://technorati.com/tag/meme" rel="tag">meme</a> &#8211; <a href="http://technorati.com/tag/mememap" rel="tag">mememap</a> &#8211; <a href="http://technorati.com/tag/semantic" rel="tag">semantic</a>
+All input is welcome, since this is only the first version (let's call it v0.1).
