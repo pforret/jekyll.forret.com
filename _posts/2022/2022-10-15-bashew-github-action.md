@@ -13,7 +13,9 @@ tags:
     - ci
 ---
 
-GitHub Actions, used in countless CI/CD setups, are a good example of the ubiquity of _bash scripting_. Most of the `run:` lines in an [Action YML](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#jobsjob_idstepsrun) document are nothing but (a sequence of) bash command lines. I knew it would be a good match for [`bashew` scripts](/tag/bashew/), but I only found some time to try that out last weekend. 
+GitHub Actions, used in countless CI/CD setups, are a good example of the ubiquity of _bash scripting_. Most of the `run:` lines in an [Action YML](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#jobsjob_idstepsrun) document are nothing but (a sequence of) bash command lines. 
+
+I knew this could be a good match for [`bashew` scripts](/tag/bashew/)-based bash scripts, but I only found some time to try that out last weekend. 
 
 > TL;DR: `bashew` scripts are a great way to streamline your GitHub Actions
 
