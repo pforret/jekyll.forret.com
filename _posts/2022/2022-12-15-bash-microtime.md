@@ -129,4 +129,18 @@ We see that PHP/Python are in the same ballpark, Perl is almost 2x as fast, and 
 
 This would be important if you need the bash equivalent of `microtime` inside a loop, where it is executed hundreds of times. To give an example: if microtime is executed 1000 times in a script, it could account for less than a second (date +%s.%N), 8 seconds (PHP) or 50 seconds (Node).
 
+UPDATE: running the same tests on macOS gives very different results:
+
+| method                    | invocation  | overhead  |
+|---------------------------|-------------|-----------|
+| PHP (PHP 8.2.0)           | 50 ops/sec  | 20 msec   |
+| Perl (Perl v5.30.3)       | 145 ops/sec | 6.9 msec  |
+| Python (python 3.10.9)    | 56 ops/sec  | 17.8 msec |
+| Ruby (ruby 3.1.2p20)      | 1 ops/sec   | 720 msec  |
+| Node (nodejs v19.3.0)     | 32 ops/sec  | 30.8 msec |
+| Go (go1.18.1) compiled    | 550 ops/sec | 1.8 msec  |
+| date (GNU coreutils) 8.32 | 709 ops/sec | 1.4 msec  |
+
+Here we see that the compiled simple Go program is almost as fast as the `date` command.
+
 cf [github.com/pforret/bash_benchmarks/blob/main/docs/epoch.md](https://github.com/pforret/bash_benchmarks/blob/main/docs/epoch.md)
