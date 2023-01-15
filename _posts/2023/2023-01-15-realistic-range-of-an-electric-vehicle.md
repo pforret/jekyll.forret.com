@@ -27,7 +27,7 @@ The range calculation on most car vendor's websites is the EPA estimated range. 
 > [edmunds.com](https://www.edmunds.com/car-news/electric-car-range-and-consumption-epa-vs-edmunds.html)</small>
 
 ## Realistic daily range
-Driving the car from a **100%** charged battery to **0%**, the methodology that EPA uses, is something one almost never does with an electric car. There are also some other considerations like outside temperature. Let's calculate the **realistic daily range**. This means: the typical distance you will drive between two charging sessions. Not the best possible range, but the more realistic one.
+Driving the car from a **100%** charged battery to **0%**, the methodology that EPA uses, is something one almost never does with an electric car. There are also some other considerations like outside temperature. Let's calculate the **realistic daily range**. This means: the typical distance you will drive between two charging sessions on _regular_ days. Not the best possible range, but the more realistic day-to-day one.
 
 ### Factor 1: daily battery strategy = 80% &rarr; 20% 
 Most importantly, you do **not charge your battery to 100% every day** (this is to conserve battery health), and you do **not drive until you're at 0%**. People currently driving an ICE car are not always aware of how big a role this plays in daily EV usage.
@@ -62,4 +62,4 @@ Imagine your daily commute is 115 km (e.g. Roeselare-Brussel) and you can't char
 
 ## Conclusion
 
-> **When choosing your next EV, take 50% of the EPA or WLTP range as your _realistic daily range_.** 
+> **When choosing your next EV, take 50% of the EPA or WLTP range as your realistic daily range.** 
