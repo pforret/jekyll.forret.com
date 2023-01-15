@@ -21,11 +21,10 @@ That number very much feels like a theoretical maximum. It is not the number you
 
 ## EPA estimated range
 
-The range calculation on most car vendor's websites is the EVA estimated range. The procedure to get to that number is:
+The range calculation on most car vendor's websites is the EPA estimated range. The procedure to get to that number is:
 
-> First, the vehicle is fully charged and parked overnight. The following day, the vehicle is driven on a dynamometer — it's like a treadmill for cars — over successive simulated city and highway routes until the battery is depleted. The total distance traveled is then multiplied by a correction factor that the EPA has determined will more accurately reflect what drivers can expect to achieve in the real world. The value of this correction factor, which is always less than 1 but greater than 0, is determined by the number of drive cycles a vehicle is tested on.
-> 
-> [edmunds.com/car-news/electric-car-range-and-consumption-epa-vs-edmunds](https://www.edmunds.com/car-news/electric-car-range-and-consumption-epa-vs-edmunds.html)
+> <small>First, the vehicle is fully charged and parked overnight. The following day, the vehicle is driven on a dynamometer — it's like a treadmill for cars — over successive simulated city and highway routes until the battery is depleted. The total distance traveled is then multiplied by a correction factor that the EPA has determined will more accurately reflect what drivers can expect to achieve in the real world. (...)
+> [edmunds.com](https://www.edmunds.com/car-news/electric-car-range-and-consumption-epa-vs-edmunds.html)</small>
 
 ## Realistic daily range
 Driving the car from a **100%** charged battery to **0%**, the methodology that EPA uses, is something one almost never does with an electric car. There are also some other considerations like outside temperature. Let's calculate a more **realistic daily range**.
