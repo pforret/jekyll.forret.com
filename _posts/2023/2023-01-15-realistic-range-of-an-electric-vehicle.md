@@ -37,10 +37,12 @@ Most importantly, you do **not charge your battery to 100% every day** (this is 
 In my case, I typically charge the car to 80%, unless I'm travelling 'far' the next day (i.e. more than 100 km / 60 miles). In daily usage, I let the car go down to 20%. This means that, on 'normal' days, I only use 60% of the range of my battery. One could probably stretch this to 80% (90% &rarr; 10%) if one loves living on the edge.
 
 ### Factor 2: mileage in real conditions
-EPA uses a mix of city and highway scenarios, but your daily mix or style of driving might be different. The EPA mileage for the Model Y LR is 140Wh/km (75KWh, 530km). However, my average mileage is 184 Wh/km (on 26600 km). This gives me a range of 407km if I would drive it from 100% to 0% battery, not 533km. That's 25% less than advertised.
+EPA uses a mix of city and highway scenarios, but your daily mix or style of driving might be different. The EPA mileage for the Model Y LR is 140Wh/km (75KWh, 530km). 
+
+However, my personal average mileage is 184 Wh/km (on 26600 km). This gives me a range of only 407km if I would drive my car from 100% to 0% battery, not 533km. That's 25% less than advertised. Maybe the air here is very thick, or I have a heavy foot.
 
 ### Factor 3: influence of (cold) climate
-Cold weather has an influence on the battery capacity too. This was noticeable this winter when driving in 0-4&deg;C temperature. Let's say this could take another 20% away of the range.
+Cold weather also has an influence on the battery capacity. This was certainly noticeable this winter when driving in 0-4&deg;C temperature. Let's say this could take another 20% away of the range.
 
 > AAA tested the range effects of 20F (-6&deg;C) degree weather on several popular EVs and found that temperature alone could reduce range by 10-12%, while the use of in-vehicle climate control could amplify range loss to 40%
 > [recurrentauto.com](https://www.recurrentauto.com/research/how-temperature-affects-ev-range)
@@ -56,10 +58,23 @@ All these capacity factors together:
 
 So concretely for my Tesla Model Y LR: in the summer, when travelling long distance, my range might be 350 km (using the battery 100% &rarr; 10%), in the winter at home it might be as low as 200km.
 
-These factors are present for all EVs in the same order of magnitude. So a Nissan Leaf with an EPA range of 145miles/230km: this is more like 70 miles/120 km of realistic daily range (RDR). The Mini Electric: 50 miles/80 km RDR. 
-
 Imagine your daily commute is 115 km (e.g. Roeselare-Brussel) and you can't charge at the office. Then you need 230km realistic daily range, and probably more like 300km. The only cars that come near that, are the Volvo EX90 or the BMW i7. Those are _not_ cheap cars.
 
 ## Conclusion
 
 > **When choosing your next EV, take 50% of the EPA or WLTP range as your realistic daily range.** 
+
+| Car                   | EPA Estimate | Realistic Daily Range |
+|-----------------------|--------------|-----------------------|
+| Mini Cooper SE        | 180km        | 90km                  |
+| Renault Zoe E-Tech    | 315km        | 160km                 |
+| Fiat 500 Electric     | 320km        | 160km                 |
+| Nissan Leaf           | 350km        | 175km                 |
+| Kia EV6               | 528km        | 260km                 |
+| Tesla Model Y LR      | 530km        | 260km                 |
+| Volkswagen ID.4       | 533km        | 260km                 |
+| Mercedes EQS450+      | 563km        | 280km                 |
+| Volvo EX90            | 600km        | 300km                 |
+| BMW i7 Saloon         | 622km        | 310km                 |
+| Lucid Air Dream Range | 645km        | 325km                 |
+
