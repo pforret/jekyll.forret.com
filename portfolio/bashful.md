@@ -28,7 +28,6 @@ I get a lot of content from Hacker news and Github.
 
 ![Bash Newsletter](https://blog.forret.com/wp-content/uploads/2021/01/Screenshot-2021-01-24-at-15.01.52.png)
 
-> [www.getrevue.co/profile/bashful](https://www.getrevue.co/profile/bashful) or
 > [bash.forret.com/newsletter](https://bash.forret.com/newsletter)
 
 ## Bashful Scripting Podcast @ Youtube
