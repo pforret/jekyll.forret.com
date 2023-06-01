@@ -1,7 +1,7 @@
-'---
-title: 'Idea: LL and RR glasses on a 3D screen &#8211; Double Vision'
+---
+title: 'Idea: LL and RR glasses on a 3D screen a.k.a. Double Vision'
 layout: post
-permalink: /2012/12/31/ll-and-rr-glasses-on-a-3d-screen/
+permalink: /2012/12/31/double-vision/
 image: /wp-content/uploads/2018/03/fig-13-03-2018_00-10-16.jpg
 categories:
     - idea
