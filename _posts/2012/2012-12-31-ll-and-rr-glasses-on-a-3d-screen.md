@@ -1,5 +1,5 @@
 ---
-title: 'Double Vision for 3D cinema'
+title: 'Idea: Double Vision for 3D cinema'
 layout: post
 permalink: /2012/12/31/double-vision/
 image: /wp-content/uploads/2018/03/fig-13-03-2018_00-10-16.jpg
