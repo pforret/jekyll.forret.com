@@ -14,7 +14,7 @@ tags:
 ---
 I've started using my [setver](/2020/07/31/package-version-management-with-semver-sh/) [<i class="fab fa-github-square"></i>](https://github.com/pforret/setver) bash tool for easy semver versioning of components and projects. One of the design decisions I  made back then, is that I would always have a `VERSION.md` version file in the root of my project. This file only contains the current version number. This version is also stored in the `composer.json` (PHP), `package.json` (JS) files and git tags, but I wanted a system that also works for my [bash projects](/category/bash/). In the end, it turns out that was a clever decision.
 
-![versionmd.png](..%2F..%2Fwp-content%2Fuploads%2F2023%2F07%2Fversionmd.png)
+![VERSION.md](/wp-content/uploads/2023/07/versionmd.png)
 
 Having the version number auto-updated in a file, without any parsing or cleanup needed, makes it easy to use it in other places, like in the footer of a website. This is how that works for some of my projects:
 
