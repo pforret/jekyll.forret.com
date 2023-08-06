@@ -83,6 +83,4 @@ Multiple laws touch upon the activity of taking pictures of people dancing in pu
     2018-03-29: first draft
     2018-04-03: included remarks from CM
     2018-04-04: published
-    2023-08-06: updtes some links
-
-##
+    2023-08-06: updates some links
