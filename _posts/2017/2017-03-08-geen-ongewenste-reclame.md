@@ -15,10 +15,10 @@ tags:
 ---
 Je krijgt op een jaar nogal wat direct-in-de-papierbak reclame binnen. Ik ben in mijn gemeente (Grimbergen) op zoek gegaan naar de &#8220;Geen Reclame&#8221; sticker, maar zowel het postkantoor als het gemeentehuis konden me niet verder helpen. Ik heb dan maar online gezocht naar de juiste oplossing voor een reeks ongewenste reclame bronnen:
 
-[<img  class="alignnone size-full wp-image-1528" src="http://blog.forret.com/wp-content/uploads/2017/03/anti-reclamesticker.jpg" alt="" width="297" height="153" />](http://blog.forret.com/wp-content/uploads/2017/03/anti-reclamesticker.jpg)
+![](http://blog.forret.com/wp-content/uploads/2017/03/anti-reclamesticker.jpg)
 
-  * ongeaddresseerde, huis-aan-huis reclame: bestel een &#8220;NEE NEE sticker&#8221;  (voor [Vlamingen](https://www.ovam.be/nieuwe-regeling-voor-anti-reclamestickers)) or via [Leefmilieu Brussel](http://www.leefmilieu.brussels/themas/afval-grondstof/mijn-afval/reclame-weigeren-uw-recht).
-  * geaddresseerde, op-naam reclame: voeg je adres toe aan de Robinson Mail lijst: [www.robinsonlist.be](http://www.robinsonlist.be/)
-  * telefonische ongewenste reclame: er is een [Robinson Phone lijst](https://bel-me-niet-meer.be/) maar die site lijkt compleet plat te liggen (_Cloudflare Error 522: Connection Timed Out_)  
-    kan iemand bij de [BDMA](http://bdma.be/) hier iets aan doen?
-  * geen dikke witte/gouden gids meer ontvangen: [goudengids.be/businesscenter/uitschrijven-gidsen](http://www.goudengids.be/businesscenter/uitschrijven-gidsen)
+
+  * ongeaddresseerde, huis-aan-huis reclame: b [ovam.vlaanderen.be](https://ovam.vlaanderen.be/anti-reclamestickers-aanvragen)) of [Leefmilieu Brussel](https://leefmilieu.brussels/burgers/diensten-en-aanvragen/klachten-meldingen-en-waarschuwingen/roep-reclame-uw-brievenbus-een-halt-toe-bestel-de-sticker-en-dien-klacht-als-die-niet-wordt-nageleefd).
+  * geaddresseerde, op-naam reclame: voeg je adres toe aan de Robinson Mail lijst: [www.robinsonlist.be](https://www.dncm.be/nl/nummer_blokkeren)
+  * telefonische ongewenste reclame: er is een [Robinson Phone lijst](https://www.dncm.be/en/block_my_number) 
+  * geen dikke witte/gouden gids meer ontvangen: (Gouden Gids is zo goed als gedaan)
