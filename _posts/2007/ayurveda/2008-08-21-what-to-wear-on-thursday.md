@@ -8,9 +8,7 @@ tags:
   - ayurveda
   - color
   - day
-  - theory
   - week
-  - thursday
 ---
 
 <small>_What to wear on a
