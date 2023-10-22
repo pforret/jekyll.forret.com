@@ -2,5 +2,5 @@
 layout: with_category
 title: Spam
 keyword: spam
-count: 18
+count: 17
 ---
