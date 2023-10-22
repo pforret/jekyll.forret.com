@@ -1,14 +1,14 @@
 ---
-id: 155
 title: 'RSS with images: picture podcasting'
 date: 2005-06-20T17:09:00+02:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2005/06/20/rss-with-images-picture-podcasting/
 permalink: /2005/06/20/rss-with-images-picture-podcasting/
 categories:
   - podcast
-  - RSS
+tags:
+  - rss
+  - flickr
 ---
 ![](http://www.pixagogo.com/S5vpfnjbBPdPn3!77h!9nvCwHKUngfL0q9aNicxTeloR0!5oH1smeMgCoqgKg7lxUlXOcTqNMnKOpmOZueIuVU4QBLIb-!7-bBif8QfH71QXOBpZy1VQ-Yp79kmJTpY5Iw37AujUh8iiUemGWcfai!ow__/ipod_photo.jpg)  
 There is something weird: after the audio-only iPods came the [iPods with images](http://www.apple.com/ipodphoto/), but there are no iPods for videos ([yet](http://www.macrumors.com/pages/2004/05/20040514024228.shtml)). However, we already have video podcasts, but there are to my knowledge hardly any picture podcasts? Why did we skip that medium? The hardware is there, the content is there.
@@ -49,5 +49,3 @@ Whether the pictures are consulted on a iPod or other [portable multimedia devic
   * A TV channel could subscribe to the RSS&#8217;es of the main news agencies.
   * Simple: a PHP script that takes the RSS and shows your 5 most recent pictures in the side menu of your blog
   * &#8230;
-
-Technorati: <a href="http://technorati.com/tag/RSS" rel="tag">RSS</a>
