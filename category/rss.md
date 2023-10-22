@@ -2,5 +2,5 @@
 layout: with_category
 title: Rss
 keyword: rss
-count: 10
+count: 9
 ---

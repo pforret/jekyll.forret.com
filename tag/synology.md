@@ -2,5 +2,5 @@
 layout: with_tag
 title: Synology
 keyword: synology
-count: 2
+count: 1
 ---
