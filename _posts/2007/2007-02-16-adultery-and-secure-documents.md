@@ -4,7 +4,6 @@ title: Adultery and secure documents
 date: 2007-02-16T14:35:48+01:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2007/02/adultery-and-secure-documents/
 permalink: /2007/02/16/adultery-and-secure-documents/
 categories:
   - advertising
