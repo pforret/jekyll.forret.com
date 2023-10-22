@@ -2,5 +2,5 @@
 layout: with_category
 title: Color
 keyword: color
-count: 5
+count: 12
 ---

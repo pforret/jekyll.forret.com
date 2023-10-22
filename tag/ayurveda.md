@@ -2,5 +2,5 @@
 layout: with_tag
 title: Ayurveda
 keyword: ayurveda
-count: 1
+count: 8
 ---

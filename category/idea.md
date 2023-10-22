@@ -2,5 +2,5 @@
 layout: with_category
 title: Idea
 keyword: idea
-count: 15
+count: 16
 ---

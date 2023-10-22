@@ -1,6 +1,6 @@
 ---
 layout: with_tag
-title: Colour
-keyword: colour
+title: Thursday
+keyword: thursday
 count: 1
 ---

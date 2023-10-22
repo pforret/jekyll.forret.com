@@ -2,5 +2,5 @@
 layout: with_tag
 title: Week
 keyword: week
-count: 1
+count: 8
 ---
