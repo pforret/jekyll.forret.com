@@ -4,7 +4,6 @@ title: When the API returns an image
 date: 2020-01-16T00:39:17+01:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/?p=2025
 permalink: /2020/01/16/when-the-api-returns-images/
 image: /wp-content/uploads/2020/01/FireShot-Capture-006-repostatus.org-www.repostatus.org_.png
 categories:
@@ -15,7 +14,6 @@ tags:
   - image
   - placeholder
   - saas
-  - screengrab
   - screenshot
   - shield
   - web
@@ -24,7 +22,7 @@ tags:
 
 I see more and more Image-Response GET APIs. With this term I mean: the API is called with a **GET URL**, and the response is a (JPG/PNG/GIF/WEBP/SVG) **image**, either directly or after a redirect. So the API can be used through a simple `<img src="[IMAGE GENERATING URL">` HTML tag. Let&#8217;s call these **IMGSRCAPI**&#8216;s. 
 
-One of the oldest examples is [Gravatar](https://en.gravatar.com/), used by WordPress to show an icon/avatar for each person that writes/comments on blogs. Every imaginable email address has auto;atically a Gravatar profile pic, but by default it is<img  src="https://www.gravatar.com/avatar/ebf3ff19e1c49eb15dd83d41d5856319" width="20" height="20" /> . Only when you can log in and verify your email, you can change your profile pic to whatever you want.
+One of the oldest examples is [Gravatar](https://en.gravatar.com/), used by WordPress to show an icon/avatar for each person that writes/comments on blogs. Every imaginable email address automatically has a Gravatar profile pic, but by default it is <img  src="https://www.gravatar.com/avatar/ebf3ff19e1c49eb15dd83d41d5856319" width="20" height="20" />. Only when you can log in and verify your email, you can change your profile pic to whatever you want.
 
 But, as I said, I see more and more of them, and I wanted to catalog them. I see 2 big categories: **static vs dynamic** IMGSRCAPIs.
 
@@ -120,7 +118,8 @@ Like their cousins in 1.a., these services give back an image of a certain size,
 The best example is obviously Gravatar.
 
 ![](https://www.gravatar.com/avatar/ebf3ff19e1c49eb15dd83d41d5858319?s=500)
-<strong><a href="https://en.gravatar.com/">GRAVATAR</a></strong>: <a href="https://www.gravatar.com/avatar/ebf3ff19e1c49eb15dd83d41d5858319?s=500">https://www.gravatar.com/avatar/<md5 hash of your email></a><br />and some alternatives: <a href="https://www.libravatar.org/">https://www.libravatar.org/</a> &#8211; <a href="http://evatar.io/">http://evatar.io/</a>  
+
+[Gravatar](https://en.gravatar.com): [https://www.gravatar.com/avatar/<md5 hash of your email>](https://www.gravatar.com/avatar/ebf3ff19e1c49eb15dd83d41d5858319?s=500)  and an alternative: [libravatar.org](https://www.libravatar.org) 
 
 Image a IMGAPI service <profilepic.idea>, that would let you do the following:
 
