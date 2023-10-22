@@ -13,7 +13,9 @@ tags:
   - friday
 ---
 
-This is part of a series of posts on [weekday colors](/tag/ayurveda/).
+<small>This is part of a series of posts on [weekday colors](/tag/ayurveda/).</small>
+
+What color should you wear on Fridays, according to the Ayurveda?
 
 ## Friday: (light) blue
 

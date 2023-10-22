@@ -13,7 +13,9 @@ tags:
   - thursday
 ---
 
-This is part of a series of posts on [weekday colors](/tag/ayurveda/).
+<small>This is part of a series of posts on [weekday colors](/tag/ayurveda/).</small>
+
+What color should you wear on Thursdays, according to the Ayurveda?
 
 ## Thursday: yellow
 

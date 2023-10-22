@@ -13,7 +13,9 @@ tags:
   - sunday
 ---
 
-This is part of a series of posts on [weekday colors](/tag/ayurveda/).
+<small>This is part of a series of posts on [weekday colors](/tag/ayurveda/).</small>
+
+What color should you wear on Sundays, according to the Ayurveda?
 
 ## Sunday: maroon/pink
 

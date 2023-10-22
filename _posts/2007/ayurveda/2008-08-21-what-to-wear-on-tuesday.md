@@ -13,7 +13,9 @@ tags:
   - tuesday
 ---
 
-This is part of a series of posts on [weekday colors](/tag/ayurveda/).
+<small>This is part of a series of posts on [weekday colors](/tag/ayurveda/).</small>
+
+What color should you wear on Tuesdays, according to the Ayurveda?
 
 ## Tuesday: Red
 

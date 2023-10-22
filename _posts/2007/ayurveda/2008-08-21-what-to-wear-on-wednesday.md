@@ -13,7 +13,9 @@ tags:
   - wednesday
 ---
 
-This is part of a series of posts on [weekday colors](/tag/ayurveda/).
+<small>This is part of a series of posts on [weekday colors](/tag/ayurveda/).</small>
+
+What color should you wear on Wednesdays, according to the Ayurveda?
 
 ## Wednesday: Green
 

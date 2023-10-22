@@ -13,7 +13,9 @@ tags:
   - saturday
 ---
 
-This is part of a series of posts on [weekday colors](/tag/ayurveda/).
+<small>This is part of a series of posts on [weekday colors](/tag/ayurveda/).</small>
+
+What color should you wear on Saturdays, according to the Ayurveda?
 
 ## Saturday: black
 
