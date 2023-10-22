@@ -13,7 +13,15 @@ tags:
   - friday
 ---
 
-<small>This is part of a series of posts on [weekday colors](/tag/ayurveda/).</small>
+<small>_What to wear on a
+[Monday](/2007/08/21/what-to-wear-on-monday/),
+[Tuesday](/2007/08/21/what-to-wear-on-tuesday/),
+[Wednesday](/2007/08/21/what-to-wear-on-wednesday/),
+[Thursday](/2007/08/21/what-to-wear-on-thursday/),
+Friday,
+[Saturday](/2007/08/21/what-to-wear-on-saturday/),
+[Sunday](/2007/08/21/what-to-wear-on-sunday/)
+?_</small>
 
 What color should you wear on Fridays, according to the Ayurveda?
 
@@ -22,6 +30,8 @@ What color should you wear on Fridays, according to the Ayurveda?
 > Friday: Happiness permeates the day. Friendship blossoms and effortless gains are natural events of the day. (…) Very light blue or white are the colors of the day.
 > 
 > [Weekday colors (according to the Ayurveda)](/2007/08/21/weekday-colours-ayurveda/)
+
+* Jewelry: sapphire, topaz, lapis lazuli
 
 ![woman wearing blue dress](/wp-content/uploads/2007/08/pforret_woman_in_light_blue_and_white_dress_chatting_with_frien_9d7b5c6b-f6ab-49fb-9376-55d9103547c9.png)
 

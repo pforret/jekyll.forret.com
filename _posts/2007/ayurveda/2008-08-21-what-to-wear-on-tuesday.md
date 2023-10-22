@@ -13,7 +13,15 @@ tags:
   - tuesday
 ---
 
-<small>This is part of a series of posts on [weekday colors](/tag/ayurveda/).</small>
+<small>_What to wear on a
+[Monday](/2007/08/21/what-to-wear-on-monday/),
+Tuesday,
+[Wednesday](/2007/08/21/what-to-wear-on-wednesday/),
+[Thursday](/2007/08/21/what-to-wear-on-thursday/),
+[Friday](/2007/08/21/what-to-wear-on-friday/),
+[Saturday](/2007/08/21/what-to-wear-on-saturday/),
+[Sunday](/2007/08/21/what-to-wear-on-sunday/)
+?_</small>
 
 What color should you wear on Tuesdays, according to the Ayurveda?
 
@@ -22,6 +30,8 @@ What color should you wear on Tuesdays, according to the Ayurveda?
 > Tuesday: Red being the most suitable color for Tuesdays, wearing red clothes and keeping red flowers at home on the day may prove to be good. Men shall be courageous on the day and Tuesdays are the most suitable days to settle long-standing issues with the police and army. Administrative and hard laborious work should be undertaken on Tuesdays. 
 > 
 > [Weekday colors (according to the Ayurveda)](/2007/08/21/weekday-colours-ayurveda/)
+
+* Jewelry: red coral, ruby, cornelian
 
 ![woman wearing red dress](/wp-content/uploads/2007/08/pforret_woman_wearing_red_dress_beautiful_living_room_with_red__eef280d5-8de8-4935-8df1-82a7a11abc89.png)
 

@@ -8,12 +8,18 @@ tags:
   - ayurveda
   - color
   - day
-  - theory
   - week
-  - monday
 ---
 
-<small>This is part of a series of posts on [weekday colors](/tag/ayurveda/).</small>
+<small>_What to wear on a
+Monday,
+[Tuesday](/2007/08/21/what-to-wear-on-tuesday/),
+[Wednesday](/2007/08/21/what-to-wear-on-wednesday/),
+[Thursday](/2007/08/21/what-to-wear-on-thursday/),
+[Friday](/2007/08/21/what-to-wear-on-friday/),
+[Saturday](/2007/08/21/what-to-wear-on-saturday/),
+[Sunday](/2007/08/21/what-to-wear-on-sunday/)
+?_</small>
 
 What color should you wear on Mondays, according to the Ayurveda?
 
@@ -22,6 +28,8 @@ What color should you wear on Mondays, according to the Ayurveda?
 > Lord Shiva rules on Mondays. <strong>White</strong> is the color for Mondays and therefore wearing white dresses and keeping white flowers at home are recommended on Mondays. It is a good day for men seeking favors from women and for making new friends. Taking honey and cucumber on Mondays is likely to yield good results. 
 > 
 > [Weekday colors (according to the Ayurveda)](/2007/08/21/weekday-colours-ayurveda/
+
+Jewelry: silver, pearls, moonstone
 
 ![woman wearing white dress](/wp-content/uploads/2007/08/pforret_woman_wearing_white_dress_ayurveda_604012e4-44cb-4ce4-a36d-2e9c69dec4ea.png)
 

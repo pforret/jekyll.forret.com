@@ -13,7 +13,15 @@ tags:
   - saturday
 ---
 
-<small>This is part of a series of posts on [weekday colors](/tag/ayurveda/).</small>
+<small>_What to wear on a
+[Monday](/2007/08/21/what-to-wear-on-monday/),
+[Tuesday](/2007/08/21/what-to-wear-on-tuesday/),
+[Wednesday](/2007/08/21/what-to-wear-on-wednesday/),
+[Thursday](/2007/08/21/what-to-wear-on-thursday/),
+[Friday](/2007/08/21/what-to-wear-on-friday/),
+Saturday,
+[Sunday](/2007/08/21/what-to-wear-on-sunday/)
+?_</small>
 
 What color should you wear on Saturdays, according to the Ayurveda?
 
@@ -22,6 +30,8 @@ What color should you wear on Saturdays, according to the Ayurveda?
 > Saturday: If you are besieged by nagging interminable legal problems, launch an all out effort to resolve the problem on Saturdays. Any work initiated in the first half on Saturday carries a high possibility of success. Anyone leading a pious lifestyle on the day (...), keeping purple flowers at home and wearing black clothes, is likely to receive success and blessings of Shani or Saturn.
 > 
 > [Weekday colors (according to the Ayurveda)](/2007/08/21/weekday-colours-ayurveda/)
+
+* Jewelry: onyx, obsidian, burned wood
 
 ![woman wearing black dress](/wp-content/uploads/2007/08/pforret_woman_in_little_black_dress_going_out_evening_dress_gla_3dfd359b-4caf-497c-aba6-84d312aea70f.png)
 

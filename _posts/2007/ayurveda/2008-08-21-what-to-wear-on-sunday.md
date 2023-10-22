@@ -13,7 +13,15 @@ tags:
   - sunday
 ---
 
-<small>This is part of a series of posts on [weekday colors](/tag/ayurveda/).</small>
+<small>_What to wear on a 
+[Monday](/2007/08/21/what-to-wear-on-monday/),
+[Tuesday](/2007/08/21/what-to-wear-on-tuesday/),
+[Wednesday](/2007/08/21/what-to-wear-on-wednesday/),
+[Thursday](/2007/08/21/what-to-wear-on-thursday/),
+[Friday](/2007/08/21/what-to-wear-on-friday/),
+[Saturday](/2007/08/21/what-to-wear-on-saturday/),
+Sunday
+?_</small>
 
 What color should you wear on Sundays, according to the Ayurveda?
 
@@ -22,6 +30,9 @@ What color should you wear on Sundays, according to the Ayurveda?
 > Sunday: being a day for celebration, is the most suitable day to feed and entertain friends and family. (…) If one wears pink or maroon clothes on Sundays one can make friends easily and will enhance one’s personality. 
 > 
 > [Weekday colors (according to the Ayurveda)](/2007/08/21/weekday-colours-ayurveda/)
+
+* Jewelry: amber, quartz, garnet
+
 
 ![woman wearing pink dress](/wp-content/uploads/2007/08/pforret_african_woman_in_pink_blouse_preparing_sunday_brunch_ph_80834ecf-4685-4e9d-aedb-7b98b1b821bf.png)
 

@@ -13,7 +13,15 @@ tags:
   - wednesday
 ---
 
-<small>This is part of a series of posts on [weekday colors](/tag/ayurveda/).</small>
+<small>_What to wear on a
+[Monday](/2007/08/21/what-to-wear-on-monday/),
+[Tuesday](/2007/08/21/what-to-wear-on-tuesday/),
+Wednesday,
+[Thursday](/2007/08/21/what-to-wear-on-thursday/),
+[Friday](/2007/08/21/what-to-wear-on-friday/),
+[Saturday](/2007/08/21/what-to-wear-on-saturday/),
+[Sunday](/2007/08/21/what-to-wear-on-sunday/)
+?_</small>
 
 What color should you wear on Wednesdays, according to the Ayurveda?
 
@@ -22,6 +30,8 @@ What color should you wear on Wednesdays, according to the Ayurveda?
 > Wednesday: The day is ideal for planting trees, as green is the color of the day. Keeping green plants at home, wearing green clothes (...) on Wednesday would ensure good effects. 
 > 
 > [Weekday colors (according to the Ayurveda)](/2007/08/21/weekday-colours-ayurveda/)
+
+* Jewelry: emerald, jade, malachite
 
 ![woman wearing green dress](/wp-content/uploads/2007/08/pforret_french_woman_green_dress_on_old_train_photorealistic_9ea7f102-78fa-4140-b394-98dc9bf07f75.png)
 
