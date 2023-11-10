@@ -22,15 +22,15 @@ src="/wp-content/uploads/2021/03/ayurveda.jpg"
 description="Weekday colours"
 %}
 
-| day       | color            | example and RGB code                                                                                                                                   |
-|-----------|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Monday    | white            | [Floral White](https://toolstud.io/color/rgb.php?title=FloralWhite&hex_rgb=FFFAF0) – <span style="background: #FFFAF0">#FFFAF0</span>                  |
-| Tuesday   | red              | [Indian Red](https://toolstud.io/color/rgb.php?title=IndianRed&hex_rgb=CD5C5C) – <span style="background: #CD5C5C">#CD5C5C</span>                      |
-| Wednesday | green            | [Lime Green](https://toolstud.io/color/rgb.php?title=LimeGreen&hex_rgb=32CD32) – <span style="background: #32CD32">#32CD32</span>                      |
-| Thursday  | yellow           | [Light Yellow](https://toolstud.io/color/rgb.php?title=LightYellow&hex_rgb=FFFFE0) – <span style="background: #FFFFE0">#FFFFE0</span>                  |
-| Friday    | light blue/white | [Alice Blue](https://toolstud.io/color/rgb.php?title=AliceBlue&hex_rgb=F0F8FF) – <span style="background: #F0F8FF">#F0F8FF</span>                      |
+| day       | color            | example and RGB code                                                                                                                              |
+|-----------|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| Monday    | white            | [Floral White](https://toolstud.io/color/rgb.php?title=FloralWhite&hex_rgb=FFFAF0) – <span style="background: #FFFAF0">#FFFAF0</span>             |
+| Tuesday   | red              | [Indian Red](https://toolstud.io/color/rgb.php?title=IndianRed&hex_rgb=CD5C5C) – <span style="background: #CD5C5C">#CD5C5C</span>                 |
+| Wednesday | green            | [Lime Green](https://toolstud.io/color/rgb.php?title=LimeGreen&hex_rgb=32CD32) – <span style="background: #32CD32">#32CD32</span>                 |
+| Thursday  | yellow           | [Light Yellow](https://toolstud.io/color/rgb.php?title=LightYellow&hex_rgb=FFFFE0) – <span style="background: #FFFFE0">#FFFFE0</span>             |
+| Friday    | light blue/white | [Alice Blue](https://toolstud.io/color/rgb.php?title=AliceBlue&hex_rgb=F0F8FF) – <span style="background: #F0F8FF">#F0F8FF</span>                 |
 | Saturday  | purple/black     | [Rebecca Purple](https://toolstud.io/color/rgb.php?title=RebeccaPurple&hex_rgb=663399) – <span style="background: #663399; color: #FFF">#663399</span> |
-| Sunday    | pink/maroon      | [Maroon](https://toolstud.io/color/rgb.php?title=Maroon&hex_rgb=800000) – <span style="background: #800000; color: #FFF">#800000</span>                |
+| Sunday    | pink/maroon      | [Maroon](https://toolstud.io/color/rgb.php?title=Maroon&hex_rgb=800000) – <span style="background: #800000; color: #FFF">#800000</span>           |
 
 
 ## [Monday](/2007/08/21/what-to-wear-on-monday/)

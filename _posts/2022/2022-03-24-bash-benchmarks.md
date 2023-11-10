@@ -10,6 +10,7 @@ tags:
     - bash
     - throughput
     - bash-benchmark
+    - github
 ---
 When writing `bash` scripts, one needs to find ways to do things that aren't built in to bash.
 String manipulation like _lowercase conversion_, _parsing_, _removing whitespace_...
@@ -22,7 +23,7 @@ Most of the time, there is more than one way to do something.
 So the question I would like to answer: what is the _fastest way_ to do them, 
 fastest either in the meaning of "_throughput_", expressed in lines/second or MB/sec, or in "_invocation_" speed, how many times can I start up the program sequantially, expressed in operations/sec.
 
-I've started a Github repo [pforret/bash_benchmarks](https://github.com/pforret/bash_benchmarks) to collect these benchmarks.
+I've started a GitHub repo [pforret/bash_benchmarks](https://github.com/pforret/bash_benchmarks) to collect these benchmarks.
 
 ![Bash benchmarks](/wp-content/uploads/2022/03/benchmark.bash.jpg)
 
