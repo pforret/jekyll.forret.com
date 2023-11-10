@@ -27,7 +27,7 @@ What color should you wear on Mondays, according to the Ayurveda?
 
 > Lord Shiva rules on Mondays. <strong>White</strong> is the color for Mondays and therefore wearing white dresses and keeping white flowers at home are recommended on Mondays. It is a good day for men seeking favors from women and for making new friends. Taking honey and cucumber on Mondays is likely to yield good results. 
 > 
-> [Weekday colors (according to the Ayurveda)](/2007/08/21/weekday-colours-ayurveda/
+> [Weekday colors (according to the Ayurveda)](/2007/08/21/weekday-colours-ayurveda/)
 
 Jewelry: silver, pearls, moonstone
 

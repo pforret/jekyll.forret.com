@@ -1,0 +1,66 @@
+#printMsg {
+    display: none;
+}
+
+thead {
+    background: #EEEEFF;
+    color: #333399
+}
+
+tfoot {
+    color: red;
+}
+
+th {
+    padding: 4px;
+    border-bottom: 1px solid black;
+}
+
+td {
+    padding: 4px;
+    border: 1px solid black;
+}
+
+dl {
+    background: #F8F8EE;
+    padding: 10px;
+    color: #000033;
+}
+
+dt {
+    margin-top: 1px #FFF solid;
+    padding-top: 10px;
+}
+
+dd {
+    font-size: .9em;
+}
+
+.nobr {
+    white-space: nowrap;
+}
+
+.fa, .fas, .far, .fas {
+    margin-right: 5px;
+}
+
+.blog-post-title {
+    font-size: 2em;
+}
+
+.page_intro {
+    font-size: .9em;
+    border-top: 1px solid #EEE;
+    border-bottom: 1px solid #CCC;
+    border-left: 1px solid #EEE;
+    border-right: 1px solid #CCC;
+    padding: 5px;
+    text-align: justify;
+}
+
+.calc_intro {
+    font-size: .9em;
+    padding: 5px;
+    margin-bottom: 0px;
+    text-align: justify;
+}

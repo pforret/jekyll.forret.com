@@ -1,10 +1,8 @@
 ---
-id: 89
 title: '&#8220;Domain Registry of America&#8221; scam'
 date: 2004-12-10T22:03:03+01:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2004/12/10/domain-registry-of-america-scam/
 permalink: /2004/12/10/domain-registry-of-america-scam/
 categories:
   - spam

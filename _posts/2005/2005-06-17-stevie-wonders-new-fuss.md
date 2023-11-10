@@ -1,16 +1,15 @@
 ---
 id: 154
-title: 'Stevie Wonder's new fuss'
+title: 'Stevie Wonder&apos;s new fuss'
 date: 2005-06-17T14:38:00+02:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2005/06/17/stevie-wonders-new-fuss/
 permalink: /2005/06/17/stevie-wonders-new-fuss/
 categories:
   - music
 ---
 
-> **Barry** (played by [Jack Black](http://www.imdb.com/name/nm0085312/)): Rob, top five musical crimes perpetuated by Stevie Wonder in the '80s and '90s. Go. Sub-question: is it in fact unfair to criticize a formerly great artist for his latter day sins, is it better to burn out or fade away?  
+> **Barry** (played by [Jack Black](http://www.imdb.com/name/nm0085312/)): Rob, top five musical crimes perpetuated by Stevie Wonder in the '80s and '90s. Go. Sub-question: is it in fact unfair to criticize a formerly great artist for his latter-day sins, is it better to burn out or fade away?  
 > (from [imdb.com](http://www.imdb.com/title/tt0146882/quotes))
 
 My top 5 of Stevie's crimes in the 80's and 90's would be:

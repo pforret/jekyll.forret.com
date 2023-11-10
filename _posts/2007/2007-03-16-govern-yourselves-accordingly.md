@@ -3,7 +3,6 @@ title: Govern yourselves accordingly
 date: 2007-03-16T23:02:21+01:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2007/03/govern-yourselves-accordingly/
 permalink: /2007/03/16/govern-yourselves-accordingly/
 categories:
   - spam

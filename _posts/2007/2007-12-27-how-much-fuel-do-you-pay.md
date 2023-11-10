@@ -11,7 +11,6 @@ tags:
     - ecology
     - car
     - economy
-
 ---
 My friend Henry asked me to calculate on a napkin how much I spent on fuel per month. I have a greedy car, but I live close to the office. Still I was quite surprised by the number I got.
 
