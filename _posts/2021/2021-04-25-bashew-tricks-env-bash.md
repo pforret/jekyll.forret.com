@@ -4,10 +4,10 @@ layout: post
 image: /wp-content/uploads/2021/04/dotenv.jpg
 permalink: /2021/04/25/env-bash/
 categories:
-    - github
+    - devops
 tags:
     - bashew
-    - devops
+    - github
     - env
     - environment
     - bash

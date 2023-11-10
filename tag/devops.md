@@ -2,5 +2,5 @@
 layout: with_tag
 title: Devops
 keyword: devops
-count: 3
+count: 1
 ---
