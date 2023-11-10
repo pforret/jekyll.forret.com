@@ -10,7 +10,7 @@ spay_email:
   - ""
 image: /wp-content/uploads/2020/10/splashmark.jpg
 categories:
-  - github
+  - bashew
 tags:
   - bash
   - imagemagick

@@ -8,11 +8,12 @@ guid: https://blog.forret.com/?p=2117
 permalink: /2020/03/05/hosting-a-laravel-project-on-gandi/
 image: /wp-content/uploads/2020/03/LaravelDefault.png
 categories:
-  - webdev
+  - devops
 tags:
   - gandi
   - hosting
   - laravel
+  - github
   - php
 ---
 <p class="has-text-align-center">

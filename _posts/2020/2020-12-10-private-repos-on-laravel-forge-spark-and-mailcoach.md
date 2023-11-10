@@ -8,7 +8,7 @@ guid: https://blog.forret.com/?p=2385
 permalink: /2020/12/10/private-repos-on-laravel-forge-spark-and-mailcoach/
 image: /wp-content/uploads/2020/12/image.png
 categories:
-  - Projects
+  - devops
 tags:
   - composer
   - laravel
