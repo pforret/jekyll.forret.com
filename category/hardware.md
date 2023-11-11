@@ -2,5 +2,5 @@
 layout: with_category
 title: Hardware
 keyword: hardware
-count: 23
+count: 22
 ---
