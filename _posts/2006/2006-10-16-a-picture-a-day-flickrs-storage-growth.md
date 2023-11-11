@@ -1,13 +1,18 @@
 ---
 id: 505
-title: 'A picture a day: Flickr's storage growth'
+title: 'A picture a day: Flickr’s storage growth'
 date: 2006-10-16T13:14:48+02:00
 author: Peter
 layout: post
 guid: /2006/10/a-picture-a-day-flickrs-storage-growth/
 permalink: /2006/10/16/a-picture-a-day-flickrs-storage-growth/
 categories:
-  - bandwidth
+  - web2.0
+tags:
+    - bandwidth
+    - flickr
+    - storage
+    - photography
 ---
 Just how many pictures does Flickr receive every day? I found a way to estimate the # of images that they add to their database, and another way to get average (original) file sizes for those images. The result? Their storage growth, i.e. their upload bandwidth, and the growth rate of their storage system (how many days to reach a terabyte?) 
 

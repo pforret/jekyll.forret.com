@@ -1,10 +1,8 @@
 ---
-id: 226
-title: 'The MPA and other people's money'
+title: 'The MPA and other people’s money'
 date: 2005-12-14T10:44:00+01:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2005/12/14/the-mpa-and-other-peoples-money/
 permalink: /2005/12/14/the-mpa-and-other-peoples-money/
 categories:
   - copyright
@@ -21,4 +19,3 @@ The main issue here seems to be that because of music lovers exchanging/download
 
 Again we have to look at the [Electronic Frontier Foundation](http://www.eff.org/deeplinks/archives/004246.php) to talk some sense into the big guys with piles of money but no clue how to adapt.
 
-Technorati: <a href="http://technorati.com/tag/mpa" rel="tag">mpa</a> &#8211; <a href="http://technorati.com/tag/copyright" rel="tag">copyright</a> &#8211; <a href="http://technorati.com/tag/eff" rel="tag">eff</a>&#8211; <a href="http://technorati.com/tag/music" rel="tag">music</a>

@@ -2,5 +2,5 @@
 layout: with_category
 title: Linux
 keyword: linux
-count: 10
+count: 9
 ---

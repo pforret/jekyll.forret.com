@@ -1,6 +1,6 @@
 ---
 id: 810
-title: 'The Good Wife's Guide'
+title: 'The Good Wife’s Guide'
 date: 2007-07-05T10:36:36+02:00
 author: Peter
 layout: post

@@ -1,16 +1,18 @@
 ---
-id: 713
-title: 'Printing an MP3 on A4's'
+title: 'Printing an MP3 on A4’s'
 date: 2007-03-19T15:27:52+01:00
 author: Peter
 layout: post
-guid: /2007/03/printing-an-mp3-on-a4s/
+image: https://farm1.static.flickr.com/22/32108972_9723742f79_m.jpg
 permalink: /2007/03/19/printing-an-mp3-on-a4s/
 categories:
   - technology
+tags:
+  - bandwidth
 ---
-[<img style="float: right" src="http://farm1.static.flickr.com/22/32108972_9723742f79_m.jpg" alt="Empire State - QueenRoly" />](http://www.flickr.com/photos/queenroly/32108972/)  
 Look wat &#8216;experts' are still telling in the courtroom:
+
+![](https://farm1.static.flickr.com/22/32108972_9723742f79_m.jpg)
 
 > The HP Pavilion computer obtained from McGuire's attorney's office had a 60 gigabyte hard drive, and not all of it was searched by Seymour.  
 > She told the jury that it is known in the computer industry that if information stored on a 12 gigabyte computer _was put on paper it would create a stack of paper higher than the Empire State Building_.  

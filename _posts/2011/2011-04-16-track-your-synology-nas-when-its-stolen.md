@@ -1,19 +1,19 @@
 ---
-id: 1236
-title: 'Track your (Synology) NAS when it's stolen'
+title: 'Track your (Synology) NAS when it’s stolen'
 date: 2011-04-16T13:34:54+02:00
 author: Peter
 layout: post
-guid: /?p=1236
 permalink: /2011/04/16/track-your-synology-nas-when-its-stolen/
 image: /wp-content/uploads/2018/11/fig-13-11-2018_13-28-36.jpg
 categories:
-  - hardware
-  - Linux
+  - devops
 tags:
-  - nas
-  - synology
-  - theft
+    - nas
+    - synology
+    - theft
+    - tracking
+    - prey
+    - linux
 ---
 When a friend of mine recently got his MacBook stolen, I quickly verified if I had installed [Prey Project](http://preyproject.com/) on each laptop/desktop PC I have. For those who do not know Prey:  
 [<img  class="alignnone size-full wp-image-1821" src="/wp-content/uploads/2011/04/preyproject.png" alt="" width="999" height="271" srcset="https://blog.forret.com/wp-content/uploads/2011/04/preyproject.png 999w, https://blog.forret.com/wp-content/uploads/2011/04/preyproject-300x81.png 300w, https://blog.forret.com/wp-content/uploads/2011/04/preyproject-768x208.png 768w, https://blog.forret.com/wp-content/uploads/2011/04/preyproject-945x256.png 945w, https://blog.forret.com/wp-content/uploads/2011/04/preyproject-600x163.png 600w" sizes="(max-width: 999px) 100vw, 999px" />](/wp-content/uploads/2011/04/preyproject.png)

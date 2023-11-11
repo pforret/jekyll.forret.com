@@ -1,6 +1,6 @@
 ---
 id: 1277
-title: 'Google Docs' infamous &#8220;Moved Temporarily&#8221; error &#8211; fixed!'
+title: 'Google Docs’ infamous &quot;Moved Temporarily&quot; error &#8211; fixed!'
 date: 2011-07-14T17:40:47+02:00
 author: Peter
 layout: post
@@ -18,7 +18,7 @@ tags:
   - publish
   - spreadsheet
 ---
-[<img  class="alignright wp-image-1278 size-medium" title="docs_publish" src="/wp-content/uploads/2011/07/docs_publish1-276x300.png" alt="" width="276" height="300" srcset="https://blog.forret.com/wp-content/uploads/2011/07/docs_publish1-276x300.png 276w, https://blog.forret.com/wp-content/uploads/2011/07/docs_publish1.png 525w" sizes="(max-width: 276px) 100vw, 276px" />](/wp-content/uploads/2011/07/docs_publish1.png)  
+[<img  class="alignright wp-image-1278 size-medium" title="docs_publish" src="/wp-content/uploads/2011/07/docs_publish1-276x300.png" alt="" width="276" height="300" srcset="/wp-content/uploads/2011/07/docs_publish1-276x300.png 276w, /wp-content/uploads/2011/07/docs_publish1.png 525w" sizes="(max-width: 276px) 100vw, 276px" />](/wp-content/uploads/2011/07/docs_publish1.png)  
 I store quite a lot of info in Google Spreadsheets, for the obvious reasons:
 
   * anyone can edit from any place, even at the same time

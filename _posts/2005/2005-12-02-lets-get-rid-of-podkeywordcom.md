@@ -1,10 +1,8 @@
 ---
-id: 223
-title: 'Let's get rid of podkeyword.com'
+title: 'Let’s get rid of podkeyword.com'
 date: 2005-12-02T19:04:17+01:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2005/12/02/lets-get-rid-of-podkeywordcom/
 permalink: /2005/12/02/lets-get-rid-of-podkeywordcom/
 categories:
   - podcast

@@ -1,6 +1,6 @@
 ---
 id: 67
-title: 'Casablanca: here's looking at you'
+title: 'Casablanca: here’s looking at you'
 date: 2004-10-11T23:59:10+02:00
 author: Peter
 layout: post

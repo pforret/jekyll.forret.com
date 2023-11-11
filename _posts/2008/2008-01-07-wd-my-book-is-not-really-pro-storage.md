@@ -1,6 +1,6 @@
 ---
 id: 960
-title: 'WD My Book is not really &#8216;Pro' storage'
+title: 'WD My Book is not really ’Pro’ storage'
 date: 2008-01-07T16:07:33+01:00
 author: Peter
 layout: post

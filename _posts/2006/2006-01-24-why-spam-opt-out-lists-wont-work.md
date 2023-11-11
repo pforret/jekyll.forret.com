@@ -1,6 +1,6 @@
 ---
 id: 247
-title: 'Why spam opt-out lists won't work'
+title: 'Why spam opt-out lists won’t work'
 date: 2006-01-24T11:01:00+01:00
 author: Peter
 layout: post

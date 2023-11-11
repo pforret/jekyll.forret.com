@@ -1,10 +1,8 @@
 ---
-id: 109
-title: 'Dave Winer's problem and solution'
+title: 'Dave Winer’s problem and solution'
 date: 2005-01-18T11:37:42+01:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2005/01/18/dave-winers-problem-and-solution/
 permalink: /2005/01/18/dave-winers-problem-and-solution/
 categories:
   - spam

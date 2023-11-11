@@ -1,6 +1,6 @@
 ---
 layout: with_category
-title: Meme
-keyword: meme
+title: Blogging
+keyword: blogging
 count: 1
 ---

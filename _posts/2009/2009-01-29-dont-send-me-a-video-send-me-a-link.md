@@ -1,10 +1,8 @@
 ---
-id: 1104
-title: 'Don't send me a video, send me a link'
+title: 'Don’t send me a video, send me a link'
 date: 2009-01-29T12:29:18+01:00
 author: Peter
 layout: post
-guid: /?p=1104
 permalink: /2009/01/29/dont-send-me-a-video-send-me-a-link/
 categories:
   - bandwidth
@@ -17,10 +15,6 @@ tags:
   - vimeo
   - youtube
 ---
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-
-<div class="wp-block-embed__wrapper">
-</div>  
 
 I know, there are so many &#8216;funny' videos you just have to share with your friends. So you send them an email. But for god's sake, not with a 5MB movie in attachment! For all you know, he/she might not even be able to play that MOV/WMV/XVid movie anyway. **Don't send a movie, send a link!**
 

@@ -1,14 +1,16 @@
 ---
 id: 337
-title: 'Invent, don't inhibit'
+title: 'Invent, don’t inhibit'
 date: 2006-05-27T01:39:48+02:00
 author: Peter
 layout: post
 guid: /2006/05/invent-dont-inhibit/
 permalink: /2006/05/27/invent-dont-inhibit/
 categories:
-  - Apple
   - music
+tags:
+    - apple
+    - streaming
 ---
 ### 1982
 

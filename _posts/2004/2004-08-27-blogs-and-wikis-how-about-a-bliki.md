@@ -1,5 +1,5 @@
 ---
-title: 'Blogs and Wiki's: how about a bliki?'
+title: 'Blogs and Wikis: how about a bliki?'
 date: 2004-08-27T17:37:49+02:00
 author: Peter
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 987
-title: 'Screenshots of a DVD with &#8216;ffmpeg''
+title: 'Screenshots of a DVD with ffmpeg'
 date: 2008-02-08T22:18:37+01:00
 author: Peter
 layout: post
@@ -8,7 +8,6 @@ guid: /2008/02/screenshots-of-a-dvd-with-ffmpeg/
 permalink: /2008/02/08/screenshots-of-a-dvd-with-ffmpeg/
 categories:
   - audio-video
-  - scripting
 tags:
   - capture
   - dvd

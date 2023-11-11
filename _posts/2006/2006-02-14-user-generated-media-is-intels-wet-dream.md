@@ -1,17 +1,15 @@
 ---
-id: 255
-title: 'User-generated media is Intel's wet dream'
+title: 'User-generated media is Intel’s wet dream'
 date: 2006-02-14T22:13:00+01:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2006/02/14/user-generated-media-is-intels-wet-dream/
 permalink: /2006/02/14/user-generated-media-is-intels-wet-dream/
 categories:
   - hardware
 ---
 Since the [CISC processors](http://en.wikipedia.org/wiki/CISC) were invented some decades ago, companies like Intel and AMD have tried to follow some form of [Moore's Law](http://www.intel.com/technology/mooreslaw/index.htm): double the number of transistors on a chip &#8211; or the corresponding CPU clock speed &#8211; every 2 years or 18 months ([there's more than 1 version of the law](http://www.firstmonday.dk/issues/issue7_11/tuomi/)).
 
-> As it�s become harder for average mortals to see the benefits of faster clock speeds and greater CPU muscle, the guns of the great megahertz war have begun to go silent. In the computer business today, the market places greater value on factors other than processor power � on things like battery life and portability and not having your laptop burn a hole through your trousers. As computing devices keep getting smaller, such secondary characteristics will continue to grow in relative importance.  
+> As it's become harder for average mortals to see the benefits of faster clock speeds and greater CPU muscle, the guns of the great megahertz war have begun to go silent. In the computer business today, the market places greater value on factors other than processor power - on things like battery life and portability and not having your laptop burn a hole through your trousers. As computing devices keep getting smaller, such secondary characteristics will continue to grow in relative importance.  
 > (from [nicholasgcarr.com](http://www.nicholasgcarr.com/digital_renderings/archives/moores_law_rip.shtml))
 
 Even while sustaining that growth path has proven to be rather hard now (anyone ever seen a 4GHz processor?), they are still enhancing the horsepower by enlarging cache memory and using dual-core processors. The more power, the higher the price one can ask for.

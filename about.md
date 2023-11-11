@@ -17,3 +17,9 @@ or my 2017 [external USB storage dock](/2017/02/11/diy-my-bamboo-usb-ssd-disk-ba
 | <img width="300" src="https://live.staticflickr.com/37/78495255_6028a2858d_o.png"> | <img width="300" src="/wp-content/uploads/2017/02/BOSQ.20170211.201956.jpg"> | 
 
 * the most popular post on this blog:  [Weekday colors (according to the Ayurveda) ![Weekday colors](/wp-content/uploads/2021/03/ayurveda.jpg) ](/2007/08/21/weekday-colours-ayurveda/)
+
+<a href="https://cv.forret.com" title="My CV"><i class="fas fa-briefcase"></i> CV</a>
+<a href="https://github.com/pforret" title="Github: pforret"><i class="fab fa-github-square"></i> GitHub</a>
+<a href="https://www.linkedin.com/in/peterforret/" title="Linkedin: peterforret"><i class="fab fa-linkedin"></i> LinkedIn</a>
+<a href="https://twitter.com/pforret" title="Twitter: pforret"><i class="fab fa-twitter-square"></i> Twitter</a>
+<a href="https://www.flickr.com/people/pforret/" title="Flickr: pforret"><i class="fab fa-flickr"></i> Flickr</a>

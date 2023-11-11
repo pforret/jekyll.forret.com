@@ -1,5 +1,5 @@
 ---
-title: 'It's the latency, stupid!'
+title: 'It’s the latency, stupid!'
 date: 2004-11-01T16:47:34+01:00
 author: Peter
 layout: post

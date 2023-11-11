@@ -1,10 +1,8 @@
 ---
-id: 163
-title: 'Bentzon Brotherhood: Rapper's New Delight'
+title: 'Bentzon Brotherhood: Rapper’s New Delight'
 date: 2005-07-17T21:50:59+02:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2005/07/17/bentzon-brotherhood-rappers-new-delight/
 permalink: /2005/07/17/bentzon-brotherhood-rappers-new-delight/
 categories:
   - music

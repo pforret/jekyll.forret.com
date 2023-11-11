@@ -1,6 +1,6 @@
 ---
 id: 1004
-title: 'Apple trailers: when 720p isn't always 720p'
+title: 'Apple trailers: when 720p isn’t always 720p'
 date: 2008-02-28T21:20:24+01:00
 author: Peter
 layout: post

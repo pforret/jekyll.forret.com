@@ -1,10 +1,8 @@
 ---
-id: 1054
-title: 'A JPEG picture doesn't care about no DPI'
+title: 'A JPEG picture doesn’t care about no DPI'
 date: 2008-04-21T11:12:01+02:00
 author: Peter
 layout: post
-guid: /?p=1054
 permalink: /2008/04/21/a-jpeg-picture-doesnt-care-about-no-dpi/
 categories:
   - photography

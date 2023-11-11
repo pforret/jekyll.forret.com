@@ -2,5 +2,5 @@
 layout: with_tag
 title: Bloggers
 keyword: bloggers
-count: 2
+count: 1
 ---

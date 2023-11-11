@@ -1,6 +1,6 @@
 ---
 id: 238
-title: 'Apple reinvents photocasting in iLife '06'
+title: 'Apple reinvents photocasting in iLife ’06'
 date: 2006-01-11T00:37:19+01:00
 author: Peter
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 323
-title: 'Database war stories: DB vs &#8216;square' files'
+title: 'Database war stories: DB vs _square_ files'
 date: 2006-05-05T10:22:05+02:00
 author: Peter
 layout: post
@@ -8,13 +8,12 @@ guid: /2006/05/database-war-stories-db-vs-square-files/
 permalink: /2006/05/05/database-war-stories-db-vs-square-files/
 categories:
   - bandwidth
-  - Belgium
-  - hardware
 tags:
   - database
   - sopres
   - text
   - unix
+  - bandwidth
 ---
 [<img  width="181" src="http://static.flickr.com/46/140747997_b1b4edecaa_m.jpg" alt="Plug and Play" height="240" style="float: right" />](http://www.flickr.com/photos/pforret/140747997/ "Photo Sharing")I've been following the Database War Stories of [O'Reilly Radar](http://radar.oreilly.com): how companies use text-based alternatives to classic relational database systems in order to cope with huge volumes. Check out the stories of [Findory/Amazon](http://radar.oreilly.com/archives/2006/05/database_war_stories_8_findory_1.html), [Google File System](http://radar.oreilly.com/archives/2006/05/database_war_stories_7_google.html), [Flickr](http://radar.oreilly.com/archives/2006/04/database_war_stories_3_flickr.html) and [Second Life](http://radar.oreilly.com/archives/2006/04/web_20_and_databases_part_1_se.html). Anyway, this seemed like a good moment to share some of my database war stories. Let me take you back to the early nineties.
 

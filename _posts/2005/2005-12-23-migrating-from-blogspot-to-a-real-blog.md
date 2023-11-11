@@ -1,16 +1,17 @@
 ---
-id: 231
-title: 'Migrating from blogspot to a &#8216;real' blog'
+title: 'Migrating from blogspot to a ’real’ blog'
 date: 2005-12-23T10:37:00+01:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2005/12/23/migrating-from-blogspot-to-a-real-blog/
 permalink: /2005/12/23/migrating-from-blogspot-to-a-real-blog/
 categories:
-  - Google
+  - blogging
+tags:
+    - google
+    - blogger
 ---
-![Blogger](http://www.pixagogo.com/S55bfzQn-9Laj342Ysd8%21wxmXGCojZbm8v4rMDYivuSo%216vjCaHw92Cyfg39Keu0L9eD8T6x-lcCL8xqE95jB6jSKpLgQwmHko/blogger.jpg)  
-I have [often](/blog/2004/12/setting-up-new-blogger-site.html) [said](/blog/2004/10/podcasting-with-blogger.html) that Blogger is one of the easiest ways to get started for free with a blog. Even if you don't have an own domain name, you can start with a xyz.blogspot.com. However, there might come a time that you want to move that blog to another location: because you have bought your own domain, because you don't want to look like an newbie, &#8230; I've done that a couple of times (I have more than a dozen blogs on Blogger, and am now transfering the &#8216;serious' ones to my [www.smoothouse.com](http://www.smoothouse.com) domain) and these are some tips:
+
+I have [often](/blog/2004/12/setting-up-new-blogger-site.html) [said](/blog/2004/10/podcasting-with-blogger.html) that Blogger is one of the easiest ways to get started for free with a blog. Even if you don't have an own domain name, you can start with a xyz.blogspot.com. However, there might come a time that you want to move that blog to another location: because you have bought your own domain, because you don't want to look like an newbie, &#8230; I've done that a couple of times (I have more than a dozen blogs on Blogger, and am now transferring the &#8216;serious' ones to my [www.smoothouse.com](http://www.smoothouse.com) domain) and these are some tips:
 
 ### Situation
 

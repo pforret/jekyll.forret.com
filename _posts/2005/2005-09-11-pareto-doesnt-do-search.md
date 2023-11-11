@@ -1,12 +1,11 @@
 ---
-title: 'Pareto doesn't do search'
+title: 'Pareto doesn’t do search'
 date: 2005-09-11T14:47:00+02:00
 author: Peter
 layout: post
 permalink: /2005/09/11/pareto-doesnt-do-search/
 categories:
     - Google
-  
 tags:
     - search
     - technorati

@@ -1,10 +1,8 @@
 ---
-id: 233
-title: 'Thought DMCA was bad? Here's DTCS!'
+title: 'Thought DMCA was bad? Here’s DTCS!'
 date: 2005-12-27T10:30:00+01:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2005/12/27/thought-dmca-was-bad-heres-dtcs/
 permalink: /2005/12/27/thought-dmca-was-bad-heres-dtcs/
 categories:
     - copyright

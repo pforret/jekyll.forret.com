@@ -1,10 +1,8 @@
 ---
-id: 214
-title: 'It's so cool to be anti-Web 2.0'
+title: 'It’s so cool to be anti-Web 2.0'
 date: 2005-11-12T16:47:43+01:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2005/11/12/its-so-cool-to-be-anti-web-20/
 permalink: /2005/11/12/its-so-cool-to-be-anti-web-20/
 categories:
   - Web2.0
@@ -34,6 +32,4 @@ and
 > There is no doubt in my mind that podcasting is not only here to stay but will also shortly threaten established media broadcast systems. It's not so much that they will all be destroyed by homebrew networks, but podcasts will be taking away just enough listeners to be a major concern  
 > from [Podcasting: The Next Big Thing (Jun 2005)](http://www.pcmag.com/article2/0,1759,1855908,00.asp)
 
-That sounds a lot like: _&#8220;I dont get it, so it's crap&#8221;_ and _&#8220;Oh, now I get it, it's brilliant!&#8221;_.
-
-Technorati: <a href="http://technorati.com/tag/web2.0" rel="tag">web2.0</a> &#8211; <a href="http://technorati.com/tag/entrepreneurship" rel="tag">entrepreneurship</a>
+That sounds a lot like: _I dont get it, so it's crap_ and _Oh, now I get it, it's brilliant!_.

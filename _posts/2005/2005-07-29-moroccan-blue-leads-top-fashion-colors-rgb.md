@@ -1,6 +1,6 @@
 ---
 id: 164
-title: '&#8216;Moroccan Blue' Leads Top Fashion Colors (RGB)'
+title: 'Moroccan Blue Leads Top Fashion Colors (RGB)'
 date: 2005-07-29T00:42:54+02:00
 author: Peter
 layout: post

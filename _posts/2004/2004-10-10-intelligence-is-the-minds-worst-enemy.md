@@ -1,6 +1,6 @@
 ---
 id: 66
-title: 'Intelligence is the mind's worst enemy'
+title: 'Intelligence is the mind’s worst enemy'
 date: 2004-10-10T19:58:02+02:00
 author: Peter
 layout: post

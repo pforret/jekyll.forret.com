@@ -1,6 +1,6 @@
 ---
 id: 641
-title: 'Redirecting with Apache's .htaccess'
+title: 'Redirecting with Apache’s .htaccess'
 date: 2007-07-04T14:09:27+02:00
 author: Peter
 layout: post
