@@ -1,13 +1,17 @@
 ---
-id: 97
 title: 'Information overload: blog filtering'
 date: 2005-01-04T17:38:51+01:00
 author: Peter
 layout: post
-guid: http://peter.smoothouse.com/2005/01/04/information-overload-blog-filtering/
 permalink: /2005/01/04/information-overload-blog-filtering/
 categories:
   - Web2.0
+tags:
+  - blog
+  - filtering
+  - information
+  - rss
+  - web2.0
 ---
 I recently stopped reading blogs with [SharpReader](http://www.sharpreader.net/). It's a great product, but I had over a hundred feeds that I was monitoring and that's just too much information coming in. No way to get through all that and still get your job done. I now started from scratch with [BlogLines](http://www.bloglines.com) and am trying to think twice before adding a new feed (currently at 10).
 
