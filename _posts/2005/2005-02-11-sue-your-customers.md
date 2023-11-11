@@ -12,7 +12,7 @@ tags:
 (Post in Dutch)  
 ![](http://www.pixagogo.com/S5vpfnjbBPdPkmcAQOLyC3XpHmhpRAFni!lPwtqKNtjM9wI6FibYGBG-NjsNwRDMVpLY5sdlmS26ewJuHZvn2eT2N-J9HKUCt-hcjMdK6bKBlw5TdB8q!h2yygMsEaqbsEv38x5HFV1V8_/Sacem.jpg) 
 
-> Het Franse equivalent van anti-piraterijstichting Brein (&#8220;[Sacem](http://www.sacem.fr/)&#8220;) stond onlangs in zijn hemd. Muzikanten als Yann Tiersen, Ez3kiel, Le Peuple de l'Herbe en Manu Chao [ondertekenden in opinietijdschrift Le Nouvel Observateur](http://permanent.nouvelobs.com/multimedia/20050203.OBS7844.html) een manifest waarin ze strijden voor een eind aan de hetze tegen de downloader. &#8216;Net als minstens acht miljoen andere Fransen hebben wij ooit online muziek gedownload en zijn we dus potentiele misdadigers.&#8217;  
+> Het Franse equivalent van anti-piraterijstichting Brein (&#8220;[Sacem](http://www.sacem.fr/)&#8220;) stond onlangs in zijn hemd. Muzikanten als Yann Tiersen, Ez3kiel, Le Peuple de l'Herbe en Manu Chao [ondertekenden in opinietijdschrift Le Nouvel Observateur](http://permanent.nouvelobs.com/multimedia/20050203.OBS7844.html) een manifest waarin ze strijden voor een eind aan de hetze tegen de downloader. &#8216;Net als minstens acht miljoen andere Fransen hebben wij ooit online muziek gedownload en zijn we dus potentiele misdadigers.'  
 > (from [3voor12.vpro.nl](http://3voor12.vpro.nl/3voor12/magazines/news/index.jsp?portals=2534202&magazines=10719222&news=21281630)) 
 
 > Marcel, ge gaat het nooit geloven: nu vinden de artiesten ook al dat we moeten stoppen met iedereen een proces aan te doen die MP3s downloadt.
@@ -29,7 +29,7 @@ tags:
             
 > Amai, Marcel, gij zijt ne straffe tiep&#8230; Zeg, het is vrijdag vandaag, he? Wie sturen we vandaag een sies en die sist?</p> 
             
-> &#8216;Cease and desist&#8217;, Suzanne. Even in mijn agenda kijken &#8230; [Dominiek](http://dominiek.be/?itemid=1516) of [Fuckhedz](http://www.fuckhedz.com/index.php?itemid=3174)? Inne miene mutte &#8230;
+> &#8216;Cease and desist', Suzanne. Even in mijn agenda kijken &#8230; [Dominiek](http://dominiek.be/?itemid=1516) of [Fuckhedz](http://www.fuckhedz.com/index.php?itemid=3174)? Inne miene mutte &#8230;
 
 Ik nodig u uit om te beleven op welk gesofisticeerd niveau dit gevecht beslecht wordt. Hyperlinks voor dummies:
 

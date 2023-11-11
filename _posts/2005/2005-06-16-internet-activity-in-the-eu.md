@@ -16,7 +16,7 @@ The sport of data consolidation: I got my hands on [the number of domainnames fo
 
 ### Registration activity
 
-This is the number of registered domains per 1000 inhabitants. It might give an indication of how &#8216;normal&#8217; it is to have your own website.  
+This is the number of registered domains per 1000 inhabitants. It might give an indication of how &#8216;normal' it is to have your own website.  
 This is the Top 5:
 
 <table>
@@ -153,7 +153,7 @@ This is the Top 5:
   </tr>
 </table>
 
-Remarks: _Estonia seems a surprising entry here, but actually Poland and the Czech Republic aren&#8217;t doing that bad either. Better than Belgium, actually._
+Remarks: _Estonia seems a surprising entry here, but actually Poland and the Czech Republic aren't doing that bad either. Better than Belgium, actually._
 
 ### Authoring activity
 
@@ -435,7 +435,7 @@ This is the Top 5:
   </tr>
 </table>
 
-Remarks: _the best place to be a webmaster is France. The web sites are large, you have no competition from the US or South-America (no one speaks English or Spanish) and there&#8217;s lots of domain names still available._
+Remarks: _the best place to be a webmaster is France. The web sites are large, you have no competition from the US or South-America (no one speaks English or Spanish) and there's lots of domain names still available._
 
 All data:
 

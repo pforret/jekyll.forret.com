@@ -24,7 +24,7 @@ This is the story of how I made my own pretty bamboo _USB SSD disk expansion sup
 
 ![](/wp-content/uploads/2017/02/BOSQ.20170211.201956-825x510.jpg)
 
-As a photographer, I need a lot of storage space. As a [travelling photographer](https://tangopaparazzo.com), I also need it on my laptop. My current 13&#8243; MacBook Pro is plenty fast, but it only has a 512GB SSD drive. I quickly found out that is way too small. So I bought an external SSD disk. The Samsung Portable 500GB version is affordable and it&#8217;s almost as fast as the internal drive. But it&#8217;s only 500GB. So I bought a second and a third. Now, travelling with 3 USB disks and a USB hub (since my MBP only has 2 USB ports, and I need one for reading CompactFlash cards) is quite a hassle. There&#8217;s cables everywhere, you&#8217;re always afraid you&#8217;ll drop one, or forget one. So I decided to kind of tape them together.
+As a photographer, I need a lot of storage space. As a [travelling photographer](https://tangopaparazzo.com), I also need it on my laptop. My current 13&#8243; MacBook Pro is plenty fast, but it only has a 512GB SSD drive. I quickly found out that is way too small. So I bought an external SSD disk. The Samsung Portable 500GB version is affordable and it's almost as fast as the internal drive. But it's only 500GB. So I bought a second and a third. Now, travelling with 3 USB disks and a USB hub (since my MBP only has 2 USB ports, and I need one for reading CompactFlash cards) is quite a hassle. There's cables everywhere, you're always afraid you'll drop one, or forget one. So I decided to kind of tape them together.
 
 ![](/wp-content/uploads/2017/02/BOSQ.20170211.164342-1024x683.jpg)
 
@@ -51,7 +51,7 @@ To give you an idea of the price of this hardware:
 
 #### Step 6: glue two trays together
 
-![](http://blog.forret.com/wp-content/uploads/2017/02/BOSQ.20170211.174706-1024x683.jpg)
+![](/wp-content/uploads/2017/02/BOSQ.20170211.174706-1024x683.jpg)
 
 #### Step 7: remove excess glue and admire
 
@@ -61,7 +61,7 @@ To give you an idea of the price of this hardware:
 
 ### Possible improvements
 
-* Size: once the 2TB SSD disks become affordable (now they&#8217;re still at 800 euro), I could build a 6TB version.
+* Size: once the 2TB SSD disks become affordable (now they're still at 800 euro), I could build a 6TB version.
 * Protection: for the moment each USB disk shows up as a separate disk. So I use 3 different Lightroom catalogs to manage that. Better would be to have a 3 SSD disk configuration in [USB RAID-5](https://www.youtube.com/watch?v=dougISKs2vQ) protection: no data is lost when 1 disk goes bad, and you only see one big disk on your laptop
 * Media: a logical extension would be to include a USB CompactFlash reader. I still need that for my Canon 5D cameras.
 * USB-C: I think this would make it possible to also add extra batteries in the laptop coaster.

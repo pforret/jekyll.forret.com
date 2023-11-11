@@ -4,7 +4,7 @@ title: .eu domain speculation
 date: 2007-01-18T12:01:41+01:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2007/01/eu-domain-speculation/
+guid: /2007/01/eu-domain-speculation/
 permalink: /2007/01/18/eu-domain-speculation/
 categories:
   - internet

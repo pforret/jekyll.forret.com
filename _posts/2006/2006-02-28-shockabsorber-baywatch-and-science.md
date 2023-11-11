@@ -13,10 +13,10 @@ categories:
 
 > [<img  width="100" height="75" alt="Nicole Eggert" src="http://static.flickr.com/38/105517959_9c9c5be576_t.jpg" />](http://www.flickr.com/photos/pforret/105517959/ "Photo Sharing")CHANDLER: So ah, whatcha watching?  
 > JOEY: Baywatch.  
-> CHANDLER: What&#8217;s it about?  
+> CHANDLER: What's it about?  
 > JOEY: Lifeguards.  
-> CHANDLER: Well, it sounds kinda stupid&#8230; Who&#8217;s she?  
-> JOEY: [Nicole Eggert](http://www.imdb.com/name/nm0001176/). You&#8217;ll like her.  
+> CHANDLER: Well, it sounds kinda stupid&#8230; Who's she?  
+> JOEY: [Nicole Eggert](http://www.imdb.com/name/nm0001176/). You'll like her.  
 > CHANDLER: Wow! Look at them run.  
 > JOEY: They do that a lot.  
 > (from [The One With the Flashback](http://www.generationterrorists.com/cgi-bin/friends.cgi?ep=306))

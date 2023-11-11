@@ -4,7 +4,7 @@ title: 'Netgear SC101: crappy storage'
 date: 2006-07-10T13:21:09+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2006/07/netgear-sc-101-urgent-support-required/
+guid: /2006/07/netgear-sc-101-urgent-support-required/
 permalink: /2006/07/10/netgear-sc-101-urgent-support-required/
 categories:
   - hardware
@@ -20,14 +20,14 @@ tags:
   - storage
   - USB
 ---
-_UPDATE: also read my post about testing the [Netgear ReadyNAS](http://blog.forret.com/2008/04/netgear-readynas-nas-done-right/) (it doesn&#8217;t suck)_  
+_UPDATE: also read my post about testing the [Netgear ReadyNAS](/2008/04/netgear-readynas-nas-done-right/) (it doesn't suck)_  
 [<img  style="float: right; margin: 5px" src="http://static.flickr.com/76/186292024_d2a830f4c7_m.jpg" alt="Storage porn" width="240" height="180" />](http://www.flickr.com/photos/pforret/186292024/ "Photo Sharing")
 
 In my continuing quest for more and better storage, I have taken the following path:
 
   * Maxtor 5000DV, 120GB USB/Firewire, bought in 2003. Was dependable for 3 years (warranty period: 2 years) but has crashed a couple of times since (with data loss)
   * LaCie Porsche, 160GB USB, bought in 2004. Worked OK for 2 years (warranty period: 2 years) but has crashed a couple of times since (with data loss)
-  * Iomega Desktop hard drive, 250GB 100Mb Ethernet, bought in 2005. Hasn&#8217;t broken down yet, but makes way too much noise (loud ventilator, running continuously).
+  * Iomega Desktop hard drive, 250GB 100Mb Ethernet, bought in 2005. Hasn't broken down yet, but makes way too much noise (loud ventilator, running continuously).
   * Netgear SC-101, 2x300GB Ethernet, bought in 2006. Supports RAID-1 mirroring, which I needed after all my hard disk crashes. For my less-than-optimal experience, read on.
 
 <!--more-->
@@ -37,10 +37,10 @@ In my continuing quest for more and better storage, I have taken the following p
 [<img  style="float: right" src="http://static.flickr.com/44/146967665_03c2c8ea19_m.jpg" alt="Netgear Zetera, 2 x 300GB" width="180" height="240" />](http://www.flickr.com/photos/pforret/146967665/ "Photo Sharing")  
 I bought the Netgear/Zetera device after positive reviews on sites like [infoworld.com](http://www.infoworld.com/article/05/08/01/31FEinnovator3_1.html). The Zetera software converts network-attached drives into virtual SCSI drives that can be mirrored (RAID-1) or spanned (not striped). In theory, one could put, say, 4 devices in a network with 2 x 500GB each and have a 4TB spanned T: drive.
 
-So, I buy it with 2 x 300GB drives, pop them into the toaster, start it up, and create 2 virtual drives: 1 mirrored 200GB drive &#8220;MIRROR&#8221; for my music (backup of my CDs and a lot of podcasts) and the rest into a 180GB spanned volume &#8220;MOVIES&#8221;. First surprise: the Zetera software requires a (Windows only) driver on each computer that will access the data. I run 2 Windows machines, so that&#8217;s not really an issue, but if you&#8217;re on MacOSX, you would need 1 Windows station to manage the Netgear data and expose as a regular SMB volume: meaning double network traffic for each write/read operation. This is what my Netgear GUI shows: 10 new IP addresses.  
+So, I buy it with 2 x 300GB drives, pop them into the toaster, start it up, and create 2 virtual drives: 1 mirrored 200GB drive &#8220;MIRROR&#8221; for my music (backup of my CDs and a lot of podcasts) and the rest into a 180GB spanned volume &#8220;MOVIES&#8221;. First surprise: the Zetera software requires a (Windows only) driver on each computer that will access the data. I run 2 Windows machines, so that's not really an issue, but if you're on MacOSX, you would need 1 Windows station to manage the Netgear data and expose as a regular SMB volume: meaning double network traffic for each write/read operation. This is what my Netgear GUI shows: 10 new IP addresses.  
 [<img  src="http://static.flickr.com/53/147855506_94cacda94f.jpg" alt="Netgear IP addresses" width="500" height="203" />](http://www.flickr.com/photos/pforret/147855506/ "Photo Sharing")
 
-I then start copying my music and movies over to the new drive. Copying 200GB of data at [45GB/h max (or some 30GB/h realisticly)](http://web.forret.com/tools/bandwidth.asp?speed=100&unit=Mbps&title=Fast+Ethernet+%5BLAN%5D): it took a while, but at least my data is safe. Or so I thought. Every time you start the GUI, a popup appears with &#8220;Do you want to look for upgrades?&#8221;. At some point I&#8217;m thinking, &#8220;Hey, why not&#8221; So I upgrade the drivers on my desktop, and my laptop. Bad idea. To my amazement, I only have one drive anymore: &#8220;MOVIES&#8221;. The MIRROR drive has disappeared. I rerun the utility to attach all drives: &#8220;No drives available to attach&#8221;. This is where I get worried.
+I then start copying my music and movies over to the new drive. Copying 200GB of data at [45GB/h max (or some 30GB/h realisticly)](http://web.forret.com/tools/bandwidth.asp?speed=100&unit=Mbps&title=Fast+Ethernet+%5BLAN%5D): it took a while, but at least my data is safe. Or so I thought. Every time you start the GUI, a popup appears with &#8220;Do you want to look for upgrades?&#8221;. At some point I'm thinking, &#8220;Hey, why not&#8221; So I upgrade the drivers on my desktop, and my laptop. Bad idea. To my amazement, I only have one drive anymore: &#8220;MOVIES&#8221;. The MIRROR drive has disappeared. I rerun the utility to attach all drives: &#8220;No drives available to attach&#8221;. This is where I get worried.
 
 <p style="width: 320px; text-align: left">
   <!&#8211; #izoyff3syba1m9tu5t42jndessb5qa0bl6k7y930z{width:320px;height:256px;border:none;margin:0px;} &#8211;>
@@ -60,7 +60,7 @@ To cite the Google cache before it disappears:
 > Step (1) &#8211; clean lost drive from the registry as follows (found by NetDr:)  
 > &#8220;I believe the problem here stems from another entry in the registry that is showing the drive mounted already&#8230;.  
 > Registry Key: `HKEY_LOCAL_MACHINESOFTWAREZNSClient`  
-> Click on each key below the Client Key and see if the drive that you are trying to mount already co-exist? If so, remove that key only and reboot then remount the drive of choice in the SCM Mananagement software. Example: If you are trying to mount a drive named SC101 and you know it&#8217;s not mounted already, yet you see a key in the registry path mentioned above then Windows thinks that you aleady mounted that drive and you must remove it to trick windows into believing that the drive is not mounted so that you can RE-MOUNT the drive again. &#8221;
+> Click on each key below the Client Key and see if the drive that you are trying to mount already co-exist? If so, remove that key only and reboot then remount the drive of choice in the SCM Mananagement software. Example: If you are trying to mount a drive named SC101 and you know it's not mounted already, yet you see a key in the registry path mentioned above then Windows thinks that you aleady mounted that drive and you must remove it to trick windows into believing that the drive is not mounted so that you can RE-MOUNT the drive again. &#8221;
 > 
 > Step (2) &#8211; Apply static drive letter as follows: (found by pslizard)  
 > 1) Rightclick My Computer  
@@ -72,7 +72,7 @@ To cite the Google cache before it disappears:
 
 I also find a similarly disappointed customer at [techknowman.com](http://www.techknowman.com/Electronics/NETGEAR_SC101/index.html):
 
-> 4 hours and one new DHCP lease later&#8230;. I came across the &#8220;No drives available to attach&#8221; message when I found that my newly created SC101 partitions had magically &#8220;disappeared&#8221; from My Computer on all 3 of my PCs. The NSLU2 gave me the option to configure either a static or Dynamic IP address so why couldn&#8217;t the SC101?
+> 4 hours and one new DHCP lease later&#8230;. I came across the &#8220;No drives available to attach&#8221; message when I found that my newly created SC101 partitions had magically &#8220;disappeared&#8221; from My Computer on all 3 of my PCs. The NSLU2 gave me the option to configure either a static or Dynamic IP address so why couldn't the SC101?
 > 
 > Another 2 hours of head scratching and questioning my technical ability I was led to the drive letter issue in these forums. Reading post after post of SC101 owners losing way too much hair in their youth trying to get the SC101 to work got me a little concerned. Although I decided to persist and not be detered as I was going to make this solution work considering that I had a lot of hair to lose.
 
@@ -97,7 +97,7 @@ PARTITION LABEL IP ADDR SIZE(M)<br />
 8622F1B4-E41D-11DA-88C9-0001804AA8BF.s1 MOVIES 192.168.1.105 81306<br />
 ===============================================================================<br />
 2 MicroSan found within subnet 192.168.1.255`  
-So the partition &#8220;MIRROR&#8221; is still there, I just can&#8217;t get at it. Some consolation. Last thing I heard from Netgear (B.P. Moelker &#8211; NETGEAR Support Nederland) was June 29th. If this doesn&#8217;t get solved fast enough, I might become a very vocal unhappy customer!
+So the partition &#8220;MIRROR&#8221; is still there, I just can't get at it. Some consolation. Last thing I heard from Netgear (B.P. Moelker &#8211; NETGEAR Support Nederland) was June 29th. If this doesn't get solved fast enough, I might become a very vocal unhappy customer!
 
 UPDATE: my problem was solved as follows:  
 _I got a reply from Tech Suppport with following suggestions:  

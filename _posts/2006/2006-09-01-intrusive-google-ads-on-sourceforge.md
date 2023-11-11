@@ -4,7 +4,7 @@ title: Intrusive Google ads on Sourceforge
 date: 2006-09-01T19:04:51+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2006/09/intrusive-google-ads-on-sourceforge/
+guid: /2006/09/intrusive-google-ads-on-sourceforge/
 permalink: /2006/09/01/intrusive-google-ads-on-sourceforge/
 categories:
   - Google

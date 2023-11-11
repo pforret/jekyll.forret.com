@@ -9,11 +9,11 @@ permalink: /2005/10/18/public-wifi-the-on-line-consumer/
 categories:
   - wifi
 ---
-People who know me, have heard me nag about open hotspot cafés in Brussels. My vision is that within 6 months, there should be a couple of dozen open Wi-Fi hotspots in Brussels so a guy with a laptop (like me) can find one within 1 km of wherever I happen to be in Brussels. I&#8217;m developing an idea for creating a set-up that is interesting for the Wi-Fi end-users, the infrastructure owners (e.g. a bar owner) and the ISP (that&#8217;s the hard part). More about that later.
+People who know me, have heard me nag about open hotspot cafés in Brussels. My vision is that within 6 months, there should be a couple of dozen open Wi-Fi hotspots in Brussels so a guy with a laptop (like me) can find one within 1 km of wherever I happen to be in Brussels. I'm developing an idea for creating a set-up that is interesting for the Wi-Fi end-users, the infrastructure owners (e.g. a bar owner) and the ISP (that's the hard part). More about that later.
 
 As usual, Silicon Valley is way ahead of us:
 
-> &#8220;When I&#8217;m working at home, I wind up heading over there ([Ritual Coffee Roasters](http://ritualroasters.com/)) three or four times a day,&#8221; programmer Angus Durocher said in an e-mail interview. &#8220;The walk over there helps clear my head, flirting with the staff helps ensure I don&#8217;t lose all verbal communication skills, and at this point, I&#8217;m not sure I can survive without their coffee.&#8221;  
+> &#8220;When I'm working at home, I wind up heading over there ([Ritual Coffee Roasters](http://ritualroasters.com/)) three or four times a day,&#8221; programmer Angus Durocher said in an e-mail interview. &#8220;The walk over there helps clear my head, flirting with the staff helps ensure I don't lose all verbal communication skills, and at this point, I'm not sure I can survive without their coffee.&#8221;  
 > from [Cafe 2.0: After the Gold Rush](http://www.wired.com/news/business/0,1367,69221,00.html?tw=wn_2culthead)
 
 Because this should not lead to a bar full of laptop surfers not looking or talking at each other, there are even initiatives to limit that:
@@ -25,9 +25,9 @@ Because this should not lead to a bar full of laptop surfers not looking or talk
 Check out [Plazes.com](http://www.plazes.com) for another social geolocation project, one that already works now!
 
 **How is a public hotspot different from your home WiFi router setup?**  
-Typically there are things that you want to avoid: 1 user gobbling up all the bandwidth with streaming video, people using BitTorrent (kills your upload bandwidth and as such your quality of service), people sniffing other people&#8217;s PCs to see if they can find a security hole. So you need bandwidth management, a better firewall, and maybe also a homepage when the user first starts up his browser. This is called a &#8216;wireless captive portal&#8217;.  
+Typically there are things that you want to avoid: 1 user gobbling up all the bandwidth with streaming video, people using BitTorrent (kills your upload bandwidth and as such your quality of service), people sniffing other people's PCs to see if they can find a security hole. So you need bandwidth management, a better firewall, and maybe also a homepage when the user first starts up his browser. This is called a &#8216;wireless captive portal'.  
 [<img border="0" src="http://images.amazon.com/images/P/B0001D3K8A.01._AA_SCMZZZZZZZ_.jpg" />](http://www.amazon.com/exec/obidos/redirect?path=ASIN/B0001D3K8A&link_code=as2&camp=1789&tag=bestdigital08-20&creative=9325)<img  src="http://www.assoc-amazon.com/e/ir?t=bestdigital08-20&#038;l=as2&#038;o=1&#038;a=B0001D3K8A" width="1" height="1" border="0" alt="" />  
-Even if the standard consumer WiFi router does not do this yet, there are ways to make them better suited for the job &#8211; by upgrading the firmware. Most customized solutions seem to be based on the Linksys WRT54 (and later products), because they are really small Linux-based computers that can be easily upgraded to a modified firmware. _(Great thinking from Linksys! I just installed a new router and it&#8217;s the [WRT54GS](http://www.amazon.com/exec/obidos/redirect?path=ASIN/B0001D3K8A&link_code=as2&camp=1789&tag=bestdigital08-20&creative=9325), just for the reason of upgradeability)._
+Even if the standard consumer WiFi router does not do this yet, there are ways to make them better suited for the job &#8211; by upgrading the firmware. Most customized solutions seem to be based on the Linksys WRT54 (and later products), because they are really small Linux-based computers that can be easily upgraded to a modified firmware. _(Great thinking from Linksys! I just installed a new router and it's the [WRT54GS](http://www.amazon.com/exec/obidos/redirect?path=ASIN/B0001D3K8A&link_code=as2&camp=1789&tag=bestdigital08-20&creative=9325), just for the reason of upgradeability)._
 
 Here are some examples of software to enhance WiFi routers (mostly Linksys):
 

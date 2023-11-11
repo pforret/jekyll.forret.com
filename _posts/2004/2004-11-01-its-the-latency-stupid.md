@@ -1,5 +1,5 @@
 ---
-title: 'It&#8217;s the latency, stupid!'
+title: 'It's the latency, stupid!'
 date: 2004-11-01T16:47:34+01:00
 author: Peter
 layout: post
@@ -17,7 +17,7 @@ His points:
 
 * Fact 1: **Making more bandwidth is easy**: You can just put enough slow connections in parallel to get a fast one.</p> 
     
-* Fact 2: **Once you have bad latency you&#8217;re stuck with it**: Parallel devices, compression, &#8230; nothing helps! </p> 
+* Fact 2: **Once you have bad latency you're stuck with it**: Parallel devices, compression, &#8230; nothing helps! </p> 
         
 * Fact 3: **Current consumer devices have appallingly bad latency**: Modems are evil (but now, with cable and ADSL, this is less of an issue)</p> 
             
@@ -31,7 +31,7 @@ The following calculation is eye-opening:
 > The speed of light in fibre is 300 x 10^6 m/s * 0.66 = 200 x 10^6 m/s.  
 > The one-way delay to Boston is 4320 km / 200 x 10^6 m/s = 21.6ms.  
 > The round-trip time to Boston and back is 43.2ms.  
-> The current ping time from Stanford to Boston over today&#8217;s Internet is about 85ms:  
+> The current ping time from Stanford to Boston over today's Internet is about 85ms:  
 
 ```
 [cheshire@nitro]$ ping -c 1 lcs.mit.edu

@@ -4,7 +4,7 @@ title: 'Barcamp Brussels #2: on Sunday Sept 24th'
 date: 2006-07-27T11:34:00+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2006/07/barcamp-brussels-2-on-sunday-sept-24th/
+guid: /2006/07/barcamp-brussels-2-on-sunday-sept-24th/
 permalink: /2006/07/27/barcamp-brussels-2-on-sunday-sept-24th/
 categories:
   - Belgium

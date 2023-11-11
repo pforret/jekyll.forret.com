@@ -4,7 +4,7 @@ title: 'IVI: Internet voor Iedereen'
 date: 2006-04-12T16:43:52+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2006/04/ivi-internet-voor-iedereen/
+guid: /2006/04/ivi-internet-voor-iedereen/
 permalink: /2006/04/12/ivi-internet-voor-iedereen/
 categories:
   - bandwidth
@@ -50,8 +50,8 @@ training
 The price this should go for? 850 euro for the desktop config and 990 euro for the laptop, with all software/services for 1 year included. The government sponsors by paying back the VAT (21%).
 
 **LITTLE OPEN-SOURCE**  
-The government&#8217;s call for proposal allowed for commercial operating systems (Windows/MacOS) [as well as open-source](http://zdnet.be/news.cfm?id=53586&p=3) (Linux/Ubuntu). Unfortunately none of the certified partners will offer a non-Windows solution. Microsoft obviously did a [strong job selling it&#8217;s OS](http://news.zdnet.co.uk/0,39020330,39261437,00.htm). [Partners in the consortia](http://zdnet.be/news.cfm?id=54853) are the obvious broadband duopoly Belgacom/Telenet, with only Mobistar as a challenger, and for the hardware Fujitsu-Siemens and Packard-Bell (no Dell?). There are also 2 smaller players: [DIDI Trade (Aartselaar)](http://www.diditrade.be/) and [SHS Computer (Neuville-enCondroz)](http://www.shscomputer.be/).
+The government's call for proposal allowed for commercial operating systems (Windows/MacOS) [as well as open-source](http://zdnet.be/news.cfm?id=53586&p=3) (Linux/Ubuntu). Unfortunately none of the certified partners will offer a non-Windows solution. Microsoft obviously did a [strong job selling it's OS](http://news.zdnet.co.uk/0,39020330,39261437,00.htm). [Partners in the consortia](http://zdnet.be/news.cfm?id=54853) are the obvious broadband duopoly Belgacom/Telenet, with only Mobistar as a challenger, and for the hardware Fujitsu-Siemens and Packard-Bell (no Dell?). There are also 2 smaller players: [DIDI Trade (Aartselaar)](http://www.diditrade.be/) and [SHS Computer (Neuville-enCondroz)](http://www.shscomputer.be/).
 
 **BROADBAND IN BELGIUM**  
 [<img  src="http://static.flickr.com/45/127367272_67c603176e.jpg" width="500" height="274" alt="Broadband" />](http://www.flickr.com/photos/pforret/127367272/ "Photo Sharing")  
-We&#8217;re currently number #10 worldwide in broadband penetration: 18,3 subscribers per 100 inhabitants. This promotion should allow us to maybe jump over Sweden and Canada. Iceland, here we come!
+We're currently number #10 worldwide in broadband penetration: 18,3 subscribers per 100 inhabitants. This promotion should allow us to maybe jump over Sweden and Canada. Iceland, here we come!

@@ -10,7 +10,7 @@ categories:
   - spam
 ---
 ![](http://us3.pixagogo.com/S5!bRz4QtUrC-Sj1TAgtTFlZ3VSXZ5qqc0FV6wgVX5lDajmLu4v3nJX84k8JhevEGlMHjJmK9SHIZi4FQhr2D67Qy9JqYmGCgFkGIWwopmHqE_/spamsepia.jpg)  
-The great thing about Wiki&#8217;s is that everyone can edit them. The problem is that this attracts a new strain of spam morons: the [wiki spammers](http://news.netcraft.com/archives/2004/06/04/wikis_the_next_frontier_for_spammers.html). My [Tango Wiki](http://tango.smoothouse.com/wiki/) has gotten spammed several times per day since I launched it. A page gets changed to a list of URLs for various drugs, mostly _&#8216;male performance related&#8217;_, let&#8217;s say.
+The great thing about Wiki's is that everyone can edit them. The problem is that this attracts a new strain of spam morons: the [wiki spammers](http://news.netcraft.com/archives/2004/06/04/wikis_the_next_frontier_for_spammers.html). My [Tango Wiki](http://tango.smoothouse.com/wiki/) has gotten spammed several times per day since I launched it. A page gets changed to a list of URLs for various drugs, mostly _&#8216;male performance related'_, let's say.
 
 A sample of the IP addresses of the offenders (basically all over the place):
 

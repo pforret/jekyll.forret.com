@@ -19,7 +19,7 @@ tags:
   - silicon
   - speed
 ---
-When I started working with my Mac Mini M1, I felt it was faster, but I couldn&#8217;t really compare with a proper benchmark. I work a lot with video so I created an Apple (M1 and older) benchmark that is focused on CPU-heavy video programs: `ffmpeg` and `primitive`.
+When I started working with my Mac Mini M1, I felt it was faster, but I couldn't really compare with a proper benchmark. I work a lot with video so I created an Apple (M1 and older) benchmark that is focused on CPU-heavy video programs: `ffmpeg` and `primitive`.
 
 ## Benchmark 1: ffmpeg
 
@@ -56,13 +56,13 @@ BENCHMARK PRIMITIVE
 
     Combined performance index: 100 %</code></pre>
 
-Some explanation: the Max CPU is the maximum CPU load the ffmpeg or primitive process takes. This is running on a 8-core M1, so you could expect the top value to be 800. However, the M1&#8217;s cores are not all equal. There are 4 performance cores and 4 efficiency cores, and I have a feeling the latter can not give the same 100% as the former. So it could be that the 685 CPU load in the last benchmark is very close to the theoretical maximum for an M1.
+Some explanation: the Max CPU is the maximum CPU load the ffmpeg or primitive process takes. This is running on a 8-core M1, so you could expect the top value to be 800. However, the M1's cores are not all equal. There are 4 performance cores and 4 efficiency cores, and I have a feeling the latter can not give the same 100% as the former. So it could be that the 685 CPU load in the last benchmark is very close to the theoretical maximum for an M1.
 
 PS: the performance of both benchmarks varies a bit every time you run it. With the M1 computer I always end up close to 100%, but rarely exactly at 100%.
 
 ## Comparison: MacBook Pro 13&#8243; Retina (2013)
 
-When I bought my old MBP laptop in 2013, it was an impressive machine, with an impressive price. I&#8217;ve used it mainly for photography and software development. It has become more and more buggy the last year (CPU overheating, screen flickering, &#8230;). And it feels slow, certainly compared to the M1.
+When I bought my old MBP laptop in 2013, it was an impressive machine, with an impressive price. I've used it mainly for photography and software development. It has become more and more buggy the last year (CPU overheating, screen flickering, &#8230;). And it feels slow, certainly compared to the M1.
 
 <pre  ><code># macOS 11.1 i386
     * Hardware details: MacBookPro11,1 - 4 CPUs - 16 GiB RAM - Intel Iris GPU
@@ -82,7 +82,7 @@ When I bought my old MBP laptop in 2013, it was an impressive machine, with an i
 
 So, for these kind of CPU-intensive tasks, the M1 is sometimes **up to 5x faster** than my old MacBook Pro (100% vs 20%). 
 
-PS: This MacBook Pro claims 4 cores, but it&#8217;s actual 4 _virtual cores_ on a 2 _physical cores_ CPU. This is why the Max CPU is not a full 400 but rather close to 260.
+PS: This MacBook Pro claims 4 cores, but it's actual 4 _virtual cores_ on a 2 _physical cores_ CPU. This is why the Max CPU is not a full 400 but rather close to 260.
 
 ## Comparison: Dell XPS 15 i7 &#8211; Win10 WSL (2017)
 

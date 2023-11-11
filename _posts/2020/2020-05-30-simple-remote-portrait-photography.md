@@ -20,12 +20,12 @@ tags:
 ---
 COVID19 has had a huge impact of pretty much everything. For portrait photography, the 6-feet-apart, no-travelling, use-mouth-mask lockdown had made it almost impossible to do an in-person photo shoot. But every limit is also a challenge, Is it possible to do an interesting remote shoot via the internet? The answer is yes. I will give you some tips on how to do this. 
 
-_This article only talks about a &#8216;simple&#8217; remote portrait photo shoot: 1 or 2 models, 1 photographer, with smartphone or tablet camera, no studio lighting, no DSLR, no assistant, no remote triggering, no tethering setup._
+_This article only talks about a &#8216;simple' remote portrait photo shoot: 1 or 2 models, 1 photographer, with smartphone or tablet camera, no studio lighting, no DSLR, no assistant, no remote triggering, no tethering setup._
 
 ## Preparing the remote shoot
 
   * **Timing**: check where the windows are in the place you will shoot and when they get light during the day. This is of crucial importance for the timing of the shoot. Also look for nice shadows: long hallways, the presence of curtains, window blinds. The model could take photos at different moments of the day to get a better feel for this.
-  * **Mood board**: the model and photographer can collect and share a number of photos they find interesting/inspiring. Make it **_aspirational but realistic_**. Don&#8217;t add complicated yoga poses if your model is not a yoga fanatic, Don&#8217;t add Vanity Fair photos that were shot with a crew of 8 and $20K of lighting equipment. Don&#8217;t add photos that can only be taken with pro equipment (like a f/1.2 lens)
+  * **Mood board**: the model and photographer can collect and share a number of photos they find interesting/inspiring. Make it **_aspirational but realistic_**. Don't add complicated yoga poses if your model is not a yoga fanatic, Don't add Vanity Fair photos that were shot with a crew of 8 and $20K of lighting equipment. Don't add photos that can only be taken with pro equipment (like a f/1.2 lens)
   * **Application**: there are several options for the video connection.
       * **_Facetime_**: iPhone/iPad/Macbook devices only. Allows for [FaceTime Live photos](https://www.macrumors.com/how-to/capture-live-photo-in-facetime/), so the face of the photographer is not in the photos afterwards. Typical resolution: [**852&#215;1280**](https://toolstud.io/photo/megapixel.php?width=852&height=1280&compare=video&calculate=compressed#calculate) [HEIC](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format) photos, +- 1 megapixel, with files smaller than 100KB(!). HEIC files can not be read by every software, so test it first.
       * **_Messenger_**: only requires a Facebook account from both parties. The photographer can work from a laptop where they resize the screen in such a way that their own photo is not in the way. I did this one of my first times, I took screenshots (Shift-Apple-3 on MacOS) that were 2560&#215;1440, of which [**818&#215;1364**](https://toolstud.io/photo/megapixel.php?width=818&height=1364&compare=video&calculate=compressed) was of the model. The resulting photos (after cropping) were 1MB PNG files.
@@ -35,7 +35,7 @@ _This article only talks about a &#8216;simple&#8217; remote portrait photo shoo
 
 ## Hardware: the (phone) camera
 
-In most cases, the model will use a mobile phone (or tablet) to capture the images. This is quite different from a &#8216;real&#8217; DSLR or system camera, with advantages and drawbacks. Let&#8217;s see how we can work with this camera phone.
+In most cases, the model will use a mobile phone (or tablet) to capture the images. This is quite different from a &#8216;real' DSLR or system camera, with advantages and drawbacks. Let's see how we can work with this camera phone.
 
 ### Hold your phone in your hand
 
@@ -45,7 +45,7 @@ Obviously the easiest thing to do is for the model to hold the phone in their ha
 
 [https://www.instagram.com/p/3cNIHxyB6t/](https://www.instagram.com/p/3cNIHxyB6t/)
 
-But this limits the distance between model and camera (no full body shots), it limits the movement and makes some shots impossible. So let&#8217;s look at how the phone can be positioned so that the model does not need to hold it.
+But this limits the distance between model and camera (no full body shots), it limits the movement and makes some shots impossible. So let's look at how the phone can be positioned so that the model does not need to hold it.
 
 ### Let your phone stand
 
@@ -122,13 +122,13 @@ The model can also use extra light sources, like a flame/lighter, the flash of a
 
 ### Tour of the house
 
-Start your shoot with a quick tour of the house, so you can see what the light is like in every room, and ask your model for how the light might change (&#8220;_the blinds give shadows on the wall until 7pm_&#8220;). Look for windows, curtains, blinds, grill. Maybe there&#8217;s terrace with a fence, maybe it&#8217;s possible to go on the roof, in the garden &#8230;
+Start your shoot with a quick tour of the house, so you can see what the light is like in every room, and ask your model for how the light might change (&#8220;_the blinds give shadows on the wall until 7pm_&#8220;). Look for windows, curtains, blinds, grill. Maybe there's terrace with a fence, maybe it's possible to go on the roof, in the garden &#8230;
 
 Make a list of the places you want to use and pick one to start.
 
 ### Shooting tips
 
-For the photographer, (wireless) headphones will be handy. If possible, try to work on the **biggest screen possible**, a laptop or external screen are preferable (screenshots will have more pixels). Otherwise it&#8217;s just your smart phone/tablet and taking screen shots. As mentioned above, [Facetime allows for taking live photos on iPhone instead of screen shots](https://appleinsider.com/articles/20/04/08/photographer-shows-how-facetime-can-create-captivating-portraits-remotely).<figure class="wp-block-image size-large">
+For the photographer, (wireless) headphones will be handy. If possible, try to work on the **biggest screen possible**, a laptop or external screen are preferable (screenshots will have more pixels). Otherwise it's just your smart phone/tablet and taking screen shots. As mentioned above, [Facetime allows for taking live photos on iPhone instead of screen shots](https://appleinsider.com/articles/20/04/08/photographer-shows-how-facetime-can-create-captivating-portraits-remotely).<figure class="wp-block-image size-large">
 
 ![](https://blog.forret.com/wp-content/uploads/2020/05/gamze999.png)
 Remote shoot with Messenger on external screen, mood board on the right   
@@ -139,7 +139,7 @@ Using the mood board will help you think of new concepts or poses. It also makes
 
 ### Communication: the photographer
 
-You have to use **clear wording** to describe the pose you have in mind. The &#8216;left arm&#8217; is her left arm, not yours. Use terms like &#8216;the leg _closest to the camera_&#8216; to avoid confusion. Talk slowly and clearly, don&#8217;t lose your patience, and if something is just too hard to accomplish, let it slide. You&#8217;re doing a remote shoot, not painting the Sistine Chapel.
+You have to use **clear wording** to describe the pose you have in mind. The &#8216;left arm' is her left arm, not yours. Use terms like &#8216;the leg _closest to the camera_&#8216; to avoid confusion. Talk slowly and clearly, don't lose your patience, and if something is just too hard to accomplish, let it slide. You're doing a remote shoot, not painting the Sistine Chapel.
 
 ## Post-processing
 

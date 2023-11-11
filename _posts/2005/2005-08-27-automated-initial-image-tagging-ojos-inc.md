@@ -26,7 +26,7 @@ MINIMAL:</p>
 
 If the human-added metadata is missing, there is hardly a way to find the picture through [Google Images](http://images.google.com/) or [Flickr](http://www.flickr.com/photos/search/). What if there could be an software that analyzes a picture and automatically adds relevant metadata to a picture?
 
-> Munjal Shah, onetime cofounder of the auction services firm Andale, finally let slip on his new blog what he&#8217;s been working on since leaving last year (&#8230;) In other words, his startup, tentatively named [Ojos](http://www.ojos-inc.com/) (Spanish for &#8220;eyes&#8221;), is creating a new way to search and organize photos.  
+> Munjal Shah, onetime cofounder of the auction services firm Andale, finally let slip on his new blog what he's been working on since leaving last year (&#8230;) In other words, his startup, tentatively named [Ojos](http://www.ojos-inc.com/) (Spanish for &#8220;eyes&#8221;), is creating a new way to search and organize photos.  
 > (&#8230;) he revealed the key technologies behind Ojos: **face and text recognition**. (&#8230;) The other key: You can assign tags, or keywords, to one photo and the service will automatically append that tag to other photos of the same people.  
 > [blogs.businessweek.com](http://blogs.businessweek.com/the_thread/techbeat/archives/2005/08/_its_also_an_ex.html)
 
@@ -34,7 +34,7 @@ I wonder if it also could be used to recognize familiar archetypes/icons like: a
 
 On his own blog, Shah writes:
 
-> I think Flickr&#8217;s tag based system is just super (in fact I love it), but I wanted all of my photos on there, I wanted them all tagged, and I didn&#8217;t want to spend hundreds of hours doing it. So being the lazy engineers that we are, we thought maybe we can at least auto-tag some of the faces and names.  
+> I think Flickr's tag based system is just super (in fact I love it), but I wanted all of my photos on there, I wanted them all tagged, and I didn't want to spend hundreds of hours doing it. So being the lazy engineers that we are, we thought maybe we can at least auto-tag some of the faces and names.  
 > on [munjal.typepad.com](http://munjal.typepad.com/recognizing_deven/2005/08/us_in_business_.html)
 
 [Ho John Lee states on his blog](http://www.hojohnlee.com/weblog/?p=250) that the technology should be offered as a web service, not as yet another photo storage site. He has a point, and I can see also it working in a technology licensing model: let Flickr or Pixagogo run it locally and let them pay per million pictures treated. Anyway, it will be interesting to see where this company goes.  

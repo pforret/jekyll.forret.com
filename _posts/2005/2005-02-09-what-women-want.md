@@ -11,7 +11,7 @@ categories:
   - women
 ---
 Things you learn in bars: the list of things girls look for in a guy (or, in this case, as cited by Nathalie and An).  
-I use the following scale: 1 = nice to have &#8230; 3 = definite bonus &#8230; 5 = really important, and 6 = _conditio sine qua non_ (if you don&#8217;t qualify, forget it). I averaged the weights of both authors. In all cases, the desired answer is &#8216;yes&#8217;.
+I use the following scale: 1 = nice to have &#8230; 3 = definite bonus &#8230; 5 = really important, and 6 = _conditio sine qua non_ (if you don't qualify, forget it). I averaged the weights of both authors. In all cases, the desired answer is &#8216;yes'.
 
   * 6: is he free (not married, no girlfriend)? 
   * 6: is he over his previous relationship? 
@@ -29,10 +29,10 @@ Which is fairly optimistic compared to [What Women Want at ages 22, 32, 42, 52, 
 
 > What Women Want in a Man, Revised List (**age 52**)  
 > 1. Keeps hair in nose and ears trimmed  
-> 2. Doesn&#8217;t belch or scratch in public  
-> 3. Doesn&#8217;t borrow money too often  
-> 4. Doesn&#8217;t nod off to sleep when I&#8217;m venting  
-> 5. Doesn&#8217;t re-tell the same joke too many times  
+> 2. Doesn't belch or scratch in public  
+> 3. Doesn't borrow money too often  
+> 4. Doesn't nod off to sleep when I'm venting  
+> 5. Doesn't re-tell the same joke too many times  
 > 6. Is in good enough shape to get off couch on weekends  
 > 7. Usually wears matching socks and fresh underwear  
 > 8. Appreciates a good TV dinner  

@@ -17,10 +17,10 @@ categories:
   - music
 ---
 I was checking out the [Deus](http://www.deus.be) website to see if their new video for the [Pocket Revolution album](http://www.deus.be/index.php?action=loadmusic&section=albums&ReleaseID=36) was already online (a friend of mine, Sachli, is playing in it with four other cute girls).  
-There was a link to another Tom Barman project, [Magnus](http://www.magnusmusic.com/), and I remembered being an &#8216;extra&#8217; in one of the music videos Tom directed for &#8220;Jumpneedle&#8221;. The official Magnus site only has a 1-minute excerpt, but I did find a full version on [anti.com](http://www.anti.com/artist.php?id=18). So where am I?
+There was a link to another Tom Barman project, [Magnus](http://www.magnusmusic.com/), and I remembered being an &#8216;extra' in one of the music videos Tom directed for &#8220;Jumpneedle&#8221;. The official Magnus site only has a 1-minute excerpt, but I did find a full version on [anti.com](http://www.anti.com/artist.php?id=18). So where am I?
 
 [<img src="http://static.flickr.com/37/83472339_525d595c46.jpg" border="0" />](http://www.flickr.com/photos/pforret/83472339/)  
-I&#8217;m the one on the right, with the blue drumkit.
+I'm the one on the right, with the blue drumkit.
 
 ### La petite histoire
 
@@ -28,7 +28,7 @@ Tom Barman had asked on [Studio Brussel](http://www.stubru.be) that he was looki
 
 ### The video
 
-The whole video is about a dream of a guy entering a sleazy motel and doing some kinky stuff with women in underwear (now there&#8217;s an unusual dream) and features [Tom Barman](http://www.tombarman.com/) himself, [CJ Bolland](http://www.cjbolland.com/), [Mauro Pawlowski](http://www.mauroworld.com/), [Kim Peers](http://models.com/model_culture/tales_model/kim_peers/p1.html), [Zohra](http://www.zohra.be/), [Tim Van Hamel](http://www.millionaire-theband.com/) en [Peter Vermeersch](http://www.jazzinbelgium.com/musician/peter.vermeersch).  
+The whole video is about a dream of a guy entering a sleazy motel and doing some kinky stuff with women in underwear (now there's an unusual dream) and features [Tom Barman](http://www.tombarman.com/) himself, [CJ Bolland](http://www.cjbolland.com/), [Mauro Pawlowski](http://www.mauroworld.com/), [Kim Peers](http://models.com/model_culture/tales_model/kim_peers/p1.html), [Zohra](http://www.zohra.be/), [Tim Van Hamel](http://www.millionaire-theband.com/) en [Peter Vermeersch](http://www.jazzinbelgium.com/musician/peter.vermeersch).  
 [<img src="http://static.flickr.com/43/83472341_94e926bf2d.jpg" border="0" />](http://www.flickr.com/photos/pforret/83472341/)
 
 Technorati: <a href="http://technorati.com/tag/music" rel="tag">music</a> &#8211; <a href="http://technorati.com/tag/video" rel="tag">video</a> &#8211; <a href="http://technorati.com/tag/deus" rel="tag">deus</a> &#8211; <a href="http://technorati.com/tag/magnus" rel="tag">magnus</a>

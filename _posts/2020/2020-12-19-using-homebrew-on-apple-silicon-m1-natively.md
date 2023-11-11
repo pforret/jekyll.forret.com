@@ -17,7 +17,7 @@ tags:
   - silicon
   - bash
 ---
-After reading all the raving reviews online about the new Apple M1-based Mac computers, and after losing too much time with my overheating MacBook Pro 2013 that&#8217;s on its last legs, I caved and bought a Mac Mini M1. <figure class="wp-block-image size-large">
+After reading all the raving reviews online about the new Apple M1-based Mac computers, and after losing too much time with my overheating MacBook Pro 2013 that's on its last legs, I caved and bought a Mac Mini M1. <figure class="wp-block-image size-large">
 
 {% include image.html 
     url="https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini.jpg" 
@@ -34,7 +34,7 @@ description="Adapter voor Thunderbolt 3 (USB‑C) naar Thunderbolt 2 - Apple (BE
 
 ## &#x2611;&#xfe0f; Homebrew in native mode
 
-I do a lot of [bash/script development](https://github.com/pforret?tab=repositories&q=&type=&language=shell) so my first concern was getting all of my bash scripts working on the new ARM architecture. I concentrated on bash/terminal in **native arm64 mode**, which means not running under Rosetta2. This because I want to benchmark in native mode, and I kind of assume that under Rosetta 2 everything works that worked under MacOS for Intel, and where&#8217;s the fun in that? 
+I do a lot of [bash/script development](https://github.com/pforret?tab=repositories&q=&type=&language=shell) so my first concern was getting all of my bash scripts working on the new ARM architecture. I concentrated on bash/terminal in **native arm64 mode**, which means not running under Rosetta2. This because I want to benchmark in native mode, and I kind of assume that under Rosetta 2 everything works that worked under MacOS for Intel, and where's the fun in that? 
 
 For that, I needed to get the [Homebrew package manager](https://brew.sh/) running in native mode. The thing is, Homebrew does not yet support the new Apple Silicon M1 chip ([they only started the first steps in Dec 2020](https://brew.sh/2020/12/01/homebrew-2.6.0/)), so you have to dodge all the warnings they throw at you. After [some](https://medium.com/better-programming/5-things-i-have-learned-when-using-the-m1-chip-macbook-air-a77f93c50381) [research](https://github.com/mikelxc/Workarounds-for-ARM-mac), I found the best way to do it, and I combined all of it in an easy install/uninstall bash script:** <https://github.com/pforret/m1_homebrew>** It installs the command-line tools and Homebrew to `/opt/homebrew` for arm64 mode, and to `/usr/local` for standard i386 mode.
 
@@ -83,17 +83,17 @@ brew install --build-from-source [some package]
 
 ## &#x2611;&#xfe0f; native imagemagick
 
-My first big package to install was `imagemagick`. It&#8217;s my go-to tool for image manipulation and part of many of my scripts like e.g. [splashmark](https://blog.forret.com/2020/10/07/new-script-splashmark-easy-unsplash-image-markup-on-the-command-line/). Imagemagick has lots of brew dependencies for treating different kinds of files, like _libpng_, _openjpeg_, _webp_ and _ghostscript_. Every time brew requires a package that isn&#8217;t installed yet, it stops with the error mentioned above. You then have to build that package separately and try the original `brew install` again. This is how I got imagemagick compiled in the end.
+My first big package to install was `imagemagick`. It's my go-to tool for image manipulation and part of many of my scripts like e.g. [splashmark](https://blog.forret.com/2020/10/07/new-script-splashmark-easy-unsplash-image-markup-on-the-command-line/). Imagemagick has lots of brew dependencies for treating different kinds of files, like _libpng_, _openjpeg_, _webp_ and _ghostscript_. Every time brew requires a package that isn't installed yet, it stops with the error mentioned above. You then have to build that package separately and try the original `brew install` again. This is how I got imagemagick compiled in the end.
 
 ## &#x2611;&#xfe0f; m1_homebrew recursive
 
-I automated this process in the same script **m1_homebrew.sh**. `m1_homebrew recursive imagemagick` first looks for all the dependent packages (via `brew info`), installs those first one by one and then, at the end, installs the main package. It can take a long time but it&#8217;s magic when it works.
+I automated this process in the same script **m1_homebrew.sh**. `m1_homebrew recursive imagemagick` first looks for all the dependent packages (via `brew info`), installs those first one by one and then, at the end, installs the main package. It can take a long time but it's magic when it works.
 
 ## &#x1f625; no native ffmpeg
 
-Unfortunately, it doesn&#8217;t always work. I tried it for `ffmpeg`, but this package requires some dependencies that will not build on MacOS M1 for now. Concretely: `rust` and `openjdk` cannot be built yet, and ffmpeg requires them.
+Unfortunately, it doesn't always work. I tried it for `ffmpeg`, but this package requires some dependencies that will not build on MacOS M1 for now. Concretely: `rust` and `openjdk` cannot be built yet, and ffmpeg requires them.
 
-  * **rust**: hangs on &#8220;`arch -x86_64 make`&#8221; which implies that it&#8217;s building a x86_64 (Intel) version instead of a arm64 native version,
+  * **rust**: hangs on &#8220;`arch -x86_64 make`&#8221; which implies that it's building a x86_64 (Intel) version instead of a arm64 native version,
   * **openjdk**: &#8220;_configure: The tested number of bits in the target (64) differs from the number of bits expected to be found in the target (32)_&#8220;
 
 They are both still marked as &#x26a0;&#xfe0f; on the official [Homebrew M1 compatibility list](https://github.com/Homebrew/brew/issues/7857).

@@ -4,7 +4,7 @@ title: 'Favourite podcasts: Basic Soul Radio Show'
 date: 2008-04-28T15:02:41+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/?p=1048
+guid: /?p=1048
 permalink: /2008/04/28/favourite-podcasts-basic-soul-radio-show/
 categories:
   - music
@@ -19,13 +19,13 @@ tags:
   - simonharrisson
   - soul
 ---
-I subscribe to less and less podcasts (not enough time to listen), but there is one I always install on every newly installed iTunes. It&#8217;s called the [Basic Soul Radio Show](http://www.basic-soul.co.uk/), it&#8217;s presented by [Simon Harrison](http://www.myspace.com/basicsoul). Every week Simon selects two hours of old and new funk, soul and electronic music, which makes for a 200MB MP3 every time (upgrade that hard disk!). I have discovered lots of little pearls thanks to it. Some examples from the top of my head:
+I subscribe to less and less podcasts (not enough time to listen), but there is one I always install on every newly installed iTunes. It's called the [Basic Soul Radio Show](http://www.basic-soul.co.uk/), it's presented by [Simon Harrison](http://www.myspace.com/basicsoul). Every week Simon selects two hours of old and new funk, soul and electronic music, which makes for a 200MB MP3 every time (upgrade that hard disk!). I have discovered lots of little pearls thanks to it. Some examples from the top of my head:
 
-  * Feb 4, 2008: &#8220;What it&#8217;s all about&#8221; &#8211; The Sylvers (1973)
+  * Feb 4, 2008: &#8220;What it's all about&#8221; &#8211; The Sylvers (1973)
   * Dec 24, 2007: &#8220;I know all the bitches&#8221; &#8211; [Mr Beatnick](http://www.myspace.com/mrbeatnick) feat. Ahu (2007)
   * Feb 12, 2007: &#8220;Drive me Crazy&#8221; &#8211; [Secret Stealth](http://www.myspace.com/secretstealth) (2007)
 
-Expect to encounter a lot of artists/groups that you&#8217;ve never heard of. Some of it you won&#8217;t like, some you will adore. Because I wanted a better tool to search the 5+ years of archive, I built a little search engine on
+Expect to encounter a lot of artists/groups that you've never heard of. Some of it you won't like, some you will adore. Because I wanted a better tool to search the 5+ years of archive, I built a little search engine on
 
 http://tools.forret.com/basicsoul/ (no longer works)
 

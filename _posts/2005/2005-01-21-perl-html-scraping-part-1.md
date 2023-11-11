@@ -4,18 +4,18 @@ title: 'Perl HTML scraping part #1'
 date: 2005-01-21T18:05:07+01:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2005/01/perl-html-scraping-part-1/
+guid: /2005/01/perl-html-scraping-part-1/
 permalink: /2005/01/21/perl-html-scraping-part-1/
 categories:
   - Linux
 ---
-Here we are, back at the scene of the crime. Yes, I know it&#8217;s been a while. And the task of the day is:
+Here we are, back at the scene of the crime. Yes, I know it's been a while. And the task of the day is:
 
 GOAL:
 :   make an HTML scraper, i.e. a script that grabs another URL and outputs the results to the screen 
 
 TOOL:
-:   let&#8217;s say &#8230; Perl (in my case: Perl 5.8 on RedHat) 
+:   let's say &#8230; Perl (in my case: Perl 5.8 on RedHat) 
 
 INPUT:
 :   a URL 
@@ -80,7 +80,7 @@ print(&#8220;<html><head>&#8221;);
 print(&#8220;<title>SCRAPER</title>&#8221;);  
 print(&#8220;<link rel=stylesheet type=text/css href=http://www.forret.com/blog/style.css>&#8221;);  
 print(&#8220;</head><body><center>n&#8221;);  
-print(&#8220;<form method=GET action=&#8217;scrape.pl&#8217;>&#8221;);  
+print(&#8220;<form method=GET action='scrape.pl'>&#8221;);  
 print(&#8220;URL: <input name=url type=text size=60 value=http://www.forret.com>&#8221;);  
 print(&#8220;<input type=submit></form>n&#8221;);  
 print(&#8220;</center></body></html>n&#8221;);  

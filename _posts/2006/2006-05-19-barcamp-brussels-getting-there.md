@@ -4,7 +4,7 @@ title: 'Barcamp Brussels: getting there'
 date: 2006-05-19T11:51:33+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2006/05/barcamp-brussels-getting-there/
+guid: /2006/05/barcamp-brussels-getting-there/
 permalink: /2006/05/19/barcamp-brussels-getting-there/
 categories:
   - Belgium

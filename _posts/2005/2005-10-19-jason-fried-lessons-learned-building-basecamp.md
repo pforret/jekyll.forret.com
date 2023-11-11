@@ -9,13 +9,13 @@ permalink: /2005/10/19/jason-fried-lessons-learned-building-basecamp/
 categories:
   - Web2.0
 ---
-![](http://static.flickr.com/1/631535_205cad1468_m.jpg)An interesting speech on the [IT conversations](http://www.itconversations.com) podcast from the [O&#8217;Reilly Emerging Technology conference](http://conferences.oreillynet.com/etech/) from Jason Fried, the founder of [37 Signals](http://37signals.com/). He explains what he&#8217;s learned while creating the [Basecamp application](http://www.basecamphq.com/) (web-based project management).  
+![](http://static.flickr.com/1/631535_205cad1468_m.jpg)An interesting speech on the [IT conversations](http://www.itconversations.com) podcast from the [O'Reilly Emerging Technology conference](http://conferences.oreillynet.com/etech/) from Jason Fried, the founder of [37 Signals](http://37signals.com/). He explains what he's learned while creating the [Basecamp application](http://www.basecamphq.com/) (web-based project management).  
 For instance: his 5 criteria for hiring people in small teams. They have to be &#8230;
 
-  * **positive** and enthusiastic (_&#8220;I&#8217;ll take someone who&#8217;s happy and average, over someone who&#8217;s a guru but is disgruntled and frustrated&#8221;_) 
+  * **positive** and enthusiastic (_&#8220;I'll take someone who's happy and average, over someone who's a guru but is disgruntled and frustrated&#8221;_) 
   * **well rounded**: people that can do multiple things, not just one
   * **quick learners**: people who can figure out what something new is about
-  * **trustworthy**: you can trust them to find a solution, you don&#8217;t need to clean up after them
+  * **trustworthy**: you can trust them to find a solution, you don't need to clean up after them
   * **good writers**: people communicate through email/messenger more than verbally
 
 His 4 key points:

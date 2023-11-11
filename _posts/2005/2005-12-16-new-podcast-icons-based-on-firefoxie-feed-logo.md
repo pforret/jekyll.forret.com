@@ -9,12 +9,12 @@ permalink: /2005/12/16/new-podcast-icons-based-on-firefoxie-feed-logo/
 categories:
   - podcast
 ---
-![Original Firefox feed icon](http://www.smoothouse.com/podcast/icons/feedicon32x32.png)You might have heard that the Microsoft IE team (and [Outlook 12 team](http://blogs.msdn.com/michael_affronti/archive/2005/12/15/504316.aspx)) is adopting the orange square &#8216;feed&#8217; logo for its web feeds:
+![Original Firefox feed icon](http://www.smoothouse.com/podcast/icons/feedicon32x32.png)You might have heard that the Microsoft IE team (and [Outlook 12 team](http://blogs.msdn.com/michael_affronti/archive/2005/12/15/504316.aspx)) is adopting the orange square &#8216;feed' logo for its web feeds:
 
 > I’m excited to announce that we’re adopting the icon used in Firefox. John and Chris were very enthusiastic about allowing us (and anyone in the community) to use their icon. This isn’t the first time that we’ve worked with the Mozilla team to exchange ideas and encourage consistency between browsers, and we’re sure it won’t be the last.  
 > (from [blogs.msdn.com](http://blogs.msdn.com/rssteam/archive/2005/12/14/503778.aspx))
 
-So I decided to update my [previous podcast logos](http://blog.forret.com/blog/2004/12/podcast-icons-whats-available.html) with the new graphic:  
+So I decided to update my [previous podcast logos](/blog/2004/12/podcast-icons-whats-available.html) with the new graphic:  
 _(If you want to use them, and need the HTML code to copy/paste, check my [**podcast icon wizard**](http://www.forret.com/tools/podicons.asp))_
 
 #### Simple icons</h3> 
@@ -42,6 +42,6 @@ _(If you want to use them, and need the HTML code to copy/paste, check my [**pod
 ![Video RSS (Windows WMV)](http://www.smoothouse.com/podcast/icons/rss-videowmv.png) : Video RSS (Windows WMV)  
 ![Video RSS (XVid)](http://www.smoothouse.com/podcast/icons/rss-videoxvid.png) : Video RSS (XVid)
 
-If you want to know whyI don&#8217;t use the acronyms &#8220;_RSS_&#8221; or &#8220;_XML_&#8221; in the icons, check [Web feeds are like RSS, only different](http://blog.forret.com/blog/2005/08/web-feeds-are-like-rss-only-different.html).
+If you want to know whyI don't use the acronyms &#8220;_RSS_&#8221; or &#8220;_XML_&#8221; in the icons, check [Web feeds are like RSS, only different](/blog/2005/08/web-feeds-are-like-rss-only-different.html).
 
 Technorati: <a href="http://technorati.com/tag/podcast" rel="tag">podcast</a> &#8211; <a href="http://technorati.com/tag/icon" rel="tag">icon</a> &#8211; <a href="http://technorati.com/tag/feed" rel="tag">feed</a> &#8211; <a href="http://technorati.com/tag/logo" rel="tag">logo</a> &#8211; <a href="http://technorati.com/tag/rss" rel="tag">rss</a>

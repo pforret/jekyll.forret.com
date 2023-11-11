@@ -12,23 +12,23 @@ tags:
   - geeky
   - women
 ---
-Two geek girls &#8216;in the know&#8217; have just published their &#8220;**top 10 reasons to date a geek**&#8220;, which can also be read as: 10 indicators to check if you&#8217;re a real geek.
+Two geek girls &#8216;in the know' have just published their &#8220;**top 10 reasons to date a geek**&#8220;, which can also be read as: 10 indicators to check if you're a real geek.
 
-First one is Maryam, Robert Scoble&#8217;s wife. I met her briefly when the [Scobleizer visited Brussels in December](http://blog.coolz0r.com/posted/celebrity-geek-dinner.html), but I had no chance to talk to her since I had to leave early, and she was totally absorbed by [Coolz0r](http://blog.coolz0r.com). She struck me as a much warmer and kinder person than the &#8216;materialistic&#8217; list below would suggest.
+First one is Maryam, Robert Scoble's wife. I met her briefly when the [Scobleizer visited Brussels in December](http://blog.coolz0r.com/posted/celebrity-geek-dinner.html), but I had no chance to talk to her since I had to leave early, and she was totally absorbed by [Coolz0r](http://blog.coolz0r.com). She struck me as a much warmer and kinder person than the &#8216;materialistic' list below would suggest.
 
 > 1) He can fix your computer  
 > 2) He has friends who can fix your computer  
 > 3) He can hook up the TV, connect the DVD player and Tivo your favorite programs  
 > 4) He has friends who can hook up the TV, connect the DVD player &#8230;  
-> 5) He can fix your friends&#8217; computers  
-> 6) He&#8217;ll make you shine every where you go (basically because he has no sense of style)  
+> 5) He can fix your friends' computers  
+> 6) He'll make you shine every where you go (basically because he has no sense of style)  
 > 7) Your geek will give you the hottest techie gadgets  
 > 8) Your geek will worship the ground you walk on  
-> 9) He won&#8217;t cheat on you either  
+> 9) He won't cheat on you either  
 > 10) Did I mention he can fix your computer ???  
 > (for details, check [maryamie](http://spaces.msn.com/members/maryamie/Blog/cns%211pJf1AP0KsxqptNL0A6dlsgA%21848.entry))
 
-Let&#8217;s say I score a 8/10 on this one.
+Let's say I score a 8/10 on this one.
 
 <!--more-->
 
@@ -38,11 +38,11 @@ Picture from [Tara @ Flickr](http://www.flickr.com/photos/missrogue/58135772/)
 
 > 1. They want the best new the best and biggest of everything  
 > 2. They order stuff online  
-> 3. There are multiple ways to &#8216;connect&#8217; with a geek  
-> 4. Not only can they &#8216;fix&#8217; stuff, but they can teach you to fix stuff  
+> 3. There are multiple ways to &#8216;connect' with a geek  
+> 4. Not only can they &#8216;fix' stuff, but they can teach you to fix stuff  
 > 5. You always know what your geek is up to  
 > 6. You can do a full-on background check of him very easily  
-> 7. When they do dress up, they&#8217;re so hot  
+> 7. When they do dress up, they're so hot  
 > 9. Geeks try a little harder  
 > 10. Geeks are more patient  
 > (for details, check [horsepigcow.com](http://www.horsepigcow.com/2006/01/maryam-there-are-plenty-more-reasons.html))

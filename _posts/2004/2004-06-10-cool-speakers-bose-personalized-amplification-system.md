@@ -20,5 +20,5 @@ As I understand it, you place a Cylindrical Radiator speaker, combined with one 
 
   * on-stage monitor for the musician
   * on-stage monitor for his/her fellow musicians
-  * and PA for the entire venue.That last one is amazing, no need for separate amps + speakers for the audience. I would think that in order to cater for the audience, the sound would have to be so loud it would bother the musician, but apparently this is not the case. It&#8217;s not the first time [Bose Research has done amazing stuff](http://www.bose.com/controller?event=VIEW_STATIC_PAGE_EVENT&url=/about/milestones/index.jsp). 
-    Starting at $1500 however, it&#8217;s not (yet) for me.</li>
+  * and PA for the entire venue.That last one is amazing, no need for separate amps + speakers for the audience. I would think that in order to cater for the audience, the sound would have to be so loud it would bother the musician, but apparently this is not the case. It's not the first time [Bose Research has done amazing stuff](http://www.bose.com/controller?event=VIEW_STATIC_PAGE_EVENT&url=/about/milestones/index.jsp). 
+    Starting at $1500 however, it's not (yet) for me.</li>

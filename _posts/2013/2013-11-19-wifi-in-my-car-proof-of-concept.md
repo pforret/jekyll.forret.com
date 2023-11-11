@@ -4,7 +4,7 @@ title: 'Wifi in my car: proof of concept'
 date: 2013-11-19T17:46:00+01:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/?p=1366
+guid: /?p=1366
 permalink: /2013/11/19/wifi-in-my-car-proof-of-concept/
 attitude_sidebarlayout:
   - default
@@ -36,9 +36,9 @@ This weekend I finished episode one: Internet in the car. I used the following c
 The important details here are:
 
   * The Huawei stick is compatible with the TP-Link router.
-  * The Huawei stick can be configured with &#8216;Save my PIN&#8217;, so that when it starts up, it connects to the 3G network without any manual intervention.
+  * The Huawei stick can be configured with &#8216;Save my PIN', so that when it starts up, it connects to the 3G network without any manual intervention.
   * The TP-Link router runs on 12V DC (which is what a car has)
 
-For the rest, the exercise was quite straight-forward: I configured the Huawei stick on my laptop with the right PIN code, popped it in myTP-Link router, configured the right 3G settings for Telenet (see [here](http://blog.forret.com/2012/10/ios6-losing-its-3g-cellular-data-settings-fix-for-belgium/)). Then I took an old 12V power transformer, chopped off the connector and linked it up to an old car cigarette lighter type of plug (sometimes it&#8217;s good to have an archive of obsolete cables and power supplies). I then hid the router under the base plate of my trunk, where there is also the battery (the BMW X1 stores the battery in the back, where you would normally have the spare tyre). I switch on the car and 20 seconds later, I have a Wifi network &#8220;_OnTheRoadAgain_&#8221; that is connected to the Internet. Proof of concept is OK!
+For the rest, the exercise was quite straight-forward: I configured the Huawei stick on my laptop with the right PIN code, popped it in myTP-Link router, configured the right 3G settings for Telenet (see [here](/2012/10/ios6-losing-its-3g-cellular-data-settings-fix-for-belgium/)). Then I took an old 12V power transformer, chopped off the connector and linked it up to an old car cigarette lighter type of plug (sometimes it's good to have an archive of obsolete cables and power supplies). I then hid the router under the base plate of my trunk, where there is also the battery (the BMW X1 stores the battery in the back, where you would normally have the spare tyre). I switch on the car and 20 seconds later, I have a Wifi network &#8220;_OnTheRoadAgain_&#8221; that is connected to the Internet. Proof of concept is OK!
 
 The next step now is to add a (Synology) NAS, which also runs on 12V, and hook up my iPad to the car Wifi to view my collection of backed-up DVDs from that disk. And maybe run some extra programs (e.g. MRTG for monitoring) on that NAS. To be continued!

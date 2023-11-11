@@ -4,7 +4,7 @@ title: 'Fax 2.0: because fax won’t die in the internet age'
 date: 2010-01-02T14:37:41+01:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2010/01/fax-2-0-because-fax-wont-die-in-the-internet-age/
+guid: /2010/01/fax-2-0-because-fax-wont-die-in-the-internet-age/
 permalink: /2010/01/02/fax-2-0-because-fax-wont-die-in-the-internet-age/
 categories:
   - hardware

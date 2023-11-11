@@ -1,6 +1,6 @@
 ---
 id: 163
-title: 'Bentzon Brotherhood: Rapper&#8217;s New Delight'
+title: 'Bentzon Brotherhood: Rapper's New Delight'
 date: 2005-07-17T21:50:59+02:00
 author: Peter
 layout: post
@@ -13,15 +13,15 @@ tags:
   - jazz
   - music
 ---
-![](http://www.pixagogo.com/S5vpfnjbBPdPkXSYKuzuFFLps2!ZLD8IIDYGgR7mLD!rMthp27-lLZF7GRLNaUdtrpLBUAwmoETJhCiAIojnlcPJRUei4QfbMAkLjJsjqvVtRPbcTg8mW99PZhUTR2MKHkokPv95EjIpJtkkdvNG6xTbazHQDgfZYR/nikolaj_bentzon_sepia.jpg)A couple of weeks ago, at a party in Maastricht, I heard a new version of Rapper&#8217;s Delight (Sugarhill Gang), a 15-minute funky jazz version with a kick-ass bass. I went to the DJ booth and turned my head at 45RPM so I could read the name of the artist: &#8220;_Bentzon_&#8220;. Back home, some elementary Googling later:
+![](http://www.pixagogo.com/S5vpfnjbBPdPkXSYKuzuFFLps2!ZLD8IIDYGgR7mLD!rMthp27-lLZF7GRLNaUdtrpLBUAwmoETJhCiAIojnlcPJRUei4QfbMAkLjJsjqvVtRPbcTg8mW99PZhUTR2MKHkokPv95EjIpJtkkdvNG6xTbazHQDgfZYR/nikolaj_bentzon_sepia.jpg)A couple of weeks ago, at a party in Maastricht, I heard a new version of Rapper's Delight (Sugarhill Gang), a 15-minute funky jazz version with a kick-ass bass. I went to the DJ booth and turned my head at 45RPM so I could read the name of the artist: &#8220;_Bentzon_&#8220;. Back home, some elementary Googling later:
 
 > [Nikolaj Bentzon](http://www.nikolajbentzon.com) is Denmarks finest Keyboardist and has played alongside David Sanborn, Van Morrison & Joe Henderson amongst many others. For his debut release on Freestyle Records he teams up with the rhythm section from [The Headhunters](http://www.basinstreetrecords.com/artists/headhunters.html):  [Paul Jackson](http://www.pauljackson.jp/fe/index.html) on Bass & [Mick Clark](http://www.drummerworld.com/drummers/Mike_Clark.html) on Drums and pays homage to the genius of the Sugarhill Gangs debut release Rappers Delight.  
 > from [kudosrecords.co.uk](http://www.kudosrecords.co.uk/albumdetail.asp?primecatno=FSR004&quantity=N)
 
 Or here:
 
-> Listen to [Rapper&#8217;s Delight (through Webjay)](http://webjay.org/playthispage?url=http%3A%2F%2Fwww.tunes.co.uk%2Ftunes%2Ffeatured%2F8220.html)  
-> A real head-turner, this one. The Bentzon Brotherhood, working around Nicolaj Bentzon&#8217;s slick Rhodes and Clavinet manoeuvres, take the Sugarhill Gang&#8217;s &#8216;Rapper&#8217;s Delight&#8217; and go all funky and jazzical on its ass.  
+> Listen to [Rapper's Delight (through Webjay)](http://webjay.org/playthispage?url=http%3A%2F%2Fwww.tunes.co.uk%2Ftunes%2Ffeatured%2F8220.html)  
+> A real head-turner, this one. The Bentzon Brotherhood, working around Nicolaj Bentzon's slick Rhodes and Clavinet manoeuvres, take the Sugarhill Gang's &#8216;Rapper's Delight' and go all funky and jazzical on its ass.  
 > from [tunes.co.uk](http://www.tunes.co.uk/tunes/featured/8220.html)
 
 It is released on a record label without a web site: Freestyle Records:

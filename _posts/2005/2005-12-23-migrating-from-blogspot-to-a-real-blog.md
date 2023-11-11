@@ -1,6 +1,6 @@
 ---
 id: 231
-title: 'Migrating from blogspot to a &#8216;real&#8217; blog'
+title: 'Migrating from blogspot to a &#8216;real' blog'
 date: 2005-12-23T10:37:00+01:00
 author: Peter
 layout: post
@@ -10,7 +10,7 @@ categories:
   - Google
 ---
 ![Blogger](http://www.pixagogo.com/S55bfzQn-9Laj342Ysd8%21wxmXGCojZbm8v4rMDYivuSo%216vjCaHw92Cyfg39Keu0L9eD8T6x-lcCL8xqE95jB6jSKpLgQwmHko/blogger.jpg)  
-I have [often](http://blog.forret.com/blog/2004/12/setting-up-new-blogger-site.html) [said](http://blog.forret.com/blog/2004/10/podcasting-with-blogger.html) that Blogger is one of the easiest ways to get started for free with a blog. Even if you don&#8217;t have an own domain name, you can start with a xyz.blogspot.com. However, there might come a time that you want to move that blog to another location: because you have bought your own domain, because you don&#8217;t want to look like an newbie, &#8230; I&#8217;ve done that a couple of times (I have more than a dozen blogs on Blogger, and am now transfering the &#8216;serious&#8217; ones to my [www.smoothouse.com](http://www.smoothouse.com) domain) and these are some tips:
+I have [often](/blog/2004/12/setting-up-new-blogger-site.html) [said](/blog/2004/10/podcasting-with-blogger.html) that Blogger is one of the easiest ways to get started for free with a blog. Even if you don't have an own domain name, you can start with a xyz.blogspot.com. However, there might come a time that you want to move that blog to another location: because you have bought your own domain, because you don't want to look like an newbie, &#8230; I've done that a couple of times (I have more than a dozen blogs on Blogger, and am now transfering the &#8216;serious' ones to my [www.smoothouse.com](http://www.smoothouse.com) domain) and these are some tips:
 
 ### Situation
 
@@ -43,7 +43,7 @@ I have [often](http://blog.forret.com/blog/2004/12/setting-up-new-blogger-site.h
     Blog Filename: `index.html`  
     FTP Username: `myusername`  
     FTP Password: `********` 
-  2. in &#8220;Settings&#8221;/&#8221;Site Feed&#8221;, change the following settings (again, these are just example settings, your own settings depend on your ISP&#8217;s configuration):  
+  2. in &#8220;Settings&#8221;/&#8221;Site Feed&#8221;, change the following settings (again, these are just example settings, your own settings depend on your ISP's configuration):  
     Site Feed Server Path: `public_html/xyz/`  
     Site Feed Filename: `atom.xml` (this will normally be correct)  
     Site Feed URL: `http://www.example.com/xyz/atom.xml`
@@ -59,11 +59,11 @@ I have [often](http://blog.forret.com/blog/2004/12/setting-up-new-blogger-site.h
 ### Optional: FeedBurner
 
   1. if you have a [Feedburner](http://www.feedburner.com) feed (which is always a good idea), you have to change the source feed URL. Change it to the same `http://www.example.com/xyz/atom.xml` you specified above. 
-  2. Big advantage: all persons subscribed to your feed don&#8217;t have to do anything. Eventhough your blog&#8217;s location has changed, the feed URL stays the same! 
+  2. Big advantage: all persons subscribed to your feed don't have to do anything. Eventhough your blog's location has changed, the feed URL stays the same! 
 
 ### Optional: recover xyz.blogspot.com domain
 
   1. the moment you started publishing via FTP, your old blogspot domain became available. To prevent someone else from getting it, create a nex Blogger blog and use your old name as publishing target 
-  2. You can publish a new post about the move. Your old post pages will **NOT** be overwritten, only the index (&#8216;home&#8217;) page of the blog. 
+  2. You can publish a new post about the move. Your old post pages will **NOT** be overwritten, only the index (&#8216;home') page of the blog. 
 
 Technorati: <a href="http://technorati.com/tag/blog" rel="tag">blog</a> &#8211; <a href="http://technorati.com/tag/google" rel="tag">google</a> &#8211; <a href="http://technorati.com/tag/blogger" rel="tag">blogger</a> &#8211; <a href="http://technorati.com/tag/blogspot" rel="tag">blogspot</a> &#8211; <a href="http://technorati.com/tag/migrate" rel="tag">migrate</a> &#8211; <a href="http://technorati.com/tag/template" rel="tag">template</a>

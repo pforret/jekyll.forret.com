@@ -53,7 +53,7 @@ $ cat /proc/uptime
 45282758.17 663091.26
 ```
 
-The first number is the # of seconds since last boot. The other one (idle time) we don&#8217;t need. What is that in days? 
+The first number is the # of seconds since last boot. The other one (idle time) we don't need. What is that in days? 
 
 ```bash
 $ gawk "{print $1/(3600 * 24.0)}" /proc/uptime

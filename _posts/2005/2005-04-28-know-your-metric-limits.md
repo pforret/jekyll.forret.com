@@ -14,22 +14,22 @@ categories:
 ![](http://www.pixagogo.com/S5vpfnjbBPdPl8AutaTf!TdbpV-WH77c4rMwM8NEcCbfbwJ3Ck4l00InAZvLka2ctsvYHruY9TFHG9vqZ-XFBQGt4H9rSUvXagQGS1!cn91o5FQuR1rBmU-OB!piT7DmgUzvnpoZDhyPI_/limits.jpg)  
 From Wired &#8211; July 2004:
 
-> The universe comes in a box. It&#8217;s a big box, and you almost never see the walls, but its boundaries are immovable &#8211; the speed of light, gravity, the way atoms interact. Even if time and space are unlimited and illimitable, physics, chemistry, and biology dictate maxima and minima in the universe. Like the strict meter and structure of a sonnet, they make the final product all the more beautiful. &#8211; Adam Rogers
+> The universe comes in a box. It's a big box, and you almost never see the walls, but its boundaries are immovable &#8211; the speed of light, gravity, the way atoms interact. Even if time and space are unlimited and illimitable, physics, chemistry, and biology dictate maxima and minima in the universe. Like the strict meter and structure of a sonnet, they make the final product all the more beautiful. &#8211; Adam Rogers
 
 5 billion Years &#8211; Maximum time Earth has left. </p> 
-:   That&#8217;s when the sun goes red giant and expands past Earth&#8217;s orbit.</p> 
+:   That's when the sun goes red giant and expands past Earth's orbit.</p> 
     
     5.4 * 10<sup>-44</sup> seconds &#8211; Shortest possible time. </p> 
     
-    :   Any shorter and quantum mechanics can&#8217;t tell whether events are simultaneous. </p> 
+    :   Any shorter and quantum mechanics can't tell whether events are simultaneous. </p> 
         
         1.419 * 10<sup>26</sup> meter (15 billion light-years) &#8211; Maximum distance we can see. </p> 
         
-        :   The universe is [about 15 billion years old](http://en.wikipedia.org/wiki/Big_bang) &#8211; this is light&#8217;s travel time. </p> 
+        :   The universe is [about 15 billion years old](http://en.wikipedia.org/wiki/Big_bang) &#8211; this is light's travel time. </p> 
             
             1.6256 * 10<sup>-35</sup> meter (6.4 * 10<sup>-34</sup> inches) &#8211; Shortest possible distance. </p> 
             
-            :   Planck length: any shorter and quantum mechanics can&#8217;t tell between here and there. </p> 
+            :   Planck length: any shorter and quantum mechanics can't tell between here and there. </p> 
                 
                 34.92 km (21.7 miles) &#8211; Maximum height of a mountain on Earth. </p> 
                 
@@ -41,7 +41,7 @@ From Wired &#8211; July 2004:
                         
                         130 m (427 feet) &#8211; [Maximum height for a tree](http://news.bbc.co.uk/1/hi/sci/tech/3643899.stm) on Earth. </p> 
                         
-                        :   Gravity overcomes surface tension in the plant&#8217;s circulatory system. </p> 
+                        :   Gravity overcomes surface tension in the plant's circulatory system. </p> 
                             
                             265 &#8211; Minimum number of protein-coding genes for life. </p> 
                             
@@ -61,11 +61,11 @@ From Wired &#8211; July 2004:
                                             
                                             0.24 second &#8211; Minimum delay of a signal sent via [geosynchronous satellite](http://asd-www.larc.nasa.gov/SCOOL/orbits.html). </p> 
                                             
-                                            :   It&#8217;s light speed up 35.600 km (22.300 miles), and back down. </p> 
+                                            :   It's light speed up 35.600 km (22.300 miles), and back down. </p> 
                                                 
                                                 [430.000 Mbps](http://www.forret.com/tools/bandwidth.asp?speed=430000&unit=Mbps&title=Max+recording+speed+for+magnetic+data) &#8211; Maximum speed to record data to magnetic media. </p> 
                                                 
-                                                :   Bits won&#8217;t flip reliably with a pulse under 2.3 picoseconds. </p> 
+                                                :   Bits won't flip reliably with a pulse under 2.3 picoseconds. </p> 
                                                     
                                                     [100 Tbps](http://www.forret.com/tools/bandwidth.asp?speed=100000&unit=Gbps&title=Max+transfer-rate+over+optical+fiber) &#8211; Maximum information bandwidth over optical fiber. </p> 
                                                     
@@ -73,7 +73,7 @@ From Wired &#8211; July 2004:
                                                         
                                                         10<sup>51</sup> operations per second &#8211; Maximum computational power. </p> 
                                                         
-                                                        :   Quantum rules won&#8217;t let the ideal 1-liter, 1-kilogram laptop crunch data any faster. 
+                                                        :   Quantum rules won't let the ideal 1-liter, 1-kilogram laptop crunch data any faster. 
 
 Contributors: Sunny Bains, Thomas Hayden, Greta Lorge, Michael Myser, and Boyce Rensberger / Sources: Fire in the Mind: Science, Faith, and the Search for Order (Knopf, 1995); Institute for Genomic Research; Lucent Technologies; MIT; NASA; National Institute of Standards and Technology; Nature; UC Berkeley; Woods Hole Oceanographic Institution; Yale
 

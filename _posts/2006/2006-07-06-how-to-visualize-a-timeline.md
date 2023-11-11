@@ -4,7 +4,7 @@ title: How to visualize a timeline
 date: 2006-07-06T16:35:33+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2006/07/how-to-visualize-a-timeline/
+guid: /2006/07/how-to-visualize-a-timeline/
 permalink: /2006/07/06/how-to-visualize-a-timeline/
 categories:
   - RSS
@@ -12,7 +12,7 @@ categories:
 ---
 I am working on a timeline of animation movies: specifically to see when Disney started to fade and Pixar/Dreamworks took over. What films were made when, who made them and in what way do they coincide with activities of e.g. Steve Jobs. Oh, and to see where that new contender, Blue Sky Studios (&#8220;Ice Age&#8221;) fits in. 
 
-I first started out with Excel: I figured I&#8217;d have a bunch of dated events and throw a quick XY chart onto it. But that didn&#8217;t feel right. I then turned to Powerpoint and created a horizontal timeline, on which I could place blocks. That works OK for events that are far apart, but not for a quick succession, nor for events with a duration (from &#8230; to &#8230;). And, frankly, it looked rather ugly:  
+I first started out with Excel: I figured I'd have a bunch of dated events and throw a quick XY chart onto it. But that didn't feel right. I then turned to Powerpoint and created a horizontal timeline, on which I could place blocks. That works OK for events that are far apart, but not for a quick succession, nor for events with a duration (from &#8230; to &#8230;). And, frankly, it looked rather ugly:  
 [<img  src="http://static.flickr.com/6/183329213_b11900985a.jpg" width="500" height="222" alt="Timeline: animated movies" />](http://www.flickr.com/photos/pforret/183329213/ "Photo Sharing")
 
 Which left me with two questions: 
@@ -22,7 +22,7 @@ Which left me with two questions:
 
 <!--more-->
 
-### OTHER PEOPLE&#8217;S TIMELINES
+### OTHER PEOPLE'S TIMELINES
 
 #### VERTICAL/HORIZONTAL
 
@@ -57,10 +57,10 @@ The arrow of Time (Diegp Goldberg): vertical, chronological, only images
 Most of the timelines I found are static HTML or images. Some actually go a step further and let the user interact with all that data: zoom in on a period or get details for an event. The tools for this are Flash or Java. 
 
 [<img  src="http://static.flickr.com/1/183343517_22782ac2c9.jpg" width="500" height="326" alt="Timeline: ishkur's guide to dance music" />](http://www.flickr.com/photos/pforret/183343517/ "Photo Sharing")  
-Ishkur&#8217;s [Guide to Electronic Music](http://www.di.fm/edmguide/edmguide.html) (which I&#8217;ve [written about before](http://blog.forret.com/2004/09/i-remember-house-before-it-was-techno/)): oldest = top left, with concentric circles going down. 
+Ishkur's [Guide to Electronic Music](http://www.di.fm/edmguide/edmguide.html) (which I've [written about before](/2004/09/i-remember-house-before-it-was-techno/)): oldest = top left, with concentric circles going down. 
 
 [<img  src="http://static.flickr.com/46/182464764_8dc2f18cf9.jpg" width="500" height="302" alt="Timeline:  pbs_dickens" />](http://www.flickr.com/photos/pforret/182464764/ "Photo Sharing")  
-A Dickens&#8217; timeline: interactive Flash app, with a nice split up between Dickens&#8217; works, events in his life and general events in England at that era.
+A Dickens' timeline: interactive Flash app, with a nice split up between Dickens' works, events in his life and general events in England at that era.
 
 [<img  src="http://static.flickr.com/70/182464758_07e9c304a7.jpg" width="500" height="378" alt="Timeline: babynamewizard" />](http://www.flickr.com/photos/pforret/182464758/ "Photo Sharing")  
 Baby Name Wizard [NameVoyager](http://babynamewizard.com/namevoyager/lnv0105.html): Java application: shows historic popularity of English christian names.
@@ -69,20 +69,20 @@ _REMARK: a lot of these examples I found through the [Edward Tufte forum](http:/
 
 ### ONLINE TOOLS
 
-Haven&#8217;t seen any real on-line tools for it yet. 
+Haven't seen any real on-line tools for it yet. 
 
   * MediaWiki comes with a tool that needs some more installation care before it works: [EasyTimeLine](http://infodisiac.com/Wikipedia/EasyTimeline/Introduction.htm)  
     [<img  src="http://static.flickr.com/59/183355667_838dd3c3b9.jpg" width="500" height="353" alt="Timeline: easytimeline" />](http://www.flickr.com/photos/pforret/183355667/ "Photo Sharing") 
-  * [Gliffy](http://www.gliffy.com) can&#8217;t do it, [Thumbstacks](http://www.thumstacks.com) can&#8217;t do it
+  * [Gliffy](http://www.gliffy.com) can't do it, [Thumbstacks](http://www.thumstacks.com) can't do it
 
 ### RSS to Timeline converter
 
 Why would you need a timeline? Just think about it:
 
   * add a timeline to your CV
-  * show your blog&#8217;s feed as a timeline
+  * show your blog's feed as a timeline
   * show your project overview as a timeline
-  * show your Flickr photo&#8217;s as a timeline
+  * show your Flickr photo's as a timeline
   * &#8230;
 
-So a natural input API for an automatic timeline generator would be RSS: It has a title, a date, a description, a category (if you want to group events). It can even have a media object associated (audio, video, [photo](http://blog.forret.com/2005/08/photofeed-image-podcasting/), [PDF podcast](http://blog.forret.com/2006/04/pdf-podcasts-proof-of-concept/)). The programming part should be quite straightforward, but the graphical design is crucial: should be flexible and appealing. The output should be JPG/PNG or a dynamic Flash/AJAX application. Who&#8217;s gonna make it? If well done, it&#8217;s a ticket for [TechCrunch](http://techcrunch.com)!
+So a natural input API for an automatic timeline generator would be RSS: It has a title, a date, a description, a category (if you want to group events). It can even have a media object associated (audio, video, [photo](/2005/08/photofeed-image-podcasting/), [PDF podcast](/2006/04/pdf-podcasts-proof-of-concept/)). The programming part should be quite straightforward, but the graphical design is crucial: should be flexible and appealing. The output should be JPG/PNG or a dynamic Flash/AJAX application. Who's gonna make it? If well done, it's a ticket for [TechCrunch](http://techcrunch.com)!

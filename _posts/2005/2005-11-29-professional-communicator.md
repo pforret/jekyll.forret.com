@@ -22,7 +22,7 @@ Just received a sweet little email from self-proclaimed &#8220;professional comm
 > Digital Media Producer/Consultant  
 > (&#8230;) Australia
 
-followed by an email 5 minutes later: _&#8220;It does work but you&#8217;re still a fuckwit&#8221;_.
+followed by an email 5 minutes later: _&#8220;It does work but you're still a fuckwit&#8221;_.
 
 You make us non-professional communicators blush, Jody!
 

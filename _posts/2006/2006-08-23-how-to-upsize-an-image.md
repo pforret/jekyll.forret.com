@@ -4,14 +4,14 @@ title: How to upsize an image
 date: 2006-08-23T12:43:18+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2006/08/how-to-upsize-an-image/
+guid: /2006/08/how-to-upsize-an-image/
 permalink: /2006/08/23/how-to-upsize-an-image/
 categories:
   - photography
 ---
 ## Printing in larger sizes
 
-I have a Canon 350D digital camera. At [8 megapixels](http://web.forret.com/tools/megapixel.asp?title=Canon+EOS+350D&width=3456&height=2304), it&#8217;s in the semi-pro league, and allows me to make 293mm x 192mm (11.5&#8243; x 7.7&#8243;) hi-quality prints. That&#8217;s slightly smaller than an A4 (or Letter) sheet. Imagine now I would want to print on an A0 format or 1189mm x 841mm (46.8&#8243; x 33.1&#8243;). That&#8217;s 16 times as big (height x 4 and width x 4). I could take a &#8216;normal&#8217; image and rescale it to that size, but what would that look like? For every 16 pixels of the new picture, 1 would be an original one, and the other 15 would have been guessed from that and the surrounding pixels. This process is called [image interpolation](http://www.cambridgeincolour.com/tutorials/image-interpolation.htm) and there are different algorithms to do this. Let me show what that looks like.
+I have a Canon 350D digital camera. At [8 megapixels](http://web.forret.com/tools/megapixel.asp?title=Canon+EOS+350D&width=3456&height=2304), it's in the semi-pro league, and allows me to make 293mm x 192mm (11.5&#8243; x 7.7&#8243;) hi-quality prints. That's slightly smaller than an A4 (or Letter) sheet. Imagine now I would want to print on an A0 format or 1189mm x 841mm (46.8&#8243; x 33.1&#8243;). That's 16 times as big (height x 4 and width x 4). I could take a &#8216;normal' image and rescale it to that size, but what would that look like? For every 16 pixels of the new picture, 1 would be an original one, and the other 15 would have been guessed from that and the surrounding pixels. This process is called [image interpolation](http://www.cambridgeincolour.com/tutorials/image-interpolation.htm) and there are different algorithms to do this. Let me show what that looks like.
 
 ## Interpolation algorithms
 
@@ -50,7 +50,7 @@ Lanczos is the most complex, and slowest method, which should give the best resu
 
 [<img  src="http://static.flickr.com/97/221084713_e33c3b7bb6.jpg" alt="Resize effect: Lanczos filter" width="500" height="300" />](http://www.flickr.com/photos/pforret/221084713/ "Photo Sharing")
 
-So here&#8217;s my roundup of some interpolation algorithms for making images bigger. Keep in mind that larger resolutions cause larger files. An image good enough for A0 printing (14000 x 10000 pixels) could amount to a 800MB TIFF file.
+So here's my roundup of some interpolation algorithms for making images bigger. Keep in mind that larger resolutions cause larger files. An image good enough for A0 printing (14000 x 10000 pixels) could amount to a 800MB TIFF file.
 
 Some tools:
 

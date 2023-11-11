@@ -16,4 +16,4 @@ tags:
 
 An amusing view into the mind and imagination of a talented guy, presented in a very appealing Flash interface.
 
-Also check out his main site on [bearskinrug.co.uk](https://www.v5.bearskinrug.co.uk/), there&#8217;s a tamagotchi ice bear on top to keep you company (it eats rabbits and chickens).
+Also check out his main site on [bearskinrug.co.uk](https://www.v5.bearskinrug.co.uk/), there's a tamagotchi ice bear on top to keep you company (it eats rabbits and chickens).

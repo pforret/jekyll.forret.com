@@ -4,7 +4,7 @@ title: Installing NTP (time synchronisation)
 date: 2005-05-19T15:09:00+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2005/05/installing-ntp-time-synchronisation/
+guid: /2005/05/installing-ntp-time-synchronisation/
 permalink: /2005/05/19/installing-ntp-time-synchronisation/
 categories:
   - Linux

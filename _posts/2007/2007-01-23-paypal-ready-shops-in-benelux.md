@@ -4,12 +4,12 @@ title: Paypal-ready shops in Benelux?
 date: 2007-01-23T12:32:33+01:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2007/01/paypal-ready-shops-in-benelux/
+guid: /2007/01/paypal-ready-shops-in-benelux/
 permalink: /2007/01/23/paypal-ready-shops-in-benelux/
 categories:
   - hardware
 ---
-Imagine one would have a certain amount of money on one&#8217;s [Paypal](http://www.paypal.com) account, and one would like to spend that on hardware or other physical goods. Let&#8217;s now limit that to shops active in Belgium, Netherlands and Luxemburg. What are your options? Well, not a lot, it appears.
+Imagine one would have a certain amount of money on one's [Paypal](http://www.paypal.com) account, and one would like to spend that on hardware or other physical goods. Let's now limit that to shops active in Belgium, Netherlands and Luxemburg. What are your options? Well, not a lot, it appears.
 
 **Computer/photography/electronics**  
 My favourite is Pixmania: they have a big collection of all kinds of devices and good prices.  

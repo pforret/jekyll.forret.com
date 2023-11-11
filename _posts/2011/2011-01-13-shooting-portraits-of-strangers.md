@@ -17,9 +17,9 @@ description="Shooting portraits of strangers"
 %}
 
 
-What I like a lot about the photographs is their shallow depth-of-field. He talks about his material: a Nikon D300 with a 85mm f/1.4 lens. That&#8217;s a $999 lens, so one can expect some good results.
+What I like a lot about the photographs is their shallow depth-of-field. He talks about his material: a Nikon D300 with a 85mm f/1.4 lens. That's a $999 lens, so one can expect some good results.
 
-Let&#8217;s see what that looks like in my toolstud.io [depth-of-field calculator](https://toolstud.io/photo/dof.php): there is one picture on his blog that shows him taking a picture of someone at +- 2m away, so let&#8217;s use that as distance. If we fill in the right values ([1.5 crop factor for a Nikon D300, f/1.4 aperture, 85mm focal length, 2m distance, 3:2 aspec](https://toolstud.io/photo/dof.php?cropfactor=1.5&focallengthmm=85&aperturef=1.4&distancem=2)t ratio) we get this:
+Let's see what that looks like in my toolstud.io [depth-of-field calculator](https://toolstud.io/photo/dof.php): there is one picture on his blog that shows him taking a picture of someone at +- 2m away, so let's use that as distance. If we fill in the right values ([1.5 crop factor for a Nikon D300, f/1.4 aperture, 85mm focal length, 2m distance, 3:2 aspec](https://toolstud.io/photo/dof.php?cropfactor=1.5&focallengthmm=85&aperturef=1.4&distancem=2)t ratio) we get this:
 
 <table>
   <tr>
@@ -71,7 +71,7 @@ Let&#8217;s see what that looks like in my toolstud.io [depth-of-field calculato
 
 [<img  src="http://farm6.static.flickr.com/5161/5352823282_dfe982816b.jpg" alt="portraits of strangers: depth-of-field" width="500" height="281" />](http://www.flickr.com/photos/pforret/5352823282/ "portraits of strangers: depth-of-field by Peter Forret, on Flickr")
 
-<!--more-->Only 2.8 cm of sharpness, that&#8217;s shallow! You see it in the background of the pictures: hardly anything recognizable, but a nice creamy _bokeh_. Take a look at this picture: her eyes and mouth are in focus, but the hairs that cover her ears are already a bit blurred. The background is white and green, but it&#8217;s hard to say what exactly.
+<!--more-->Only 2.8 cm of sharpness, that's shallow! You see it in the background of the pictures: hardly anything recognizable, but a nice creamy _bokeh_. Take a look at this picture: her eyes and mouth are in focus, but the hairs that cover her ears are already a bit blurred. The background is white and green, but it's hard to say what exactly.
 
 {% include img.html
 src="https://live.staticflickr.com/4008/4184733650_e46e956d5f_c.jpg"

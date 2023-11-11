@@ -9,7 +9,7 @@ permalink: /2004/07/12/swastikas-drawn-on-woman-in-paris-attack/
 categories:
   - Society
 ---
-Update Aug 2004: the whole story seems to have been made up by the girl. I&#8217;ve deleted my initial reaction, that was honest, but now quite irrelevant.
+Update Aug 2004: the whole story seems to have been made up by the girl. I've deleted my initial reaction, that was honest, but now quite irrelevant.
 
 > A group of young men attacked a mother travelling with her child on a Parisian suburban railway, chopping off her hair and drawing swastikas on her stomach in the latest anti-semitic incident to unsettle France.  
 > (&#8230;)  

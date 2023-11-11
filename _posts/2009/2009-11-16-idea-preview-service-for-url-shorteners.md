@@ -4,7 +4,7 @@ title: 'Idea: preview service for URL shorteners'
 date: 2009-11-16T21:00:00+01:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2009/11/idea-preview-service-for-url-shorteners/
+guid: /2009/11/idea-preview-service-for-url-shorteners/
 permalink: /2009/11/16/idea-preview-service-for-url-shorteners/
 categories:
   - idea

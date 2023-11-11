@@ -4,7 +4,7 @@ title: Barcamp Brussels is approaching!
 date: 2006-09-11T15:31:32+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2006/09/barcamp-brussel-is-approaching/
+guid: /2006/09/barcamp-brussel-is-approaching/
 permalink: /2006/09/11/barcamp-brussel-is-approaching/
 categories:
   - barcamp
@@ -31,8 +31,8 @@ Some concrete info:
     **MEDIA** TRACK
     :   _for those who sell it_
 
-  * all presentations should be **10 minutes long** (i.e. &#8220;[Elevator pitch](http://barcamp.forret.com/wiki/index.php?title=Elevator-pitch)&#8221; style). That leaves 5 minutes for Q&A and 5 minutes to swap rooms. 10 minutes is short? Yes it is! The goal is not to show your thorough knowledge of a topic, but to show people what you are doing and if they&#8217;re interested, they&#8217;ll find you for more info! 
-  * all presentations are **in English**. There will be an international crowd, and a priori the &#8216;de facto lingua franca&#8217; is <strike>Latin</strike> English, res ipsa loquitur. 
+  * all presentations should be **10 minutes long** (i.e. &#8220;[Elevator pitch](http://barcamp.forret.com/wiki/index.php?title=Elevator-pitch)&#8221; style). That leaves 5 minutes for Q&A and 5 minutes to swap rooms. 10 minutes is short? Yes it is! The goal is not to show your thorough knowledge of a topic, but to show people what you are doing and if they're interested, they'll find you for more info! 
+  * all presentations are **in English**. There will be an international crowd, and a priori the &#8216;de facto lingua franca' is <strike>Latin</strike> English, res ipsa loquitur. 
 
 Those who still want to participate:
 

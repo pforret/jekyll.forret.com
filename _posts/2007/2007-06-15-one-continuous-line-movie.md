@@ -4,7 +4,7 @@ title: One continuous line movie
 date: 2007-06-15T13:40:25+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2007/06/one-continuous-line-movie/
+guid: /2007/06/one-continuous-line-movie/
 permalink: /2007/06/15/one-continuous-line-movie/
 categories:
   - audio-video
@@ -14,7 +14,7 @@ tags:
   - creative
   - video
 ---
-This is the video to &#8220;In Context&#8221; by [Field Music](http://www.myspace.com/fieldmusic). It&#8217;s just a hand drawing a really long line on a white background, but it&#8217;s worth watching until the end.  
+This is the video to &#8220;In Context&#8221; by [Field Music](http://www.myspace.com/fieldmusic). It's just a hand drawing a really long line on a white background, but it's worth watching until the end.  
 (via [infosthetics.com](http://infosthetics.com/archives/2007/06/one_continuous_line_movie.html))  
 <!--more-->
 

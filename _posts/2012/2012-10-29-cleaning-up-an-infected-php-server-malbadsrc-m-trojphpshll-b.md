@@ -20,10 +20,10 @@ I recently discovered that a number of sites of mine were considered unsafe by G
 
 ![](/wp-content/uploads/2020/06/image.png)
 
-The file is easy to clean up: you remove the **eval** statement and that&#8217;s it. Only, on this server several hundreds of PHP files (WordPress, MediaWiki, &#8230;) were affected. So I made a script to go through all of them and clean up. It uses the fact that
+The file is easy to clean up: you remove the **eval** statement and that's it. Only, on this server several hundreds of PHP files (WordPress, MediaWiki, &#8230;) were affected. So I made a script to go through all of them and clean up. It uses the fact that
 
   * the whole injected statement is on the 1st line
-  * no &#8216;decent&#8217;, trustworthy program uses the _base64_ trick in its PHP code
+  * no &#8216;decent', trustworthy program uses the _base64_ trick in its PHP code
   * <del>it moves the second <code>&lt;?php</code> to the second line and then removes the whole first line</del>
   * it does everything in 1 awk statement
 

@@ -7,11 +7,11 @@ permalink: /2007/02/02/shades-of-purple/
 categories:
   - color
 ---
-Have you ever gotten into a discussion with a woman on colors? It seems that, while some people have &#8216;absolute hearing&#8217; (pinpoint any frequency to the right note), there is also a kind of &#8216;absolute color perception&#8217;, and women seem more often blessed with it. While us men have the habit of calling anything with a red/blue mix &#8216;purple&#8217;, life is actually not that simple. There are many shades of purple: violet, mauve, orchid and half a dozen variations on those. 
+Have you ever gotten into a discussion with a woman on colors? It seems that, while some people have &#8216;absolute hearing' (pinpoint any frequency to the right note), there is also a kind of &#8216;absolute color perception', and women seem more often blessed with it. While us men have the habit of calling anything with a red/blue mix &#8216;purple', life is actually not that simple. There are many shades of purple: violet, mauve, orchid and half a dozen variations on those. 
 
-To make things even more difficult for Belgian men: we actually have two words in Dutch: &#8216;_paars_&#8216; is the equivalent of &#8216;purple&#8217; in English, while [&#8216;_purper_&#8216; is more like magenta](http://nl.wikipedia.org/wiki/Violet#De_extraspectrale_kleur_paars). Ask any man here (that&#8217;s not a fashion designer or hairdresser) the difference between &#8216;purper&#8217; and &#8216;paars&#8217; and you&#8217;ll get utter astonishment. 
+To make things even more difficult for Belgian men: we actually have two words in Dutch: &#8216;_paars_&#8216; is the equivalent of &#8216;purple' in English, while [&#8216;_purper_&#8216; is more like magenta](http://nl.wikipedia.org/wiki/Violet#De_extraspectrale_kleur_paars). Ask any man here (that's not a fashion designer or hairdresser) the difference between &#8216;purper' and &#8216;paars' and you'll get utter astonishment. 
 
-So here&#8217;s a reference chart of the shades of purple I found in the [HTML color list](https://toolstud.io/color/htmlcolors.php):
+So here's a reference chart of the shades of purple I found in the [HTML color list](https://toolstud.io/color/htmlcolors.php):
 
 <table>
   <tr>

@@ -20,7 +20,7 @@ tags:
 ---
  
 
-I see more and more Image-Response GET APIs. With this term I mean: the API is called with a **GET URL**, and the response is a (JPG/PNG/GIF/WEBP/SVG) **image**, either directly or after a redirect. So the API can be used through a simple `<img src="[IMAGE GENERATING URL">` HTML tag. Let&#8217;s call these **IMGSRCAPI**&#8216;s. 
+I see more and more Image-Response GET APIs. With this term I mean: the API is called with a **GET URL**, and the response is a (JPG/PNG/GIF/WEBP/SVG) **image**, either directly or after a redirect. So the API can be used through a simple `<img src="[IMAGE GENERATING URL">` HTML tag. Let's call these **IMGSRCAPI**&#8216;s. 
 
 One of the oldest examples is [Gravatar](https://en.gravatar.com/), used by WordPress to show an icon/avatar for each person that writes/comments on blogs. Every imaginable email address automatically has a Gravatar profile pic, but by default it is <img  src="https://www.gravatar.com/avatar/ebf3ff19e1c49eb15dd83d41d5856319" width="20" height="20" />. Only when you can log in and verify your email, you can change your profile pic to whatever you want.
 
@@ -65,7 +65,7 @@ Facebook also has scannable Messenger codes, but again, these cannot be created 
 
 ### 1.c. Static avatars
 
-These are service to turn a string into an image, in such a way that it&#8217;s easier to recognize them. This can be used for people, or for projects.
+These are service to turn a string into an image, in such a way that it's easier to recognize them. This can be used for people, or for projects.
 
 ![](https://robohash.org/pforret)
 <strong>ROBOHASH</strong>: https://robohash.org/pforret   
@@ -92,11 +92,11 @@ Some examples of these services are:
 
 ## 2. Dynamic IMG SRC API
 
-This means that 2 calls with the exact same URL might give back a different image. This could be because it&#8217;s random, or because of external data that has changed. 
+This means that 2 calls with the exact same URL might give back a different image. This could be because it's random, or because of external data that has changed. 
 
 ### 2.a. Dynamic placeholder pictures
 
-Like their cousins in 1.a., these services give back an image of a certain size, but it&#8217;s a **random** image, changes upon each call.
+Like their cousins in 1.a., these services give back an image of a certain size, but it's a **random** image, changes upon each call.
 
 ![](https://picsum.photos/500/200)
 <strong><a href="https://picsum.photos/">LOREM PICSUM</a>:</strong> 
@@ -130,7 +130,7 @@ Image a IMGAPI service <profilepic.idea>, that would let you do the following:
 * _<profilepic.idea>/linkedin/<username>_ => the Linkedin profile pic
 * _<profilepic.idea>/favicon/<domain name>_ => the favicon of that website. 
 
-This would be rather easy to create and super handy to use. I don&#8217;t know why I haven&#8217;t found any service like this.
+This would be rather easy to create and super handy to use. I don't know why I haven't found any service like this.
 
 I know that Google used to have a IMGSRCAPI service for profile pics (_https://profiles.google.com/&#8230;/profile/<username>_) but this has been discontinued.
 
@@ -146,7 +146,7 @@ screenshot via <a href="https://screengrab.io/">screengrab.io</a>
 
 ### 2.d. External status IMG SRC API
 
-So this is an image whose content can change based on external information. For instance, in the developer&#8217;s world most _badges_ and _shields_, often shown on Github README pages, fall under this group.
+So this is an image whose content can change based on external information. For instance, in the developer's world most _badges_ and _shields_, often shown on Github README pages, fall under this group.
 
 ![](https://blog.forret.com/wp-content/uploads/2020/01/FireShot-Capture-004-Shields.io_-Quality-metadata-badges-for-open-source-projects-shields.io_.png)
 Auto-updated shields via <a href="https://shields.io/">https://shields.io/</a>  
@@ -169,7 +169,7 @@ And how about weather services?
 via <a href="https://www.theweather.com/widget/">https://www.theweather.com/widget/</a>  
 
 ![](https://www.meteo.be/services/web2016/getObservationBelgiumMap.php?type=D1&language=nl)
-tomorrow&#8217;s weather in Belgium via <a href="https://www.meteo.be/services/web2016/getObservationBelgiumMap.php?type=D1&language=nl">https://www.meteo.be</a>  
+tomorrow's weather in Belgium via <a href="https://www.meteo.be/services/web2016/getObservationBelgiumMap.php?type=D1&language=nl">https://www.meteo.be</a>  
 
 ![](https://s.w-x.co/staticmaps/wu/wu/wxtype1200_cur/conus/current.png)
 Latest weather via <a href="https://www.wunderground.com/">wunderground.com</a>  

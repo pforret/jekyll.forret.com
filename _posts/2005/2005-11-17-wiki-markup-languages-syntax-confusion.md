@@ -12,16 +12,16 @@ categories:
 ![](http://www.pixagogo.com/S5vpfnjbBPdPkpwuXFLFrK!ESZBkrMrWMhu8nXJ0tt!-SU0QSdGseNjs1OJegVEQGe-OMz65ZURp0SlFV151gxbY3EmSl74Q98p-8qTyPON3qDkdfSlJMVajr0pf8D4Wk2yWrs7Z3VIOn6ldkvk3JFcHvSUTSeUYZY/2b-or-not-2b_sepia.jpg)  
 In the last couple of months I have been working with [Twiki](http://twiki.org/), [PhpWiki](http://phpwiki.sourceforge.net/), [MediaWiki](http://www.mediawiki.org), [WordPress](http://www.wordpress.org) and [PBwiki](http://www.pbwiki.com) (oh, the joys of being a freelancer). They all have their own pros and cons, but unfortunately also almost all have their own markup dialect. With markup I mean: the way you should indicate in regular text which parts should be bold/ italic/ heading/ code/ links/ &#8230; 
 
-The original C2 Wiki (1995) started with [CamelCase](http://en.wikipedia.org/wiki/CamelCase) keywords and &#8221;&#8217;bold&#8221;&#8217; (that&#8217;s three single quotes) for bold, but quite some variants (sometimes improvements) have been created. The problem is that for each wiki system you use (admitted, I might be a heavier user than the average Joe) you have to reprogram your habits: how do I put a link, an image, a bullet list, a piece of code? It&#8217;s like switching between VBScript, VB.Net and C#, or QWERTY and AZERTY all the time.
+The original C2 Wiki (1995) started with [CamelCase](http://en.wikipedia.org/wiki/CamelCase) keywords and &#8221;'bold&#8221;' (that's three single quotes) for bold, but quite some variants (sometimes improvements) have been created. The problem is that for each wiki system you use (admitted, I might be a heavier user than the average Joe) you have to reprogram your habits: how do I put a link, an image, a bullet list, a piece of code? It's like switching between VBScript, VB.Net and C#, or QWERTY and AZERTY all the time.
 
 ### Standard markup dialects
 
 My suggestion: 
 
-  * create a limited number of standard wiki markup syntaxes (let&#8217;s say 4), 
+  * create a limited number of standard wiki markup syntaxes (let's say 4), 
   * let every wiki system offer their users a choice between them. 
 
-I&#8217;m used to working on Wikipedia? I use the WikiText syntax everywhere. Or Textile, or Markdown. That way I just have to get used to one way of doing things.
+I'm used to working on Wikipedia? I use the WikiText syntax everywhere. Or Textile, or Markdown. That way I just have to get used to one way of doing things.
 
 ### Lightweight Markup languages
 

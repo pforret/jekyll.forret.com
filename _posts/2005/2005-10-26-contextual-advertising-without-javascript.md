@@ -32,16 +32,16 @@ To use Adsense now, you need to embed a piece of JavaScript code into your HTML 
       * WHO: who is the end-user: default language of the browser, IP-address (which can be resolved to a country + city location), maybe the time of day 
           * WHAT: what keywords do advertisers want to pay for</ul> 
             This is called _**contextual advertising**_: it is tailored for the page and the viewer.  
-            Currently Google Adsense uses JavaScript, because it&#8217;s the best way to insert full-featured HTML into someone else&#8217;s web page.
+            Currently Google Adsense uses JavaScript, because it's the best way to insert full-featured HTML into someone else's web page.
             
             **Adsense without JS**  
-            Imagine we don&#8217;t need the whistles and bells of HTML, and just work with an image. Could we do contextual (i.e. tailored) advertising? Well, I think we can. Let me present &#8220;PicSense&#8221;:
+            Imagine we don't need the whistles and bells of HTML, and just work with an image. Could we do contextual (i.e. tailored) advertising? Well, I think we can. Let me present &#8220;PicSense&#8221;:
             
               1. a publisher puts the following code into his HTML page:  
                 `<a href="http://picsense.example.com/fwd/(client ID)/" > <img border="0" src="http://picsense.example.com/img/(client ID)/(format)"> </a>`  
                 (from those who are not familiar with HTML, this creates a clickable image)
               2. when this HTML page is visited in a browser, the image `http://picsense.example.com/img/(client ID)/(format)` is requested from the example.com service.
-            The server also receives in the request: the URL where the image is showing in (i.e. &#8220;WHERE&#8221;), and the details on the browser and network location (i.e. &#8220;WHO&#8221;). The server then selects one of the offers it has from advertisers (&#8220;WHAT&#8221;), and sends back a &#8216;302 redirect&#8217; to `http://picsense.example.com/adv/(advertiser ID)/(campaign)/(format)` (which means: go fetch the image from this other, new location).  
+            The server also receives in the request: the URL where the image is showing in (i.e. &#8220;WHERE&#8221;), and the details on the browser and network location (i.e. &#8220;WHO&#8221;). The server then selects one of the offers it has from advertisers (&#8220;WHAT&#8221;), and sends back a &#8216;302 redirect' to `http://picsense.example.com/adv/(advertiser ID)/(campaign)/(format)` (which means: go fetch the image from this other, new location).  
             So this is as much contextual as current Adsense advertising!
             
               3. the visitor sees an image appearing with an ad from advertiser X (maybe a colorful image, or just some lines of text rendered as a GIF file). If the offer interests him, he clicks on the image. 

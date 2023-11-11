@@ -143,7 +143,7 @@ Photo: Daniele Franchi on Unsplash.com
 Photo: Lesly Derksen on Unsplash.com
 
 <img  alt=""   src="https://blog.forret.com/wp-content/uploads/2021/02/ElSalvador_ig.jpg" >
-Photo: L&#8217;odyssée Belle on Unsplash.com
+Photo: L'odyssée Belle on Unsplash.com
 
 <img  alt=""   src="https://blog.forret.com/wp-content/uploads/2021/02/Gambia_ig.jpg" >
 Photo: Bekky Bekks on Unsplash.com

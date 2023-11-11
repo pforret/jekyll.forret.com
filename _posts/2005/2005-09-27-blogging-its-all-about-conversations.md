@@ -1,6 +1,6 @@
 ---
 id: 184
-title: 'Blogging, it&#8217;s all about conversations'
+title: 'Blogging, it's all about conversations'
 date: 2005-09-27T16:16:31+02:00
 author: Peter
 layout: post
@@ -17,10 +17,10 @@ tags:
 
 And talking about blogging is something I will do a lot in the near future:
 
-  * I&#8217;m going to [Shoob](http://www.shoob.com)&#8216;s [Blogging conference](http://2pointzero.shoob.com/) in Brussels on Oct 6th
-  * with [Bart](http://webguide.fgov.be/) I&#8217;m organising the [Brussels Bloggers Dinner](http://bloggers.smoothouse.com/) on Oct 7th
+  * I'm going to [Shoob](http://www.shoob.com)&#8216;s [Blogging conference](http://2pointzero.shoob.com/) in Brussels on Oct 6th
+  * with [Bart](http://webguide.fgov.be/) I'm organising the [Brussels Bloggers Dinner](http://bloggers.smoothouse.com/) on Oct 7th
   * I just registered for [Loic](http://www.loiclemeur.com/)&#8216;s [LesBlogs 2.0 conference](http://lesblogs.typepad.com/) in Paris on Dec 5th/6th.
 
-Anyone has an interesting conference in Rome or Madrid coming up? We&#8217;re running out of Indian summer here.
+Anyone has an interesting conference in Rome or Madrid coming up? We're running out of Indian summer here.
 
 Technorati: <a rel="tag" href="http://technorati.com/tag/blog">blog</a> &#8211; <a rel="tag" href="http://technorati.com/tag/lesblogs">lesblogs</a> &#8211; <a rel="tag" href="http://technorati.com/tag/brussels">brussels</a>

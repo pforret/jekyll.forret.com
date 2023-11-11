@@ -15,7 +15,7 @@ tags:
 ---
 Je krijgt op een jaar nogal wat direct-in-de-papierbak reclame binnen. Ik ben in mijn gemeente (Grimbergen) op zoek gegaan naar de &#8220;Geen Reclame&#8221; sticker, maar zowel het postkantoor als het gemeentehuis konden me niet verder helpen. Ik heb dan maar online gezocht naar de juiste oplossing voor een reeks ongewenste reclame bronnen:
 
-![](http://blog.forret.com/wp-content/uploads/2017/03/anti-reclamesticker.jpg)
+![](/wp-content/uploads/2017/03/anti-reclamesticker.jpg)
 
 
   * ongeaddresseerde, huis-aan-huis reclame: b [ovam.vlaanderen.be](https://ovam.vlaanderen.be/anti-reclamestickers-aanvragen)) of [Leefmilieu Brussel](https://leefmilieu.brussels/burgers/diensten-en-aanvragen/klachten-meldingen-en-waarschuwingen/roep-reclame-uw-brievenbus-een-halt-toe-bestel-de-sticker-en-dien-klacht-als-die-niet-wordt-nageleefd).

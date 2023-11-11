@@ -14,7 +14,7 @@ categories:
 
 I am already counting down to January 1st 2007 (125 days to go). From that day onwards, it will be forbidden to smoke in Belgian restaurants. Hallelujah!
 
-Some of you smokers out there are offended I should rejoice in such an event? Just remember that for us, non-smokers, cigarette smoke at the dinner table is as enjoyable as a (smelly) fart in the face. We&#8217;ve had to put up with that for way too long. 
+Some of you smokers out there are offended I should rejoice in such an event? Just remember that for us, non-smokers, cigarette smoke at the dinner table is as enjoyable as a (smelly) fart in the face. We've had to put up with that for way too long. 
 
 The announcements: [Restaurants rookvrij vanaf 2007 (NL)](http://smoking.visualizor.com/blog/2006/08/restaurants-rookvrij-vanaf-2007/) or [Restaurants sans fumeurs en 2007 (FR)](http://smoking.visualizor.com/blog/2006/08/restaurants-sans-fumeurs-en-2007/)
 

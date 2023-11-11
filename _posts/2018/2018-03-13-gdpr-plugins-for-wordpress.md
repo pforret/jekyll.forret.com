@@ -4,7 +4,7 @@ title: GDPR Plugins for WordPress
 date: 2018-03-13T00:12:01+01:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/?p=1613
+guid: /?p=1613
 permalink: /2018/03/13/gdpr-plugins-for-wordpress/
 image: /wp-content/uploads/2018/03/fig-12-03-2018_23-41-09.jpg
 categories:
@@ -17,7 +17,7 @@ tags:
   - ssl
   - wordpress
 ---
-Europe&#8217;s General Data Protection Regulation (GDPR) jumps into action on 25 May 2018. This has a lot of implications for every company in Europe, but also worldwide. And what does it mean for us, owners of a WordPress blog?
+Europe's General Data Protection Regulation (GDPR) jumps into action on 25 May 2018. This has a lot of implications for every company in Europe, but also worldwide. And what does it mean for us, owners of a WordPress blog?
 
 ### What is the [GDPR](https://www.eugdpr.org/)?
 
@@ -28,9 +28,9 @@ In short, the GDPR is a set of rules concerning digital privacy and security of 
 In most cases, you -as the owner/editor of the site/blog- are the _data controller_, and your website host, your mailing list provider, your advertising network provider, your invoicing/payment provider &#8230;  are the _data processors_.
 
   * **Always HTTPS**:  
-    it&#8217;s obviously necessary that your website offers encrypted traffic on the pages where you allow visitors to enter their personal data. But this is 2018, and you should just use HTTPS everywhere, since [Google Chrome](https://www.theverge.com/2018/2/8/16991254/chrome-not-secure-marked-http-encryption-ssl) will mark all non-HTTPS sites as insecure (from July 2018 onwards) and non-HTTPS sites are punished in [Google Search](https://thenextweb.com/google/2015/12/17/unsecured-websites-are-about-to-get-hammered-in-googles-search-ranking/) results too (since 2015). HTTPS is not anymore an expensive add-on. Your hosting company should support [LetsEncrypt](https://letsencrypt.org/)&#8216;s free certificates and otherwise there is [Cloudflare](https://www.cloudflare.com/ssl/)&#8216;s free plan. These services both have strong encryption, universal browser recognition and auto-renewal of certificates.
+    it's obviously necessary that your website offers encrypted traffic on the pages where you allow visitors to enter their personal data. But this is 2018, and you should just use HTTPS everywhere, since [Google Chrome](https://www.theverge.com/2018/2/8/16991254/chrome-not-secure-marked-http-encryption-ssl) will mark all non-HTTPS sites as insecure (from July 2018 onwards) and non-HTTPS sites are punished in [Google Search](https://thenextweb.com/google/2015/12/17/unsecured-websites-are-about-to-get-hammered-in-googles-search-ranking/) results too (since 2015). HTTPS is not anymore an expensive add-on. Your hosting company should support [LetsEncrypt](https://letsencrypt.org/)&#8216;s free certificates and otherwise there is [Cloudflare](https://www.cloudflare.com/ssl/)&#8216;s free plan. These services both have strong encryption, universal browser recognition and auto-renewal of certificates.
   * **Data Collection**:  
-    if you have any kind of contact, subscription, purchase, reply or comment form where you ask the visitor for personal data (name, email, phone, age, country), you need to explicitly ask for permission (&#8216;opt-in&#8217;). You should also inform them of their &#8230;</p> 
+    if you have any kind of contact, subscription, purchase, reply or comment form where you ask the visitor for personal data (name, email, phone, age, country), you need to explicitly ask for permission (&#8216;opt-in'). You should also inform them of their &#8230;</p> 
       * **Right to Access**:  
         any user should have a possibility to request you for all the information you have on him. So you need to provide a form for that.
       * **Right to Be Forgotten**:  

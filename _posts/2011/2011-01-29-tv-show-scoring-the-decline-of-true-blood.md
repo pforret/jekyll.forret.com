@@ -4,16 +4,16 @@ title: 'TV Show scoring: the decline of True Blood'
 date: 2011-01-29T00:18:34+01:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/?p=1233
+guid: /?p=1233
 permalink: /2011/01/29/tv-show-scoring-the-decline-of-true-blood/
 categories:
   - TV
 tags:
   - visualisation
 ---
-I got the DVDs of the 3 [True Blood](http://www.tv.com/true-blood/show/74645/summary.html?tag=page_nav;main) seasons for Christmas and when I started watching , I really got into it. Sookie is adorable, Jason is charming with a low IQ (and strongly resembles George W), there&#8217;s the interesting parts of how vampires and humans live together, with some comments on racism and homophobia. Season 1 was just great, and I was telling everyone around me to start watching it too.
+I got the DVDs of the 3 [True Blood](http://www.tv.com/true-blood/show/74645/summary.html?tag=page_nav;main) seasons for Christmas and when I started watching , I really got into it. Sookie is adorable, Jason is charming with a low IQ (and strongly resembles George W), there's the interesting parts of how vampires and humans live together, with some comments on racism and homophobia. Season 1 was just great, and I was telling everyone around me to start watching it too.
 
-Then, during Season 2, the quality seemed to drop. The dialogues seemed ridiculous at times, the script didn&#8217;t go anywhere, and then at the end, there were two really silly episodes. I&#8217;m currently watching Season 3, and still I am frequently disappointed by the acting, the lines, the plot. So I thought: wouldn&#8217;t it be nice that if you start watching a show that has been around for some time, several seasons for instance, that you could get some idea about what quality to expect. Is there data for this? Yes, my favourite TV show portal TV.com has collected scores for each episode from its users. All I needed was some way to summarize and visualize it. So that&#8217;s what I made.
+Then, during Season 2, the quality seemed to drop. The dialogues seemed ridiculous at times, the script didn't go anywhere, and then at the end, there were two really silly episodes. I'm currently watching Season 3, and still I am frequently disappointed by the acting, the lines, the plot. So I thought: wouldn't it be nice that if you start watching a show that has been around for some time, several seasons for instance, that you could get some idea about what quality to expect. Is there data for this? Yes, my favourite TV show portal TV.com has collected scores for each episode from its users. All I needed was some way to summarize and visualize it. So that's what I made.
 
 <http://tools.forret.com/tv.com/>
 

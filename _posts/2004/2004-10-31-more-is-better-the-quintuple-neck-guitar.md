@@ -19,7 +19,7 @@ There's more, of course: e.g. Steve Vai has played the triple-neck heart-shaped 
 
 ![](https://i.pinimg.com/originals/75/a3/b8/75a3b837ea8c9cc75ee24be00f21f273.jpg)
 
-> Today, triple neck guitars are still rare, because they&#8217;re huge, heavy, expensive and utterly pointless. They&#8217;re an obscene symbol of self-indulgence, like Missy Elliot&#8217;s Lamborghini bed, or Snoop&#8217;s jewel-encrusted crunk cup.  
+> Today, triple neck guitars are still rare, because they're huge, heavy, expensive and utterly pointless. They're an obscene symbol of self-indulgence, like Missy Elliot's Lamborghini bed, or Snoop's jewel-encrusted crunk cup.  
 > (from: [Engadget](http://www.engadget.com/entry/5955275649663618))
 
 King of the hill: the quintuple-neck guitar, used by Cheap Trick's Rick Nielsen. That is: 36 strings (4 guitars and a 12 string). Respect!  

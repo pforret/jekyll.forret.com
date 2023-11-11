@@ -4,7 +4,7 @@ title: 'Pimp your laptop: Apple vs Dell'
 date: 2007-06-20T16:51:00+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2007/06/pimp-your-laptop-apple-vs-dell/
+guid: /2007/06/pimp-your-laptop-apple-vs-dell/
 permalink: /2007/06/20/pimp-your-laptop-apple-vs-dell/
 categories:
   - Apple
@@ -12,7 +12,7 @@ categories:
 ---
 Imagine you can walk up to your favourite hardware store and tell the guy: &#8220;Give me the biggest, fastest, meanest laptop you have. Money is no issue&#8221;. 
 
-Let&#8217;s see what this would buy you in the (Belgian) [Apple store](http://www.apple.be):
+Let's see what this would buy you in the (Belgian) [Apple store](http://www.apple.be):
 
 ### Pimped-out MacBook Pro
 
@@ -30,7 +30,7 @@ Let&#8217;s see what this would buy you in the (Belgian) [Apple store](http://ww
 
 Which would cost you around 3400 euro (excl taxes/transport). 
 
-Let&#8217;s now compare that to a fully expanded Dell Precision portable workstation from the [Dell store](http://www.dell.be):
+Let's now compare that to a fully expanded Dell Precision portable workstation from the [Dell store](http://www.dell.be):
 
 ### Pimped-out Dell Precision M90
 
@@ -67,4 +67,4 @@ Which will set you back &#8230; 3280 euro. Or wait, try this:
 
 At a staggering &#8230; 3280 euro, or just the same as the Precision.
 
-I know, to some extent, it&#8217;s comparing Apples to oranges, but I&#8217;m just saying: for a high-end notebook, a MacBook Pro is not that excessively expensive.
+I know, to some extent, it's comparing Apples to oranges, but I'm just saying: for a high-end notebook, a MacBook Pro is not that excessively expensive.

@@ -63,7 +63,7 @@ convert "$input" -bordercolor black -border "$border" -resize "120x180"^ -gravit
 
 ![](https://blog.forret.com/wp-content/uploads/2021/01/the-help.small_.jpg)
 
-## Step 3: create &#8216;primitive&#8217; GIF
+## Step 3: create &#8216;primitive' GIF
 
 Introducing [github.com/fogleman/**primitive**](https://github.com/fogleman/primitive)! 
 This amazing piece of software (developed by Michael Fogleman in 2017 using Go) does the heavy lifting here. 
@@ -164,10 +164,10 @@ ffmpeg -i "$output"
 I initially thought conversion for Facebook would be easy, but that was not the case. 
 The problem is that the preview image Facebook shows for a video is typically chosen at the end of the video. 
 In our case, this is the high-res version of the video poster, which means the surprise is completely spoiled. 
-So I thought, I&#8217;ll just add some seconds from the beginning of the primitive movie (the most cryptic ones) 
+So I thought, I'll just add some seconds from the beginning of the primitive movie (the most cryptic ones) 
 to the end and Facebook will use that as the preview thumbnail.
 
-However, I was wrong. Facebook&#8217;s thumbnail algorithms seem to have a preference for frames 
+However, I was wrong. Facebook's thumbnail algorithms seem to have a preference for frames 
 with more visual information. They skip my low-information outro, and still prefer the high-res end image for 
 the thumbnail. I could research further, but since I actually stopped using Facebook last year, 
-I won&#8217;t be posting videos there, so I don't care 🙂
+I won't be posting videos there, so I don't care 🙂

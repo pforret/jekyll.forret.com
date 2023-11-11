@@ -20,13 +20,13 @@ tags:
   - semver
   - versioning
 ---
-When you&#8217;re creating software packages that will be used by other people, you need to get your versioning in order. For PHP libraries, this means: both the version number in `composer.json` as well as the `git tag` for Github/Bitbucket. For node.js projects, the version is kept by npm in `package.json`. It was always too easy to make small mistakes. So I decided to make a bash script `<strong>semver.sh</strong>` to manage it for me.
+When you're creating software packages that will be used by other people, you need to get your versioning in order. For PHP libraries, this means: both the version number in `composer.json` as well as the `git tag` for Github/Bitbucket. For node.js projects, the version is kept by npm in `package.json`. It was always too easy to make small mistakes. So I decided to make a bash script `<strong>semver.sh</strong>` to manage it for me.
 
 **<https://github.com/pforret/setver>**
 
-This works for PHP/Composer projects, Node/NPM projects and Bash projects. At the least it will get/set your git tags (and push them to Github/Bitbucket), but if present, it will also first set versions on `composer.json` or `package.json` . There&#8217;s also the option to use a `VERSION.md` file, that will always contain the version number.
+This works for PHP/Composer projects, Node/NPM projects and Bash projects. At the least it will get/set your git tags (and push them to Github/Bitbucket), but if present, it will also first set versions on `composer.json` or `package.json` . There's also the option to use a `VERSION.md` file, that will always contain the version number.
 
-_For **PHP** packages: creating and pushing the `git tag` will also trigger Packagist (the PHP package manager repository) to update the package version. It&#8217;s also important that the composer.json version and the git tag version are always the same._
+_For **PHP** packages: creating and pushing the `git tag` will also trigger Packagist (the PHP package manager repository) to update the package version. It's also important that the composer.json version and the git tag version are always the same._
 
 **Semver.sh** allows you to do:
 
@@ -85,6 +85,6 @@ Next to that, semver.sh also allows to
   * If you added new functionality: `1.4.15` -> `1.5.0`. 
   * If you made big breaking changes (so that the component might not be backwards compatible): `1.4.15` -> `2.0.0.`
 
-There are the option in _semver_ to use alpha/beta/pre-release versions, but I&#8217;m not using that for now.
+There are the option in _semver_ to use alpha/beta/pre-release versions, but I'm not using that for now.
 
 In order to keep the script small, I just used a subset of library functions from [bashew](https://github.com/pforret/bashew).

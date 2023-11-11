@@ -14,14 +14,14 @@ tags:
   - RSS
   - tool
 ---
-I get a lot of _&#8220;what is wrong with my podcast feed?&#8221;_ kind of questions because I have written a fairly [popular tutorial on podcasting with Blogger and Feedburner](http://blog.forret.com/blog/2004/10/how-to-podcast-with-blogger-and.html), and a lot of people start doing podcasts that way. There&#8217;s a couple of things that can go wrong:
+I get a lot of _&#8220;what is wrong with my podcast feed?&#8221;_ kind of questions because I have written a fairly [popular tutorial on podcasting with Blogger and Feedburner](/blog/2004/10/how-to-podcast-with-blogger-and.html), and a lot of people start doing podcasts that way. There's a couple of things that can go wrong:
 
   * Not a valid RSS feed
   * RSS feed without enclosures
   * Feed not updated when posting new article
   * &#8230;
 
-To check some of those things, I needed to read and interpret the RSS feed by hand. That&#8217;s why I decided to make a [**podcast feed validator**](http://www.smoothouse.com/podcast/validator.php) to do the checks automatically. Let&#8217;s take [Adam Curry](http://live.curry.com/)&#8216;s [DailySourcecode](http://www.dailysourcecode.com/) podcast as an example:
+To check some of those things, I needed to read and interpret the RSS feed by hand. That's why I decided to make a [**podcast feed validator**](http://www.smoothouse.com/podcast/validator.php) to do the checks automatically. Let's take [Adam Curry](http://live.curry.com/)&#8216;s [DailySourcecode](http://www.dailysourcecode.com/) podcast as an example:
 
   * the URL of the feed is [radio.weblogs.com/ 0001014/ categories/ dailySourceCode/ rss.xml](http://radio.weblogs.com/0001014/categories/dailySourceCode/rss.xml), so I input it into the input field and [the results are](http://www.smoothouse.com/podcast/validator.php?src=http%3A%2F%2Fradio.weblogs.com%2F0001014%2Fcategories%2FdailySourceCode%2Frss.xml):
   * #1: feed URL exists and can be reached
@@ -37,7 +37,7 @@ Try it out for yourself:
 
 Some more features of the [podcast feed check](http://www.smoothouse.com/podcast/validator.php):
 
-  * estimation of **mean-time-between-posts** (MTBP), a metric I talked about in [RFM for RSS feeds](http://blog.forret.com/blog/2005/12/rfm-for-rss-feeds-recency-frequency.html)
+  * estimation of **mean-time-between-posts** (MTBP), a metric I talked about in [RFM for RSS feeds](/blog/2005/12/rfm-for-rss-feeds-recency-frequency.html)
   * estimation of required bandwidth/storage per month (DailySourcecode: 600MB/month, [175-25.be](http://www.175-25.be) podcast: 10MB/month)
   * works with MP3 audio enclosures and AAC (MPEG-4) audio/video enclosures (any `audio/mp*` enclosure)
   * detailed (technical) information is hidden by default and can be shown through some [AJAX](http://en.wikipedia.org/wiki/AJAX) functionality.

@@ -4,7 +4,7 @@ title: Plan your alcohol consumption
 date: 2007-04-27T18:21:02+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2007/04/plan-your-alcohol-consumption/
+guid: /2007/04/plan-your-alcohol-consumption/
 permalink: /2007/04/27/plan-your-alcohol-consumption/
 categories:
   - science
@@ -25,4 +25,4 @@ and eat fish:
 
 > The n–3 fatty acids found in fish are strongly associated with a reduced risk of sudden death among men without evidence of prior cardiovascular disease. ([NEJM](http://content.nejm.org/cgi/content/short/346/15/1113))
 
-So don&#8217;t be surprised next time I look angry when someone spoils my &#8220;_Saumon effeuillé mariné aux trois moutardes_&#8221; and white Sancerre with cigarette smoke: _It&#8217;s killing me, that&#8217;s why!_
+So don't be surprised next time I look angry when someone spoils my &#8220;_Saumon effeuillé mariné aux trois moutardes_&#8221; and white Sancerre with cigarette smoke: _It's killing me, that's why!_

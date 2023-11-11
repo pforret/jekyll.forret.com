@@ -4,7 +4,7 @@ title: Arno on the Francofolies
 date: 2007-07-24T09:15:20+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2007/07/arno-on-the-francofolies/
+guid: /2007/07/arno-on-the-francofolies/
 permalink: /2007/07/24/arno-on-the-francofolies/
 categories:
   - Brussel

@@ -4,7 +4,7 @@ title: Click to hear the MP3 (playlist)
 date: 2006-04-27T10:59:01+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2006/04/click-to-hear-the-mp3-playlist/
+guid: /2006/04/click-to-hear-the-mp3-playlist/
 permalink: /2006/04/27/click-to-hear-the-mp3-playlist/
 categories:
   - music
@@ -15,24 +15,24 @@ tags:
   - flash
   - mp3
 ---
-More than a year ago, I wrote an piece on [Playing mp3 with an embedded Flash player](http://blog.forret.com/2005/01/playing-mp3-with-an-embedded-flash-player/). Things change quickly in this area, so it&#8217;s time for an update.
+More than a year ago, I wrote an piece on [Playing mp3 with an embedded Flash player](/2005/01/playing-mp3-with-an-embedded-flash-player/). Things change quickly in this area, so it's time for an update.
 
-These are all tools to play either individual MP3 files or playlists (e.g. podcast RSS feeds) in a web page. Most of them are based on Macromedia/Adobe Flash. Where possible, I&#8217;ll use my [Smoothpod Mashups](http://mashup.xampled.com) as an example feed.
+These are all tools to play either individual MP3 files or playlists (e.g. podcast RSS feeds) in a web page. Most of them are based on Macromedia/Adobe Flash. Where possible, I'll use my [Smoothpod Mashups](http://mashup.xampled.com) as an example feed.
 
 ### Hosted Service (insert HTML code)
 
 [Pupuplayer Free](http://www.pupuplatters.com/pupuplayer/try.htm)
-:   License: no details &#8211; I presume it&#8217;s free to use
+:   License: no details &#8211; I presume it's free to use
 :   Format: expects a podcast feed as input
 :   [<img width="240" src="http://static.flickr.com/46/135829640_5aa1e2d9c8_m.jpg" alt="pupuplayer" />](http://www.flickr.com/photos/pforret/135829640/ "Photo Sharing")
 
 [Pickle Player](http://www.podcastpickle.com/app/player/free.php)
-:   License: no details &#8211; I presume it&#8217;s free to use
+:   License: no details &#8211; I presume it's free to use
 :   Format: expects a podcast feed as input &#8211; or can work with individual MP3 files
 :   [<img width="240" src="http://static.flickr.com/54/135829641_6cd9b3bd62_m.jpg" alt="pickle player" />](http://www.flickr.com/photos/pforret/135829641/ "Photo Sharing")
 
 [FeedPlayer](http://www.bigcontact.com/feedplayer.php)
-:   License: no details &#8211; I presume it&#8217;s free to use
+:   License: no details &#8211; I presume it's free to use
 :   Format: expects a podcast feed as input
 :   [<img width="240" src="http://static.flickr.com/51/135829639_1362320a38_m.jpg" alt="feedplayer" />](http://www.flickr.com/photos/pforret/135829639/ "Photo Sharing")
 

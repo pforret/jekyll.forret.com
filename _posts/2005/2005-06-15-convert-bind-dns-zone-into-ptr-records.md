@@ -4,7 +4,7 @@ title: Convert Bind DNS zone into PTR records
 date: 2005-06-15T14:32:00+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2005/06/convert-bind-dns-zone-into-ptr-records/
+guid: /2005/06/convert-bind-dns-zone-into-ptr-records/
 permalink: /2005/06/15/convert-bind-dns-zone-into-ptr-records/
 categories:
   - Linux

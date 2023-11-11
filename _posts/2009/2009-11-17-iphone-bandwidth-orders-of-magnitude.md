@@ -4,7 +4,7 @@ title: 'iPhone bandwidth: orders of magnitude &#8211; 2009'
 date: 2009-11-17T21:00:00+01:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2009/11/iphone-bandwidth-orders-of-magnitude/
+guid: /2009/11/iphone-bandwidth-orders-of-magnitude/
 permalink: /2009/11/17/iphone-bandwidth-orders-of-magnitude/
 categories:
   - bandwidth
@@ -18,7 +18,7 @@ tags:
   - wifi
 ---
 
-<img style="display: inline; margin-left: 0px; margin-right: 0px; border: 0px;" title="04112009175905[1]" src="http://blog.forret.com/wp-content/uploads/2009/11/041120091759051_thumb1.jpg" alt="04112009175905[1]" width="171" height="244" align="right" border="0" /> I did a bandwidth test the other day with the iPhone [SpeedTest](http://www.speedtest.net/) tool. I wanted to compare the speed using (standard) GPRS, using 3G and my own Wi-Fi. The results were all a power of ten apart:
+<img style="display: inline; margin-left: 0px; margin-right: 0px; border: 0px;" title="04112009175905[1]" src="/wp-content/uploads/2009/11/041120091759051_thumb1.jpg" alt="04112009175905[1]" width="171" height="244" align="right" border="0" /> I did a bandwidth test the other day with the iPhone [SpeedTest](http://www.speedtest.net/) tool. I wanted to compare the speed using (standard) GPRS, using 3G and my own Wi-Fi. The results were all a power of ten apart:
 
   * iPhone on Proximus GPRS: **35 kbps** (download & upload)
   * iPhone on Proximus 3G: **350 kbps** (download & upload)

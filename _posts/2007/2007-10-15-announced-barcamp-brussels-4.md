@@ -4,7 +4,7 @@ title: 'Announced: Barcamp Brussels #4'
 date: 2007-10-15T15:57:52+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2007/10/announced-barcamp-brussels-4/
+guid: /2007/10/announced-barcamp-brussels-4/
 permalink: /2007/10/15/announced-barcamp-brussels-4/
 categories:
   - barcamp

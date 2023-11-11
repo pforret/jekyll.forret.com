@@ -4,13 +4,13 @@ title: Bluehost vs Dreamhost
 date: 2006-04-14T22:12:44+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2006/04/bluehost-vs-dreamhost/
+guid: /2006/04/bluehost-vs-dreamhost/
 permalink: /2006/04/14/bluehost-vs-dreamhost/
 categories:
   - bandwidth
   - internet
 ---
-As you might have read in my [Migrating to WordPress](http://blog.forret.com/2006/03/migration-to-wordpress-me-vs-murphy/) article, I am now the proud owner of both a Bluehost and Dreamhost account. These two shared hosting providers have similar strong offerings for a similar low price, but they&#8217;re nevertheless different. Let&#8217;s compare both:
+As you might have read in my [Migrating to WordPress](/2006/03/migration-to-wordpress-me-vs-murphy/) article, I am now the proud owner of both a Bluehost and Dreamhost account. These two shared hosting providers have similar strong offerings for a similar low price, but they're nevertheless different. Let's compare both:
 
 **The raw numbers**
 
@@ -144,10 +144,10 @@ The list of one-click installs is more limited but has most best-of-breed applic
 **DNS MANAGEMENT**  
 A big difference between the two is the way they handle DNS management. 
 
-  * Bluehost will expect their DNS servers to be responsible for any domain hosted. Their management web interface will not accept to host a domain that is not controlled by their DNS servers. Believe me, I&#8217;ve tried. 
+  * Bluehost will expect their DNS servers to be responsible for any domain hosted. Their management web interface will not accept to host a domain that is not controlled by their DNS servers. Believe me, I've tried. 
   * Bluehost does not allow you to just define subdomains in DNS and point them to some external IP address. All your subdomains must be hosted on the same Bluehost server
   * Bluehost does not allow you to choose the subfolder for a subdomain: blog.example.com is hosted on `/blog`. Unfortunately any other domain example.2.com that you have will not be able to get a subdomain blog.example2.com on another subfolder. 
 
 **CONCLUSION**  
-If your demands are not too high (not something like 10 domains with 150 subdomains), you like a complete and easy web interface and the luxury of being able to install 30+ applications with one click (it&#8217;s three actually, but who&#8217;s complaining), then take [Bluehost](http://www.bluehost.com/track/pforret/COMPARE), they&#8217;re the cheapest.  
+If your demands are not too high (not something like 10 domains with 150 subdomains), you like a complete and easy web interface and the luxury of being able to install 30+ applications with one click (it's three actually, but who's complaining), then take [Bluehost](http://www.bluehost.com/track/pforret/COMPARE), they're the cheapest.  
 If you need flexible DNS management, are not afraid of installing programs yourself (FTP and such), need a lot of email, database or bandwidth: [Dreamhost](http://www.dreamhost.com/r.cgi?166410) is the way to go!

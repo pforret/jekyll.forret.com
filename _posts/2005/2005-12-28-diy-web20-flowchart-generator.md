@@ -9,9 +9,9 @@ permalink: /2005/12/28/diy-web20-flowchart-generator/
 categories:
   - Web2.0
 ---
-You might know I like [visualizing](http://www.forret.com/tools/mememap.asp) [stuff](http://blog.forret.com/blog/2005/10/create-your-own-meme-map.html), so I worked a bit on my [Get-Remix-Deliver flowchart](http://www.flickr.com/photos/pforret/47674175/) to make it into a scratchpad to play with. 
+You might know I like [visualizing](http://www.forret.com/tools/mememap.asp) [stuff](/blog/2005/10/create-your-own-meme-map.html), so I worked a bit on my [Get-Remix-Deliver flowchart](http://www.flickr.com/photos/pforret/47674175/) to make it into a scratchpad to play with. 
 
-Use it in your presentations, use it in your business plans, use it to scare your granny, it&#8217;s CC-licensed (_non-commercial/attribution_) :
+Use it in your presentations, use it in your business plans, use it to scare your granny, it's CC-licensed (_non-commercial/attribution_) :
 
 <div align="center">
   <a href="http://www.forret.com/tools/remix.asp"><big>DIY Web2.0 Flowchart Generator</big></a>

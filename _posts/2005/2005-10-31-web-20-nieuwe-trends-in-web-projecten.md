@@ -13,7 +13,7 @@ categories:
 (post in dutch &#8211; a plug, even)
 
 [I.T.Works](http://www.itworks.be) doet een special over Web 2.0:  
-16 Nov: [Guerilla Knowledge Management](http://www.itworks.be/event.php?id=KNOWLD16&se=programme): Wiki&#8217;s, blogs en syndicatie  
+16 Nov: [Guerilla Knowledge Management](http://www.itworks.be/event.php?id=KNOWLD16&se=programme): Wiki's, blogs en syndicatie  
 30 Nov: [Web 2.0: nieuwe trends in Web projecten](http://www.itworks.be/event.php?id=EIPD10&se=programme)
 
 De agenda van het laatste seminarie ziet er als volgt uit:

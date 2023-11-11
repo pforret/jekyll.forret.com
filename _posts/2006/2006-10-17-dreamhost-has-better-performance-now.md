@@ -4,7 +4,7 @@ title: Dreamhost has better performance now
 date: 2006-10-17T23:46:04+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2006/10/dreamhost-has-better-performance-now/
+guid: /2006/10/dreamhost-has-better-performance-now/
 permalink: /2006/10/17/dreamhost-has-better-performance-now/
 categories:
   - bandwidth
@@ -20,7 +20,7 @@ This is the very similar performance of a second blog on another Dreamhost serve
 <!--more-->
 
   
-The major improvement you see around Sept 21 is my installation of [WP-Cache](http://blog.forret.com/2006/09/wp-cache-speeds-up-your-wordpress/). In any case, the average response time is now just below 1 second. When I try to factor out the PHP/MySQL influence by measuring the mere download of a static file, the results are:  
+The major improvement you see around Sept 21 is my installation of [WP-Cache](/2006/09/wp-cache-speeds-up-your-wordpress/). In any case, the average response time is now just below 1 second. When I try to factor out the PHP/MySQL influence by measuring the mere download of a static file, the results are:  
 [<img  src="http://static.flickr.com/90/272566592_82adf3d7c2_o.jpg" width="500" height="209" alt="static file on Dreamhost" />](http://www.flickr.com/photos/pforret/272566592/ "Photo Sharing")  
 That is 350ms on average. In the bad days (back in September 2006) this could be above 1 second. 
 

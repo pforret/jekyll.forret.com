@@ -4,7 +4,7 @@ title: Repairing Amazon S3 downloads for IE
 date: 2011-07-14T16:30:30+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/?p=1272
+guid: /?p=1272
 permalink: /2011/07/14/repairing-amazon-s3-downloads-for-ie/
 categories:
   - internet
@@ -13,9 +13,9 @@ tags:
   - cloud
   - s3
 ---
-I use Amazon S3 for cloud storage of big digital-cinema files (up to 3GB) for distribution. It works fine most of the time, but I kept getting the odd complaint: &#8220;I can&#8217;t download on my PC, I get an error&#8221;. Everytime I asked what browser they were using, it was Internet Explorer. I am a Google Chrome man, and I almost never do anything with IE, but still, customer is king, let&#8217;s see what could be wrong. So I tested it myself with IE and yes, most files can be downloaded, but some couldn&#8217;t. Sometimes one would get an empty page, sometimes the following: &#8220;_XML 5619: Incorrect document syntax_&#8221;
+I use Amazon S3 for cloud storage of big digital-cinema files (up to 3GB) for distribution. It works fine most of the time, but I kept getting the odd complaint: &#8220;I can't download on my PC, I get an error&#8221;. Everytime I asked what browser they were using, it was Internet Explorer. I am a Google Chrome man, and I almost never do anything with IE, but still, customer is king, let's see what could be wrong. So I tested it myself with IE and yes, most files can be downloaded, but some couldn't. Sometimes one would get an empty page, sometimes the following: &#8220;_XML 5619: Incorrect document syntax_&#8221;
 
-So I fire up  [Fiddler2](http://www.fiddler2.com/fiddler2/) &#8211; an invaluable tool to see what&#8217;s going on under the hood of the communication between your web browser and the web server. I look at the client and server HTTP headers and see something interesting:
+So I fire up  [Fiddler2](http://www.fiddler2.com/fiddler2/) &#8211; an invaluable tool to see what's going on under the hood of the communication between your web browser and the web server. I look at the client and server HTTP headers and see something interesting:
 
 1) Download via Chrome
 
@@ -58,6 +58,6 @@ Content-Length: 687411306<br />
 Server: AmazonS3<br />
 ` 
 
-It was a consistent pattern: every time the Content-Type of a file was _x-zip-compressed_, I couldn&#8217;t download . It might have something to do with [MS KB 841120](http://support.microsoft.com/kb/841120): the server that recompresses .zip files with gzip, and the browser mis-interpreting.
+It was a consistent pattern: every time the Content-Type of a file was _x-zip-compressed_, I couldn't download . It might have something to do with [MS KB 841120](http://support.microsoft.com/kb/841120): the server that recompresses .zip files with gzip, and the browser mis-interpreting.
 
-Anyway, I used [CloudBerry S3 Explorer](http://cloudberrylab.com/) to go and explicitly change  every file&#8217;s HTTP headers and now I can download all files with IE. If I ever forget about this IE quirk, now I&#8217;ve written down the solution!
+Anyway, I used [CloudBerry S3 Explorer](http://cloudberrylab.com/) to go and explicitly change  every file's HTTP headers and now I can download all files with IE. If I ever forget about this IE quirk, now I've written down the solution!

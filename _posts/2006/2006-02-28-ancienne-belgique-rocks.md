@@ -9,7 +9,7 @@ permalink: /2006/02/28/ancienne-belgique-rocks/
 categories:
   - wifi
 ---
-<img src="http://www.abconcerts.be/info/images/restaurant.jpg" border="0" />I&#8217;m in the restaurant of the [Ancienne Belgique](http://www.abconcerts.be) and it&#8217;s only a few steps away from heaven:
+<img src="http://www.abconcerts.be/info/images/restaurant.jpg" border="0" />I'm in the restaurant of the [Ancienne Belgique](http://www.abconcerts.be) and it's only a few steps away from heaven:
 
   * I just had a wonderful dinner (fish &#8211; sea bass, I believe)
   * I was waited upon by the lovely Marie

@@ -4,7 +4,7 @@ title: 'TV Tip: Californication'
 date: 2008-01-05T18:45:06+01:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2008/01/tv-tip-californication/
+guid: /2008/01/tv-tip-californication/
 permalink: /2008/01/05/tv-tip-californication/
 categories:
   - TV
@@ -17,7 +17,7 @@ tags:
 ---
 [<img  width="500" src="http://farm3.static.flickr.com/2365/2169372800_2084dd3696.jpg" alt="Californication: s01e01" height="375" />](http://www.flickr.com/photos/pforret/2169372800/ "Californication: s01e01 by PeterForret, on Flickr")
 
-Since I have a lot of time on my hands, with my pneumonia and all, I started looking at TV series I hadn&#8217;t seen yet. I borrowed the Sopranos DVDs, but I also tried out some &#8216;alternative distribution&#8217; series. [Supernatural](http://www.tv.com/supernatural/show/30144/summary.html) is not really my thing, [Jericho](http://www.tv.com/jericho-2006/show/58068/summary.html) is OK, [Weeds](http://www.tv.com/weeds/show/28829/summary.html) seems not bad at all, but my current favourite is definitely &#8220;[Californication](http://www.tv.com/californication/show/68749/summary.html)&#8220;.
+Since I have a lot of time on my hands, with my pneumonia and all, I started looking at TV series I hadn't seen yet. I borrowed the Sopranos DVDs, but I also tried out some &#8216;alternative distribution' series. [Supernatural](http://www.tv.com/supernatural/show/30144/summary.html) is not really my thing, [Jericho](http://www.tv.com/jericho-2006/show/58068/summary.html) is OK, [Weeds](http://www.tv.com/weeds/show/28829/summary.html) seems not bad at all, but my current favourite is definitely &#8220;[Californication](http://www.tv.com/californication/show/68749/summary.html)&#8220;.
 
 > David Duchovny heads up the cast in this comedy about a novelist with sex and drug addictions who is struggling to raise his daughter half the time, while having problems with his ex-girlfriend.
 

@@ -15,7 +15,7 @@ tags:
   - enlarge
   - shoot
 ---
-I&#8217;ve been doing some [remote shoots](https://blog.forret.com/2020/05/30/simple-remote-portrait-photography/) recently, as the photographer obviously, and I&#8217;ve mainly used FaceTime &#8216;Live photos&#8217; for captures. The result of such a shoot is a series of [.HEIC files](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format#HEIC:_HEVC_in_HEIF) (it&#8217;s an Apple thing). Each file is a combination of a low-res 3-second movie with a mid-res image file. The image file, which is the one that interests me, is a 716&#215;1280 pixels heavily compressed one. This is not a lot of pixels to start with in Lightroom/Photoshop. I found that **it is possible to upscale such an image to 400%** (2864&#215;5120), and use this new big image to comfortably do the post-processing. Let me show you the best way to upscale low resolution photos to high resolution!
+I've been doing some [remote shoots](https://blog.forret.com/2020/05/30/simple-remote-portrait-photography/) recently, as the photographer obviously, and I've mainly used FaceTime &#8216;Live photos' for captures. The result of such a shoot is a series of [.HEIC files](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format#HEIC:_HEVC_in_HEIF) (it's an Apple thing). Each file is a combination of a low-res 3-second movie with a mid-res image file. The image file, which is the one that interests me, is a 716&#215;1280 pixels heavily compressed one. This is not a lot of pixels to start with in Lightroom/Photoshop. I found that **it is possible to upscale such an image to 400%** (2864&#215;5120), and use this new big image to comfortably do the post-processing. Let me show you the best way to upscale low resolution photos to high resolution!
 
 ## Using [ImageMagick](https://imagemagick.org/)
 
@@ -44,9 +44,9 @@ A naive `-resize` in ImageMagick gives a resized file with lots of artefacts/noi
 The border between the white blouse and the skin is a good example of that. 
 Overall, the image is blurry. 
 By default the -resize will use the ['Lanczos' filter](https://imagemagick.org/script/command-line-options.php#filter), 
-but using &#8216;spline&#8217; or &#8216;gaussian&#8217; doesn&#8217;t give fundamentally different results.
+but using &#8216;spline' or &#8216;gaussian' doesn't give fundamentally different results.
 
-Some documentation recommends using a &#8216;unsharp&#8217; sharpening filter right after, but again no real improvement.<figure class="wp-block-image size-large">
+Some documentation recommends using a &#8216;unsharp' sharpening filter right after, but again no real improvement.<figure class="wp-block-image size-large">
 
 ![](https://blog.forret.com/wp-content/uploads/2020/07/manuela.unsharp-1.jpg)
 `convert <input> -resize 400&#215;400% -unsharp 0x1 <output>`   
@@ -66,7 +66,7 @@ A 400&#215;400% enlargement took 2-3 minutes on one laptop (with GPU) or 25 minu
 
 ![](https://blog.forret.com/wp-content/uploads/2020/07/Screenshot-2020-07-04-at-21.39.17-copy.png)
 
-Gigapixel AI also does noise removal and smoothing. Sometimes the default settings are a bit too much. Look at her skin, it&#8217;s too smooth. The details in the sleeve, on the other hand, seem correct.
+Gigapixel AI also does noise removal and smoothing. Sometimes the default settings are a bit too much. Look at her skin, it's too smooth. The details in the sleeve, on the other hand, seem correct.
 
 ## Using LetsEnhance.io
 
@@ -77,9 +77,9 @@ The **Photo 2.0 Faces** method gave me this:
 
 ![](https://blog.forret.com/wp-content/uploads/2020/07/manuela.detail_photos_v2_faces_x4_colored_toned.jpg)
 
-The skin has more texture, but I&#8217;m not sure I find it realistic, it looks too much like color noise, the details in the dress seem OK.
+The skin has more texture, but I'm not sure I find it realistic, it looks too much like color noise, the details in the dress seem OK.
 
-And LetsEnhance&#8217;s new **Smart Enhance** (Beta) gave me this after executing it twice 
+And LetsEnhance's new **Smart Enhance** (Beta) gave me this after executing it twice 
 (since x200% is the maximum for 1 step).
 
 ![](https://blog.forret.com/wp-content/uploads/2020/07/manuela.detail_auto_x2_auto_x2.jpg)

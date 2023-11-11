@@ -1,6 +1,6 @@
 ---
 id: 223
-title: 'Let&#8217;s get rid of podkeyword.com'
+title: 'Let's get rid of podkeyword.com'
 date: 2005-12-02T19:04:17+01:00
 author: Peter
 layout: post
@@ -20,15 +20,15 @@ So someone provides a mirror service for your podcast feed, gets it registered w
 
 ### Who is behind podkeyword?
 
-Some research shows that a George Lambert from Nashua (NH) is the owner of podkeyword.com (registered in Oct 2004). He also has Goldenware Travel Technologies (goldenware.com), providing airline timetable services (so he&#8217;s used to repackaging other people&#8217;s data). Another of his projects is cashcowmarketingplan.com, a spam-infested blog on _&#8220;getting rich quick on the Internet&#8221;_. This is worrying!
+Some research shows that a George Lambert from Nashua (NH) is the owner of podkeyword.com (registered in Oct 2004). He also has Goldenware Travel Technologies (goldenware.com), providing airline timetable services (so he's used to repackaging other people's data). Another of his projects is cashcowmarketingplan.com, a spam-infested blog on _&#8220;getting rich quick on the Internet&#8221;_. This is worrying!
 
-### Let&#8217;s get rid of podkeyword
+### Let's get rid of podkeyword
 
 Here is what has to be done:
 
 by every podcaster
 :   check if you are affected: search for your podcast to see if it has been hijacked:  
-    on [iTunes](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=26): subscribe to your own feed because you won&#8217;t be able to see the actual feed URL unless you&#8217;re subcribed. If it&#8217;s a podkeyword URL, click the &#8220;Report a concern&#8221; button and tell Apple this is a wrong feed URL, give them the right one.  
+    on [iTunes](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=26): subscribe to your own feed because you won't be able to see the actual feed URL unless you're subcribed. If it's a podkeyword URL, click the &#8220;Report a concern&#8221; button and tell Apple this is a wrong feed URL, give them the right one.  
     on [Yahoo](http://podcasts.yahoo.com/): search for it and if both your real feed and the podkeyword feed are present (I found 2 podkeyword feeds for my own podcast), give the hijacked ones a bad review (give it 1 star and write a review about the hijack) 
 
 by every podcast directory/search engine (iTunes, Yahoo, you listening?) 
@@ -51,14 +51,14 @@ $victimFeedURL=$victimRealFeed;
 }</pre>
 
 by [Feedburner](http://www.feedburner.com) (since they are an important podcast feed provider) 
-:   detect the feeds that are being queried by podkeyword (I don&#8217;t see them showing up as a separate UserAgent in my Feedburner stats, but [Eric Lunt](http://www.burningdoor.com/eric/) and his gang won&#8217;t have too much trouble finding them anyway) and (a) warn the feed owners that they might be hijacked, (b) offer the feed owners the option to include an extra post in their feed to alert their subscribers to switch to the real feed.
+:   detect the feeds that are being queried by podkeyword (I don't see them showing up as a separate UserAgent in my Feedburner stats, but [Eric Lunt](http://www.burningdoor.com/eric/) and his gang won't have too much trouble finding them anyway) and (a) warn the feed owners that they might be hijacked, (b) offer the feed owners the option to include an extra post in their feed to alert their subscribers to switch to the real feed.
 
-### Doesn&#8217;t Feedburner do the same kind of thing?
+### Doesn't Feedburner do the same kind of thing?
 
 **Not at all**. Feedburner also mirrors and alters RSS feeds but there are some really big differences:
 
-  1. Feedburner is not evil. That is my opinion and I might be wrong, but I&#8217;ve had contact with Feedburner on several occasions and they seem to be a bunch of intelligent and down-to-earth geeks. Plus they have found a way to [make money with Feedburner](http://www.feedburner.com/fb/a/publishers/commercial) without taking advantage of people.
+  1. Feedburner is not evil. That is my opinion and I might be wrong, but I've had contact with Feedburner on several occasions and they seem to be a bunch of intelligent and down-to-earth geeks. Plus they have found a way to [make money with Feedburner](http://www.feedburner.com/fb/a/publishers/commercial) without taking advantage of people.
   2. Feedburner has added value: they convert a feed to a valid podcast feed, they can splice different feeds together, they provide essential stats.They deserve their place as a middleman.
-  3. Most importantly: **I have voluntarily chosen Feedburner as my service provider**! I configured it myself and I added the Feedburner RSS feed link to my blog&#8217;s HTML template. On the other hand, I didn&#8217;t contact podkeyword, I have never asked them to do anything for me.
+  3. Most importantly: **I have voluntarily chosen Feedburner as my service provider**! I configured it myself and I added the Feedburner RSS feed link to my blog's HTML template. On the other hand, I didn't contact podkeyword, I have never asked them to do anything for me.
 
 Technorati: <a rel="tag" href="http://technorati.com/tag/podcast">podcast</a> &#8211; <a rel="tag" href="http://technorati.com/tag/hijack">hijack</a> &#8211; <a rel="tag" href="http://technorati.com/tag/itunes">itunes</a> &#8211; <a rel="tag" href="http://technorati.com/tag/yahoo">yahoo</a> &#8211; <a rel="tag" href="http://technorati.com/tag/feedburner">feedburner</a>

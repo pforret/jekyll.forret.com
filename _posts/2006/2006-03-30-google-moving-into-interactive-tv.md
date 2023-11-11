@@ -4,7 +4,7 @@ title: Google moving into Interactive TV
 date: 2006-03-30T19:42:35+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2006/03/google-moving-into-interactive-tv/
+guid: /2006/03/google-moving-into-interactive-tv/
 permalink: /2006/03/30/google-moving-into-interactive-tv/
 categories:
   - advertising
@@ -26,6 +26,6 @@ Google is looking for a &#8220;Product Manager &#8211; Interactive TV&#8221;:
 <!--more-->
 
   
-Will they provide a Tivo-like service, but free and with contextual advertising? Will they [rent air-time inside regular TV programs](http://blog.forret.com/2005/11/adsense-in-all-media-tv-cinema-sport-traffic/) and put ads in there? Will they provide collaborative filtering like &#8220;_You watch &#8216;Sex In The City&#8217; all the time, how about &#8216;Bridget Jones&#8217; and some chocolate?_&#8220;? Will they store the world&#8217;s TV content and sell it pay-per-view? Will they create a TV series &#8220;Don&#8217;t be evil&#8221; about [two geeks that hang out with hot girls](http://www.valleywag.com/tech/marissa-mayer/mari-and-larrys-new-loves-152634.php) all the time? 
+Will they provide a Tivo-like service, but free and with contextual advertising? Will they [rent air-time inside regular TV programs](/2005/11/adsense-in-all-media-tv-cinema-sport-traffic/) and put ads in there? Will they provide collaborative filtering like &#8220;_You watch &#8216;Sex In The City' all the time, how about &#8216;Bridget Jones' and some chocolate?_&#8220;? Will they store the world's TV content and sell it pay-per-view? Will they create a TV series &#8220;Don't be evil&#8221; about [two geeks that hang out with hot girls](http://www.valleywag.com/tech/marissa-mayer/mari-and-larrys-new-loves-152634.php) all the time? 
 
 Interesting times ahead!

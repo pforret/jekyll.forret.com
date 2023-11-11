@@ -12,7 +12,7 @@ categories:
 ---
 <blockquote class="wp-block-quote">
   <p>
-    This blog post is from 2005 &#8211; it&#8217;s here for historic reasons, but none of the original links still work.
+    This blog post is from 2005 &#8211; it's here for historic reasons, but none of the original links still work.
   </p>
 </blockquote>
 
@@ -164,6 +164,6 @@ categories:
 
 [<img src="http://static.flickr.com/27/53416449_428ac94416.jpg?v=0" border="0" />](http://beta.plazes.com/search/?b=search&ex=1&fromhere=40bfb2468850b8a86925b53772e39ea5&vicinity=2&check_public=1&check_google=1)
 
-According to that hitparade, Brussels only has **1 (one)** entry in its database. I am very aware of that, because I&#8217;m the one that entered it last week. I don&#8217;t see free-hotspot.com&#8217;s database expanding to the dozens or hundreds of open hotspots that exist already now all over Europe. They use the ancient DMOZ model of data processing: you submit an entry, hope it gets processed within the X days and then never find the time to update it if anything changes. This might work for the first couple of entries they get in the database, but does not scale well.
+According to that hitparade, Brussels only has **1 (one)** entry in its database. I am very aware of that, because I'm the one that entered it last week. I don't see free-hotspot.com's database expanding to the dozens or hundreds of open hotspots that exist already now all over Europe. They use the ancient DMOZ model of data processing: you submit an entry, hope it gets processed within the X days and then never find the time to update it if anything changes. This might work for the first couple of entries they get in the database, but does not scale well.
 
-I believe more in the Plazes.com model: you ask your users to install a simple launcher and every time the user connect to a new network, it prompts for the name and coordinates of the place. If it&#8217;s a _&#8216;Plaze&#8217;_ where another user has been before, it automatically recognizes this and asks for nothing. It then maps all these (wired/wireless, private/public, free/for-charge) locations onto a Google map. That is a scalable model: an auto-updating, grassroots-generated, minimal-effort map of hotspots. It already has 8 open hotspots for Brussels. If WiFi on-the-road is of any value for you: Plazes! It&#8217;s available for Windows, Mac and Linux.
+I believe more in the Plazes.com model: you ask your users to install a simple launcher and every time the user connect to a new network, it prompts for the name and coordinates of the place. If it's a _&#8216;Plaze'_ where another user has been before, it automatically recognizes this and asks for nothing. It then maps all these (wired/wireless, private/public, free/for-charge) locations onto a Google map. That is a scalable model: an auto-updating, grassroots-generated, minimal-effort map of hotspots. It already has 8 open hotspots for Brussels. If WiFi on-the-road is of any value for you: Plazes! It's available for Windows, Mac and Linux.

@@ -1,5 +1,5 @@
 ---
-title: 'Lots of New Year&#8217;s pictures'
+title: 'Lots of New Year's pictures'
 date: 2007-01-03T10:54:26+01:00
 author: Peter
 layout: post

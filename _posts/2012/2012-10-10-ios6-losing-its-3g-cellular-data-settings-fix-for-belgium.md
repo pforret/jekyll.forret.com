@@ -4,7 +4,7 @@ title: 'iOS6 losing its 3G cellular data settings &#8211; fix for Belgium'
 date: 2012-10-10T20:25:29+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/?p=1330
+guid: /?p=1330
 permalink: /2012/10/10/ios6-losing-its-3g-cellular-data-settings-fix-for-belgium/
 categories:
   - mobile
@@ -15,7 +15,7 @@ tags:
   - iphone
   - mobile
 ---
-I upgraded my iPhone 4S to the new iOS6 the day it came out. As I expected, I had to reconfigure the cellular data settings (&#8216;APN&#8217;). For some reason they always get lost during major OS updates. However, I have noticed the last weeks that, every now and then, my 3G connection stops working, and when I check the APN settings, they have disappeared. My colleagues, with iPhones and iPads on different cellular operators also have this problem. So for them, for me, and for anyone else who has this problem: here are the settings for the Belgian operators.  
+I upgraded my iPhone 4S to the new iOS6 the day it came out. As I expected, I had to reconfigure the cellular data settings (&#8216;APN'). For some reason they always get lost during major OS updates. However, I have noticed the last weeks that, every now and then, my 3G connection stops working, and when I check the APN settings, they have disappeared. My colleagues, with iPhones and iPads on different cellular operators also have this problem. So for them, for me, and for anyone else who has this problem: here are the settings for the Belgian operators.  
 <img  class="alignnone" title="iPhone iOS6 APN settings" src="http://farm8.staticflickr.com/7271/8074716876_6296c0aefc.jpg" alt="" width="500" height="395" /> 
 
 [PROXIMUS](http://support.en.belgacom.be/app/answers/detail/a_id/14823/~/configure-the-internet-setting-on-your-mobile-phone)/BELGACOM

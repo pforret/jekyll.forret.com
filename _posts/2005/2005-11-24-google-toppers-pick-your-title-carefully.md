@@ -12,10 +12,10 @@ Everyone with a bit of SEO (Search Engine Optimalisation) experience knows that 
 
 Some remarks up front:
 
-  * Keep in mind that [Google has indexed something like 15 billion pages](http://google.blognewschannel.com/index.php/archives/2005/01/23/google-at-how-many-billion-9-11/) so the theoretical walhalla of search results would be: `#1 of about 15.000.000.000 pages`. Impossible to reach of course (expect if Google would allow to search for the character &#8220;.&#8221; in an URL, e.g.) &#8211; but let&#8217;s see how close we get.
+  * Keep in mind that [Google has indexed something like 15 billion pages](http://google.blognewschannel.com/index.php/archives/2005/01/23/google-at-how-many-billion-9-11/) so the theoretical walhalla of search results would be: `#1 of about 15.000.000.000 pages`. Impossible to reach of course (expect if Google would allow to search for the character &#8220;.&#8221; in an URL, e.g.) &#8211; but let's see how close we get.
   * Search term combinations with e.g. the word &#8220;blog&#8221; will always be smaller than 512,000,000 since that is the # of pages in Google for &#8220;[blog](http://www.google.com/search?q=blog)&#8220;.
   * Sometimes the # of results for a query with 2 words returns less results that a query with the same 2 and 1 extra word. Does not make sense, but there results might come from 2 different servers/stat versions/indexes. 
-  * All results below are subject to change. You might do the same query now and get another #1 or another total. It&#8217;s normal, Google is a huge beast that is always on the move.
+  * All results below are subject to change. You might do the same query now and get another #1 or another total. It's normal, Google is a huge beast that is always on the move.
 
 ### Google Toppers Game
 
@@ -48,7 +48,7 @@ Try to guess the blogs that can claim these word combinations in Google:
 
   * [[google owned](http://www.google.com/search?q=google+owned)]: #1 of about 19,200,000 ([*](http://www.bespacific.com "www.bespacific.com"))
   * [[because ugly](http://www.google.com/search?q=because+ugly)]: #1 of about 25,600,000 ([*](http://thesuperficial.com/ "thesuperficial.com"))
-  * [[I remember house before](http://www.google.com/search?q=I+remember+house+before)]: #1 of about 61,900,000 ([*](http://blog.forret.com/blog/2004/09/i-remember-house-before-it-was-techno.html "blog.forret.com"))
+  * [[I remember house before](http://www.google.com/search?q=I+remember+house+before)]: #1 of about 61,900,000 ([*](/blog/2004/09/i-remember-house-before-it-was-techno.html "blog.forret.com"))
   * [[hand feeds it](http://www.google.com/search?q=hands+feeds+it)]: #1 of about 77,200,000 ([*](http://www.theregister.co.uk/ "www.theregister.co.uk"))
   * [[hit run](http://www.google.com/search?q=hit+run)]: #1 of about 93,000,000 ([*](http://www.reason.com/hitandrun/ "www.reason.com/hitandrun"))
   * [[go yourself](http://www.google.com/search?q=go+yourself)]: #1 of about 162,000,000 ([*](http://gofugyourself.typepad.com/ "gofugyourself.typepad.com") or [*](http://www.gawker.com/news/wonkette/wonkette-go-yourself-138335.php "www.gawker.com/news/wonkette"), depending)

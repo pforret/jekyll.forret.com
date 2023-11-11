@@ -19,7 +19,7 @@ tags:
 ---
 I started to do some QR code experiments recently and this is the first result of this: my animated QR code, &#8216;**QR Roulette**&#8216; or **_QRoulette_**.
 
-First the basics: a [QR code](https://en.wikipedia.org/wiki/QR_code) is a 2-dimensional barcode format. It&#8217;s a way to encode data (like a URL, a business card or just any text) into something that can be printed or shown on a screen, so that a QR code reader (your smartphone&#8217;s camera is probably one) can read the code and get the data out of it. It is _visual wireless data transfer_. The more data, the bigger the QR code becomes.<figure class="wp-block-gallery columns-2 is-cropped">
+First the basics: a [QR code](https://en.wikipedia.org/wiki/QR_code) is a 2-dimensional barcode format. It's a way to encode data (like a URL, a business card or just any text) into something that can be printed or shown on a screen, so that a QR code reader (your smartphone's camera is probably one) can read the code and get the data out of it. It is _visual wireless data transfer_. The more data, the bigger the QR code becomes.<figure class="wp-block-gallery columns-2 is-cropped">
 
 {% include image.html url="https://blog.forret.com/wp-content/uploads/2020/05/hello.png" description="'Hello' in QR code" %}
 
@@ -28,7 +28,7 @@ First the basics: a [QR code](https://en.wikipedia.org/wiki/QR_code) is a 2-dime
 What I have developed is: 
 an animated series of different QR-encoded URLs, 
 changing slow enough that a simple QR reader (like your smartphone camera) will recognise them most of the time 
-but fast enough that you can&#8217;t really be sure which one you&#8217;re going to get when you click the URL. 
+but fast enough that you can't really be sure which one you're going to get when you click the URL. 
 Hence: **QR Roulette**
 
 {% include image.html 
@@ -45,7 +45,7 @@ A QR code being recognized
 ### Toolchain
 
   * I did my first QR code experiments in bash, with [`qrencode`](https://linux.die.net/man/1/qrencode) and [imagemagick](https://imagemagick.org/)
-  * I have now created a web service in [Laravel](https://laravel.com/), using [BaconQRCode](https://github.com/Bacon/BaconQrCode) for making the QR codes and my own wrapper around ImageMagick&#8217;s command-line `convert`, because the popular packages like [Intervention/image](https://github.com/Intervention/image) don&#8217;t support all the effects I needed (transparency, masking, animated gif etc).
+  * I have now created a web service in [Laravel](https://laravel.com/), using [BaconQRCode](https://github.com/Bacon/BaconQrCode) for making the QR codes and my own wrapper around ImageMagick's command-line `convert`, because the popular packages like [Intervention/image](https://github.com/Intervention/image) don't support all the effects I needed (transparency, masking, animated gif etc).
 
 ### Other animated QR codes
 

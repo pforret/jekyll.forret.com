@@ -4,14 +4,14 @@ title: 'id3.exe &#8211; ideal tool for tagging and renaming MP3 files'
 date: 2007-08-29T10:05:51+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2007/08/id3exe-ideal-tool-for-tagging-and-renaming-mp3-files/
+guid: /2007/08/id3exe-ideal-tool-for-tagging-and-renaming-mp3-files/
 permalink: /2007/08/29/id3exe-ideal-tool-for-tagging-and-renaming-mp3-files/
 categories:
   - audio-video
   - music
   - tool
 ---
-I want to mention a little tool that helped me out twice in the last week, and that I find very little info about online. It&#8217;s a Windows command-line MP3 file tagger and renamer called `id3.exe`. Since I forgot where I downloaded it from and Google doesn&#8217;t give me a clue either: here&#8217;s where you can [download id3.exe](http://blog2.forret.com/wp-content/uploads/2007/08/id31.exe "id3.exe").
+I want to mention a little tool that helped me out twice in the last week, and that I find very little info about online. It's a Windows command-line MP3 file tagger and renamer called `id3.exe`. Since I forgot where I downloaded it from and Google doesn't give me a clue either: here's where you can [download id3.exe](http://blog2.forret.com/wp-content/uploads/2007/08/id31.exe "id3.exe").
 
 ID3.exe can do several things, of which I will just cite the things I actually used:
 

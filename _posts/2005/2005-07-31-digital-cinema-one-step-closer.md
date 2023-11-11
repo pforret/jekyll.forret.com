@@ -21,7 +21,7 @@ The specification is available at [dcimovies.com (1MB &#8211; PDF)](http://www.d
 These are the stages in the flowchart of digital cinema:
 
 DSM (Digital Source Master)</p> 
-:   the end-product of the &#8216;feature postproduction&#8217;. 
+:   the end-product of the &#8216;feature postproduction'. 
 :   FORMAT: Defined by producer (color space and bit depth, resolution, fps, &#8230;) 
 :   SECURITY: Defined by the producer</p> 
     
@@ -44,7 +44,7 @@ DSM (Digital Source Master)</p>
         
         DCP (Digital Cinema Package)</p> 
         
-        :   FORMAT: compressed, split up in &#8216;reels&#8217; 
+        :   FORMAT: compressed, split up in &#8216;reels' 
         :   SECURITY: encrypted using [128-bit AES](http://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
 
 ### MASTERING
@@ -57,10 +57,10 @@ A DCDM is created from the DSM, and then prepared for shipment in a DCP. The DCP
 
 ### PROJECTION
 
-Most systems work with the [Texas Instruments DLP (Digital Light Processing) technology](http://dlp.com/dlp_technology/dlp_technology_overview.asp): a chip with thousands of little mirrors that can be flipped electronically at very high speeds. They enable 1024 levels of gray for each of the RGB colours, which would amount to 30-bit &#8211; or 1 billion &#8211; colours, were it not that all documentation talks about &#8216;more than 35 trillion colours&#8217;.
+Most systems work with the [Texas Instruments DLP (Digital Light Processing) technology](http://dlp.com/dlp_technology/dlp_technology_overview.asp): a chip with thousands of little mirrors that can be flipped electronically at very high speeds. They enable 1024 levels of gray for each of the RGB colours, which would amount to 30-bit &#8211; or 1 billion &#8211; colours, were it not that all documentation talks about &#8216;more than 35 trillion colours'.
 
 > 1. A digital projector based on DLP Cinema<sup>TM </sup>technology transfers the digitized image file onto three optical semiconductors known as Digital Micromirror Devices, or DMDs. Each of these chips is dedicated to one primary color-red, green, or blue. A DMD chip contains a rectangular array of over one million microscopic mirrors.  
-> 2. Light from the projector&#8217;s lamp is reflected off the mirrors and is combined in different proportions of red, green and blue, as controlled by the image file, to create an array of different colored pixels that make up the projected image. (&#8230;)  
+> 2. Light from the projector's lamp is reflected off the mirrors and is combined in different proportions of red, green and blue, as controlled by the image file, to create an array of different colored pixels that make up the projected image. (&#8230;)  
 > 3. The DMD mirrors tilt either toward or away from the light source thousands of times per second to reflect the movie onto the screen. These images are sequentially projected onto the screen, recreating the movie in front of you with perfect clarity and a range of more than 35 trillion colors.  
 > (from: [Digital Cinema 101 &#8211; Texas Instruments](http://www.dlp.com/dlp_cinema/dlp_cinema_digital_cinema_101.asp)) 
 
@@ -68,7 +68,7 @@ These projectors &#8211; like the ones from [Digital Projection](http://www.digi
 
 ### OBSERVATIONS
 
-  * The 2K standard translates into 2.2 megapixel images and the 4K standard into 8.8 megapixel. So 4K Digital Cinema uses a resolution most commerical &#8216;still&#8217; camera&#8217;s don&#8217;t have yet. 
+  * The 2K standard translates into 2.2 megapixel images and the 4K standard into 8.8 megapixel. So 4K Digital Cinema uses a resolution most commerical &#8216;still' camera's don't have yet. 
   * If you project a 2K image on a screen 15m (50 feet) wide, each pixel is 15000/2048 = 7.3 mm wide. At 4K: 3.6mm wide. If you would project a DVD (720&#215;480 pixels), a pixel would be 2cm wide. 
   * Texas Instruments already has a 2K DLP (DC 2K DMD) chip, but there is no 4K chip yet. [Sony, however, announced their first 4K projectors](http://news.sel.sony.com/pressrelease/4864). 
   * The [Sony SXRD](http://www.audiorevolution.com/news/0203/27.sony.shtml) technology has a 16:9 aspect ratio (1920/1080), the [JVC DLA-QX1G projector](http://www.jvc.ca/jvcpro/product-detail.aspx?h=P2_200&l=E&model=DLA-QX1G) has a 4:3 aspect ratio, but the new standard has a very unusual 19:10 ratio. No idea why that is. 

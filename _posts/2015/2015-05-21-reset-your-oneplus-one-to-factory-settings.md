@@ -4,7 +4,7 @@ title: Reset your OnePlus One to factory settings
 date: 2015-05-21T16:22:28+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/?p=1388
+guid: /?p=1388
 permalink: /2015/05/21/reset-your-oneplus-one-to-factory-settings/
 categories:
   - mobile
@@ -14,11 +14,11 @@ tags:
   - oneplus
   - smartphone
 ---
-About half a year ago I switched from an iPhone to an Android smartphone: the [OnePlus One](https://oneplus.net/). In the beginning it was splendid and super fast and everything. But recently it has become flaky. I suspect the apps &#8216;Swiftkey&#8217; and &#8216;Atooma&#8217; have something to do with it. Swiftkey seemed to drain the battery really fast (5hrs of battery life max &#8211; charging requyired 3 or more times a day), and when I started testing Atooma instead of Tasker (for automation), a lot of programs started crashing, including the essential &#8216;Messages&#8217; and &#8216;Dialer&#8217; applications. Even after uninstalling a bunch of other applications, I still couldn&#8217;t pick up phone calls half of the time. And I got the error message &#8216;_Unfortunately, Google Play Services has stopped_&#8216; once every 10 to 30 minutes. So I decided, I need to reinstall Android on my phone!
+About half a year ago I switched from an iPhone to an Android smartphone: the [OnePlus One](https://oneplus.net/). In the beginning it was splendid and super fast and everything. But recently it has become flaky. I suspect the apps &#8216;Swiftkey' and &#8216;Atooma' have something to do with it. Swiftkey seemed to drain the battery really fast (5hrs of battery life max &#8211; charging requyired 3 or more times a day), and when I started testing Atooma instead of Tasker (for automation), a lot of programs started crashing, including the essential &#8216;Messages' and &#8216;Dialer' applications. Even after uninstalling a bunch of other applications, I still couldn't pick up phone calls half of the time. And I got the error message &#8216;_Unfortunately, Google Play Services has stopped_&#8216; once every 10 to 30 minutes. So I decided, I need to reinstall Android on my phone!
 
 <!--more-->
 
-A reinstall of iOS on an iPhone is simple: plug it into a Mac/PC, wait for iTunes to start up, click on your iPhone device, select &#8216;Restore&#8217; in the Summary Panel. Restoring an Android phone to factory settings is quite the opposite. Let me show you what worked for me (on a Windows PC):
+A reinstall of iOS on an iPhone is simple: plug it into a Mac/PC, wait for iTunes to start up, click on your iPhone device, select &#8216;Restore' in the Summary Panel. Restoring an Android phone to factory settings is quite the opposite. Let me show you what worked for me (on a Windows PC):
 
   * install [Java SE Development Kit 8](http://www.oracle.com/technetwork/java/javase/downloads/index.html) (`jdk-8u45-windows-x64.exe` &#8211; 184MB)
   * <pre>C:&gt;<strong>java.exe -version</strong>
@@ -30,7 +30,7 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.45-b02, mixed mode)</pre>
   * install [Universal ADB driver](http://www.koushikdutta.com/post/universal-adb-driver) for Windows
   * download the latest [twrp _bacon_ version](https://dl.twrp.me/bacon/) (bacon = Android for OnePlus &#8211; in my case: `twrp-2.8.6.1-bacon.img)`, save it as twrp.img in the same platform-tools folder as above)
   * enable [Developer mode and USB Debugging](https://twrp.me/devices/oneplusone.html): tap 7 times on build number, go back and enable Android Debugging (over USB).
-  * conect your OnePlus over UWB to your PC, you will get a pop-up saying &#8216;Do You trust this PC for debugging?&#8217; &#8211; say yes
+  * conect your OnePlus over UWB to your PC, you will get a pop-up saying &#8216;Do You trust this PC for debugging?' &#8211; say yes
   * test adb connection: open a CMD window, cd to the folder that contains your adb.exe tool and type 
     <pre>C:&gt;<strong>adb devices -l</strong>
 List of devices attached
@@ -50,7 +50,7 @@ Well apparently I missed the [fast reset instructions](https://oneplus.net/suppo
   <div class="faq_conent">
     <blockquote>
       <p>
-        If you&#8217;re having trouble with your OnePlus One that may be related to software, try performing a full factory reset.
+        If you're having trouble with your OnePlus One that may be related to software, try performing a full factory reset.
       </p>
       
       <ol>

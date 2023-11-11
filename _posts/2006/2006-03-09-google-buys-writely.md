@@ -10,7 +10,7 @@ categories:
   - Google
   - Web2.0
 ---
-Google has just confirmed to have bought <a href="http://www.upstartle.com/" target="_blank">Upstartle</a>, the creators of [Writely](http://www.writely.com) ([Writely Blog](http://writely.blogspot.com/2006/03/google-yep-google.html)/[GoogleBlog](http://googleblog.blogspot.com/2006/03/writely-so.html) via [Om Malik](http://gigaom.com/2006/03/08/google-writely-in-talks)). Apart from being good news for the founders of Upstartle, this also indicates Google&#8217;s determination to make the fat client history and allow users to do all their business through on-line services.
+Google has just confirmed to have bought <a href="http://www.upstartle.com/" target="_blank">Upstartle</a>, the creators of [Writely](http://www.writely.com) ([Writely Blog](http://writely.blogspot.com/2006/03/google-yep-google.html)/[GoogleBlog](http://googleblog.blogspot.com/2006/03/writely-so.html) via [Om Malik](http://gigaom.com/2006/03/08/google-writely-in-talks)). Apart from being good news for the founders of Upstartle, this also indicates Google's determination to make the fat client history and allow users to do all their business through on-line services.
 
 > Now buying Writely is in line with Google thinking of using browser for everything. I mean an online word processor, and online excel spread sheet make a lot more sense than making people switch to OpenOffice.  
 > [Om Malik](http://gigaom.com/2006/03/08/google-writely-in-talks)
@@ -19,11 +19,11 @@ Om started making a Microsoft office/Google Office comparison matrix, and I took
 
 ### Productivity on-line
 
-I will list a number of (&#8216;productivity&#8217;) application types, with the current (&#8216;fat client&#8217;) most used software, and the on-line web2.0-ish (&#8216;thin client&#8217;) applications that are trying to take over (although for some areas the online applications are only just at the beginning):  
+I will list a number of (&#8216;productivity') application types, with the current (&#8216;fat client') most used software, and the on-line web2.0-ish (&#8216;thin client') applications that are trying to take over (although for some areas the online applications are only just at the beginning):  
 <!--more-->
 
 Word processor: `MS Word` 
-:   [Writely](http://www.writely.com), [ZohoWriter](http://www.zohowriter.com/), [gOffice](http://goffice.com/), [Writeboard](http://www.writeboard.com/) + [JotSpot](http://www.jotspot.com)/[JotLive](http://www.jotlive.com/) and other wiki&#8217;s 
+:   [Writely](http://www.writely.com), [ZohoWriter](http://www.zohowriter.com/), [gOffice](http://goffice.com/), [Writeboard](http://www.writeboard.com/) + [JotSpot](http://www.jotspot.com)/[JotLive](http://www.jotlive.com/) and other wiki's 
 
 Spreadsheet: `MS Excel` 
 :   [WikiCalc](http://www.softwaregarden.com/wkcalpha/), [TracksLife](http://www.trackslife.com/), [NumSum](http://numsum.com/) 

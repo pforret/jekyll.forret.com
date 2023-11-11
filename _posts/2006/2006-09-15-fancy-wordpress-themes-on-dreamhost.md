@@ -4,7 +4,7 @@ title: Fancy WordPress themes on Dreamhost
 date: 2006-09-15T22:22:13+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2006/09/fancy-wordpress-themes-on-dreamhost/
+guid: /2006/09/fancy-wordpress-themes-on-dreamhost/
 permalink: /2006/09/15/fancy-wordpress-themes-on-dreamhost/
 categories:
   - Wordpress

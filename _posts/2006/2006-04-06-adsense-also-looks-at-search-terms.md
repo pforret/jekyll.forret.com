@@ -4,7 +4,7 @@ title: Adsense also looks at search terms
 date: 2006-04-06T10:42:12+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2006/04/adsense-also-looks-at-search-terms/
+guid: /2006/04/adsense-also-looks-at-search-terms/
 permalink: /2006/04/06/adsense-also-looks-at-search-terms/
 categories:
   - advertising
@@ -21,8 +21,8 @@ I had been wondering just how much information Google Adsense uses to select the
 <!--more-->
 
   
-A blog post of mine on [Live Traffic Info](http://blog.forret.com/2004/12/live-traffic-info/) briefly mentions Antwerp. The Adsense ads on the page normally show geeky ads (_&#8216;blogs&#8217;, &#8216;XML&#8217;, &#8216;bandwidth&#8217;,_ &#8230; I write about technical stuff too much, mea culpa).  
-The page also shows up high in Google when you search on [antwerp traffic info](http://www.google.com/search?q=antwerp+traffic+info). Now if you click through on the Google Search Result, you have a very high chance of getting &#8220;Antwerp&#8221; related ads. Which to me looks like Adsense also takes into account what page you just came from &#8211; at least if it&#8217;s a SERP (Search Engine Result Page).  
+A blog post of mine on [Live Traffic Info](/2004/12/live-traffic-info/) briefly mentions Antwerp. The Adsense ads on the page normally show geeky ads (_&#8216;blogs', &#8216;XML', &#8216;bandwidth',_ &#8230; I write about technical stuff too much, mea culpa).  
+The page also shows up high in Google when you search on [antwerp traffic info](http://www.google.com/search?q=antwerp+traffic+info). Now if you click through on the Google Search Result, you have a very high chance of getting &#8220;Antwerp&#8221; related ads. Which to me looks like Adsense also takes into account what page you just came from &#8211; at least if it's a SERP (Search Engine Result Page).  
 (note: it does not work for &#8220;brussels traffic info&#8221; &#8211; apparently no advertisers for Brussels)
 
 This is a list of things Adsense can take into account:

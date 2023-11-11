@@ -4,7 +4,7 @@ title: 'LeWeb3 is actually &#8220;Loic for president&#8221;'
 date: 2006-12-12T12:54:13+01:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2006/12/leweb3-is-actually-loic-for-president/
+guid: /2006/12/leweb3-is-actually-loic-for-president/
 permalink: /2006/12/12/leweb3-is-actually-loic-for-president/
 categories:
   - Web2.0
@@ -12,7 +12,7 @@ categories:
 For some reason this &#8220;web&#8221; conference has been transformed into a political rally. 
 
   * First, this morning [Shimon Peres](http://nobelprize.org/nobel_prizes/peace/laureates/1994/peres-bio.html) shows up to talk about world peace.
-  * This afternoon, out of the blue, we&#8217;re supposed to welcome [Nicholas Sarkozy](http://en.wikipedia.org/wiki/Nicolas_Sarkozy) (UMP).
+  * This afternoon, out of the blue, we're supposed to welcome [Nicholas Sarkozy](http://en.wikipedia.org/wiki/Nicolas_Sarkozy) (UMP).
   * And equally unexpected we just had a political statement by his political counterpart [François Bayrou](http://en.wikipedia.org/wiki/Fran%C3%A7ois_Bayrou) (UDF)
 
 This bothers me a lot:
@@ -25,4 +25,4 @@ This bothers me a lot:
 
 [<img  src="http://static.flickr.com/144/320399810_d98ca2c998.jpg" width="500" height="321" alt="Countries on Le Web 3" />](http://www.flickr.com/photos/pforret/320399810/ "Photo Sharing")
 
-I&#8217;m pissed off, and I&#8217;[m](http://blog.businessquests.com/2006/12/le_web_3_hacked.html) [certainly](http://crueltobekind.org/archive/2006-12-12/loic_lemeur_betraying_1000_att) [not](http://blogs.opml.org/tommorris/2006/12/12) [the](http://blogs.telegraph.co.uk/technology/shanerichmond/december06/whyarewehere.htm) [only](http://www.sierralog.com/stories/3056857/) [one](http://www.cjung.info/wordpress/?p=86)[!](http://druppels.be/oudedruppels/2006/12/le_web_3_old_fa_1.shtml)
+I'm pissed off, and I'[m](http://blog.businessquests.com/2006/12/le_web_3_hacked.html) [certainly](http://crueltobekind.org/archive/2006-12-12/loic_lemeur_betraying_1000_att) [not](http://blogs.opml.org/tommorris/2006/12/12) [the](http://blogs.telegraph.co.uk/technology/shanerichmond/december06/whyarewehere.htm) [only](http://www.sierralog.com/stories/3056857/) [one](http://www.cjung.info/wordpress/?p=86)[!](http://druppels.be/oudedruppels/2006/12/le_web_3_old_fa_1.shtml)

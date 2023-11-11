@@ -4,12 +4,12 @@ title: K2 Sidebar modules vs. widgets
 date: 2007-08-13T15:37:13+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2007/08/k2-sidebar-modules-vs-widgets/
+guid: /2007/08/k2-sidebar-modules-vs-widgets/
 permalink: /2007/08/13/k2-sidebar-modules-vs-widgets/
 categories:
   - Wordpress
 ---
-I [upgraded to the latest version of WordPress](http://blog.forret.com/2007/07/test-your-karma-early-in-the-morning/) recently, and in the process my [K2](http://getk2.com/) Sidebar modules were deleted because now WordPress has _&#8216;widgets&#8217;_ built in. Having used both systems for a while, I can only conclude: it&#8217;s a big step backward.
+I [upgraded to the latest version of WordPress](/2007/07/test-your-karma-early-in-the-morning/) recently, and in the process my [K2](http://getk2.com/) Sidebar modules were deleted because now WordPress has _&#8216;widgets'_ built in. Having used both systems for a while, I can only conclude: it's a big step backward.
 
 #### K2 Sidebar modules
 
@@ -17,9 +17,9 @@ I [upgraded to the latest version of WordPress](http://blog.forret.com/2007/07/t
 
 The K2 theme comes with this plugin installed and it is the perfect sidebar framework:
 
-  * it has an HTML, navigation, RSS, calendar &#8230; block and if you really need to do something very specific, there&#8217;s always the PHP block.
+  * it has an HTML, navigation, RSS, calendar &#8230; block and if you really need to do something very specific, there's always the PHP block.
   * per block you can decide on which type of pages it should be displayed. E.g. you can show the navigation only in the static pages, and your recent comments only in the blog section. You can even exclude the showing on individual pages (e.g.: if on one page you need an IFRAME of 800 pixels wide, you can disable all sidebar modules.)
-  * the blocks show the name that you gave them: you don&#8217;t have blocks named &#8216;Text 1&#8217;, &#8216;Text 2&#8217; but e.g. &#8216;About&#8217; and &#8216;Adsense&#8217;. This is much clearer if you want to change the order afterwards.
+  * the blocks show the name that you gave them: you don't have blocks named &#8216;Text 1', &#8216;Text 2' but e.g. &#8216;About' and &#8216;Adsense'. This is much clearer if you want to change the order afterwards.
 
 Just compare this: the RSS block for K2 and Widgets:  
 [<img  width="236" src="http://farm2.static.flickr.com/1306/1103843121_50826cd7ee.jpg" alt="k2-sidebar-feed" height="500" />](http://www.flickr.com/photos/pforret/1103843121/ "Photo Sharing") [<img  width="240" src="http://farm2.static.flickr.com/1130/1103848243_e722b84928_m.jpg" alt="wp_widgets_rss" height="127" />](http://www.flickr.com/photos/pforret/1103848243/ "Photo Sharing")

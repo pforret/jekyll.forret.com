@@ -7,7 +7,7 @@ permalink: /2004/10/21/estimate-of-lines-in-a-log-file/
 categories:
   - Linux
 ---
-Let&#8217;s say you need an (approximate) count of the number of lines in a huge file. The most obvious way of calculating this would be using `wc`, but this actually can be quite slow:  
+Let's say you need an (approximate) count of the number of lines in a huge file. The most obvious way of calculating this would be using `wc`, but this actually can be quite slow:  
 ```bash
 > time wc -l /var/log/squid/access.log
 2812824 /var/log/squid/access.log
@@ -29,7 +29,7 @@ The end of the file (the last 10000 lines):
   10000  100000 2047887`  
 gives us a number of 204 chars/line.
 
-Let&#8217;s take some more data and combine both:  
+Let's take some more data and combine both:  
 `# ( head -50000 /var/log/squid/access.log ; tail -50000 /var/log/squid/access.log ) | wc<br />
  100000 1000000 19488905`  
 which gives us an average of 195 chars/line.

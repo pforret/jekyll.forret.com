@@ -4,7 +4,7 @@ title: 'New project: bash boilerplate generator on toolstud.io'
 date: 2018-06-03T16:04:27+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/?p=1688
+guid: /?p=1688
 permalink: /2018/06/03/bash-boilerplate-generator/
 image: /wp-content/uploads/2018/06/fig-03-06-2018_14-02-08.jpg
 categories:
@@ -20,7 +20,7 @@ tags:
 <div class="wp-block-group">
   <div class="wp-block-group__inner-container">
     <p>
-      I like to automate. I like it so much that I will not hesitate to spend 8+ hours on writing a script that replaces 5 minutes of work every month. Most of my automation is for CLI (command line interfaces). On Windows, that means CMD, but for most other platforms (Linux, MacOS, Busybox) the best tool for it is <em>bash</em> or <em>shell</em>. I&#8217;ve created my own self-contained <a href="https://github.com/pforret/bashew">bash <em>boilerplate</em> script</a> (a good scripting starting point, with a lot of regularly recurring functionality already built in.)
+      I like to automate. I like it so much that I will not hesitate to spend 8+ hours on writing a script that replaces 5 minutes of work every month. Most of my automation is for CLI (command line interfaces). On Windows, that means CMD, but for most other platforms (Linux, MacOS, Busybox) the best tool for it is <em>bash</em> or <em>shell</em>. I've created my own self-contained <a href="https://github.com/pforret/bashew">bash <em>boilerplate</em> script</a> (a good scripting starting point, with a lot of regularly recurring functionality already built in.)
     </p>
     
     <p>
@@ -32,7 +32,7 @@ tags:
     </p>
     
     <p>
-      <a href="https://toolstud.io/data/bash.php"><img  class="alignnone wp-image-1691 size-full" src="http://blog.forret.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-03-at-16.02.43-2.png" alt="" width="795" height="666" srcset="https://blog.forret.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-03-at-16.02.43-2.png 795w, https://blog.forret.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-03-at-16.02.43-2-300x251.png 300w, https://blog.forret.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-03-at-16.02.43-2-768x643.png 768w, https://blog.forret.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-03-at-16.02.43-2-600x503.png 600w" sizes="(max-width: 795px) 100vw, 795px" /></a>
+      <a href="https://toolstud.io/data/bash.php"><img  class="alignnone wp-image-1691 size-full" src="/wp-content/uploads/2018/06/Screen-Shot-2018-06-03-at-16.02.43-2.png" alt="" width="795" height="666" srcset="https://blog.forret.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-03-at-16.02.43-2.png 795w, https://blog.forret.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-03-at-16.02.43-2-300x251.png 300w, https://blog.forret.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-03-at-16.02.43-2-768x643.png 768w, https://blog.forret.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-03-at-16.02.43-2-600x503.png 600w" sizes="(max-width: 795px) 100vw, 795px" /></a>
     </p>
   </div>
 </div>

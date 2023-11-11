@@ -9,11 +9,11 @@ permalink: /2005/02/07/popular-belgian-blogs-version-3/
 categories:
   - Belgium
 ---
-What&#8217;s new?
+What's new?
 
   * I added some blogs (now at 120), and
-  * also take the Google PageRank into account(through the [Google Page Rank Lookup Tool](http://www.site-build-it-solutions.com/google-page-rank.htm)). A PageRank of 6 doubles the #equivalent hits, PR5 multiplies by 11/6, PR4 by 10/6, and so on. There are actually 2 blogs with a PageRank 6: [Veerle&#8217;s Blog](http://veerle.duoh.com) and [Mathibus](http://mathibus.com).
-  * All the other parameters are the same as in [version 2 of the top 25](http://blog.forret.com/blog/2005/01/popular-belgian-blogs-top-25-v2.html).
+  * also take the Google PageRank into account(through the [Google Page Rank Lookup Tool](http://www.site-build-it-solutions.com/google-page-rank.htm)). A PageRank of 6 doubles the #equivalent hits, PR5 multiplies by 11/6, PR4 by 10/6, and so on. There are actually 2 blogs with a PageRank 6: [Veerle's Blog](http://veerle.duoh.com) and [Mathibus](http://mathibus.com).
+  * All the other parameters are the same as in [version 2 of the top 25](/blog/2005/01/popular-belgian-blogs-top-25-v2.html).
   * I know some of you bloggers are interested in where your blog shows up, so now I list the first 50, instead of 25.
 
 I still need more blogs, so please send me URLs of Belgian blogs that you think should/will belong in the list of most popular: peter.forret \_at\_ gmail.com.
@@ -69,4 +69,4 @@ I still need more blogs, so please send me URLs of Belgian blogs that you think 
  49. hullabaloo.be: 817 equiv hits
  50. www.kluifje.be: 762 equiv hits
 
-Update: there is a new version on [Feb 14](http://blog.forret.com/2005/02/popular-belgian-blogs-version-4/).
+Update: there is a new version on [Feb 14](/2005/02/popular-belgian-blogs-version-4/).

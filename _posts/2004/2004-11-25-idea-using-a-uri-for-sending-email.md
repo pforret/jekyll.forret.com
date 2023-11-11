@@ -18,7 +18,7 @@ In order to send an email over [SMTP](http://www.networksorcery.com/enp/rfc/rfc2
 
 On the other hand, you have the HTTP GET format where you can put everything you need to execute the request in 1 string:  
 <u>http://james:password@www.example.com /hr /request /?type=holiday&start=2004-11-22&end=2004-11-24</u>  
-No need to save the &#8216;server/port&#8217; data separate from the &#8216;request&#8217; location or from the actual content.
+No need to save the &#8216;server/port' data separate from the &#8216;request' location or from the actual content.
 
 Which inspired me to a similar format for sending email:
 
@@ -36,7 +36,7 @@ Keep in mind: a URL is typically limited to 255 characters (depending on impleme
   * If your subject is more than 200 characters, you need the `?subject=text` notation. Otherwise the `/subject:text/` is preferable because you would be less inclined to specify more than 1 subject. 
   * If your message content is more than 200 characters, you need the `?message=text`. If you need more than 4KB, you could use the equivalent of a [HTTP POST](http://www.networksorcery.com/enp/rfc/rfc1945.txt), i.e. not specify it in the URL string, but stream the whole this after giving the request. 
   * You could allow multiple `/cc:address/` entries, or just use a `/cc:addr1;addr2;addr3/` 
-  * to allow &#8216;pretty&#8217; email addresses, you could allow `/from:peter@example.com:Peter+Forret/`. (Any better suggestions for that?) 
+  * to allow &#8216;pretty' email addresses, you could allow `/from:peter@example.com:Peter+Forret/`. (Any better suggestions for that?) 
   * You could allow a `smtp://default/...` if you still want your email sending application to choose its SMTP server. 
   * Attachments can be specified with an address on a local disk, or on the Internet (with another URI) 
 

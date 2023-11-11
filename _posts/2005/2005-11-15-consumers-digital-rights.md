@@ -16,7 +16,7 @@ The [BEUC (&#8220;Bureau Européen des Unions de consommateurs&#8221; or Europea
 > Consumers are not pirates!  
 > &#8220;_P2P is like stealing a CD in a shop!_&#8220;, &#8220;_We have to protect artists who are being robbed by consumers on the Internet!_&#8220;.  
 > We are being fed this type of &#8220;truth&#8221; thanks to the efforts of certain major [music](http://www.ifpi.org/) and [film](http://www.mpaa.org) industry interests.  
-> For this reason, we are launching today with a press conference in the European Parliament and with the support of Mrs [Zuzana Roithová](http://www.roithova.cz/home.html) MEP, a Campaign supported by a &#8220;**Declaration of Consumers&#8217; Digital Rights**&#8220;.  
+> For this reason, we are launching today with a press conference in the European Parliament and with the support of Mrs [Zuzana Roithová](http://www.roithova.cz/home.html) MEP, a Campaign supported by a &#8220;**Declaration of Consumers' Digital Rights**&#8220;.  
 > from [consumersdigitalrights.org](http://www.consumersdigitalrights.org/cms/presse_commu_beuc_en.php)
 
 They put the following 6 basic consumer rights forward:
@@ -36,6 +36,6 @@ The BEUC tries to give a voice to a large group of consumers and individuals tha
   * 500 x 127 pixels:  
     `<a href="http://www.consumersdigitalrights.org" target="_blank"><img src="http://static.flickr.com/32/63355147_3827f27158.jpg" title="BEUC Consumer Digital Rights" border="0" /></a>`
 
-And, yes, that&#8217;s me on the [interview page](http://www.consumersdigitalrights.org/cms/interviews_en.php).
+And, yes, that's me on the [interview page](http://www.consumersdigitalrights.org/cms/interviews_en.php).
 
 Technorati: <a href="http://technorati.com/tag/digital" rel="tag">digital</a> &#8211; <a href="http://technorati.com/tag/consumer" rel="tag">consumer</a> &#8211; <a href="http://technorati.com/tag/rights" rel="tag">rights</a> &#8211; <a href="http://technorati.com/tag/beuc" rel="tag">beuc</a> &#8211; <a href="http://technorati.com/tag/copyright" rel="tag">copyright</a>

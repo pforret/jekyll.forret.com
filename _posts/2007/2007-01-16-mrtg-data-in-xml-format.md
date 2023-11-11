@@ -4,7 +4,7 @@ title: MRTG data in XML format
 date: 2007-01-16T00:30:46+01:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2007/01/mrtg-data-in-xml-format/
+guid: /2007/01/mrtg-data-in-xml-format/
 permalink: /2007/01/16/mrtg-data-in-xml-format/
 categories:
   - tool
@@ -26,11 +26,11 @@ Line 1: current state of the first variable, normally 'incoming bytes count'<br 
 Line 2: current state of the second variable, normally 'outgoing bytes count'<br />
 Line 3: string (in any human readable format), telling the uptime of the target.<br />
 Line 4: string, telling the name of the target.` ([*](http://oss.oetiker.ch/mrtg/doc/mrtg-reference.en.html))  
-So there&#8217;s maximum 2 variables, which should be the same order of magnitude (or the automatic scaling of the Y-axis will make the smaller one undistinguisable of 0). The uptime and name show up in the &#8220;_at which time &#8216;rou-rz-gw.ethz.ch&#8217; had been up for 160 days, 8:02:55._&#8221; in the header of the HTML page. 
+So there's maximum 2 variables, which should be the same order of magnitude (or the automatic scaling of the Y-axis will make the smaller one undistinguisable of 0). The uptime and name show up in the &#8220;_at which time &#8216;rou-rz-gw.ethz.ch' had been up for 160 days, 8:02:55._&#8221; in the header of the HTML page. 
 
 #### MRTG in XML
 
-In this world of REST, XMLRPC and SOAP interfaces, this seems so limited. Let&#8217;s try to make an XML format that allows the following:
+In this world of REST, XMLRPC and SOAP interfaces, this seems so limited. Let's try to make an XML format that allows the following:
 
   * it should minimally contain the four data lines cited above
   * it should be possible to add any parameter that influences the MRTG result (HTML and/or image) so that the XML as such is enough to define the whole MRTG configuration
@@ -73,6 +73,6 @@ And this could be a more extended example:
 </MRTGresponse><br />
 ` 
 
-This would allow a script to generate a fitting `mrtg.conf` configuration file from any reading of the data. The response is bigger than the simple 4 text lines, but in these days of cheap bandwidth and lots of CPU, that&#8217;s not really an issue. It&#8217;s also easy to convert the XML format into the 4 lines, if need be.
+This would allow a script to generate a fitting `mrtg.conf` configuration file from any reading of the data. The response is bigger than the simple 4 text lines, but in these days of cheap bandwidth and lots of CPU, that's not really an issue. It's also easy to convert the XML format into the 4 lines, if need be.
 
 Anything I forgot?

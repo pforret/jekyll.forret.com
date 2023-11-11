@@ -1,6 +1,6 @@
 ---
 id: 164
-title: '&#8216;Moroccan Blue&#8217; Leads Top Fashion Colors (RGB)'
+title: '&#8216;Moroccan Blue' Leads Top Fashion Colors (RGB)'
 date: 2005-07-29T00:42:54+02:00
 author: Peter
 layout: post
@@ -8,9 +8,9 @@ permalink: /2005/07/29/moroccan-blue-leads-top-fashion-colors-rgb/
 categories:
   - color
 ---
-> [Moroccan Blue](http://www.forret.com/tools/color.asp?C=1&M=.5&Y=0.200&K=0.40&name=Moroccan+Blue) topped the list of colors at New York Fashion Week&#8217;s Fall 2005 collections, according to [Pantone, Inc.](http://www.pantone.com), the global authority on color and provider of professional color standards for the design industries.  
-> Each season, Pantone surveys designers showing at New York Fashion Week and collects feedback on prominent collection colors, color inspiration, color philosophy and each designer&#8217;s signature shades. This information is used to create the [PANTONE Fashion Color Report](http://www.pantone.com/products/products.asp?idArticle=716&idArea=14).  
-> The top 10 most directional women&#8217;s ready-to-wear colors for Fall 2005 (along with printing values) are  
+> [Moroccan Blue](http://www.forret.com/tools/color.asp?C=1&M=.5&Y=0.200&K=0.40&name=Moroccan+Blue) topped the list of colors at New York Fashion Week's Fall 2005 collections, according to [Pantone, Inc.](http://www.pantone.com), the global authority on color and provider of professional color standards for the design industries.  
+> Each season, Pantone surveys designers showing at New York Fashion Week and collects feedback on prominent collection colors, color inspiration, color philosophy and each designer's signature shades. This information is used to create the [PANTONE Fashion Color Report](http://www.pantone.com/products/products.asp?idArticle=716&idArea=14).  
+> The top 10 most directional women's ready-to-wear colors for Fall 2005 (along with printing values) are  
 > _(converted by me to RGB)_: 
 
 <table border="0" cellspacing="6" cellpadding="0">

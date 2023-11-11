@@ -4,7 +4,7 @@ title: Stuff to install on a new Windows PC
 date: 2008-09-17T17:52:45+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/?p=1094
+guid: /?p=1094
 permalink: /2008/09/17/stuff-to-install-on-a-new-windows-pc/
 categories:
   - tool
@@ -43,6 +43,6 @@ That is, the stuff I install on a new Windows PC. Since I need this list several
   * [Adobe PDF](http://www.adobe.com/products/acrobat/readstep2.html) reader: for reading PDF documents, and everything is in PDF these days
   * [7-Zip](http://www.7-zip.org/download.html): compression/expansion of ZIP, RAR and 7z archives
   * [CutePDF](http://www.cutepdf.com/Products/CutePDF/writer.asp) with GhostScript: printing to a PDF file (also allows converting a PostScript PS/EPS file to PDF)
-  * [UnixUtils](http://unxutils.sourceforge.net/): I&#8217;m a sucker for GAWK and WGET
-  * [Nokia PCSuite](http://www.nokia.co.uk/A4630249): for synchro with my Nokia N91 (yes, it&#8217;s still my phone!)
+  * [UnixUtils](http://unxutils.sourceforge.net/): I'm a sucker for GAWK and WGET
+  * [Nokia PCSuite](http://www.nokia.co.uk/A4630249): for synchro with my Nokia N91 (yes, it's still my phone!)
   * [XAMPP](http://www.apachefriends.org/en/xampp-windows.html): for developing with Apache/PERL/PHP/MySQL on Windows

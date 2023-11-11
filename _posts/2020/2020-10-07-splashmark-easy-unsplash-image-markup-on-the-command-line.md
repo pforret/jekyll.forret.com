@@ -26,7 +26,7 @@ splashmark -w 1280 -c 640 -i github.com/pforret/splashmark -j 50 \
    -p fonts/FiraCode-Regular.ttf search splashmark.jpg splash
 ```
 
-The **[splashmark](https://github.com/pforret/splashmark) script** searches for &#8220;splash&#8221; on Unsplash.com, downloads the first photo found, resizes it to 1280 pixels width, crops it to 640 pixels height, uses a &#8216;dark&#8217; and a &#8216;grain&#8217; filter, adds a big title in the middle and photo URL and Unsplash attribution in the corners, using the Google font Fira. It takes about 10 seconds,
+The **[splashmark](https://github.com/pforret/splashmark) script** searches for &#8220;splash&#8221; on Unsplash.com, downloads the first photo found, resizes it to 1280 pixels width, crops it to 640 pixels height, uses a &#8216;dark' and a &#8216;grain' filter, adds a big title in the middle and photo URL and Unsplash attribution in the corners, using the Google font Fira. It takes about 10 seconds,
 
 Another example?
 

@@ -4,7 +4,7 @@ title: Learning Bulgarian in an hour
 date: 2007-11-09T22:49:04+01:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2007/11/learning-bulgarian-in-an-hour/
+guid: /2007/11/learning-bulgarian-in-an-hour/
 permalink: /2007/11/09/learning-bulgarian-in-an-hour/
 image: /wp-content/uploads/2018/11/fig-13-11-2018_14-00-40.jpg
 categories:
@@ -17,7 +17,7 @@ tags:
   - language
   - learning
 ---
-Just read an interesting post: [How to Learn (But Not Master) Any Language in 1 Hour](http://www.fourhourworkweek.com/blog/2007/11/07/how-to-learn-but-not-master-any-language-in-1-hour-plus-a-favor/). Let&#8217;s see how that works out with [Bulgarian](http://en.wikipedia.org/wiki/Bulgarian_language).
+Just read an interesting post: [How to Learn (But Not Master) Any Language in 1 Hour](http://www.fourhourworkweek.com/blog/2007/11/07/how-to-learn-but-not-master-any-language-in-1-hour-plus-a-favor/). Let's see how that works out with [Bulgarian](http://en.wikipedia.org/wiki/Bulgarian_language).
 
 #### Introduction
 
@@ -38,13 +38,13 @@ First estimating the difficulty of learning this language:
     Not really, you pronounce it like you read it, but there are some peculiar letters like the &#8220;ъ&#8221; ( &#8220;_schwa_&#8221; or &#8220;ə&#8221; (phonetic) or palatalization).
   3. _How similar is it to languages I already understand? What will help and what will interfere? (Will acquisition erase a previous language? Can I borrow structures without fatal interference like Portuguese after Spanish?)_  
     While Bulgarian adopts new words from English easily (e.g. businessman become &#8220;бизнесмен&#8221; which is transcribed as &#8220;_biznеsmеn_&#8220;), it is at the base a Slavic language with an abundance of words that have nothing to do with the words in Dutch/French/English.  
-    Let&#8217;s take the days of the week: понеделник вторник сряда четвъртък петък съботата неделята &#8211; which is transcribed into &#8220;_pоnеdеlnik vtоrnik sryada chеtvartak pеtak sabоtata nеdеlyata_&#8220;. Not that obvious, is it?
+    Let's take the days of the week: понеделник вторник сряда четвъртък петък съботата неделята &#8211; which is transcribed into &#8220;_pоnеdеlnik vtоrnik sryada chеtvartak pеtak sabоtata nеdеlyata_&#8220;. Not that obvious, is it?
   4. _All of which answer: How difficult will it be, and how long would it take to become functionally fluent?_  
     God, if I knew the answer to that question.
 
 #### <!--more-->Language structure
 
-Let&#8217;s take his 8 sentences that clarify a lot about how the language works:
+Let's take his 8 sentences that clarify a lot about how the language works:
 
 > The apple is red &#8211; Ябълката е червена &#8211; _Yabalkata е chеrvеna_  
 > It is John’s apple &#8211; То е ябълката на Джон &#8211; _То е yabalkata na Dzhоn_  
@@ -73,6 +73,6 @@ And the verbs for easy auxiliary usage are:
 
 #### Sounds and scripts
 
-Bulgarian has 6 vowels: A E И O У Ъ, and two that are a combination of a consonant and a vowel: Ю (yu) &#8211; Я (ya). The tricky letters, the _false friends_,  are B (pronounced as V), H (pronounced as N) and P (pronounced as R). The C is pronounced as S but that&#8217;s also the case in &#8220;poli**c**e&#8221;.
+Bulgarian has 6 vowels: A E И O У Ъ, and two that are a combination of a consonant and a vowel: Ю (yu) &#8211; Я (ya). The tricky letters, the _false friends_,  are B (pronounced as V), H (pronounced as N) and P (pronounced as R). The C is pronounced as S but that's also the case in &#8220;poli**c**e&#8221;.
 
-Interesting! Let&#8217;s see what his second language learning post will be about &#8230;
+Interesting! Let's see what his second language learning post will be about &#8230;

@@ -4,7 +4,7 @@ title: 'Redhat versions: what am I running?'
 date: 2004-10-19T16:32:32+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2004/10/redhat-versions-what-am-i-running/
+guid: /2004/10/redhat-versions-what-am-i-running/
 permalink: /2004/10/19/redhat-versions-what-am-i-running/
 categories:
   - Linux
@@ -28,5 +28,5 @@ If you manage multiple RedHat servers, or if you just stumble on a Linux server,
 > \# **cat /etc/redhat-release** (only for RedHat distributions)  
 > Red Hat Linux release 9 (Shrike) 
 
-So now you know: a 2GHz Pentium 4 with 1GB of memory, running RedHat 9 &#8216;Shrike&#8217;.  
+So now you know: a 2GHz Pentium 4 with 1GB of memory, running RedHat 9 &#8216;Shrike'.  
 For more info on RedHat versions: [Taroon, Shrike, Enigma, &#8230;](http://www.unixgods.org/~tilo/redhat_versions.html)

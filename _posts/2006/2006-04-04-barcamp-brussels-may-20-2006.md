@@ -4,7 +4,7 @@ title: 'Barcamp Brussels: May 20 2006'
 date: 2006-04-04T13:03:20+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2006/04/barcamp-brussels-may-20-2006/
+guid: /2006/04/barcamp-brussels-may-20-2006/
 permalink: /2006/04/04/barcamp-brussels-may-20-2006/
 categories:
   - barcamp
@@ -15,7 +15,7 @@ tags:
   - brussels
   - geeky
 ---
-So there it is: after some feedback on my [Barcamp announcement post](http://blog.forret.com/2006/03/barcamp-brussels-may-2006/), we fixed the date and location for Barcamp Brussels!
+So there it is: after some feedback on my [Barcamp announcement post](/2006/03/barcamp-brussels-may-2006/), we fixed the date and location for Barcamp Brussels!
 
 **DETAILS**
 
@@ -26,7 +26,7 @@ So there it is: after some feedback on my [Barcamp announcement post](http://blo
   * All presentations can be put on the presentation board upon arrival. There will be 3 to 4 presentation rooms for simultaneous topics.
   * there will be free Wifi, food, drinks and lots of hi-tech around.
 
-One remark: although this might seem to be a geek-event par excellence, this is not for-geeks-only. There will be technical presentations, granted, but we also expect interesting talks about social, psychological and esthetic topics. You do not need programming skills or an engineering degree, just a vivid interest in modern society. You&#8217;re interested in the etymology of smilies, the effect of gaming on ADHD, the psychological implications of serif and sans-serif fonts? There&#8217;s a topic for your presentation!
+One remark: although this might seem to be a geek-event par excellence, this is not for-geeks-only. There will be technical presentations, granted, but we also expect interesting talks about social, psychological and esthetic topics. You do not need programming skills or an engineering degree, just a vivid interest in modern society. You're interested in the etymology of smilies, the effect of gaming on ADHD, the psychological implications of serif and sans-serif fonts? There's a topic for your presentation!
 
 **HOW TO PARTICIPATE**
 

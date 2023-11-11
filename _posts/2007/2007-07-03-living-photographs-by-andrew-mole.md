@@ -4,7 +4,7 @@ title: '&#8220;Living photographs&#8221; by Andrew Mole'
 date: 2007-07-03T13:36:12+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2007/07/living-photographs-by-andrew-mole/
+guid: /2007/07/living-photographs-by-andrew-mole/
 permalink: /2007/07/03/living-photographs-by-andrew-mole/
 categories:
   - photography

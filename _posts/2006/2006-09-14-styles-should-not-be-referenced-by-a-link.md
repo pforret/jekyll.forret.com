@@ -4,12 +4,12 @@ title: 'Styles should not be referenced by a <link>'
 date: 2006-09-14T13:06:56+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2006/09/styles-should-not-be-referenced-by-a-link/
+guid: /2006/09/styles-should-not-be-referenced-by-a-link/
 permalink: /2006/09/14/styles-should-not-be-referenced-by-a-link/
 categories:
   - webdev
 ---
-_(If you don&#8217;t work with HTML, this next post will be of no interest to you.)_
+_(If you don't work with HTML, this next post will be of no interest to you.)_
 
 > Rant: the way external CSS stylesheets are included in HTML now is not logical nor convenient.  
 > So: `<link` `type="test/css"` `href="(...).css" rel="stylesheet" />` is wrong,  

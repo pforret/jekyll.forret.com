@@ -4,7 +4,7 @@ title: 'Barcamp Brussels #3: May 5th in the Marolles!'
 date: 2007-03-08T13:28:11+01:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2007/03/barcamp-brussels-3-may-5th-in-the-marolles/
+guid: /2007/03/barcamp-brussels-3-may-5th-in-the-marolles/
 permalink: /2007/03/08/barcamp-brussels-3-may-5th-in-the-marolles/
 categories:
   - barcamp

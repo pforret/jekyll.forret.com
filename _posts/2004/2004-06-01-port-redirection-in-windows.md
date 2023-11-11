@@ -25,4 +25,4 @@ We use port redirection/proxy often on our platforms. In the production setup, s
           * transfer a site on port 8080 to another IP address on port 80, to get rid of `server:8080` side effects 
           * transfer a port 88 to port 80, so you can have different Network Load Balancing policies on both ports, while they both run off the same site 
             [<img src="http://gallery.claireforlani.com/albums/meetjoeblack/aah.thumb.jpg" alt="Claire Forlani" border="0" />](http://gallery.claireforlani.com/meetjoeblack)  
-            <small>Meanwhile on the other screen: <i>Claire Forlani </i>in &#8216;Meet Joe Black&#8217;. Mediocre movie, lousy acting by most of the crew, but mmmmm, that face.</small></li>
+            <small>Meanwhile on the other screen: <i>Claire Forlani </i>in &#8216;Meet Joe Black'. Mediocre movie, lousy acting by most of the crew, but mmmmm, that face.</small></li>

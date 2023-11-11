@@ -37,13 +37,13 @@ In the early days of Flickr, the images were stored on separate servers: <u><a h
 
 Today, instead of maintaining the 33 DNS entries, they opted for working with 1 domain name <u>static.flickr.com</u> and let the load balancing/cache distribution ([analyze.forret.com](http://www.forret.com/projects/analyze/?url=http%3A%2F%2Fstatic.flickr.com%2F23%2F29305573_7c9bb5849e.jpg) shows there is a &#8220;`X-Cache = HIT`&#8221; HTTP header that is a caching directive) decide from which server the image should be grabbed. You can actually get an idea by this little hack:
 
-  * [photos1](http://static.flickr.com/1/): &#8220;**storage3**.flickr.mud&#8221; shown on the &#8216;home&#8217; page 
+  * [photos1](http://static.flickr.com/1/): &#8220;**storage3**.flickr.mud&#8221; shown on the &#8216;home' page 
   * [photos2](http://static.flickr.com/2/): &#8220;**storage5**.flickr.mud&#8221; 
   * [photos3](http://static.flickr.com/3/): &#8220;**storage3**.flickr.mud&#8221; 
   * [photos4](http://static.flickr.com/4/): &#8220;**storage7**.flickr.mud&#8221; 
   * [photos5](http://static.flickr.com/5/): &#8220;**storage4**.flickr.mud&#8221; 
   * &#8230; 
 
-A total of 8 storage servers, I&#8217;m guessing.
+A total of 8 storage servers, I'm guessing.
 
 Technorati: <a href="http://technorati.com/tag/flickr" rel="tag">flickr</a> &#8211; <a href="http://technorati.com/tag/yahoo" rel="tag">yahoo</a> &#8211; <a href="http://technorati.com/tag/storage" rel="tag">storage</a> &#8211; <a href="http://technorati.com/tag/images" rel="tag">images</a>

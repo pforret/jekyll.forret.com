@@ -1,6 +1,6 @@
 ---
 id: 226
-title: 'The MPA and other people&#8217;s money'
+title: 'The MPA and other people's money'
 date: 2005-12-14T10:44:00+01:00
 author: Peter
 layout: post
@@ -16,8 +16,8 @@ Like the RIAA, the MPA has the logical reaction to disruptive forces: send out t
 
 The main issue here seems to be that because of music lovers exchanging/downloading lyrics from websites, there is no market anymore for selling books with lyrics, a market that had already suffered under the evil influence of the Xerox photocopy. I have two words for that: buggy wips!
 
-> Lawrence Garfield: You know, at one time there must&#8217;ve been dozens of companies making buggy whips. And I&#8217;ll bet the last company around was the one that made the best goddamn buggy whip you ever saw. Now how would you have liked to have been a stockholder in that company? You invested in a business and this business is dead. Lets have the intelligence, lets have the DECENCY to sign the death certificate, collect the insurance, and invest in something with a future.  
-> from [Other People&#8217;s Money](http://www.imdb.com/title/tt0102609/), by Danny DeVito
+> Lawrence Garfield: You know, at one time there must've been dozens of companies making buggy whips. And I'll bet the last company around was the one that made the best goddamn buggy whip you ever saw. Now how would you have liked to have been a stockholder in that company? You invested in a business and this business is dead. Lets have the intelligence, lets have the DECENCY to sign the death certificate, collect the insurance, and invest in something with a future.  
+> from [Other People's Money](http://www.imdb.com/title/tt0102609/), by Danny DeVito
 
 Again we have to look at the [Electronic Frontier Foundation](http://www.eff.org/deeplinks/archives/004246.php) to talk some sense into the big guys with piles of money but no clue how to adapt.
 

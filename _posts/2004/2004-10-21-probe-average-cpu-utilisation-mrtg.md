@@ -4,14 +4,14 @@ title: Probe average cpu utilisation (MRTG)
 date: 2004-10-21T23:44:27+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2004/10/probe-average-cpu-utilisation-mrtg/
+guid: /2004/10/probe-average-cpu-utilisation-mrtg/
 permalink: /2004/10/21/probe-average-cpu-utilisation-mrtg/
 categories:
   - Linux
 ---
 There are two main tools to keep track of your CPU usage: `top` and `vmstat`.
 
-  * `top` is an interactive tool: it shows you the CPU usage of each process, as well as overall statistics, updated every 5 seconds. It&#8217;s good for hands-on checking.  
+  * `top` is an interactive tool: it shows you the CPU usage of each process, as well as overall statistics, updated every 5 seconds. It's good for hands-on checking.  
     `<br />
 #top  17:18:34  up 2 days,  8:14,  3 users,  load average: 0.00, 0.00, 0.00<br />
 47 processes: 46 sleeping, 1 running, 0 zombie, 0 stopped<br />

@@ -4,7 +4,7 @@ title: 'Speed test of Samsung external SSDs: T1, T3 and T5'
 date: 2017-11-07T21:35:19+01:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/?p=1592
+guid: /?p=1592
 permalink: /2017/11/07/speed-test-of-samsung-external-ssds-t1-t3-and-t5/
 image: /wp-content/uploads/2017/11/samsung-t5-portable-ssd-custom-pc-review-02009-600x298.jpg
 categories:
@@ -20,7 +20,7 @@ tags:
   - ssd
   - storage
 ---
-I just bought my 4th external USB3 SSD for my MacBookPro. I obviously don&#8217;t use all of them together, I just was just constructing my latest [external _Sockle_ storage bay](http://blog.forret.com/2017/02/11/diy-my-bamboo-usb-ssd-disk-bay/). This time it&#8217;s a 1TB SSD and it&#8217;s a generation T5. So this was a good moment to compare it to my previous T1 and T3 SSD drives. I use the [Blackmagic Disk Speed Test app](https://itunes.apple.com/us/app/blackmagic-disk-speed-test/id425264550?mt=12) to get realistic read and write data transfer rates. I will round them off to the nearest multiple of 10MB/s.
+I just bought my 4th external USB3 SSD for my MacBookPro. I obviously don't use all of them together, I just was just constructing my latest [external _Sockle_ storage bay](/2017/02/11/diy-my-bamboo-usb-ssd-disk-bay/). This time it's a 1TB SSD and it's a generation T5. So this was a good moment to compare it to my previous T1 and T3 SSD drives. I use the [Blackmagic Disk Speed Test app](https://itunes.apple.com/us/app/blackmagic-disk-speed-test/id425264550?mt=12) to get realistic read and write data transfer rates. I will round them off to the nearest multiple of 10MB/s.
 
 ### Benchmark: internal 500GB SSD
 
@@ -62,9 +62,9 @@ We will compare all the disks with the performance of the internal SSD disk, whi
   </tr>
 </table>
 
-### EXTERNAL HD: Lacie Porsche 1TB 2.5&#8243; &#8216;classic&#8217; hard drive
+### EXTERNAL HD: Lacie Porsche 1TB 2.5&#8243; &#8216;classic' hard drive
 
-Just to get a feel of just how much better that is than the old &#8216;rotating magnetic&#8217; disks: the speed of a brand new 2.5&#8243; 1TB Lacie Porsche disk: 130 MB/s read and write speed. That is 1/3 of the speed of the Samsung T5 SSD, at about 1/4 of the cost (1TB: 100 euro vs 420 euro &#8211; Nov 2017).  
+Just to get a feel of just how much better that is than the old &#8216;rotating magnetic' disks: the speed of a brand new 2.5&#8243; 1TB Lacie Porsche disk: 130 MB/s read and write speed. That is 1/3 of the speed of the Samsung T5 SSD, at about 1/4 of the cost (1TB: 100 euro vs 420 euro &#8211; Nov 2017).  
 [<img  class="alignnone size-medium wp-image-1593" src="//blog.forret.com/wp-content/uploads/2017/11/HD_SLOW-289x300.png" alt="" width="289" height="300" srcset="https://blog.forret.com/wp-content/uploads/2017/11/HD_SLOW-289x300.png 289w, https://blog.forret.com/wp-content/uploads/2017/11/HD_SLOW-600x623.png 600w, https://blog.forret.com/wp-content/uploads/2017/11/HD_SLOW.png 684w" sizes="(max-width: 289px) 100vw, 289px" />](//blog.forret.com/wp-content/uploads/2017/11/HD_SLOW.png)
 
 ## ALL IN ONE TABLE

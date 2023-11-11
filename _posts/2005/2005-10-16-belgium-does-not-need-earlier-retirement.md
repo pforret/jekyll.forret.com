@@ -23,16 +23,16 @@ Some other observations:
   * the Swiss work the longest (activity rate only starts dropping at age 60)
   * the Dutch start working the earliest (more than 50% work by their 19th birthday)
   * the Italians start working the latest (they reach 50% around 24 years)
-  * of course they can&#8217;t beat us in retiring early, but the French come close
+  * of course they can't beat us in retiring early, but the French come close
 
 Compare this to the activity rate for women:  
 [<img  width="500" height="341" alt="Economic activity rate - Women" src="http://static.flickr.com/29/54018064_752c795c9c.jpg" />](http://www.flickr.com/photos/pforret/54018064/ "Photo Sharing")
 
   * lowest activity rate for Spain and Italy (no surprises there)
-  * most women active in Denmark: they top at 82% (the men&#8217;s top is 96%, in Germany)
+  * most women active in Denmark: they top at 82% (the men's top is 96%, in Germany)
   * Belgian women like to work! Their activity rate is somewhere between the Irish and the Dutch.
-  * French women score even better, they&#8217;re up there with the English and the German!
+  * French women score even better, they're up there with the English and the German!
 
-So men, if you&#8217;re lazy: come live in Belgium and marry a Danish girl!
+So men, if you're lazy: come live in Belgium and marry a Danish girl!
 
 Technorati: <a rel="tag" href="http://technorati.com/tag/abvv">abvv</a> &#8211; <a rel="tag" href="http://technorati.com/tag/acv">acv</a> &#8211; <a rel="tag" href="http://technorati.com/tag/europe">europe</a> &#8211; <a rel="tag" href="http://technorati.com/tag/belgium">belgium</a> &#8211; <a rel="tag" href="http://technorati.com/tag/work">work</a> &#8211; <a rel="tag" href="http://technorati.com/tag/economy">economy</a>

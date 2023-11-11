@@ -4,12 +4,12 @@ title: 'Blogcom Antwerp &#8211; pings and comments'
 date: 2006-04-22T11:08:23+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2006/04/blogcom-antwerp-pings-and-comments/
+guid: /2006/04/blogcom-antwerp-pings-and-comments/
 permalink: /2006/04/22/blogcom-antwerp-pings-and-comments/
 categories:
   - Belgium
 ---
-[<img src="http://static.flickr.com/47/132755970_8b51cd9902_m.jpg" alt="lichtgeraakt" height="120" style="float: right" />](http://www.flickr.com/photos/pforret/132755970/ "Photo Sharing")Blogcom in Antwerp was exactly what I had hoped it would be: an interesting mix of old acquaintances and new faces and lots of fun conversations. The event was organised by [Jeroen](http://lichtgeraakt.carreconfiture.be/?p=372) and some 50 bloggers showed up. No speeches, but lots of mingling and chatting. We&#8217;ll have to remember that for the next Brussels blogger&#8217;s meeting.  
+[<img src="http://static.flickr.com/47/132755970_8b51cd9902_m.jpg" alt="lichtgeraakt" height="120" style="float: right" />](http://www.flickr.com/photos/pforret/132755970/ "Photo Sharing")Blogcom in Antwerp was exactly what I had hoped it would be: an interesting mix of old acquaintances and new faces and lots of fun conversations. The event was organised by [Jeroen](http://lichtgeraakt.carreconfiture.be/?p=372) and some 50 bloggers showed up. No speeches, but lots of mingling and chatting. We'll have to remember that for the next Brussels blogger's meeting.  
 <!--more-->
 
   

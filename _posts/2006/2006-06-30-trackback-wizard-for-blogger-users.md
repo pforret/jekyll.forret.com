@@ -4,7 +4,7 @@ title: Trackback wizard for Blogger users
 date: 2006-06-30T11:18:29+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2006/06/trackback-wizard-for-blogger-users/
+guid: /2006/06/trackback-wizard-for-blogger-users/
 permalink: /2006/06/30/trackback-wizard-for-blogger-users/
 categories:
   - Google

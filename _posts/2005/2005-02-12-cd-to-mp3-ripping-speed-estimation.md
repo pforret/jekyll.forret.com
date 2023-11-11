@@ -26,7 +26,7 @@ the CD-ROM drive speed:![](http://www.pixagogo.com/S5vpfnjbBPdPlbalsGD0t0fIakDMB
     
     :   the CD-ROM drive is connected to the PC by a ATAPI, SCSI, FireWire or USB connection. In theory there could also be a network in between (e.g. when using a Ethernet connected CD Jukebox). 
     :   The slowest [ATA-33 has a theoretical max throughput of 33MB/s](http://www.forret.com/projects/hizmo/bandwidth.asp?speed=264&unit=Mbps&title=Ultra+DMA+ATA-33). Most modern [SCSIs go above 20MB/s](http://www.forret.com/projects/hizmo/bandwidth.asp?speed=160&unit=Mbps&title=Fast+Wide+SCSI-2) and [FireWire gives 50 MB/s](http://www.forret.com/projects/hizmo/bandwidth.asp?speed=400&unit=Mbps&title=Firewire). So they would not be the bottleneck in the ripping process. 
-    :   [USB1.1 is limited to 1,5 MB/s](http://www.forret.com/projects/hizmo/bandwidth.asp?speed=12&unit=Mbps&title=USB+1.1) (in practice even lower). Most common networks would be a bottleneck too (even [Fast Ethernet at a theoretical 12,5 MB/s](http://www.forret.com/projects/hizmo/bandwidth.asp?speed=100&unit=Mbps&title=Fast+Ethernet) since 7MB/s would be more of a realistic top rate in practice, certainly if the network is used for other stuff too. Same thing with WiFi standards: [802.11g&#8217;s advertised &#8220;54Mbps&#8221; will in real life never translate in an actual 6,75MB/s throughput](http://www.forret.com/projects/hizmo/bandwidth.asp?speed=54&unit=Mbps&title=WiFi+802.11g).</p> 
+    :   [USB1.1 is limited to 1,5 MB/s](http://www.forret.com/projects/hizmo/bandwidth.asp?speed=12&unit=Mbps&title=USB+1.1) (in practice even lower). Most common networks would be a bottleneck too (even [Fast Ethernet at a theoretical 12,5 MB/s](http://www.forret.com/projects/hizmo/bandwidth.asp?speed=100&unit=Mbps&title=Fast+Ethernet) since 7MB/s would be more of a realistic top rate in practice, certainly if the network is used for other stuff too. Same thing with WiFi standards: [802.11g's advertised &#8220;54Mbps&#8221; will in real life never translate in an actual 6,75MB/s throughput](http://www.forret.com/projects/hizmo/bandwidth.asp?speed=54&unit=Mbps&title=WiFi+802.11g).</p> 
         
         the CPU speed:</p> 
         
@@ -35,7 +35,7 @@ the CD-ROM drive speed:![](http://www.pixagogo.com/S5vpfnjbBPdPlbalsGD0t0fIakDMB
             
             the MP3 bitrate: </p> 
             
-            :   the above numbers are for 160 kbps, but what with 192 kbps and 64 kbps? Is encoding faster or slower? I found no data on the net, and I haven&#8217;t tested it myself. So no hunch here. Also, the output of the encoding process, even at [a very high quality 320kbps](http://www.forret.com/projects/hizmo/bandwidth.asp?speed=320&unit=Kbps) is largely within the capacity of any output, even [Bluetooth](http://www.forret.com/projects/hizmo/bandwidth.asp?speed=1000&unit=Kbps&title=Bluetooth+1.1), god forbid. So I don&#8217;t take that parameter into account.
+            :   the above numbers are for 160 kbps, but what with 192 kbps and 64 kbps? Is encoding faster or slower? I found no data on the net, and I haven't tested it myself. So no hunch here. Also, the output of the encoding process, even at [a very high quality 320kbps](http://www.forret.com/projects/hizmo/bandwidth.asp?speed=320&unit=Kbps) is largely within the capacity of any output, even [Bluetooth](http://www.forret.com/projects/hizmo/bandwidth.asp?speed=1000&unit=Kbps&title=Bluetooth+1.1), god forbid. So I don't take that parameter into account.
 
 ![](http://us1.pixagogo.com/S5vpfnjbBPdPlzDz6FDwfhUuQDkwy63gCweIQdiltDxNmmIQD5w5mnjQKJCUPnHcMIXY1NzMJdR!sFrJgRsEdM6NkiJ4k5BUaC-ExYJTrRr1dHtJfR9kZIMIzXzoRzboRAmmrRMZdfNK1f3OGPoI!Mow__/ripping.jpg)  
 So in the following situation:
@@ -44,6 +44,6 @@ So in the following situation:
   * a Pentium 4 2,8GHz processor 
   * ripping with the [LAME](http://lame.sourceforge.net/) encoder to 160 kbps
 
-Your ripping will start at about 9,8X and speed up until your CPU is saturated at 18,2X. Which gives the graphic at the right. Now there&#8217;s a rule of fist.
+Your ripping will start at about 9,8X and speed up until your CPU is saturated at 18,2X. Which gives the graphic at the right. Now there's a rule of fist.
 
-Remark: looking at the benchmarks, adding a second processor (or HyperThreading) does not enhance the ripping speed (probably since the MP3 encoding code does not do parallelisation). But if you have 2 CPU&#8217;s, only one CPU will go to 100% and you keep some breathing room while your PC is creating the MP3s.
+Remark: looking at the benchmarks, adding a second processor (or HyperThreading) does not enhance the ripping speed (probably since the MP3 encoding code does not do parallelisation). But if you have 2 CPU's, only one CPU will go to 100% and you keep some breathing room while your PC is creating the MP3s.

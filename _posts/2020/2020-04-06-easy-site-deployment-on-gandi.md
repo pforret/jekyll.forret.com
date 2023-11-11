@@ -21,7 +21,7 @@ tags:
   <em>(Use <a href="https://gandi.link/f/4a9c1f95"><strong>this link</strong> </a>to get 6 months of free hosting on Gandi!).</em>
 </p>
 
-I&#8217;m doing more and more Laravel development and I&#8217;m hosting these projects on Gandi.net Simple Hosting. I&#8217;ve also switched completely to Gandi&#8217;s **deploy with git** method, since it lets me do full and easy deployment from my laptop&#8217;s command line. I&#8217;ve even created a [bash script `gdeploy.sh`](https://github.com/pforret/gandi_deploy) to make this faster, Let me explain how it works:<figure class="wp-block-image size-large">
+I'm doing more and more Laravel development and I'm hosting these projects on Gandi.net Simple Hosting. I've also switched completely to Gandi's **deploy with git** method, since it lets me do full and easy deployment from my laptop's command line. I've even created a [bash script `gdeploy.sh`](https://github.com/pforret/gandi_deploy) to make this faster, Let me explain how it works:<figure class="wp-block-image size-large">
 
 <img  width="703" height="305" src="https://blog.forret.com/wp-content/uploads/2020/04/image-1.png" alt="" class="wp-image-2149" srcset="https://blog.forret.com/wp-content/uploads/2020/04/image-1.png 703w, https://blog.forret.com/wp-content/uploads/2020/04/image-1-300x130.png 300w" sizes="(max-width: 703px) 100vw, 703px" />   
 
@@ -56,7 +56,7 @@ I have multiple Gandi Simple Hosting servers and I found it confusing to keep tr
       * `./gdeploy.sh <strong>deploy</strong>` will push new commit to the Gandi web server,
   * for non-Laravel PHP sites, when there is no `php artisan serve`, I can start a local webserver with `./gdeploy.sh <strong>serve</strong>` (on port 8000) or `./gdeploy.sh <strong>rnd</strong>` (on a random port between 8000 and 8099). It uses the PHP built-in server.
   * to login to the remote SSH serve, I can use `./gdeploy.sh <strong>ssh</strong>`. This uses `gandi paas remote` to start the SSH access.
-  * for sites where I have a staging server and a production server, I can define different remotes (`git remote add stage ...`) and then use `./gdeploy.sh <strong>push stage</strong>` or `./gdeploy.sh <strong>push prod</strong>` to choose where I&#8217;m pushing the code,
+  * for sites where I have a staging server and a production server, I can define different remotes (`git remote add stage ...`) and then use `./gdeploy.sh <strong>push stage</strong>` or `./gdeploy.sh <strong>push prod</strong>` to choose where I'm pushing the code,
 
 <blockquote class="wp-block-quote">
   <p>

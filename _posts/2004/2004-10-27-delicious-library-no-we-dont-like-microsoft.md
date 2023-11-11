@@ -1,6 +1,6 @@
 ---
 id: 72
-title: 'Delicious Library: no, we don&#8217;t like Microsoft'
+title: 'Delicious Library: no, we don't like Microsoft'
 date: 2004-10-27T15:51:46+02:00
 author: Peter
 layout: post
@@ -18,6 +18,6 @@ Delicious Library asks everyone to blog about them, but they are slightly more p
 > Netscape  
 > Mozilla 
 
-What are they about? Pray you have an &#8216;acceptable&#8217; browser and [check it out](http://www.delicious-monster.com/)!
+What are they about? Pray you have an &#8216;acceptable' browser and [check it out](http://www.delicious-monster.com/)!
 
 (via [BizStone](http://www.bizstone.com/2004/10/blog-us.html))

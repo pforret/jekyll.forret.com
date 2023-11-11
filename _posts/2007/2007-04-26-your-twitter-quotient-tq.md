@@ -4,7 +4,7 @@ title: Your Twitter Quotient (TQ)
 date: 2007-04-26T13:30:30+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2007/04/your-twitter-quotient-tq/
+guid: /2007/04/your-twitter-quotient-tq/
 permalink: /2007/04/26/your-twitter-quotient-tq/
 categories:
   - Web2.0

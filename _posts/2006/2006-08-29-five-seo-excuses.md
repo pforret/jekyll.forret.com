@@ -4,7 +4,7 @@ title: Five SEO Excuses
 date: 2006-08-29T14:29:23+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2006/08/five-seo-excuses/
+guid: /2006/08/five-seo-excuses/
 permalink: /2006/08/29/five-seo-excuses/
 categories:
   - Google
@@ -16,11 +16,11 @@ Russell Jones, CTO of SEO firm Virante, has found an original way of showing off
 
 The top **five SEO excuses** are:
 
-  * There&#8217;s no money in it
-  * It&#8217;s too competitive
-  * It&#8217;s unethical, right
-  * It&#8217;s too expensive
-  * It just doesn&#8217;t work
+  * There's no money in it
+  * It's too competitive
+  * It's unethical, right
+  * It's too expensive
+  * It just doesn't work
 
 Obviously, by now the top #5 has completely changed.  
 [<img  src="http://static.flickr.com/58/228197101_83df534845.jpg" width="500" height="466" alt="Five SEO Excuses" />](http://www.flickr.com/photos/pforret/228197101/ "five seo excuses")

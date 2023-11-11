@@ -4,7 +4,7 @@ title: 'Barcamp Brussels: this Sunday!'
 date: 2006-09-19T08:31:47+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2006/09/barcamp-brussels-this-sunday/
+guid: /2006/09/barcamp-brussels-this-sunday/
 permalink: /2006/09/19/barcamp-brussels-this-sunday/
 categories:
   - barcamp

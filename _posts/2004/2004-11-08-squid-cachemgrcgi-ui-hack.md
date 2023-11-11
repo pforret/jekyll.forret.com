@@ -4,7 +4,7 @@ title: Squid cachemgr.cgi UI hack
 date: 2004-11-08T16:01:00+01:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2004/11/squid-cachemgrcgi-ui-hack/
+guid: /2004/11/squid-cachemgrcgi-ui-hack/
 permalink: /2004/11/08/squid-cachemgrcgi-ui-hack/
 categories:
   - devops
@@ -19,14 +19,14 @@ Squid has a little system statistics viewer built-in:
 > The cache manager (cachemgr.cgi) is a CGI utility for displaying statistics about the squid process as it runs. The cache manager is a convenient way to manage the cache and view statistics without logging into the server.  
 > (from [Squid FAQ](http://www.squid-cache.org/Doc/FAQ/FAQ-9.html))
 
-The only thing is &#8230; it&#8217;s so ugly! It uses plain HTML and cannot be customized, the FAQ says. However, there is a way to do it:
+The only thing is &#8230; it's so ugly! It uses plain HTML and cannot be customized, the FAQ says. However, there is a way to do it:
 
 
 
   * copy `cachemgr.cgi` to `cachemgr2.cgi` so if you do something wrong, the original is not lost.
-  * open the CGI file in a text-editor. I used `vi`, but if you&#8217;re not used to working with it, use something else (emacs?).
+  * open the CGI file in a text-editor. I used `vi`, but if you're not used to working with it, use something else (emacs?).
   * in the binary file, look for some text portions that look like HTML code
-  * while keeping in mind that the # of characters should remain the same, change the <title> and <style> to something that suits you. You will have to do this at 2 locations in the file: one for the homepage template and one for the other pages&#8217; template.
+  * while keeping in mind that the # of characters should remain the same, change the <title> and <style> to something that suits you. You will have to do this at 2 locations in the file: one for the homepage template and one for the other pages' template.
   * suggestion: just let the CGI use a `style.css` file that you drop into the same folder.  
     `<link rel="stylesheet" type="text/css" href="style.css" mce_href="style.css" />` and fill up with spaces to keep the same # characters
   * verify that the `cachemgr` and the `cachemgr2` have the same # bytes

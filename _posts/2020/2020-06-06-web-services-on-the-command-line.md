@@ -61,9 +61,9 @@ Another genius project of Igor Chubin: [qrenco.de](http://qrenco.de) ([github](h
 
 ## Bandwidth speed
 
-Well this is a bit different, because you can&#8217;t measure internet speed with just a call to an external service. 
+Well this is a bit different, because you can't measure internet speed with just a call to an external service. 
 
-There is [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) which uses the [Fast.com](https://fast.com/) (Netflix) servers, but it&#8217;s a huge npm library (with [puppeteer](https://github.com/puppeteer/puppeteer), i.e. a full headless browser under the hood) you have to install on your local computer,
+There is [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) which uses the [Fast.com](https://fast.com/) (Netflix) servers, but it's a huge npm library (with [puppeteer](https://github.com/puppeteer/puppeteer), i.e. a full headless browser under the hood) you have to install on your local computer,
 
 A bit lighter is [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli), which is a Python script that uses the servers from [Speedtest](https://www.speedtest.net/). It is lighter in that it fetches the last version of the code from Github (with curl) and feeds this right into a python interpreter. Obviously you need Python on your machine.
 
@@ -113,7 +113,7 @@ Another CLI service by Igor chubin : [rate.sx](https://rate.sx/) for cryptocurre
 ![](https://blog.forret.com/wp-content/uploads/2020/06/Screenshot-2020-06-06-at-15.09.36.png)
 
 
-I had to search a bit, but I also found an API for &#8216;regular&#8217; currency exchange rates: 
+I had to search a bit, but I also found an API for &#8216;regular' currency exchange rates: 
 * [exchangeratesapi.io](https://exchangeratesapi.io/) (via [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets))
 * [abstractapi.com](https://www.abstractapi.com/exchange-rate-api)
 

@@ -4,7 +4,7 @@ title: FM Brussel playlist live on Twitter
 date: 2008-04-16T15:14:42+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/?p=1047
+guid: /?p=1047
 permalink: /2008/04/16/fm-brussel-playlist-live-on-twitter/
 categories:
   - Brussel

@@ -12,7 +12,7 @@ categories:
 tags:
     - apple
 ---
-This story illustrates the birth process of the Apple Mac user interface from 1978 to 1982, as told by Andy Hertzfeld. Lots of Polaroids to document the progress. The whole [Folklore](http://www.folklore.org/) site is full of early Apple inside stories, for instance on Steve Jobs&#8217; &#8220;Reality Distortion Field&#8221;.
+This story illustrates the birth process of the Apple Mac user interface from 1978 to 1982, as told by Andy Hertzfeld. Lots of Polaroids to document the progress. The whole [Folklore](http://www.folklore.org/) site is full of early Apple inside stories, for instance on Steve Jobs' &#8220;Reality Distortion Field&#8221;.
 
 {% include img.html
 src="https://www.folklore.org/images/Macintosh/polaroids/polaroids.19.jpg"

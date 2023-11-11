@@ -9,7 +9,7 @@ permalink: /2005/10/23/wealthy-belgian-bloggers-the-blog-dollars-top-60/
 categories:
   - Belgium
 ---
-![](http://static.flickr.com/23/25822676_789bf55448_t.jpg)Since I&#8217;ve been told my [&#8220;Popular Belgian Blogs&#8221; series (Jan-Feb 2005)](http://blog.forret.com/2005/02/popular-belgian-blogs-version-4/) was very much appreciated, I&#8217;ve just spent some time coming up with a new version. The main reason being: thanks to [Dane Carlson&#8217;s Blog Value Estimator](http://www.business-opportunities.biz/projects/how-much-is-your-blog-worth/) it is now so easy to put a value on a blog.  
+![](http://static.flickr.com/23/25822676_789bf55448_t.jpg)Since I've been told my [&#8220;Popular Belgian Blogs&#8221; series (Jan-Feb 2005)](/2005/02/popular-belgian-blogs-version-4/) was very much appreciated, I've just spent some time coming up with a new version. The main reason being: thanks to [Dane Carlson's Blog Value Estimator](http://www.business-opportunities.biz/projects/how-much-is-your-blog-worth/) it is now so easy to put a value on a blog.  
 Some prior remarks:
 
   * Where do the $ numbers come from?  
@@ -17,9 +17,9 @@ Some prior remarks:
     
     In short: [WeblogsInc got sold to AOL](http://today.reuters.com/business/newsArticle.aspx?storyID=nN06182182) for something between $25 MIO and $40 MIO. When Tristan Louis calculated the # of links to WeblogsInc blogs in Technorati, he could thus come up with a $value/link. 
 
-  * Only data from Technorati => only links between blogs have value. If I&#8217;m not mistaken, only &#8216;recent&#8217; links count, which are the ones in the last 6 months. 
-  * Where did I get a list of blog URLs to check? I used my own [Belgian Top 30 v4](http://blog.forret.com/blog/2005/02/popular-belgian-blogs-version-4.html), the attendee list of the [Brussels Bloggers Dinner](http://blog.forret.com/blog/2005/09/brussels-bloggers-meeting-on-oct-7.html) Bart and I organized, the blogs on [blogium.be](http://www.blogium.be), links from blogrolls, and blogs I know. Even if it&#8217;s a pet topic of mine to keep an eye on the Belgian Blogosphere, the list is by no means complete. For additions, check the feedback possibility under the list! 
-  * I&#8217;ve listed 60 Belgian blogs that had a value > $0. I actually checked around 100 blogs. 
+  * Only data from Technorati => only links between blogs have value. If I'm not mistaken, only &#8216;recent' links count, which are the ones in the last 6 months. 
+  * Where did I get a list of blog URLs to check? I used my own [Belgian Top 30 v4](/blog/2005/02/popular-belgian-blogs-version-4.html), the attendee list of the [Brussels Bloggers Dinner](/blog/2005/09/brussels-bloggers-meeting-on-oct-7.html) Bart and I organized, the blogs on [blogium.be](http://www.blogium.be), links from blogrolls, and blogs I know. Even if it's a pet topic of mine to keep an eye on the Belgian Blogosphere, the list is by no means complete. For additions, check the feedback possibility under the list! 
+  * I've listed 60 Belgian blogs that had a value > $0. I actually checked around 100 blogs. 
   * I only checked 15 FR blogs, and most of them had a value = $0. So any new suggestions there are welcome! 
   * Any system that lists my own blog in the top 10 must be REALLY accurate 🙂
 
@@ -30,7 +30,7 @@ Some prior remarks:
   5. $94,842 : [jahsonic.com](http://www.jahsonic.com/) 
   6. $91,455 : [mathibus.com](http://mathibus.com/) 
   7. $83,551 : [dominiek.be](http://www.dominiek.be/) 
-  8. $73,390 : [blog.forret.com](http://blog.forret.com) 
+  8. $73,390 : [blog.forret.com]() 
   9. $70,567 : [standaard.typepad.com](http://standaard.typepad.com/) 
  10. $65,486 : [coolios.net](http://www.coolios.net/) 
  11. $62,663 : [kapingamarangi.be](http://www.kapingamarangi.be/) 
@@ -90,7 +90,7 @@ So who wants to help in updating this list?
 
   * I would like to keep the list manageable. Should I limit this to a top 30 or 40, or only list blogs that have a valuation > $10,000? Your feedback is welcome!
   * If you have &#8211; or know of &#8211; a Belgian blog (EN/NL/FR) that has a valuation with the above system that is > $0, please let me know by adding it to the comments below. Or send me an email at blog @ forret.com. 
-  * The only criteria are &#8216;Belgian&#8217; (written by a Belgian, or in Belgium) and &#8216;blog&#8217; (must have RSS/Atom, archives, &#8230; &#8211; e.g. [humoliegt.be](http://www.humoliegt.be/) looks like a blog, but it is &#8211; deliberately &#8211; not one). Podcasts, videoblogs, photoblogs, &#8230; are welcome. 
-  * I was thinking of also putting the names of the people responsible for each blog, the author(s), next to the URL, so you get an idea of who is active where. But this top-of-the-pops list might score high in Google for those names, and I&#8217;m not sure every author would like that (cf [Jakob Nielsen #9](http://www.useit.com/alertbox/weblogs.html): _&#8220;Forgetting That You Write for Your Future Boss&#8221;_). Maybe only those authors who put their name on their blog? What do you think? 
+  * The only criteria are &#8216;Belgian' (written by a Belgian, or in Belgium) and &#8216;blog' (must have RSS/Atom, archives, &#8230; &#8211; e.g. [humoliegt.be](http://www.humoliegt.be/) looks like a blog, but it is &#8211; deliberately &#8211; not one). Podcasts, videoblogs, photoblogs, &#8230; are welcome. 
+  * I was thinking of also putting the names of the people responsible for each blog, the author(s), next to the URL, so you get an idea of who is active where. But this top-of-the-pops list might score high in Google for those names, and I'm not sure every author would like that (cf [Jakob Nielsen #9](http://www.useit.com/alertbox/weblogs.html): _&#8220;Forgetting That You Write for Your Future Boss&#8221;_). Maybe only those authors who put their name on their blog? What do you think? 
 
 Technorati: <a href="http://technorati.com/tag/blog" rel="tag">blog</a> &#8211; <a href="http://technorati.com/tag/belgium" rel="tag">belgium</a> &#8211; <a href="http://technorati.com/tag/business" rel="tag">business</a> &#8211; <a href="http://technorati.com/tag/blogosphere" rel="tag">blogosphere</a> &#8211; <a href="http://technorati.com/tag/blogium" rel="tag">blogium</a>

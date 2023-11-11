@@ -4,7 +4,7 @@ title: My first picture in the papers
 date: 2007-08-23T14:45:44+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2007/08/my-first-picture-in-the-papers/
+guid: /2007/08/my-first-picture-in-the-papers/
 permalink: /2007/08/23/my-first-picture-in-the-papers/
 categories:
   - Belgium

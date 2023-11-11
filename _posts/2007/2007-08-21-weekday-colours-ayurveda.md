@@ -59,7 +59,7 @@ If you are besieged by nagging interminable legal problems, launch an all out ef
 
 ## [Sunday](/2007/08/21/what-to-wear-on-sunday/)
 
-An excellent day to undertake journeys, Sunday is also an extremely conducive day on which to resolve old disputes. Sunday, being a day for celebration, is the most suitable day to feed and entertain friends and family. (...) If one wears **pink** or **maroon** clothes on Sundays one can make friends easily and will enhance one&#8217;s personality. It is the day which is most suitable to initiate discussions and negotiations about new projects with government officials.
+An excellent day to undertake journeys, Sunday is also an extremely conducive day on which to resolve old disputes. Sunday, being a day for celebration, is the most suitable day to feed and entertain friends and family. (...) If one wears **pink** or **maroon** clothes on Sundays one can make friends easily and will enhance one's personality. It is the day which is most suitable to initiate discussions and negotiations about new projects with government officials.
 
 (via [astrologycom.com/ayurveda7](https://www.astrologycom.com/ayurveda7.html) )
 

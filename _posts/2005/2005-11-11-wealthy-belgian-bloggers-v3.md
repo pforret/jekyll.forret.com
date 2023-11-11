@@ -12,7 +12,7 @@ categories:
 ![](http://static.flickr.com/23/25822676_789bf55448_t.jpg)  
 Here we go again with another update:
 
-  * Where do the $ numbers come from? See [Wealthy Belgian Bloggers v1](http://blog.forret.com/2005/10/wealthy-belgian-bloggers-the-blog-dollars-top-60/) and [Wealthy Belgian Bloggers v2](http://blog.forret.com/2005/10/wealthy-belgian-bloggers-v20/) (based on [business-opportunities.biz](http://www.business-opportunities.biz/projects/how-much-is-your-blog-worth/))! 
+  * Where do the $ numbers come from? See [Wealthy Belgian Bloggers v1](/2005/10/wealthy-belgian-bloggers-the-blog-dollars-top-60/) and [Wealthy Belgian Bloggers v2](/2005/10/wealthy-belgian-bloggers-v20/) (based on [business-opportunities.biz](http://www.business-opportunities.biz/projects/how-much-is-your-blog-worth/))! 
   * In order to limit the length of the list and to make it easy to see if your blog should be in this list, I only list blogs with a value > $10,000 (almost 50 now). 
   * I had a lot of input from [BVLG](http://bvlg.blogspot.com/) who also has made his own [Top 60 based on Blogshares (v2.0)](http://bvlg.blogspot.com/2005/11/belblog60-v20-de-beurswaarde-van-de.html). Check it out too! 
 
@@ -23,7 +23,7 @@ Here we go again with another update:
   5. $99,359 : [zattevrienden.be](http://www.zattevrienden.be) 
   6. $97,665 : [mathibus.com](http://mathibus.com/) 
   7. $83,551 : [dominiek.be](http://www.dominiek.be/) 
-  8. $82,987 : [blog.forret.com](http://blog.forret.com/blog/) 
+  8. $82,987 : [blog.forret.com](/blog/) 
   9. $70,567 : [standaard.typepad.com](http://standaard.typepad.com/) 
  10. $65,486 : [coolios.net](http://www.coolios.net/) 
  11. $62,663 : [kapingamarangi.be](http://www.kapingamarangi.be/) 
@@ -78,5 +78,5 @@ Here we go again with another update:
 
   * If you have &#8211; or know of &#8211; a Belgian blog (EN/NL/FR) that has a valuation with the above system that is > $10.000, please let me know by adding it to the comments below. Or send me an email at blog @ forret.com.
 
-  * The only criteria are &#8216;Belgian&#8217; (written by a Belgian, or in Belgium) and &#8216;blog&#8217; (must have RSS/Atom, archives, &#8230;). Podcasts, videoblogs, photoblogs, &#8230; are welcome. 
+  * The only criteria are &#8216;Belgian' (written by a Belgian, or in Belgium) and &#8216;blog' (must have RSS/Atom, archives, &#8230;). Podcasts, videoblogs, photoblogs, &#8230; are welcome. 
     Technorati: <a href="http://technorati.com/tag/blog" rel="tag">blog</a> &#8211; <a href="http://technorati.com/tag/belgium" rel="tag">belgium</a> &#8211; <a href="http://technorati.com/tag/business" rel="tag">business</a> &#8211; <a href="http://technorati.com/tag/blogosphere" rel="tag">blogosphere</a> &#8211; <a href="http://technorati.com/tag/blogium" rel="tag">blogium</a>

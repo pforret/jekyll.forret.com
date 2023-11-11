@@ -4,7 +4,7 @@ title: Equal Pay Day
 date: 2007-03-30T09:29:48+02:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2007/03/equal-pay-day/
+guid: /2007/03/equal-pay-day/
 permalink: /2007/03/30/equal-pay-day/
 categories:
   - advertising

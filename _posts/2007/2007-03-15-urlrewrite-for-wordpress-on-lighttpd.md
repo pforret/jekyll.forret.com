@@ -4,12 +4,12 @@ title: url.rewrite for WordPress on Lighttpd
 date: 2007-03-15T14:12:12+01:00
 author: Peter
 layout: post
-guid: http://blog.forret.com/2007/03/urlrewrite-for-wordpress-on-lighttpd/
+guid: /2007/03/urlrewrite-for-wordpress-on-lighttpd/
 permalink: /2007/03/15/urlrewrite-for-wordpress-on-lighttpd/
 categories:
   - Wordpress
 ---
-<img src="http://farm1.static.flickr.com/36/122571807_97bd810dd7_t.jpg" style="float: right" alt="Lighty" />This blog now runs on a [Lighttpd](http://www.lighttpd.net/) (Lighty) webserver instead of Apache, and this means the configuration for &#8216;pretty URLs&#8217; or permalinks of [WordPress](http://wordpress.org) doesn&#8217;t work like it used to.  
+<img src="http://farm1.static.flickr.com/36/122571807_97bd810dd7_t.jpg" style="float: right" alt="Lighty" />This blog now runs on a [Lighttpd](http://www.lighttpd.net/) (Lighty) webserver instead of Apache, and this means the configuration for &#8216;pretty URLs' or permalinks of [WordPress](http://wordpress.org) doesn't work like it used to.  
 (As you might have noticed, I use permalinks like _/2007/02/this-is-permalink/_)
 
 Whereas WordPress can automatically adapt the Apache .htacccess file to something like  
@@ -59,6 +59,6 @@ The xmlrpc.php rule is necessary for external access (like, publishing from del.
 For those stubborn visitors who always precede their URLs with www, you can also add a redirect:  
 `<br />
 $HTTP["host"] =~ "www.blog.forret.com" {<br />
-url.redirect = ( ".*" => "http://blog.forret.com")<br />
+url.redirect = ( ".*" => "")<br />
 }<br />
 `
