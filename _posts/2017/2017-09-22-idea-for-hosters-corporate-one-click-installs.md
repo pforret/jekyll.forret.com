@@ -1,5 +1,5 @@
 ---
-title: Branded tools as a service
+title: "Idea: Branded tools as a service"
 date: 2017-09-22T15:47:37+02:00
 author: Peter
 layout: post
@@ -17,7 +17,7 @@ tags:
   - saas
   - service
 ---
-A lot of hosting companies already offer **one-click installs** for WordPress, Drupal, Joomla, dotProject. These are mostly content (CMS) tools. They&#8217;re useful, but they cover only a part of what a corporate customer would want. I would love to see a hosting company that offers **branded tools as a service**:
+A lot of hosting companies already offer **one-click installs** for WordPress, Drupal, Joomla, dotProject. These are mostly content (CMS) tools. They're useful, but they cover only a part of what a corporate customer would want. I would love to see a hosting company that offers **branded tools as a service**:
 
   * let you register your domain name with them: **mycompany.com**
   * first add a blog on **www.mycompany.com** (maybe WordPress)
@@ -30,9 +30,9 @@ A lot of hosting companies already offer **one-click installs** for WordPress, D
   * now add a mailing list service on **newsletter.mycompany.com**
   * now add &#8230;
 
-![](http://blog.forret.com/wp-content/uploads/2016/12/goodies_dreamhost.png)
+![](/wp-content/uploads/2016/12/goodies_dreamhost.png)
 
-It doesn&#8217;t really matter if these services are hosted on your account (e.g. with an open-source software, with Docker) or are actually SaaS offers (style FreshDesk/FreshService) where the hosting company takes care of the registration. But the beauty is knowing that you have easy solutions to problems that all companies have, and you have central management and invoicing.
+It doesn't really matter if these services are hosted on your account (e.g. with an open-source software, with Docker) or are actually SaaS offers (style FreshDesk/FreshService) where the hosting company takes care of the registration. But the beauty is knowing that you have easy solutions to problems that all companies have, and you have central management and invoicing.
 
 Ideally, all these tools would also use the same user database (LDAP/OAuth), so that you only have to add/remove an employee on one place, and all the tools will use that user database as authentication source.
 
