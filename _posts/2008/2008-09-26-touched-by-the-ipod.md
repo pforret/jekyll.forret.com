@@ -3,7 +3,7 @@ title: Touched by the iPod
 date: 2008-09-26T20:21:01+02:00
 author: Peter
 layout: post
-image: http://farm4.static.flickr.com/3170/2889694915_1806610e10_m.jpg
+image: https://farm4.static.flickr.com/3170/2889694915_1806610e10_m.jpg
 permalink: /2008/09/26/touched-by-the-ipod/
 categories:
   - Apple
@@ -15,6 +15,8 @@ tags:
 ---
 
 As most geeks in my circle of friends, I am known to buy hardware slightly more often than the average Joe. I have 3 Wifi routers at home (just gave away my 4th one), I have more than 2TB of hard disk storage, split out over half a dozen of PCs and devices, and I have more USB cables than teeth. But hardware that makes me \*really\* happy, that is uncommon. Don't get me started on failing hard disks and non-functioning printers. So let me tell you about this new piece of hardware that I bought: the [iPod Touch](http://www.apple.com/ipodtouch/).
+
+![iPod Touch](https://farm4.static.flickr.com/3170/2889694915_1806610e10_m.jpg)
 
 ## No iPhone, thanks
 

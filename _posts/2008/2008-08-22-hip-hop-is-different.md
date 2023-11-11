@@ -12,6 +12,7 @@ tags:
     - statistics
     - visualisation
     - hiphop
+    - rap
 ---
 ![](https://live.staticflickr.com/3223/2787660324_486a64c88c_o.jpg)
 
@@ -21,7 +22,7 @@ tags:
 
 If you ever wanted proof that hip-hop & rap are a disruptive music genre, take a look at this study/art work by [Fernanda Viegas](http://www.fernandaviegas.com/), [>Martin Wattenberg](http://www.bewitched.com/) & the crowdsourcing specialists at [Dolores Labs](http://doloreslabs.com/): Fleshlabs.
 
-They've take the lyrics of a lot of songs and figured out which body parts are most mentioned.
+They've taken the lyrics of a lot of songs and figured out which body parts are most mentioned.
 
 _Based on a compilation of more than 10,000 songs, the piece visualizes the use of words representing body parts in popular culture. Each musical genre exhibits its own characteristic set of words, with more frequently used terms showing up as bigger images. The entrance image shows how many times different body parts are mentioned; the charts for each genre go into more detail, showing the usage of different synonyms for each part._
 
@@ -31,8 +32,10 @@ For most genres the #1 bodypart is the eyes, for some others it's the hands. The
 
 We might think this is a recent MTV-ish development, but may I recall you the lyrics of Rapper's Delight (1979) &#8211; one of the first hip-hop hits:
 
-<p style="padding-left: 30px;">
-  <span style="font-size: x-small;"><em>he may be able to fly all through the night<br /> but can he rock a party til the early light<br /> he cant satisfy you with his little worm<br /> but i can bust you out with my super sperm<br /> i go do it, i go do it, i go do it, do it , do it</em> </span>
-</p>
+    he may be able to fly all through the night
+    but can he rock a party til the early light
+    he cant satisfy you with his little worm
+    but i can bust you out with my super sperm
+    i go do it, i go do it, i go do it, do it , do it
 
- Which was Big Bank Hank talking to Lois Lane about Superman. 1979, folks, and they did censor one thing: the &#8216;damn' in _&#8216;I <span style="font-size: x-small;">didn't even bite and not a god d&#8211;m word &#8216;</span>_.
+Which was Big Bank Hank talking to Lois Lane about Superman. 1979, folks, and they did censor one thing: the 'damn' in 'I didn't even bite and not a god d**m word'.
