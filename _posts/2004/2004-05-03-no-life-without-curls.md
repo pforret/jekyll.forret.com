@@ -36,7 +36,7 @@ Let's say if you check out a page like this: `curl -I http://someserver.com/what
   * `<b>HTTP/1.1 200 OK</b>`  
     &nbsp;&nbsp;&nbsp;This is the &#8216;normal' result of asking a web page.</p> 
 
-For SSL/HTTPS problems, you better use `curl -Ivk`, because it gives you &#8220;\* Connected to someserver.com port 443 \* SSL connection using RC4-MD5 * Server certificate: (certificate content) &#8230;&#8221; information.
+For SSL/HTTPS problems, you better use `curl -Ivk`, because it gives you information on the server certificate.
 
 Have CURL installed on all your machines, Linux or Windows. Actually, add [unxutils.sourceforge.net](http://unxutils.sourceforge.net/) to your Windows machine, so you can work with gawk and wget too.
 
