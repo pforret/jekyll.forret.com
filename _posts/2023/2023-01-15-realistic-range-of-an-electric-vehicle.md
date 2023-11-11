@@ -3,27 +3,25 @@ title: Realistic daily range of an electric vehicle
 layout: post
 image: wp-content/uploads/2023/01/ev.jpg
 permalink: /2023/01/15/realistic-daily-range-ev/
-
 categories:
-- car
-
+    - car
 tags:
-- tesla
-- ev
-- electric
+    - tesla
+    - ev
+    - electric
 ---
 I have been driving my Tesla Model Y 2021 for almost 18 months now, 
 and while I do not really suffer from EV Range Anxiety, 
-I would like to nuance the official Tesla ModelY LR **330 miles / 533km range**. 
+I would like to nuance the official range of the Tesla Model Y LR, which is **330 miles / 533km range**. 
 That number very much feels like a theoretical maximum. It is not the number you should have in mind when you're deciding on the next car to buy.
 
 ![](/wp-content/uploads/2023/01/ev.jpg)
 
 ## EPA estimated range
 
-The range calculation on most car vendor's websites is the EPA estimated range. The procedure to get to that number is:
+The range calculation on most car vendor's website is the **EPA estimated range**. The procedure to get to that number is:
 
-> <small>First, the vehicle is fully charged and parked overnight. The following day, the vehicle is driven on a dynamometer — it's like a treadmill for cars — over successive simulated city and highway routes until the battery is depleted. The total distance traveled is then multiplied by a correction factor that the EPA has determined will more accurately reflect what drivers can expect to achieve in the real world. (...)
+> <small>First, the vehicle is fully charged and parked overnight. The following day, the vehicle is driven on a dynamometer — it's like a treadmill for cars — over successive simulated city and highway routes **until the battery is depleted**. The total distance traveled is then multiplied by a correction factor that the EPA has determined will more accurately reflect what drivers can expect to achieve in the real world. (...)
 > [edmunds.com](https://www.edmunds.com/car-news/electric-car-range-and-consumption-epa-vs-edmunds.html)</small>
 
 ## Realistic daily range
