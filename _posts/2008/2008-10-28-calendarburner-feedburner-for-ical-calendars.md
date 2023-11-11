@@ -1,28 +1,27 @@
 ---
-id: 1099
-title: 'CalendarBurner: Feedburner for iCal calendars'
+title: 'Idea: CalendarBurner, like Feedburner for calendars'
 date: 2008-10-28T19:43:47+01:00
 author: Peter
 layout: post
-guid: /?p=1099
 permalink: /2008/10/28/calendarburner-feedburner-for-ical-calendars/
+image: /wp-content/uploads/2008/10/unsplash.calendar.jpg
 categories:
-  - Google
   - idea
-  - RSS
-  - Web2.0
 tags:
   - calendar
   - feedburner
   - ical
 ---
-<img  class="alignright" style="float: right;" src="http://www.bgtango.com/wp-content/uploads/2008/10/tango-calendar-300x171.png" alt="" width="300" height="171" /> I am currently using my experience with [milonga.be](http://www.milonga.be) to build a similar site for [Tango in Bulgaria](http://www.bgtango.com). One of the major components of the site is the [tango calendar](http://www.bgtango.com/en/calendar/). In this case I have chosen not to use a special iCal visualisation tool (more on that later in a series posts on Tango2.0), but just the standard [Google Calendar](http://www.google.com/calendar/) IFRAME-based widget.
+
+![](/wp-content/uploads/2008/10/unsplash.calendar.jpg)
+
+I am currently using my experience with [milonga.be](http://www.milonga.be) to build a similar site for [Tango in Bulgaria](http://www.bgtango.com). One of the major components of the site is the [tango calendar](http://www.bgtango.com/en/calendar/). In this case I have chosen not to use a special iCal visualisation tool (more on that later in a series posts on Tango2.0), but just the standard [Google Calendar](http://www.google.com/calendar/) IFRAME-based widget.
 
 It's not a bad widget, but it's too limited. You can only display &#8220;Day/Week/Month/Agenda&#8221; style, the colors and fonts are fixed and it does funny stuff for events that continue after 12:00AM (which tango events regularly do, believe me).
 
 I've already talked about the fact that [iCal is a sissy format](/2007/04/creating-a-tango-calendar/) and that [Gcal needs some more features](/2007/08/what-google-agenda-currently-misses/). I was just thinking that it would be nice if some company would jump on that and provide the whistles and bells for iCal/vCal feeds (like those of Google Calendar), just like [Feedburner](http://www.feedburner.com) did with RSS/podcast feeds (and they got bought by Google, so maybe their idea wasn't half bad). So I introduce the following concept: CalendarBurner (since the Calburner/iCalburner domains are taken).
 
-**<!--more-->CalendarBurner**
+## CalendarBurner
 
   * takes any iCal/vCal feed as input &#8211;  can also interpret [hCalendar](http://microformats.org/wiki/hcalendar) and whatever other calendar format might exist (there must be at least 1 XML based format, right?)
   * it knows about Gcal, Upcoming, Apple iCal and other hosted calendar applications

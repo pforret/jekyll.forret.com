@@ -2,5 +2,5 @@
 layout: with_category
 title: Technology
 keyword: technology
-count: 21
+count: 20
 ---

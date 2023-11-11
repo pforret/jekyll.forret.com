@@ -4,15 +4,14 @@ title: "Idea: Package Delivery 2.0"
 date: 2007-04-05T11:14:51+02:00
 author: Peter
 layout: post
-guid: /2007/04/package-delivery-20/
 permalink: /2007/04/05/package-delivery-20/
 categories:
-    - photography
-    - Web2.0
     - idea
+tags:
+    - photography
+    - hardware
+    - delivery
 ---
-![](https://farm1.static.flickr.com/186/441738816_284b901a58.jpg)
-
 I spent last weekend at the [Brussels Tango Festival](http://blog.brusselstangofestival.be/), mostly taking pictures of people dancing. Because of the lack of light that is typical for tango events, I had bought a Canon 50mm f/1.8 lens online one week before. First at [Pixmania](http://www.pixmania.be), but because they couldn't deliver fast enough (product not in stock), I cancelled and ordered at [Foto Konijnenberg](http://www.fotokonijnenberg.nl/). I expected the package to be delivered in a couple of days. When I didn't see any sign of delivery and the track&trace URL didn't work, I contacted Foto Konijnenberg (very friendly and correct customer support, by the way) to ask what was happening. Apparently the transport company had been at my door twice, did however not leave any message, took the package back and at that moment no one could tell me where the package was. We're now 2 weeks after purchase and still at the same stage: my lens is somewhere in the purgatory between vendor and buyer but the transport company (TNT/DPD) has no clue where.
 
 Apart from the fact that the transporter screwed up their tracking of the package, the whole process of showing up at closed doors and going back seems so inefficient. It's like so much effort has been spent to smoothen out the process of purchasing online, but the physical delivery still works basically the same as twenty years ago, even-though the drivers now have wireless devices, and you have to sign on an electronic sensor.
