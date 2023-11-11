@@ -3,27 +3,27 @@ title: Generate individual tag/category/author pages for your Jekyll website
 layout: post
 image: https://github.com/pforret/jekyll_taxonomy/raw/master/assets/taxonomy.jpg
 permalink: /2021/03/21/create-tag-category-pages-jekyll/
-
 categories:
-    - github
+    - devops
 tags:
     - jekyll
     - static
+    - github
     - bash
     - bashew
     - wordpress
 ---
-I've been migrating more and more of my websites to [Jekyll](https://jekyllrb.com/) static sites, from Wordpress. The advantages are clear:
+I've been migrating more and more of my websites to [Jekyll](https://jekyllrb.com/) static sites, from WordPress. The advantages are clear:
 * version management with `git` suits me (it's how I develop software).
-* deployment/hosting with Github Pages is very easy and can be automated
+* deployment/hosting with GitHub Pages is very easy and can be automated
 * the security of having a static site (i.e. no visitor/hacker can change it) is a relief
-* sure, Wordpress has plugins and comments, but that has become more of a burden than a feature for me.
+* sure, WordPress has plugins and comments, but that has become more of a burden than a feature for me.
 
 I created a personal [Jekyll template for blog sites](https://github.com/pforret/jekyll_template_blog) (with posts) and another [Jekyll template for photography sites](https://github.com/pforret/jekyll_template_photo) (with photos).
 
 ## Tag/category indexes
 
-One thing that I still had to solve was tag and category indexes. Wordpress does a great job of creating index pages for years, months, categories and tags. If your post uses the tag 'apple', it also shows up in the index page for the tag 'apple'. All these pages help your SEO a lot. 
+One thing that I still had to solve was tag and category indexes. WordPress does a great job of creating index pages for years, months, categories and tags. If your post uses the tag 'apple', it also shows up in the index page for the tag 'apple'. All these pages help your SEO a lot. 
 
 Jekyll, on the other hand, only generates a web page for each .md or .html in the source. To get 100 different pages for 100 different tags, there need to be 100 source documents. No one wants to add/edit these by hand. Surely this could be automated, right? Thanks to my [bashew bash script template](https://github.com/pforret/bashew), this was only one evening's work.
 

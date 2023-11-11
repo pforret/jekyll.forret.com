@@ -7,7 +7,7 @@ layout: post
 permalink: /2021/01/21/creating-image-reveal-videos-with-ffmpeg-and-primitive/
 image: /wp-content/uploads/2021/01/thehelp.026.jpg
 categories:
-  - github
+  - video
 tags:
   - bash
   - bashew
@@ -15,7 +15,6 @@ tags:
   - github
   - instagram
   - primitive
-  - video
 ---
 One of the projects I started during the lockdown is [@**squaredforwork**](https://www.instagram.com/squaredforwork/) 
 which is now named &#8220;**Guess the movie?**&#8221; . 

@@ -4,9 +4,9 @@ layout: post
 permalink: /2022/10/15/bashew-github-action/
 image: /wp-content/uploads/2022/10/unsplash.github.jpg
 categories:
-    - bash
-tags:
     - bashew
+tags:
+    - devops
     - github
     - action
     - runner

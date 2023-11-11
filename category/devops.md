@@ -2,5 +2,5 @@
 layout: with_category
 title: Devops
 keyword: devops
-count: 6
+count: 8
 ---

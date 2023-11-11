@@ -1,13 +1,9 @@
 ---
-id: 2352
 title: 'Splashmark: easy Unsplash image markup on the command line (bash)'
 date: 2020-10-07T08:38:49+02:00
 author: Peter
 layout: post
-guid: https://blog.forret.com/?p=2352
 permalink: /2020/10/07/new-script-splashmark-easy-unsplash-image-markup-on-the-command-line/
-spay_email:
-  - ""
 image: /wp-content/uploads/2020/10/splashmark.jpg
 categories:
   - bashew

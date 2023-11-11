@@ -3,7 +3,6 @@ title: "The semver version in a file makes sense"
 layout: post
 image: 
 permalink: /2023/07/01/setver-semver/
-
 categories:
 - devops
 tags:
