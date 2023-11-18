@@ -1,7 +1,7 @@
 ---
-title: "The semver version in a file makes sense"
+title: "Put your (software) version in a file"
 layout: post
-image: 
+image: /wp-content/uploads/2023/11/unsplash.version.jpg
 permalink: /2023/07/01/setver-semver/
 categories:
 - devops
