@@ -4,9 +4,8 @@ title: Learning Bulgarian in an hour
 date: 2007-11-09T22:49:04+01:00
 author: Peter
 layout: post
-guid: /2007/11/learning-bulgarian-in-an-hour/
 permalink: /2007/11/09/learning-bulgarian-in-an-hour/
-image: /wp-content/uploads/2018/11/fig-13-11-2018_14-00-40.jpg
+image: /wp-content/uploads/2023/11/unsplash.sofia.jpg
 categories:
   - culture
 tags:
@@ -19,7 +18,9 @@ tags:
 ---
 Just read an interesting post: [How to Learn (But Not Master) Any Language in 1 Hour](http://www.fourhourworkweek.com/blog/2007/11/07/how-to-learn-but-not-master-any-language-in-1-hour-plus-a-favor/). Let's see how that works out with [Bulgarian](http://en.wikipedia.org/wiki/Bulgarian_language).
 
-#### Introduction
+![](/wp-content/uploads/2023/11/unsplash.sofia.jpg)
+
+## Introduction
 
 Bulgarian is a slavic language written in a cyrillic alphabet of 30 letters:  
 [<img  src="http://farm3.static.flickr.com/2194/1935951683_04da8f9ecc.jpg" alt="alphabet2" width="500" height="292" />](http://www.flickr.com/photos/pforret/1935951683/ "Photo Sharing")
@@ -28,7 +29,7 @@ Bulgarian is a slavic language written in a cyrillic alphabet of 30 letters:
 
 For easier reading for us used to roman alphabets, and for Bulgarians with a US keyboard, there is a way to rewrite cyrillic words called &#8220;transliteration&#8221; or more specific &#8220;romanization&#8221;. I have -obviously- created one: [Bulgarian romanization: cyrillic <> latin](http://tools.forret.com/romanize/bulgarian.php).
 
-#### Difficulty
+## Difficulty
 
 First estimating the difficulty of learning this language:
 
@@ -42,7 +43,7 @@ First estimating the difficulty of learning this language:
   4. _All of which answer: How difficult will it be, and how long would it take to become functionally fluent?_  
     God, if I knew the answer to that question.
 
-#### <!--more-->Language structure
+## Language structure
 
 Let's take his 8 sentences that clarify a lot about how the language works:
 
@@ -62,17 +63,17 @@ I would actually add one sentence to that, to see if adjectives come before the 
 
 Before the noun it is!
 
-#### Helping verbs
+## Helping verbs
 
 And the verbs for easy auxiliary usage are:
 
-  * I want, you want: Аз искам, Tи искaш &#8211; _Az iskam, Ti iskash_
+  * I want, you want: Аз искам, Tи искaш &#8211; _Az iskam, Ti iskash_
   * I can, you can: Аз мoгa, Tи мoжeш &#8211; _Az moga, Ti mozhesh_
   * I have to, you have to: Аз трябваше, Tи трябвало &#8211; _Az tryabvashе, Ti tryabvalо_
-  * I love to, you love to: Аз обичам, ти обичaш &#8211; _Az оbicham, Ti obichash_
+  * I love to, you love to: Аз обичам, ти обичaш &#8211; _Az оbicham, Ti obichash_
 
-#### Sounds and scripts
+## Sounds and scripts
 
-Bulgarian has 6 vowels: A E И O У Ъ, and two that are a combination of a consonant and a vowel: Ю (yu) &#8211; Я (ya). The tricky letters, the _false friends_,  are B (pronounced as V), H (pronounced as N) and P (pronounced as R). The C is pronounced as S but that's also the case in &#8220;poli**c**e&#8221;.
+Bulgarian has 6 vowels: A E И O У Ъ, and two that are a combination of a consonant and a vowel: Ю (yu) &#8211; Я (ya). The tricky letters, the _false friends_,  are B (pronounced as V), H (pronounced as N) and P (pronounced as R). The C is pronounced as S but that's also the case in &#8220;poli**c**e&#8221;.
 
 Interesting! Let's see what his second language learning post will be about &#8230;
