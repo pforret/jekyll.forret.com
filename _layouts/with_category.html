@@ -9,6 +9,7 @@ layout: page
 %}{% assign post_categories = post.categories | downcase
 %}{% if post_categories contains page.keyword %}
 <li><a href="{{ post.url }}">{{ post.title }}</a> &bull; <small>{{ post.date | date_to_string }}</small><br />
-{{ post.excerpt | strip_html | truncatewords: 40 }}
+    {% if post.image %}<img style="max-width: 200px" src="{{post.image}}">{% endif %}
+    {{ post.excerpt | strip_html | truncatewords: 40 }}
 </li>{% endif %}{% endfor %}
 </ul>
