@@ -6,7 +6,7 @@ layout: post
 permalink: /2023/12/01/printthatvideo/
 image: wp-content/uploads/2023/12/url.download.339f88.jpg
 categories:
-  - projects
+  - idea
 tags:
   - print
   - video
