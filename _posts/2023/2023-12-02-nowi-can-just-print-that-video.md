@@ -4,7 +4,7 @@ date: 2023-12-01T22:49:04+01:00
 author: Peter
 layout: post
 permalink: /2023/12/01/printthatvideo/
-image: wp-content/uploads/2023/12/url.download.339f88.jpg
+image: /wp-content/uploads/2023/12/url.download.339f88.jpg
 categories:
   - idea
 tags:
@@ -13,6 +13,9 @@ tags:
   - ai
   - laravel
   - pdf
+  - instagram
+  - youtube
+  - tiktok
 ---
 It all started with Instagram Reels showing me too many yummy cooking videos. I wanted to try some recipes out myself. 
 But I didn't want to have to keep my phone in the kitchen, and I didn't want to have to keep unlocking it to see the next step. 
@@ -27,7 +30,7 @@ Surely the current state of A.I. services should make this within reach. Let's s
 
 Where is the relevant information in a cooking video?
 
-* Sometimes it is posted as the body text of the video. 
+* Sometimes it is posted as the body text with the video.
 * Sometimes it is narrated by a voiceover. 
 * Sometimes it is a series of (sub)titles that are printed on the screen.
 * Sometimes essential steps are shown on the screen (not with text).
@@ -50,6 +53,8 @@ Again `yt-dlp` comes to the rescue. It can also download an JSON metadata file t
 yt-dlp -q --write-info-json -o '$output' '$url'
 ```
 So the Downloader class now also downloads the metadata file and parses it.
+
+In practice: this is often used in Instagram reels, and YouTube shorts, less so with TikTok posts.
 
 ## Step 3: extracting the voiceover
 
@@ -94,7 +99,7 @@ So what does that look like all together?
 
 <embed src="/wp-content/uploads/2023/12/recipe1.pdf" width="800px" height="1130px" />
 
-It sure works for some of the cooking/culinary videos that I had in mind. 
+It sure works for some of the cooking/culinary videos that I had in mind. I've tested it with Instagram, YouTube and TikTok videos.
 In theory, it could work for any video that has a voiceover or subtitles.
 Fitness instructions, make-up videos, language lessons, ...
 I haven't tried it out on those yet.
