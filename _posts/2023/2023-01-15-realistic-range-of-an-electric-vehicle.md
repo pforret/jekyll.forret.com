@@ -1,7 +1,7 @@
 ---
 title: Realistic daily range of an electric vehicle
 layout: post
-image: wp-content/uploads/2023/01/ev.jpg
+image: /wp-content/uploads/2023/01/ev.jpg
 permalink: /2023/01/15/realistic-daily-range-ev/
 categories:
     - car
