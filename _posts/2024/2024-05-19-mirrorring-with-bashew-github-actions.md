@@ -26,9 +26,10 @@ Since I had to wait for the second power supply to arrive, I investigated what o
 * [Hostify](https://www.hostifi.com/#pricing): > 99$/mon
 * [Unihosting](https://www.unihosted.com/#pricing): free for 1 site and <= 5 devices). 
 
+But I had already purchased the Cloud Key Gen 2, and I didn't want to pay a monthly fee.
 Then I considered using a Raspberry Pi to create a controller, the pure DIY route. I had a Raspberry Pi 3B+ lying around, and I could use it to run the controller software. 
 
-It struck me how amateuristic the [DIY part of the Ubiquiti Unifi ecosystem](https://community.ui.com/questions/UniFi-Installation-Scripts-or-UniFi-Easy-Update-Script-or-UniFi-Lets-Encrypt-or-UniFi-Easy-Encrypt-/ccbc7530-dd61-40a7-82ec-22b17f027776) was. There are installation scripts available, but they are not maintained by Ubiquiti. They are developed by Glenn Rietveld (from the Netherlands, I think he's a Ubiquiti employee), and it's not hosted on GitHub, but on his personal website [glennr.nl](https://glennr.nl/scripts). 
+It struck me how amateuristic the [DIY part of the Ubiquiti Unifi ecosystem](https://community.ui.com/questions/UniFi-Installation-Scripts-or-UniFi-Easy-Update-Script-or-UniFi-Lets-Encrypt-or-UniFi-Easy-Encrypt-/ccbc7530-dd61-40a7-82ec-22b17f027776) was. There are installation scripts available, but they are not maintained by Ubiquiti. They are developed by Glenn Rietveld (from the Netherlands, I think he's a Ubiquiti employee), and it's not hosted on GitHub, but on his personal website [glennr.nl](https://glennr.nl/scripts). No versioning, no deltas, no history.
 
 I thought that was odd, and I decided to mirror the scripts on GitHub, for science and to check how fast I could do it with a [bashew](https://github.com/pforret/bashew) bash script.
 
