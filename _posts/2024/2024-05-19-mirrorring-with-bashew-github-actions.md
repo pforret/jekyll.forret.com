@@ -8,6 +8,7 @@ categories:
 tags:
     - bashew
     - unifi
+    - wifi
 ---
 
 > TL;DR: I decided to [mirror the installation scripts for Unifi network controllers](https://github.com/pforret/glennr-unifi) on GitHub using Bashew and GitHub Actions. Skip to the <a href="#here">`here` marker</a> to see the steps.
