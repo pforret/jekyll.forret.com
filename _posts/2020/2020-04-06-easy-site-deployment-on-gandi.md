@@ -1,6 +1,6 @@
 ---
 id: 2147
-title: Easy site deployment on Gandi with git and gdeploy (bash)
+title: Easy site deployment on Gandi with git and bashew
 date: 2020-04-06T23:22:26+02:00
 author: Peter
 layout: post

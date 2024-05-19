@@ -1,14 +1,15 @@
 ---
-title: 'Splashmark: easy Unsplash image markup on the command line (bash)'
+title: 'Splashmark: easy Unsplash image markup on the command line (bashew)'
 date: 2020-10-07T08:38:49+02:00
 author: Peter
 layout: post
 permalink: /2020/10/07/new-script-splashmark-easy-unsplash-image-markup-on-the-command-line/
 image: /wp-content/uploads/2020/10/splashmark.jpg
 categories:
-  - bashew
+  - devops
 tags:
   - bash
+  - bashew
   - imagemagick
   - shell
   - unsplash
