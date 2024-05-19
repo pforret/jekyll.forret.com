@@ -4,9 +4,10 @@ layout: post
 image: https://github.com/pforret/glennr-unifi/raw/main/assets/logo.jpg
 permalink: /2024/05/19/unifi-mirror-bashew-github/
 categories:
-    - bashew
+    - devops
 tags:
     - bash
+    - bashew
     - unifi
     - wifi
     - github
@@ -14,6 +15,7 @@ tags:
 
 > TL;DR: I decided to [mirror the installation scripts for Unifi network controllers](https://github.com/pforret/glennr-unifi) on GitHub using Bashew and GitHub Actions. Skip to the <a href="#here">`here` marker</a> to see the steps.
 
+[![](https://github.com/pforret/glennr-unifi/raw/main/assets/logo.jpg)](https://github.com/pforret/glennr-unifi)
 
 I recently upgraded my Ubiquiti Wi-Fi installation to the Cloud Key Gen 2. The old Cloud Key 1 was obsolete, and I was no longer able to manage the settings of my home Wi-Fi network. I had thought the upgrade would be straightforward, but the Cloud Key ships without a power supply, and doesn't accept just any USB power. It needs to be QuickCharge compatible. The first one I ordered was high power (2A) but I found out that's not the same as QuickCharge.
 
@@ -34,8 +36,6 @@ It struck me how amateuristic the [DIY part of the Ubiquiti Unifi ecosystem](htt
 I thought that was odd, and I decided to mirror the scripts on GitHub, for science and to check how fast I could do it with a [bashew](https://github.com/pforret/bashew) bash script.
 
 ##  <a name="here" href="https://github.com/pforret/glennr-unifi">Creating a mirroring script: pforret/glennr-unifi</a>
-
-[![](https://github.com/pforret/glennr-unifi/raw/main/assets/logo.jpg)](https://github.com/pforret/glennr-unifi)
 
 ### 1. create the script template
 
