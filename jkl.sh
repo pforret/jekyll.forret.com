@@ -51,9 +51,10 @@ flag|v|verbose|also show debug messages
 flag|f|force|do not ask for confirmation (always yes)
 option|l|log_dir|folder for log files |log
 option|t|tmp_dir|folder for temp files|tmp
-option|T|template|jekyll post template|_drafts/_template.md
-option|P|post_dir|jekyll posts folder|_posts
 option|I|image_dir|jekyll image folder|wp-content/uploads
+option|P|post_dir|jekyll posts folder|_posts
+option|T|template|jekyll post template|_drafts/_template.md
+option|W|WAIT|seconds to wait before browser launch|30
 choice|1|action|action to perform|new,serve,deploy,check,env,update
 param|?|input|input date
 " -v -e '^#' -e '^\s*$'
@@ -136,11 +137,11 @@ do_new() {
   image_folder="$(dirname "$image")"
   [[ ! -d "$image_folder" ]] && mkdir -p "$image_folder"
   (
-    image_path="$(realpath "$image")"
-    [[ ! -f "$image" ]] && pushd "$image_dir" &>/dev/null && splashmark -i "$title" unsplash cat "$image_path"
+    [[ ! -f "$image" ]] && pushd "$image_dir" &>/dev/null && splashmark -i "$title" unsplash cat "$(basename "$image")"
   )
   # shellcheck disable=SC2154
   local markdown="$post_dir/$year/$day-$slug.md"
+  [[ ! -d "$post_dir/$year"  ]] && mkdir -p "$post_dir/$year"
   if [[ ! -f "$markdown" ]]; then
     # shellcheck disable=SC2154
     awk <"$template" \
@@ -167,7 +168,7 @@ do_serve() {
   Os:require jekyll
   Os:require bundle
   if bundle exec jekyll build ; then
-    ( sleep 20 && open http://localhost:4000 )
+    ( sleep "$WAIT" && open http://localhost:4000 )
     bundle exec jekyll serve --incremental
   fi
 }
