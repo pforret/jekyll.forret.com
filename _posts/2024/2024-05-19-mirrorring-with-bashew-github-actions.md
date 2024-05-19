@@ -2,7 +2,7 @@
 title: Mirroring a website with Bashew and GitHub Actions
 layout: post
 image: https://github.com/pforret/glennr-unifi/raw/main/assets/logo.jpg
-permalink: /2024/05/19/tesla-supercharger/
+permalink: /2024/05/19/unifi-mirror-bashew-github/
 categories:
     - bashew
 tags:
@@ -32,7 +32,7 @@ It struck me how amateuristic the [DIY part of the Ubiquiti Unifi ecosystem](htt
 
 I thought that was odd, and I decided to mirror the scripts on GitHub, for science and to check how fast I could do it with a [bashew](https://github.com/pforret/bashew) bash script.
 
-##  <a name="here">Creating a script for GitHub</a>
+##  <a name="here" href="https://github.com/pforret/glennr-unifi">Creating a mirroring script: pforret/glennr-unifi</a>
 
 [![](https://github.com/pforret/glennr-unifi/raw/main/assets/logo.jpg)](https://github.com/pforret/glennr-unifi)
 
