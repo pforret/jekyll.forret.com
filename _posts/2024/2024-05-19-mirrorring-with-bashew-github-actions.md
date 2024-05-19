@@ -117,7 +117,7 @@ This works like a charm. I can now download all the scripts from the 7 pages wit
 
 ### 3. add the code to check in updates
 
-If there was an update to any of the scripts, it would overwrite the previous version, and this will be picked up by git. I now need to check for changes and do a `git commit && git push` if there are any. To make things even easier, I want a procedure that can run as a GitHub action that I can trigger on a dail/weekly basis.
+If there was an update to any of the scripts, it would overwrite the previous version that was already savec in `./scripts`, and this will be picked up by git. I now just need to check for changes and do a `git commit && git push` if there are any. To make things even easier, I want a procedure that can run as a GitHub action that I can trigger on a dail/weekly basis.
 
 Luckily `bashew` [has a built-in function `Gha:finish` for that](https://blog.forret.com/2022/10/15/bashew-github-action/).
   
@@ -130,7 +130,7 @@ else
     # not in GitHub Action
     setver auto # uses pforret/setver, which I have installed on all my machines
   else
-    # in GitHub action
+    # in GitHub Action
     Gha:finish # uses internal bashew function
   fi
 fi
