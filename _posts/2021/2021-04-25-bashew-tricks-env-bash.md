@@ -26,18 +26,19 @@ Every programming/scripting language has at least 1 popular package dedicated to
 
 There is, however, no such package for bash. The reason is that the .env syntax **can be executed by bash as-is**, no need to write a package for this[^a]. 
 
-[^a]: Executing a .env file in bash has the advantage/danger that you can execute arbitrary code inside a .env file, which is great for things like `YEAR_NOW=$(date '+%Y)`
+[^a]: Executing a .env file in bash has the advantage/danger that you can execute arbitrary code inside a .env file, which is great for things like `YEAR_NOW=$(date '+%Y')`
 
 For [bashew](https://github.com/pforret/bashew) (my bash scripting micro-framework), I have created a more evolved .env strategy, with multiple .env files (potentially) read when a script executes. It looks for 4 separate .env files in a fixed sequence and, if they exist, they are executed:
 
 
 ```bash
 import_env_if_any() {
-    env_files=("$script_install_folder/.env"
+    local env_files=("$script_install_folder/.env"
     "$script_install_folder/$script_prefix.env" 
     "./.env" 
     "./$script_prefix.env")
     
+    local env_file
     for env_file in "${env_files[@]}"; do
         if [[ -f "$env_file" ]]; then
             debug "$config_icon Read config from [$env_file]"
@@ -49,7 +50,7 @@ import_env_if_any() {
 How does this work? Let's take [splashmark](https://github.com/pforret/splashmark) as an example.
 
 1. the `$HOME/.basher/cellar/bin/splashmark/.env`[^b] contains the Unsplash and Pixabay API keys that the script needs to search for/download images
-2. I have a symlink `sm_github` -> `splashmark.sh` and the `sm_github.env` file contains all the settings specific for my Github images: width, height, font-size ...
+2. I have a symlink `sm_github` -> `splashmark.sh` and the `sm_github.env` file contains all the settings specific for my GitHub images: width, height, font-size ...
 3. for certain projects like [Every country in the world in 1 (Unsplash) photo](https://blog.forret.com/2021/02/14/every-country-in-the-world-in-1-unsplash-photo/) I can create a .env file in the project's image folder and save the settings for those images.
 4. I could have separate .env files for separate symlinked aliases.
 
