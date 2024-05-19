@@ -4,11 +4,12 @@ layout: post
 image: https://github.com/pforret/glennr-unifi/raw/main/assets/logo.jpg
 permalink: /2024/05/19/tesla-supercharger/
 categories:
-    - bash
-tags:
     - bashew
+tags:
+    - bash
     - unifi
     - wifi
+    - github
 ---
 
 > TL;DR: I decided to [mirror the installation scripts for Unifi network controllers](https://github.com/pforret/glennr-unifi) on GitHub using Bashew and GitHub Actions. Skip to the <a href="#here">`here` marker</a> to see the steps.
@@ -113,7 +114,7 @@ This works like a charm. I can now download all the scripts from the 7 pages wit
 
 If there was an update to any of the scripts, it would overwrite the previous version, and this will be picked up by git. I now need to check for changes and do a `git commit && git push` if there are any. To make things even easier, I want a procedure that can run as a GitHub action that I can trigger on a dail/weekly basis.
 
-Luckily `bashew` has a built-in function `Gha:finish` for that.
+Luckily `bashew` [has a built-in function `Gha:finish` for that](https://blog.forret.com/2022/10/15/bashew-github-action/.
   
 ```bash
 if git diff --QUIET --cached; then
