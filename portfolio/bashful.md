@@ -1,15 +1,13 @@
 ---
 layout: page
-title: Bashful Scripting
+title: Bash Scripting
 type: portfolio
-image: /wp-content/portfolio/bashful_newsletter.jpg
+image: /wp-content/uploads/2021/01/bashew.jpg
 nav: false
 ---
 I have an above-average interest and pleasure in developing <code>bash</code> scripts and I share that passion in various ways.
-I bundled all of them in the <strong>Bashful Scripting network</strong>.
-<figure class="aligncenter size-large"><img src="https://img.shields.io/badge/bashful-scripting-orange" alt="Bashful Scripting"/></figure>
 
-## Bashew Script Microframework
+## `bashew` Script Microframework
 
 <div class="wp-block-image"><figure class="alignright size-large is-resized"><img src="https://img.shields.io/github/stars/pforret/bashew?label=Stars&amp;logo=github" alt="" width="79" height="20"/></figure></div>
 
@@ -19,38 +17,20 @@ My biggest project is a work of love I started in 2017 as <em><a href="https://b
 
 > [github.com/pforret/bashew](https://github.com/pforret/bashew)
 
-## Bashful Scripting Newsletter @ Revue
-
-I started a (+- monthly) <a href="https://blog.forret.com/2020/07/28/bashful-thinking-a-newsletter-for-bash-enthusiasts/">email newsletter</a> with curated links to bash-related content. 
-Tips &amp; tricks for development, interesting bash projects, articles on advanced or beginner's topics. 
-I get a lot of content from Hacker news and Github.
-
-
-![Bash Newsletter](https://blog.forret.com/wp-content/uploads/2021/01/Screenshot-2021-01-24-at-15.01.52.png)
-
-> [bash.forret.com/newsletter](https://bash.forret.com/newsletter)
-
-## Bashful Scripting Podcast @ Youtube
-
-* just 1 episode for now, but soon, you know, soon
-
-> [bash.forret.com/podcast](https://bash.forret.com/podcast) 
 
 ## Bash/shell news @ nuuz.io
 
 What is happening in bash development today? I gather news feeds from Hackernews, Twitter, Github, StackOverflow and dozens of blogs on:
 
-> [nuuz.io/bash](https://nuuz.io/bash) or 
-> [bash.forret.com/news](https://bash.forret.com/news)
+> [nuuz.io/bash](https://nuuz.io/bash) and [bash.forret.com](https://bash.forret.com/)
 
-## Learn Bash in 27 minutes @ Github
+## Learn Bash in 27 minutes @ GitHub
 
 Something I did, inspired by the various learn-X-in-Y-minutes projects.
 
 ![Learn Bash in 27 minutes](https://blog.forret.com/wp-content/uploads/2021/01/learnbash-1024x444.jpg)
 
-> [github.com/pforret/LearnBashQuickly](https://github.com/pforret/LearnBashQuickly) or 
-> [bash.forret.comn/learn](https://bash.forret.comn/learn)
+> [github.com/pforret/LearnBashQuickly](https://github.com/pforret/LearnBashQuickly) 
 
 ## Basher Packages Directory
 
@@ -63,14 +43,53 @@ So I started one: [www.basher.it/package](https://www.basher.it/package)
 
 ## Bash Scripting Tools
 
-* [github.com/pforret/setver](https://github.com/pforret/setver): easy version (semver) management for bash, PHP, Node. [Launched in 2020](https://blog.forret.com/2020/07/31/package-version-management-with-semver-sh) ![](https://blog.forret.com/wp-content/uploads/2021/01/setver.jpg)
-* [github.com/pforret/progressbar](https://github.com/pforret/progressbar): self-configuring progress bar for long-running CLI programs ![](https://blog.forret.com/wp-content/uploads/2021/01/progressbar.jpg) 
+### [github.com/pforret/setver](https://github.com/pforret/setver)
+
+easy version (semver) management for bash, PHP, Node. [Launched in 2020](https://blog.forret.com/2020/07/31/package-version-management-with-semver-sh) ![](https://blog.forret.com/wp-content/uploads/2021/01/setver.jpg)
+
+### [github.com/pforret/progressbar](https://github.com/pforret/progressbar)
+
+self-configuring progress bar for long-running CLI programs ![](https://blog.forret.com/wp-content/uploads/2021/01/progressbar.jpg) 
 
 ## Other Bash projects
 
-* [github.com/pforret/splashmark](https://github.com/pforret/splashmark) : create (social) images based on Unsplash photos, with proper attribution, titles, image filters. Used to make most of the images on this page. <a href="https://blog.forret.com/2020/10/07/new-script-splashmark-easy-unsplash-image-markup-on-the-command-line/">Launched in 2020</a>. ![](https://blog.forret.com/wp-content/uploads/2021/01/splashmark-1024x512.jpg)
+### [github.com/pforret/splashmark](https://github.com/pforret/splashmark)
 
-* [github.com/pforret/gandi_deploy](https://github.com/pforret/gandi_deploy): Easy git-based deployment for (PHP projects on) <a href="https://gandi.link/f/4a9c1f95">Gandi Simple Hosting</a>. <a href="https://blog.forret.com/2020/04/06/easy-site-deployment-on-gandi/">Launched in 2020</a>.
+create (social) images based on Unsplash photos, with proper attribution, titles, image filters. Used to make most of the images on this page. [Launched in 2020](/2020/10/07/new-script-splashmark-easy-unsplash-image-markup-on-the-command-line/) 
+
+![](https://blog.forret.com/wp-content/uploads/2021/01/splashmark-1024x512.jpg)
+
+### [github.com/pforret/crontask](https://github.com/pforret/crontask)
+
+![](https://repository-images.githubusercontent.com/44732442/6d7db280-724b-11eb-9983-8c6d358afa30)
+
+### [github.com/pforret/note](https://github.com/pforret/note)
+
+![](https://repository-images.githubusercontent.com/321433156/5e0eeb00-4dfe-11eb-8e8d-fb90bee3adee)
+
+### [github.com/pforret/rexec](https://github.com/pforret/rexec)
+
+![](https://repository-images.githubusercontent.com/338327690/f5e2eb80-6d51-11eb-8862-8927cb610301)
+
+### [github.com/pforret/shmixcloud](https://github.com/pforret/shmixcloud)
+
+![](https://repository-images.githubusercontent.com/383857159/cfc71d80-df76-11eb-9d86-9ed07e2482cc)
+
+### [github.com/pforret/mkdox](https://github.com/pforret/mkdox)
+
+![](https://repository-images.githubusercontent.com/740885305/3fbefb27-15c6-4e68-ae9b-4d698c30079d)
+
+### [github.com/pforret/gandi_deploy](https://github.com/pforret/gandi_deploy)
+
+![](https://github.com/pforret/gandi_deploy/raw/master/assets/gandi_deploy.jpg)
+
+### [github.com/pforret/ytaudio](https://github.com/pforret/ytaudio)
+
+![](https://repository-images.githubusercontent.com/494432777/ff16a784-8fa6-4d26-aa3e-e53e6d11e584)
+
+### [github.com/pforret/saild](https://github.com/pforret/saild)
+
+![](https://repository-images.githubusercontent.com/595682911/1452accc-70fe-43ea-a4a9-3888a23dc5db)
 
 ## Bash scripting on Apple Silicon M1
 
