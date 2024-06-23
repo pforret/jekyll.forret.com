@@ -1,5 +1,5 @@
 ---
-title: Mirroring a website with Bashew and GitHub Actions
+title: Mirroring Unifi installer scripts with Bashew and GitHub Actions
 layout: post
 image: https://github.com/pforret/glennr-unifi/raw/main/assets/logo.jpg
 permalink: /2024/05/19/unifi-mirror-bashew-github/
@@ -9,6 +9,7 @@ tags:
     - bash
     - bashew
     - unifi
+    - ubiquiti
     - wifi
     - github
 ---
