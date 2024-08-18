@@ -137,7 +137,7 @@ do_new() {
   image_folder="$(dirname "$image")"
   [[ ! -d "$image_folder" ]] && mkdir -p "$image_folder"
   (
-    [[ ! -f "$image" ]] && pushd "$image_dir" &>/dev/null && splashmark -i "$title" unsplash cat "$(basename "$image")"
+    [[ ! -f "$image" ]] && pushd "$image_folder" &>/dev/null && splashmark -i "$title" unsplash cat "$(basename "$image")"
   )
   # shellcheck disable=SC2154
   local markdown="$post_dir/$year/$day-$slug.md"

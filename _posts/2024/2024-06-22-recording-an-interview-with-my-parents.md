@@ -2,7 +2,7 @@
 title: Recording an interview with my parents
 layout: post
 image: /wp-content/uploads/2024/interview.jpg
-permalink: /2024-06-22/recording-an-interview-with-my-parents/
+permalink: /2024/06/22/recording-an-interview-with-my-parents/
 categories:
     - idea
 tags:

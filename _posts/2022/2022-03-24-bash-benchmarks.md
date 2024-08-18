@@ -4,7 +4,7 @@ layout: post
 permalink: /2022/03/24/bash-benchmarks/
 image: /wp-content/uploads/2022/03/benchmark.bash.jpg
 categories:
-    - bash
+    - repo
 tags:
     - benchmark
     - bash

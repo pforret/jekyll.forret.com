@@ -4,7 +4,7 @@ layout: post
 image: /wp-content/uploads/2021/04/dotenv.jpg
 permalink: /2021/04/25/env-bash/
 categories:
-    - devops
+    - repo
 tags:
     - bashew
     - github

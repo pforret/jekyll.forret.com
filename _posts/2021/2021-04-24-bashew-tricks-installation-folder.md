@@ -4,7 +4,7 @@ layout: post
 image: /wp-content/uploads/2021/04/folder.jpg
 permalink: /2021/04/24/installation-folder/
 categories:
-    - devops
+    - repo
 tags:
     - bashew
     - github

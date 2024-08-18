@@ -2,5 +2,5 @@
 layout: with_tag
 title: Smartphones
 keyword: smartphones
-count: 2
+count: 3
 ---

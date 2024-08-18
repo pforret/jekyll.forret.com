@@ -7,7 +7,7 @@ layout: post
 permalink: /2021/01/21/creating-image-reveal-videos-with-ffmpeg-and-primitive/
 image: /wp-content/uploads/2021/01/thehelp.026.jpg
 categories:
-  - video
+  - idea
 tags:
   - bash
   - bashew

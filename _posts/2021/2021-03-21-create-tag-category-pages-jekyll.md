@@ -4,7 +4,7 @@ layout: post
 image: https://github.com/pforret/jekyll_taxonomy/raw/master/assets/taxonomy.jpg
 permalink: /2021/03/21/create-tag-category-pages-jekyll/
 categories:
-    - devops
+    - repo
 tags:
     - jekyll
     - static

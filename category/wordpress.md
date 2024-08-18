@@ -2,5 +2,5 @@
 layout: with_category
 title: Wordpress
 keyword: wordpress
-count: 13
+count: 12
 ---

@@ -8,7 +8,7 @@ guid: https://blog.forret.com/?p=2147
 permalink: /2020/04/06/easy-site-deployment-on-gandi/
 image: /wp-content/uploads/2020/04/gandi_deploy.jpg
 categories:
-  - devops
+  - repo
 tags:
   - bash
   - bashew

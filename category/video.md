@@ -2,5 +2,5 @@
 layout: with_category
 title: Video
 keyword: video
-count: 2
+count: 1
 ---

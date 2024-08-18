@@ -6,7 +6,7 @@ layout: post
 permalink: /2020/05/30/simple-remote-portrait-photography/
 image: /wp-content/uploads/2020/05/BOSQ.20200525.200152.22.jpg
 categories:
-  - photography
+  - idea
 tags:
     - corona
     - covid

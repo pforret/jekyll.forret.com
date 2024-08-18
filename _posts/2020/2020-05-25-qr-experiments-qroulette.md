@@ -8,7 +8,7 @@ guid: https://blog.forret.com/?p=2209
 permalink: /2020/05/25/qr-experiments-qroulette/
 image: /wp-content/uploads/2020/05/qrtest2.jpeg
 categories:
-  - technology
+  - idea
 tags:
   - BaconQrCode
   - experiment

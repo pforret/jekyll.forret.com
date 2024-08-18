@@ -7,7 +7,7 @@ layout: post
 permalink: /2021/02/14/every-country-in-the-world-in-1-unsplash-photo/
 image: /wp-content/uploads/2021/02/Singapore_ig-768x768.jpg
 categories:
-  - photography
+  - idea
 tags:
   - bash
   - cli

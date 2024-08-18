@@ -6,7 +6,7 @@ layout: post
 permalink: /2020/12/19/using-homebrew-on-apple-silicon-m1-natively/
 image: /wp-content/uploads/2020/12/2020_macmini.jpg
 categories:
-  - github
+  - repo
 tags:
   - Apple
   - arm
@@ -20,7 +20,7 @@ tags:
 After reading all the raving reviews online about the new Apple M1-based Mac computers, and after losing too much time with my overheating MacBook Pro 2013 that's on its last legs, I caved and bought a Mac Mini M1. <figure class="wp-block-image size-large">
 
 {% include image.html 
-    url="https://blog.forret.com/wp-content/uploads/2020/12/2020_macmini.jpg" 
+    url="/wp-content/uploads/2020/12/2020_macmini.jpg" 
     description="Apple Mac Mini M1 2020" %}
 
 

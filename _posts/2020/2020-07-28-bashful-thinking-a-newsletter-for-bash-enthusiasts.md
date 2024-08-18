@@ -8,7 +8,7 @@ guid: https://blog.forret.com/?p=2326
 permalink: /2020/07/28/bashful-thinking-a-newsletter-for-bash-enthusiasts/
 image: /wp-content/uploads/2020/07/image.png
 categories:
-  - bash
+  - idea
 tags:
   - scripting
   - cli

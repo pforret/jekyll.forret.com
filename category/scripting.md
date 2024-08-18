@@ -2,5 +2,5 @@
 layout: with_category
 title: Scripting
 keyword: scripting
-count: 2
+count: 1
 ---

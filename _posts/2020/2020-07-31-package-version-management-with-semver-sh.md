@@ -8,7 +8,7 @@ guid: https://blog.forret.com/?p=2330
 permalink: /2020/07/31/package-version-management-with-semver-sh/
 image: /wp-content/uploads/2020/07/setver.jpg
 categories:
-  - scripting
+  - repo
 tags:
   - bash
   - composer

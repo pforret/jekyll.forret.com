@@ -6,7 +6,7 @@ layout: post
 permalink: /2020/10/07/new-script-splashmark-easy-unsplash-image-markup-on-the-command-line/
 image: /wp-content/uploads/2020/10/splashmark.jpg
 categories:
-  - devops
+  - repo
 tags:
   - bash
   - bashew

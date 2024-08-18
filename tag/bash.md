@@ -2,5 +2,5 @@
 layout: with_tag
 title: Bash
 keyword: bash
-count: 18
+count: 17
 ---

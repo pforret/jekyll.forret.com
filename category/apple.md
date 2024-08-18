@@ -2,5 +2,5 @@
 layout: with_category
 title: Apple
 keyword: apple
-count: 13
+count: 12
 ---
