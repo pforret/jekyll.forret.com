@@ -2,5 +2,5 @@
 layout: with_tag
 title: Idea
 keyword: idea
-count: 3
+count: 2
 ---

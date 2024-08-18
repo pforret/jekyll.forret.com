@@ -10,9 +10,6 @@ image: /wp-content/uploads/2020/05/qrtest2.jpeg
 categories:
   - idea
 tags:
-  - BaconQrCode
-  - experiment
-  - idea
   - imagemagick
   - qr
   - qrcode
