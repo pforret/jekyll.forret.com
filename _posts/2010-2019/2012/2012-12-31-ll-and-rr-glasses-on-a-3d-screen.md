@@ -8,7 +8,6 @@ categories:
 tags:
     - 3D
     - cinema
-    - idea
     - innovation
     - digitalcinema
     - stereoscopic

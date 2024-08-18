@@ -14,7 +14,6 @@ tags:
     - Web2.0
     - airbnb
     - communication
-    - idea
     - messaging
     - phone
     - saas
