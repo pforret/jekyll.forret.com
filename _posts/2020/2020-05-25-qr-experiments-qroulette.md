@@ -17,7 +17,7 @@ tags:
   - qr
   - qrcode
 ---
-I started to do some QR code experiments recently and this is the first result of this: my animated QR code, &#8216;**QR Roulette**&#8216; or **_QRoulette_**.
+I started to do some QR code (two-dimensional matrix barcode) experiments recently and this is the first result: I developed an animated QR code, &#8216;**QR Roulette**&#8216; or **_QRoulette_**.
 
 First the basics: a [QR code](https://en.wikipedia.org/wiki/QR_code) is a 2-dimensional barcode format. It's a way to encode data (like a URL, a business card or just any text) into something that can be printed or shown on a screen, so that a QR code reader (your smartphone's camera is probably one) can read the code and get the data out of it. It is _visual wireless data transfer_. The more data, the bigger the QR code becomes.<figure class="wp-block-gallery columns-2 is-cropped">
 

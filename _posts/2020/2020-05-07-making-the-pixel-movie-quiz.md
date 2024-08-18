@@ -4,7 +4,6 @@ title: Making the Pixel Movie Quiz
 date: 2020-05-07T23:48:35+02:00
 author: Peter
 layout: post
-guid: https://blog.forret.com/?p=2179
 permalink: /2020/05/07/making-the-pixel-movie-quiz/
 image: /wp-content/uploads/2020/05/AmeliePo.0547.5-M20G16.jpg
 categories:
