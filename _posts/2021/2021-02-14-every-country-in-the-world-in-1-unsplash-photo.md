@@ -18,7 +18,7 @@ tags:
   - splashmark 
   - unsplash
 ---
-I wanted to demonstrate the power of my [splashmark](/2020/10/07/new-script-splashmark-easy-unsplash-image-markup-on-the-command-line/) image markup script and did the following experiment:
+I wanted to demonstrate the power of my [splashmark](/2020/10/07/new-script-splashmark-easy-unsplash-image-markup-on-the-command-line/) image markup script and did the following experiment using splashmark, Wikipedia, and Unsplash:
 
   * I got a list of all countries in the world (via [kalinchernev/countries](https://gist.github.com/kalinchernev/486393efcca01623b18d), but I cleaned it up a little)
   * for each country, my script searched for the most popular image in [**Unsplash**](https://unsplash.com/). E.g. for **Belgium**, it is a photo by Alex Vasey of the [city of **Dinant**](https://unsplash.com/photos/3lxrM5yvkcI) (almost 4 million views, 37000 downloads):<figure class="wp-block-image size-large">
