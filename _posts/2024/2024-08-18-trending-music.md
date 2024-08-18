@@ -11,7 +11,10 @@ tags:
     - toolstudio
     - laravel
 ---
-Decades ago, back when I organised the first [Belgian Barcamp events in Brussels (2006)](/2006/05/09/barcamp-brussels-10-days-to-go/), I had a created a presentation of my own: I was scraping the 'playing now' feeds of several Belgian radio stations using that data to detect 'trending music', new songs that started being played a lot on radio. I remember that one of the songs that came out of the algorithm was ['Crazy' by Gnarls Barkley](https://www.youtube.com/watch?v=-N4jf6rtyuw), and since it was first time I heard that name, I wasn't even sure how to pronounce it.
+
+## 2006
+
+Decades ago, back when I organised the first [Belgian Barcamp events in Brussels (2006)](/2006/05/09/barcamp-brussels-10-days-to-go/), I had a created a presentation of my own: I was scraping the 'playing now' feeds of several Belgian radio stations, using that data to detect 'trending music', new songs that started being played a lot on radio. I remember that one of the songs that came out of the algorithm was ['Crazy' by Gnarls Barkley](https://www.youtube.com/watch?v=-N4jf6rtyuw), and since it was first time I heard that name, I wasn't even sure how to pronounce it.
 
 Since this was before GitHub (2008), I have no trace of the code. Since this is before I started working with Laravel 5 (2016), I'm sure it was very ugly. But the idea was there: I wanted to know what was trending in music, and I used the data that was available to me.
 
@@ -31,6 +34,8 @@ while(true){
     sleep(120);
 }
 ```
+
+## 2024 
 
 So now, some 20 years later, I wanted play with the Spotify data and APIs. I collected some dozen Spotify 'hitparade' playlists from all different countries, like the one below here, and collected the songs from these playlists in a database.
 
