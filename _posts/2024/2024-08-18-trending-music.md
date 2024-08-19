@@ -56,6 +56,6 @@ $songs = Cache::remember($cacheId, 600, function () use ($days, $minPopularity) 
         ->limit(12)
         ->get();
 ```
-This gives me: the Spotify Fresh 12, the 12 songs that are trending right now.
+This gives me: the [Spotify Fresh 12](https://music.toolstud.io/fresh), the 12 songs that are trending right now.
 
-![](/wp-content/uploads/2024/08/music.toolstudio.png)
+[![](/wp-content/uploads/2024/08/music.toolstudio.png)](https://music.toolstud.io/fresh)
