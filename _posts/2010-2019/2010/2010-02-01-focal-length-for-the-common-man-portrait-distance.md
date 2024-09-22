@@ -18,11 +18,13 @@ I remember that before I started photography on a serious level, I had some unde
 
 First of all, the focal length of a lens is not the same as the actual physical length of the lens. Yes, 200mm and 300mm lenses (telephoto lenses) tend to be longer, but they´re not exactly 200mm and 300mm long. For instance, the Sigma 55-200mm F4-5.6 DC HSM is 85mm (3.3&#8243;) long, while the 70-200mm F2.8 II EX DG lens is 184mm (7.2&#8243;). Same maximal focal length, but more than twice as long.
 
+![Focal Length](/wp-content/uploads/2010/focallength.png)
+
 So what is [focal length](http://en.wikipedia.org/wiki/Focal_length)? I could explain that it is &#8220;_the distance from the center of the lens to the principal foci (or focal points) of the lens_&#8220;, but that wouldn´t make it more comprehensible, would it? Well, I read through the theory, with tangens of the viewing angle and stuff, and I think I understand it (I´m an engineer, I actually like trigoniometry). A 200mm lens gives a viewing angle of 12° on the diagonal. Still not clear? That´s when I thought: let´s invent something more tangible: the **portrait distance**. 
 
 Say you need a surface of about 72cm x 48cm (28&#8243; x 18&#8243;) to make a portrait of a person (not just a headshot, but with some torso on it too).
 
-> **Portrait distance**: to make a portrait in upright ('portrait') position, you need a distance of **20 times the focal distance**.
+> **Portrait distance**: to make a [portrait in upright ('portrait') position](https://toolstud.io/photo/portrait.php?cropfactor=1&orientation=0.667&multiplier=20&focallengthmm=50), you need a distance of **20 times the focal distance**.
 
 For a digital _full frame_ camera (like the Canon 5D or the Nikon D700) this goes as follows:
 
