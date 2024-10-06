@@ -16,7 +16,7 @@ Thi Saturday morning, I was browsing through my [SimpleAnalytics stats](https://
 
 I checked how I created this project, and to my surprise it was a Laravel 10 project. That seemed like a bit of overkill. Since I hadn't decided yet what I would procrastinate on this weekend, I decided to give this project a little love.
 
-I quickly decided on a tech stack of [mkdocs-material](https://squidfunk.github.io/mkdocs-material/), since that is my favourite way of creating content these days, ever since I created [pforret/mkdox](https://github.com/pforret/mkdox/) to make it even easier. Since this is a static site generator, and my web pages would be all static HTML, I would need to redevelop the countdown and timezone logic in JavaScript. Thanks to GitHub Copilot in PHPStorm, that was a breeze. Today, a mere 36 hours later and with only a few hours of actual work, I am proud to announce the **relaunch of [launch.nuuz.io](https://launch.nuuz.io/)**.
+I quickly decided on a tech stack of [mkdocs-material](https://squidfunk.github.io/mkdocs-material/), since that is my favourite way of creating content these days, ever since I created [pforret/mkdox](https://github.com/pforret/mkdox/) to [make it even easier](/2024/03/09/mkdox-mkdocs-material-docker/). Since this is a static site generator, and my web pages would be all static HTML, I would need to redevelop the countdown and timezone logic in JavaScript. Thanks to GitHub Copilot in PHPStorm, that was a breeze. Today, a mere 36 hours later and with only a few hours of actual work, I am proud to announce the **relaunch of [launch.nuuz.io](https://launch.nuuz.io/)**.
 
 [![](/wp-content/uploads/2024/10/launch-nuuz-io.png)](https://launch.nuuz.io/)
 
