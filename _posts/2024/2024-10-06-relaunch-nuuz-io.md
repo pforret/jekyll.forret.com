@@ -4,14 +4,15 @@ layout: post
 image: /wp-content/uploads/2024/10/launch-nuuz-io.png
 permalink: /2024-10-06/relaunch-nuuz-io/
 categories:
-    - projects
+    - tool
 tags:
-    - nuuz
+    - nuuzio
     - launch
     - startup
+    - news
     - sideproject
 ---
-Thi Saturday morning, I was browsing through my [SimpleAnalytics stats](https://www.simpleanalytics.com/) and saw one sorry number for a side-project I had forgotten about: launch.nuuz.io. 0 visits in the last month. This was a one-page website of mine that listed a number of launch sites for new projects (e.g. ProductHunt, HackerNews, Reddit, etc), and what the public consensus was on the **best day-of-the-week and/or time-of-day** for posting a new project. It also showed a countdown for that ideal submission moment.
+Thi Saturday morning, I was browsing through my [SimpleAnalytics stats](https://www.simpleanalytics.com/) and saw one sorry number for a side-project I had forgotten about: [launch.nuuz.io](https://launch.nuuz.io/). All of zero visits in the last month. This was a one-page website of mine that listed a number of launch sites for new projects (e.g. ProductHunt, HackerNews, Reddit etc.), and what the public consensus was on the **best day-of-the-week and/or time-of-day** for posting a new project. It also showed a countdown for that ideal submission moment.
 
 I checked how I created this project, and to my surprise it was a Laravel 10 project. That seemed like a bit of overkill. Since I hadn't decided yet what I would procrastinate on this weekend, I decided to give this project a little love.
 

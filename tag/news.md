@@ -2,5 +2,5 @@
 layout: with_tag
 title: News
 keyword: news
-count: 3
+count: 4
 ---
