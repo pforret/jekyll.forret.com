@@ -25,6 +25,7 @@ The tricky parts were:
 
 * finding out in which country each service was based. This matters, because I need to know what timezone they operate in. Some services do a reset at midnight, or start processing new submissions at 9am, so knowing if they're in Pacific Standard Time or Indian Standard Time is crucial. E.g. for [SideProjectors.com](https://www.sideprojectors.com/) I'm still not sure. Even the Terms and Conditions and Privacy Statement don't mention a country.
 * figuring out how 'important' each service was. Ideally I need an estimate of monthly traffic (how many visitors might I get through this site) and domain authority of the domain (how valuable are backlinks from this site). But SimilarWeb and Ahrefs don't give me all the data, unless I take a paid subscription. I get why, but it's still something I would like to add.
+* I would love to have a {% for page in pages %} loop in my custom page layout, but a loop that has access to all the page's metadata, not just the URL and the title. I'm sure there's a way to do this, but I haven't found it yet.
 
 Now I just need submit the site to all different launch websites. And now it's easy to know **when** I should do this. 
 
