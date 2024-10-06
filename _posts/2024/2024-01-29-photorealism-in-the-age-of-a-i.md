@@ -9,6 +9,7 @@ categories:
 tags:
   - AI
   - PKI
+  - security
 ---
 ## Paris is burning
 
@@ -16,7 +17,7 @@ You might have seen this photo of the Eiffel Tower on fire. It is a fake, used b
 
 ![published on X/Twitter on July 2023](/wp-content/uploads/2024/01/file.eiffel_b.b5f8c0.jpg)
 
-More recently, there was a controversy about a **video** that supposedly showed the Eiffel Tower on fire. The video, which was [originally created](https://www.youtube.com/watch?v=BY9ZBk96-5E) as a demo of visual effects, was also used by far-right groups to spread disinformation.
+More recently, there was a controversy about a **video** that also showed the Eiffel Tower on fire. This video, which was [originally created](https://www.youtube.com/watch?v=BY9ZBk96-5E) as a demo of visual effects, was also used by far-right groups to spread disinformation.
 
 <iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/BY9ZBk96-5E?si=xKKk7EuRsjMlEgvp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -26,10 +27,10 @@ In a presentation I did over a year ago, I predicted that the emergence of gener
 
 That's why I also foresaw that **signed content** would become a requirement for places where authenticity was very important, like news-gathering and legal procedures. A secure digital signature means that the content cannot be tampered with without breaking the signature.
 
-In the case of photo and video capture, this means that the capturing device has to be able to digitally sign the generated files.  
+In the case of photo and video capture, this means that the capturing device has to be able to digitally sign the generated files.  I was wondering what technology is already here for this.
 
 
-## Content Credentials
+## [Content Credentials](https://contentcredentials.org/)
 
 Content Credentials is a new way to prove the authenticity of your photos. It is a simple, free, and open source tool that lets you add a digital signature to your photos. This signature is a cryptographic hash that can be used to prove that the photo was taken by you and has not been altered since it was signed.
 
@@ -44,7 +45,7 @@ The metadata includes details such as the camera make and model, who captured th
 > 
 > ZDNET, 2023-10-27 
 
-Also Sony will start selling cameras with Content Credentials, the Sony Alpha 1, Alpha 9III, Alpha 7S III.
+Also, Sony will start selling cameras with Content Credentials, the Sony Alpha 1, Alpha 9III, Alpha 7S III.
 
 > Sony and AP’s most recent field test was completed during October of 2023. In this month-long test, both capture authentication and workflow process were evaluated. To accomplish this, Sony partnered with Camera Bits – the company behind the industry standard workflow tool, Photo Mechanic. Alongside Sony and AP, Camera Bits created technology in Photo Mechanic that preserves the camera’s digital signature all the way through the metadata editing process.
 >
@@ -52,8 +53,3 @@ Also Sony will start selling cameras with Content Credentials, the Sony Alpha 1,
 
 
 
-https://contentcredentials.org/
-
-
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/39XtYVEDG5sJaKEgnilC31?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
