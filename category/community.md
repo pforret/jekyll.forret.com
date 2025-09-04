@@ -1,6 +1,6 @@
 ---
 layout: with_category
-title: Webdev
-keyword: webdev
+title: Community
+keyword: community
 count: 7
 ---

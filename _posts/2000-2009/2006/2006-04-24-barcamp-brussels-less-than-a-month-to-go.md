@@ -7,8 +7,10 @@ layout: post
 guid: /2006/04/barcamp-brussels-less-than-a-month-to-go/
 permalink: /2006/04/24/barcamp-brussels-less-than-a-month-to-go/
 categories:
-  - Belgium
-  - Brussel
+  - community
+tags:
+  - barcamp
+  - brussels
 ---
 Some more details on the Barcamp event of May 20th:
 

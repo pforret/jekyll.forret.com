@@ -2,5 +2,5 @@
 layout: with_category
 title: Windows
 keyword: windows
-count: 6
+count: 5
 ---

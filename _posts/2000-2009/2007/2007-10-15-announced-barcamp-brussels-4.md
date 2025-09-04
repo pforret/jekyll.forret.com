@@ -7,9 +7,10 @@ layout: post
 guid: /2007/10/announced-barcamp-brussels-4/
 permalink: /2007/10/15/announced-barcamp-brussels-4/
 categories:
+  - community
+tags:
   - barcamp
-  - Belgium
-  - Brussel
+  - brussels
 ---
 It’s almost been 6 months, so here we go for the 4th time: I’m starting the preparations for **Barcamp Brussels #4**.
 

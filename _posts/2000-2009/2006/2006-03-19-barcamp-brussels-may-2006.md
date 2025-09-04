@@ -4,20 +4,14 @@ title: 'Barcamp Brussels: May 2006'
 date: 2006-03-19T21:51:20+01:00
 author: Peter
 layout: post
-guid: http://peter.forret.com/2006/03/19/barcamp-brussels-may-2006/
 permalink: /2006/03/19/barcamp-brussels-may-2006/
 categories:
-  - advertising
-  - Belgium
-  - internet
-  - Web2.0
-  - webdev
+  - community
 tags:
-  - barcamp
-  - brussels
+   - barcamp
+   - brussels
 ---
-<img src="http://static.flickr.com/51/109839111_d466a8216d_m.jpg" alt="Barcamp Brussel" style="float: right" />  
-Last year we organised a fairly successfull [blogger's dinner](http://peter.forret.com/2005/09/19/brussels-bloggers-meeting-on-oct-7/) in Brussels, and now we're gonna try something different:  
+Last year we organised a fairly successful [blogger's dinner](/2005/09/19/brussels-bloggers-meeting-on-oct-7/) in Brussels, and now we're going to try something different:  
 **next May we will have a [Barcamp Brussels](http://barcamp.org/BarCampBrusselsForTheImpatient) event.**
 
 **WHAT IS A BARCAMP?**
@@ -60,19 +54,10 @@ Just remember: No spectators, only participants!
 
 **HOW TO PARTICIPATE**
 
-<p style="font-size: 0.7em; float: right; width: 120px">
-  <a href="http://www.flickr.com/photos/blake4tx/92324430/in/pool-barcamp/"><img src="http://static.flickr.com/40/92324430_a8285fa185_t.jpg" alt="Barcamp Dallas" /></a><br /> (photo by <a href="http://www.flickr.com/photos/blake4tx/">blakeburris</a>)
-</p>
-
 You can register by **adding your name to the [Barcamp Brussels](http://barcamp.org/BarCampBrusselsForTheImpatient) page**. That's all. And actually show up, of course.
-
-If you're gonna join, please spread the word by adding this badge to your blog or one of your blogposts:
-
-<p style="text-align: center">
-  <a href="http://www.wordofblog.net/redirect.php?id=775&uid=1336"><img border="0" width="240" src="http://www.wordofblog.net/ad_images/7751336.jpg" /></a><br /> <font size="1"><a href="http://www.wordofblog.net/info.php?id=775">Want this badge?</a></font>
-</p>
 
 **DETAILS**  
 We already kind of have a location, but we first have to fix the date. Good candidates, by looking at the [page](http://barcamp.org/BarCampBrusselsForTheImpatient), are May 19 or May 20. Participation is free and we will try to get all catering and apparel sponsored. More details will follow on the [Barcamp Brussels](http://barcamp.org/BarCampBrusselsForTheImpatient) page and on this blog.  
+
 All feedback and suggestions are welcome and can be added to the wiki page or by contacting me through `peter @ forret.com` .  
 See you there!

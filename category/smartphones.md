@@ -2,5 +2,5 @@
 layout: with_category
 title: Smartphones
 keyword: smartphones
-count: 6
+count: 5
 ---

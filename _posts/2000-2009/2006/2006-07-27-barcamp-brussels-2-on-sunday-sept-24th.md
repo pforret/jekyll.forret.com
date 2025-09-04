@@ -7,9 +7,11 @@ layout: post
 guid: /2006/07/barcamp-brussels-2-on-sunday-sept-24th/
 permalink: /2006/07/27/barcamp-brussels-2-on-sunday-sept-24th/
 categories:
-  - Belgium
+  - community
+tags:
+  - barcamp
+  - brussels
 ---
-<img src="http://www.skynetlounge.be/img/photos/02.JPG" width="500" alt="Skynet lounge" />
 
 > We have just decided on the location and date for the new [Barcamp Brussels](http://barcamp.forret.com):
 > 

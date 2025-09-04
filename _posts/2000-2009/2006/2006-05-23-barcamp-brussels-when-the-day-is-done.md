@@ -7,8 +7,10 @@ layout: post
 guid: /2006/05/barcamp-brussels-when-the-day-is-done/
 permalink: /2006/05/23/barcamp-brussels-when-the-day-is-done/
 categories:
-  - Belgium
-  - Brussel
+  - community
+tags:
+  - barcamp
+  - brussels
 ---
 And what a day it was! It went by in a rush, without any major mishaps and with lots of smiling people all around. Me, I just ran around on adrenaline and cafeine (probably equal parts), while catching only the occasional 5 minutes of a speech here and there. But at the end of the day: it was a great atmosphere with lots of interesting topics and charming people eager to learn and share. It was everything I hoped it would be, so I'm a happy man.
 

@@ -7,10 +7,10 @@ layout: post
 guid: /2007/06/the-barcamp-video-saga-background/
 permalink: /2007/06/12/the-barcamp-video-saga-background/
 categories:
-  - audio-video
-  - barcamp
-  - scripting
-  - smartphones
+  - community
+tags:
+   - barcamp
+   - brussels
 ---
 I've had a number of requests from attendees of the [Barcamp Brussels 3](http://barcamp.forret.com/) event. &#8220;_The speeches were recorded on Nokia N95 phones, right? How come we haven't seen them yet on Youtube/Google? What's taking so long?_&#8221; Well, here's the answer.
 
