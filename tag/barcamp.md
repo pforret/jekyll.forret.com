@@ -2,5 +2,5 @@
 layout: with_tag
 title: Barcamp
 keyword: barcamp
-count: 10
+count: 9
 ---
