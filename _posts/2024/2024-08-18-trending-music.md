@@ -2,7 +2,7 @@
 title: Discover new trending music on Spotify
 layout: post
 image: /wp-content/uploads/2024/08/music.toolstudio.png
-permalink: /2024-08-18/spotify-trending-music/
+permalink: /2024/08/18/spotify-trending-music/
 categories:
     - idea
 tags:

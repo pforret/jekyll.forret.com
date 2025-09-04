@@ -2,7 +2,7 @@
 title:  Relaunch of launch.nuuz.io
 layout: post
 image: /wp-content/uploads/2024/10/launch-nuuz-io.png
-permalink: /2024-10-06/relaunch-nuuz-io/
+permalink: /2024/10/06/relaunch-nuuz-io/
 categories:
     - tool
 tags:

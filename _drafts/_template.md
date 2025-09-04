@@ -1,15 +1,17 @@
 ---
 title: {title}
 layout: post
-image: {image}
-permalink: /{date}/{slug}/
-
+image: /{image}
+permalink: /{year}/{date}/{slug}/
+date: {date}
 categories:
-- project
-
+    - project
 tags:
-- {year}
+    - topic
 ---
 Some text
 
 ![](/{image})
+<!-- more -->
+
+some more text
