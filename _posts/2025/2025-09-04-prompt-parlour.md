@@ -7,8 +7,8 @@ date: 2025-09-04
 categories:
     - community
 tags:
-    - promptparlour
     - AI
+    - promptparlour
 ---
 > TL;DR: I am starting a community with in-person events for discussing A.I. First one will happen in Oct/Nov 2025. Join the mailing list at [Prompt Parlour](https://pforret.kit.com/promptparlour) if you are interested.
 

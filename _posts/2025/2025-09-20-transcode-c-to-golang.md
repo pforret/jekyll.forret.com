@@ -5,9 +5,10 @@ image: /wp-content/uploads/2025/09/unsplash.machine.jpg
 permalink: /2025/2025-09-20/transcode-c-to-golang/
 date: 2025-09-20
 categories:
-    - AI
+    - devops
 tags:
     - audio
+    - AI
     - ffmpeg
     - agentic
 ---
