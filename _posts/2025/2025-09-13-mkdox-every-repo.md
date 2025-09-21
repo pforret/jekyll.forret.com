@@ -29,14 +29,14 @@ Recently I realized:
 
 So this is what I do now with each new or old repository/project that I work on:
 
-* I add/move all the docs to a `/docs` folder.
-* I run `mkdox new .` in the root folder
-* mkdox recognizes that there already is a `README.md` and moves it to `/docs/index.md` (the homepage of the doc website) and creates a symbolic link to make `/README.md` and `/docs/index.md` point to the same file.
-* I run `mkdox serve` and I have the docs website popping up within seconds.
+* mov all the docs to a `/docs` folder.
+* run `mkdox new .` in the root folder
+    * mkdox recognizes that there already is a `README.md` and moves it to `/docs/index.md` (the homepage of the doc website) and creates a symbolic link to make `/README.md` and `/docs/index.md` point to the same file.
+* run `mkdox serve` and have the docs website popping up within seconds.
 * subfolders `/docs/[topic]/` show up in the navigation.
-* I can search the website
+* search the website
 * the `/docs` folder is also added to GitHub, so I can even see the contents within GitHub.
-* I can easily point Claude Code to use `@docs/examples/[clever_thing].md` when I want to add it to my context.
+* point Claude Code to use `@docs/examples/[clever_thing].md` when you want to add it to your context.
 
 
 This is what that looks like for [pforret/ytaudio](https://github.com/pforret/ytaudio)
