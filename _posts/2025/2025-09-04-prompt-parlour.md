@@ -38,15 +38,24 @@ We will organize in-person events with speakers, panels and discussion opportuni
 I have created a [mailing list](https://pforret.kit.com/promptparlour) to keep you informed of upcoming events.
 Please sign up if you are interested.
 
-| Presentations I would like to see at Prompt Parlour                                           | Presentations that are not for Prompt Parlour     |
-|-----------------------------------------------------------------------------------------------|---------------------------------------------------|
-| The current state-of-the-art and future of AI in medicine/legal/software dev/construction/... | How to train a AI image model on radiology photos |
-| Impact of AI on (junior) marketing/communications jobs                                        | How to write better prompts for marketing content |
-| AI Scaling laws: what could 2030 be like?                                                     | Are NVIDIA shares still a good investment?        |
-| How far is China in AI developments? Europe? Russia? UAE?                                     | What are the best AI services for translations?   |
-| Prompts vs Context vs Agents                                                                  | CUDA vs OpenCL vs Triton                          |
-| Impact of AI on national power generation and delivery                                        | Why you should vote for party X for less AI       |
-| In-house LLMs for private data: how feasible?                                                 | Please buy our private LLM services               |
+<style>
+table th:first-of-type {
+    width: 50%;
+}
+table th:nth-of-type(2) {
+    width: 50%;
+}
+</style>
+
+| Presentations I would like at Prompt Parlour              | Presentations that are not for Prompt Parlour     |
+|------------------------------------------------------------------------------------------------|---------------------------------------------------|
+| The current state-of-the-art and future of AI in medicine, legal, software dev, construction... | How to train a AI image model on radiology photos |
+| Impact of AI on (junior) marketing/communications jobs                                         | How to write better prompts for marketing content |
+| AI Scaling laws: what could 2030 be like?                                                      | Are NVIDIA shares still a good investment?        |
+| How far is China in AI developments? Europe? Russia? UAE?                                      | What are the best AI services for translations?   |
+| Prompts vs Context vs Agents                                                                   | CUDA vs OpenCL vs Triton                          |
+| Impact of AI on national power generation and delivery                                         | Why you should vote for party X for less AI       |
+| In-house LLMs for private data: how feasible?                                                  | Please buy our private LLM services               |
 
 I would like to follow the Barcamp principles: open, participative, and community-driven. 
 Speakers are there to share their knowledge, not to sell stuff.

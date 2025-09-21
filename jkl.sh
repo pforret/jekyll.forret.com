@@ -136,7 +136,15 @@ do_new() {
 
 do_serve() {
   IO:log "serve"
-  docker run -p 4000:4000 -v "$(pwd)":/site bretfisher/jekyll-serve
+  local container_name="jekyll-serve-$(basename "$(pwd)")"
+
+  if docker ps -a --format "table {{.Names}}" | grep -q "^${container_name}$"; then
+    IO:announce "Reusing existing container: $container_name"
+    docker start -a "$container_name"
+  else
+    IO:announce "Creating new container: $container_name"
+    docker run --name "$container_name" -p 4000:4000 -v "$(pwd)":/site bretfisher/jekyll-serve
+  fi
 }
 
 do_deploy() {

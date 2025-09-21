@@ -2,5 +2,5 @@
 layout: with_tag
 title: Static
 keyword: static
-count: 2
+count: 3
 ---
