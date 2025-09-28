@@ -26,10 +26,11 @@ Just show the popular colors. If most of the image(s) was blue, show that blue.
 
 When I got home, I asked Gemini to create a prompt for me, that defined the program to be developed.
 I just used that prompt to give to Gemini CLI, because I wanted to use Golang (fast and multiplatform). 
+Both are Google products/projects. Surely Gemini was trained a lot on Go programs.
 Gemini wrote the initial version and fixed the first few obvious error messages.
 I then tweaked the results somewhat and tested some edge cases (what if the width of the output image is more than the number of frames in the input video?).
 An hour later, it worked as expected, albeit slow. I left for my evening class, and came back with an urge to finish the program.
-A prompt almost as basic as "make it run faster" introduced Golang multi-threading and sped up the program 5x to 10x.
+A prompt almost as basic as "_make it run faster_" introduced Golang multi-threading and sped up the program 5x to 10x.
 
 ![](https://github.com/pforret/colorduce/raw/main/amelie.png)
 
@@ -51,4 +52,4 @@ Speed index: 5.56x
 
 I developed a working program in Golang, with parallel processing, in 1/3 day. 
 I am not at all proficient in Golang. 
-Don't tell me coding agents are inferior to junior programmers.
+**Don't tell me coding agents are inferior to junior programmers**.
