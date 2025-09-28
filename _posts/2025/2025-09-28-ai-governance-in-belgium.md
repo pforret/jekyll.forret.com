@@ -10,8 +10,8 @@ tags:
     - AI
     - Belgium
 ---
-In the preparation of my PromptParlour meetings, I wanted to get an idea of who in Belgian government is responsible for
-understanding and forecasting the exponential progress of Artificial Intelligence, and its impact on Belgian business, innovation and society.
+In the preparation of my [PromptParlour](2025-09-04-prompt-parlour.md) meetings, I wanted to get an idea of who in Belgian government is responsible for
+understanding and forecasting the (exponential) progress of Artificial Intelligence, and its impact on Belgian business, innovation and society.
 Who do Belgian/Flemish ministers call when they want an expert opinion on legislation or government intervention?
 
 ![](/wp-content/uploads/2025/09/unsplash.belgium.jpg)
