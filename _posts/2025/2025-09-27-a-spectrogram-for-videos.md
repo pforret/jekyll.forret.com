@@ -34,7 +34,7 @@ A prompt almost as basic as "_make it run faster_" introduced Golang multi-threa
 
 ![Amelie Poulain](https://github.com/pforret/colorduce/raw/main/amelie.png)
 
-This is the result for this [Amelie Poulain clip](https://www.youtube.com/watch?v=_XI0wPGbf7Q).
+This is the result for this [Amelie Poulain clip](https://www.youtube.com/watch?v=_XI0wPGbf7Q). Check more examples here: [pforret.github.io/colorduce/examples/](https://pforret.github.io/colorduce/examples/). 
 
 The resulting code is here: [github.com/pforret/colorduce](https://github.com/pforret/colorduce)
 ```
