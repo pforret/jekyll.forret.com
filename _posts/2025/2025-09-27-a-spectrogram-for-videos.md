@@ -32,7 +32,9 @@ I then tweaked the results somewhat and tested some edge cases (what if the widt
 An hour later, it worked as expected, albeit slow. I left for my evening class, and came back with an urge to finish the program.
 A prompt almost as basic as "_make it run faster_" introduced Golang multi-threading and sped up the program 5x to 10x.
 
-![](https://github.com/pforret/colorduce/raw/main/amelie.png)
+![Amelie Poulain](https://github.com/pforret/colorduce/raw/main/amelie.png)
+
+This is the result for this [Amelie Poulain clip](https://www.youtube.com/watch?v=_XI0wPGbf7Q).
 
 The resulting code is here: [github.com/pforret/colorduce](https://github.com/pforret/colorduce)
 ```
