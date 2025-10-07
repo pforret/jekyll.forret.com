@@ -29,4 +29,5 @@ Some of my more popular/innovative projects on [GitHub](https://github.com/pforr
 ## Marketplaces
 
 * [**toolstud-io/LlmBrains**](https://github.com/toolstud-io/LlmBrains): start a coding agent terminal session in your JetBrains IDE (claude, codex, gemini, droid, warp ...)
-  <br> <iframe style="border: 0px; width: 400px; height: 320px;" src="https://plugins.jetbrains.com/embeddable/card/28522"></iframe>
+
+<iframe style="border: 0px; width: 400px; height: 320px;" src="https://plugins.jetbrains.com/embeddable/card/28522"></iframe>
