@@ -13,7 +13,7 @@ Some of my more popular/innovative projects on [GitHub](https://github.com/pforr
 ## bash
 
 * [**pforret/bashew**](https://github.com/pforret/bashew): create bash scripts with excellent boilerplate code (use "`bashew script`" to create a new bash script with logging, error handling, command line options, help text, version info, unit tests, and more)
-* [**pforret/setver**](https://github.com/pforret/setver): easy SemVer management for bash, PHP, npm, git tags (use `setver ap`: to _git add_ all changes, _git commit_ them with a clear commit message and push a new patch version: e.g. 0.4.7 @rarr; 0.4.8)
+* [**pforret/setver**](https://github.com/pforret/setver): easy SemVer management for bash, PHP, npm, git tags (use `setver ap`: to _git add_ all changes, _git commit_ them with a clear commit message and push a new patch version: e.g. 0.4.7 &rarr; 0.4.8)
 * [**pforret/mkdox**](https://github.com/pforret/mkdox): create a static documentation site for any project/repo, using mkdocs and material (use `mkdox new .` to create a new /docs markdown website and `mkdox serve` to preview it locally and `mkdox build` to create and push the static site in /site)
 
 ## PHP
