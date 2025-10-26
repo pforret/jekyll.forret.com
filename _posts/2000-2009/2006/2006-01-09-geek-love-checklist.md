@@ -28,7 +28,7 @@ First one is Maryam, Robert Scoble's wife. I met her briefly when the [Scobleize
 > 10) Did I mention he can fix your computer ???  
 > (for details, check [maryamie](http://spaces.msn.com/members/maryamie/Blog/cns%211pJf1AP0KsxqptNL0A6dlsgA%21848.entry))
 
-Let's say I score a 8/10 on this one.
+Let's say I score an 8/10 on this one.
 
 <!--more-->
 

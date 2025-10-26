@@ -7,7 +7,7 @@ layout: post
 guid: http://peter.smoothouse.com/2004/06/04/collaborative-filtering-on-dating-sites/
 permalink: /2004/06/04/collaborative-filtering-on-dating-sites/
 categories:
-  - Web2.0
+  - people
 ---
 Out of purely technological interest (obviously) I've been researching some dating sites recently. One feature I discovered most of them have is a kind of &#8216;short-list' of people you like. You look around and add the profiles you find appealing onto a list so you can access them easily when you're aiming for a next victim. Sometimes, the subjects in question are aware of their presence on your short-list, sometimes not. In any way they consist of links between people, links they've chosen to add themselves.
 
@@ -35,8 +35,3 @@ I can think of a couple of reasons people might object:
   * _privacy protection &#8211; you can't use that information_: Come on, it's just a matter of including it in your Terms & Conditions in a formulation no one would want to read.  
     > _&#8220;&#8230; you agree that SSN and each Partner (&#8230;) will at all times maintain a perpetual, irrevocable, royalty-free, worldwide, fully paid, assignable right and license to reproduce, repurpose, use, store, modify, edit, distribute or make available any portion or portions of such materials as they see fit in any medium &#8230;&#8221;_ &#8211; from [SpringStreet Networks' Terms of Service](http://www.springstreetnetworks.com/tos/index.asp), the people that operate a.o. Nerve Personals
 
-Basically, apart from techophobia and privacy paranoia, I see no valid reason not to use collaborative filtering for dating. So, [Match.com](http://www.match.com), [Nerve.com](http://personals.nerve.com): my favourites are Meg Ryan, Christy Turlington and Penelope Cruz! Fetch!
-
-<div>
-  [Listening to: &#8220;Haven't you heard&#8221; &#8211; <b>Patrice Rushen</b> &#8211; Sampled Vol 4 (CD 2/2)]
-</div>
