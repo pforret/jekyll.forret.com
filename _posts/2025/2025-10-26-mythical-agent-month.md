@@ -14,7 +14,7 @@ tags:
 
 ![](/wp-content/uploads/2025/10/mythical-agent-month.jpg)
 <!-- more -->
-## I. The Werewolf in the Mainframe
+## I. No Silver Bullet
 
 In his seminal 1975 text, **The Mythical Man-Month**, Frederick P. Brooks Jr. used a chilling metaphor to describe large-scale software projects. He compared them to werewolves: "_usually innocent and straightforward, but capable of becoming a monster of missed schedules, blown budgets, and flawed products_". For these monsters, managers desperately seek a "silver bullet" to magically lay them to rest. For five decades, this has been the central challenge of software engineering: managing an intangible, invisible, and maddeningly complex craft.
 
