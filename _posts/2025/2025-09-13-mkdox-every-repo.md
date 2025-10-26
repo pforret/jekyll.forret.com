@@ -12,7 +12,7 @@ tags:
     - material
     - static
 ---
-> TL;DR: I have started using [mkdox](https://github.com/pforret/mkdox) (which uses mkdocs, material and Docker) to create a static documentation site for every repository/project I'm working on. It's easy, light and fast. It also invites me to document everything in Markdown, which is great for coding agents.
+> TL;DR: I have started using [mkdox](https://github.com/pforret/mkdox) (which uses mkdocs, material and Docker) to create a static documentation site **for every repository/project I'm working on**. It's easy, light and fast. It also invites me to document everything in Markdown, which is great for coding agents.
 
 ![](/wp-content/uploads/2025/09/unsplash.books.jpg)
 <!-- more -->
