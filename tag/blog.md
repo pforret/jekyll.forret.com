@@ -2,5 +2,5 @@
 layout: with_tag
 title: Blog
 keyword: blog
-count: 5
+count: 4
 ---

@@ -6,7 +6,7 @@ author: Peter
 layout: post
 permalink: /2006/09/12/more-globalisation-please/
 categories:
-    - society
+    - business
 tags:
     - ecommerce
     - shipping

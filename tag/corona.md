@@ -2,5 +2,5 @@
 layout: with_tag
 title: Corona
 keyword: corona
-count: 2
+count: 1
 ---

@@ -2,5 +2,5 @@
 layout: with_tag
 title: Disk
 keyword: disk
-count: 6
+count: 5
 ---

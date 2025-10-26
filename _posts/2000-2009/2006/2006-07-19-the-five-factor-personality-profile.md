@@ -4,56 +4,33 @@ title: The Five Factor Personality Profile
 date: 2006-07-19T09:00:53+02:00
 author: Peter
 layout: post
-guid: /2006/07/the-five-factor-personality-profile/
 permalink: /2006/07/19/the-five-factor-personality-profile/
 categories:
-  - Society
+  - society
+tags:
+  - psychology
 ---
-<table width=350 align=center border=0 cellspacing=0 cellpadding=2> 
 
-<td bgcolor="#BFE9FF" align=center> <font style='color:black; font-size: 14pt;'>Your Five Factor Personality Profile</font></td> 
-<td bgcolor="#DEF4FF">
-  <center>
-    <img  src="http://images.blogthings.com/thefivefactorpersonalitytest/personality.jpg" height="100" width="100" />
-  </center>
   
-  <br /> <font color="#000000"><br /> Extroversion:</p> 
+## Extroversion:
   
-  <p>
-    You have medium extroversion.<br /> You're not the life of the party, but you do show up for the party.<br /> Sometimes you are full of energy and open to new social experiences.<br /> But you also need to hibernate and enjoy your &#8220;down time.&#8221;
-  </p>
+You have medium extroversion. You're not the life of the party, but you do show up for the party. Sometimes you are full of energy and open to new social experiences. But you also need to hibernate and enjoy your downtime.
   
-  <p>
-    Conscientiousness:
-  </p>
+## Conscientiousness:
   
-  <p>
-    You have medium conscientiousness.<br /> You're generally good at balancing work and play.<br /> When you need to buckle down, you can usually get tasks done.<br /> But you've been known to goof off when you know you can get away with it.
-  </p>
+You have medium conscientiousness. You're generally good at balancing work and play. When you need to buckle down, you can usually get tasks done. But you've been known to goof off when you know you can get away with it.
+
+## Agreeableness:
   
-  <p>
-    Agreeableness:
-  </p>
+You have medium agreeableness. You're generally a friendly and trusting person. But you also have a healthy dose of cynicism. You get along well with others, as long as they play fair.
   
-  <p>
-    You have medium agreeableness.<br /> You're generally a friendly and trusting person.<br /> But you also have a healthy dose of cynicism.<br /> You get along well with others, as long as they play fair.
-  </p>
+## Neuroticism:
+   
+You have low neuroticism. You are very emotionally stable and mentally together. Only the greatest setbacks upset you, and you bounce back quickly. Overall, you are typically calm and relaxed, making others feel secure.
+   
+## Openness to experience:
   
-  <p>
-    Neuroticism:
-  </p>
-  
-  <p>
-    You have low neuroticism.<br /> You are very emotionally stable and mentally together.<br /> Only the greatest setbacks upset you, and you bounce back quickly.<br /> Overall, you are typically calm and relaxed &#8211; making others feel secure.
-  </p>
-  
-  <p>
-    Openness to experience:
-  </p>
-  
-  <p>
-    Your openness to new experiences is high.<br /> In life, you tend to be an early adopter of all new things and ideas.<br /> You'll try almost anything interesting, and you're constantly pushing your own limits.<br /> A great connoisseir of art and beauty, you can find the positive side of almost anything.<br /> </font></td> </tr> </table> 
+Your openness to new experiences is high. In life, you tend to be an early adopter of all new things and ideas. You'll try almost anything interesting, and you're constantly pushing your own limits. A great connoisseur of art and beauty, you can find the positive side of almost anything. 
     
-    <div align="center">
-      <a href="http://www.blogthings.com/thefivefactorpersonalitytest/">The Five Factor Personality Test</a>
-    </div>
+> via <a href="https://en.wikipedia.org/wiki/Big_Five_personality_traits/">wikipedia.org/wiki/Big_Five_personality_traits</a>
+ 

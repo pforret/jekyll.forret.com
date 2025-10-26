@@ -24,7 +24,7 @@ I host a lot of my projects on Gandi.net hosting, and when I started using the [
 
 <!--more-->
 
-### 1. &#8220;Deploy with git&#8221; websites
+### 1. "Deploy with git" websites
 
   * create a new hosted site on Gandi Simple Hosting (e.g. `app.example.com`)
   * create a new Laravel project on your development machine via terminal  
@@ -66,7 +66,7 @@ mv htdocs htdocs_old
 * open _app.example.com_ in your browser
 * Tada!   
 
-### 2; Deploy with git &#8211; bash script
+### 2. "Deploy with git" bash script
 
 > UPDATE: I upgraded this simple deploy script into a better **gandi_deploy** script: [Easy site deployment on Gandi with git and gdeploy](https://blog.forret.com/2020/04/06/easy-site-deployment-on-gandi/)
 
@@ -80,7 +80,7 @@ To make re-deploying the project easier, I use a simple `redeploy.sh` bash scrip
 ```
 Be sure to add your public key `id_rsa.pub` to the Gandi SSH key list, so you won't have to give a password for the `git push` and `ssh deploy` step.
 
-### 3; &#8220;Update via sFTP&#8221; websites
+### 3. "Update via sFTP" websites
 
   * create new hosted site on Gandi Simple Hosting (e.g. `app.example.com`)
   * create a new Laravel project on your development machine via terminal  
