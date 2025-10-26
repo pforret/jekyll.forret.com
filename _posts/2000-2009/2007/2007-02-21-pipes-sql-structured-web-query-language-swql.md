@@ -1,13 +1,13 @@
 ---
 id: 685
-title: Pipes + SQL = Structured Web Query Language
+title: "Idea: Pipes + SQL = Structured Web Query Language"
 date: 2007-02-21T17:00:25+01:00
 author: Peter
 layout: post
 guid: /2007/02/pipes-sql-structured-web-query-language-swql/
 permalink: /2007/02/21/pipes-sql-structured-web-query-language-swql/
 categories:
-  - Web2.0
+  - idea
 tags:
    - sql
    - yahoo
