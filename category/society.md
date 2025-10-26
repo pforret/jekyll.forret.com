@@ -2,5 +2,5 @@
 layout: with_category
 title: Society
 keyword: society
-count: 13
+count: 12
 ---

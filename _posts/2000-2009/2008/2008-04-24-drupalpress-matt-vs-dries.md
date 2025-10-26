@@ -5,10 +5,11 @@ author: Peter
 layout: post
 permalink: /2008/04/24/drupalpress-matt-vs-dries/
 categories:
-  - wordpress
+  - business
 tags:
     - acquia
     - drupal
+    - wordpress
 ---
 On my left side: [Matt Mullenweg](http://en.wikipedia.org/wiki/Matt_Mullenweg):
 

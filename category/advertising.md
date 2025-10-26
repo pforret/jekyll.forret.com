@@ -2,5 +2,5 @@
 layout: with_category
 title: Advertising
 keyword: advertising
-count: 13
+count: 12
 ---
