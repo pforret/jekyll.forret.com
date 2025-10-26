@@ -7,8 +7,10 @@ layout: post
 guid: /2006/03/storing-the-sql-queries-in-the-database/
 permalink: /2006/03/31/storing-the-sql-queries-in-the-database/
 categories:
-  - SQL
-  - webdev
+  - devops
+tags:
+  - sql
+  - database
 ---
 I want to outline something I developed something like 5 years ago, and that I was kind of happy with at the time: a way of saving all SQL queries inside the database itself. The reason for writing this is that it would really fit in with all the RubyOnRails and other programming frameworks that are created these days. If someone feels like creating a component/plug-in for it, that would be so nice&#8230;
 
