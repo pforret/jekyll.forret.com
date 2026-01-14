@@ -2,5 +2,5 @@
 layout: with_tag
 title: Laravel
 keyword: laravel
-count: 5
+count: 6
 ---
