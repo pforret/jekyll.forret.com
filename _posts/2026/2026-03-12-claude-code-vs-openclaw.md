@@ -7,7 +7,7 @@ date: 2026-03-12
 categories:
     - AI
 tags:
-    - autonomous agents
+    - autonomous-agents
     - openclaw
 ---
 One week ago I started [TropicClaw](https://github.com/pforret/TropicClaw): an analysis of the gaps between Claude Code and the new paradigm of OpenClaw.

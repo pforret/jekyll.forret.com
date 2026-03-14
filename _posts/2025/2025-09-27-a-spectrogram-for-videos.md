@@ -8,7 +8,7 @@ categories:
     - idea
 tags:
     - video
-    - autonomous agents
+    - autonomous-agents
     - ai
 ---
 I was driving home after work and I had a vague idea: 
