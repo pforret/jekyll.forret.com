@@ -7,7 +7,6 @@ date: 2026-01-14
 categories:
     - AI
 tags:
-    - AI
     - claude
     - laravel
     - coding agents
