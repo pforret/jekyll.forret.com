@@ -5,7 +5,7 @@ image: /wp-content/uploads/2025/09/unsplash.brains.jpg
 permalink: /2025/2025-09-19/jetbrains-plugin-kotlin/
 date: 2025-09-19
 categories:
-    - devops
+    - AI
 tags:
     - kotlin
     - coding agents

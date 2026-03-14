@@ -5,10 +5,9 @@ image: /wp-content/uploads/2025/10/mythical-agent-month.jpg
 permalink: /2025/2025-10-26/mythical-agent-month/
 date: 2025-10-26
 categories:
-    - business
-tags:
     - AI
-    - agent
+tags:
+    - business
 ---
  > TL;DR: "_Adding an autonomous AI agent to a late software project makes it later_."
 

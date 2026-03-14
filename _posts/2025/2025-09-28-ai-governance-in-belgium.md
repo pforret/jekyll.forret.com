@@ -5,10 +5,10 @@ image: /wp-content/uploads/2025/09/unsplash.belgium.jpg
 permalink: /2025/2025-09-28/ai-governance-in-belgium/
 date: 2025-09-28
 categories:
-    - community
-tags:
     - AI
+tags:
     - Belgium
+    - business
 ---
 In the preparation of my [PromptParlour](2025-09-04-prompt-parlour.md) meetings, I wanted to get an idea of who in Belgian government is responsible for
 understanding and forecasting the (exponential) progress of Artificial Intelligence, and its impact on Belgian business, innovation and society.
