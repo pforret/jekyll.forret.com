@@ -8,8 +8,8 @@ categories:
     - idea
 tags:
     - video
+    - autonomous agents
     - ai
-    - agentic
 ---
 I was driving home after work and I had a vague idea: 
 what if I could represent a video with an image where the X axis was 'time' and the Y-axis was _something that represented the images_ (it was this vague in my mind: "something with the colors")  in that video?
