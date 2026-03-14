@@ -5,11 +5,13 @@ image: /wp-content/uploads/2026/01/unsplash.leaderboard.jpg
 permalink: /2026/2026-01-14/ai-terminal-agents-leaderboard/
 date: 2026-01-14
 categories:
-    - devops
+    - AI
 tags:
     - AI
     - claude
     - laravel
+    - coding agents
+
 ---
 > TL;DR: I've created a daily updated AI terminal coding agent leaderboard (i.e. Claude Code and its competition), ranking popularity based on monthly downloads. It lives on [https://terminalai.forret.com/](https://terminalai.forret.com/).
 

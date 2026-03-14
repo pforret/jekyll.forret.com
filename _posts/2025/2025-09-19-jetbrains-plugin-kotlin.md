@@ -8,7 +8,7 @@ categories:
     - devops
 tags:
     - kotlin
-    - agentic
+    - coding agents
     - junie
     - jetbrains
 ---

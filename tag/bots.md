@@ -1,6 +1,6 @@
 ---
 layout: with_tag
-title: Agentic
-keyword: agentic
+title: Bots
+keyword: bots
 count: 1
 ---

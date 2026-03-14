@@ -1,6 +1,6 @@
 ---
 layout: with_tag
-title: Agentic
-keyword: agentic
+title: Future
+keyword: future
 count: 1
 ---

@@ -10,7 +10,7 @@ tags:
     - audio
     - AI
     - ffmpeg
-    - agentic
+    - coding agents
 ---
 
 > TL;DR: I compared three AI coding agents (Claude Code, Codex CLI, Gemini CLI) for transcoding an existing audio-processing C program to Golang. 
