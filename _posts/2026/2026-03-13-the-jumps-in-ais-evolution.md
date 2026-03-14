@@ -118,9 +118,7 @@ We're still in the early days of this jump. The agents are capable but sometimes
 
 ---
 
-## Jump 4: ??? (202?)
-
-> "AI becomes _______."
+## Jump 4: ???
 
 If the pattern holds, the next jump won't be a faster version of what we have — it'll be a qualitative shift that makes today's autonomous agents look as quaint as ChatGPT looks to us now. Here are some candidates:
 
