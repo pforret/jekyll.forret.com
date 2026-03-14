@@ -8,8 +8,8 @@ categories:
     - AI
 tags:
     - future
-    - autonomous agents
-    - coding agents
+    - autonomous-agents
+    - coding-agents
     - openclaw
 ---
 If you've raised kids, you know: they don't develop in a smooth upward line. For weeks nothing seems to change — and then overnight they're walking, or talking in full sentences, or suddenly grasping abstract concepts. Developmental psychologists call these **growth spurts**: periods where the brain reorganizes itself and a whole new level of capability clicks into place. The in-between stretches aren't wasted: that's when the groundwork is laid, but the visible breakthroughs come in bursts.
