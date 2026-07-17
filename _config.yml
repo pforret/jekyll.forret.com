@@ -9,7 +9,6 @@ github_username:  pforret
 highlighter: rouge
 # permalink: pretty
 permalink: /:year/:month/:day/:title/
-remote_theme: daattali/beautiful-jekyll
 paginate: 10
 paginate_path: "/page:num/"
 
